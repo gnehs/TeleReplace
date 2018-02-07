@@ -80,7 +80,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_continue" = "繼續";
 "lng_close" = "關閉";
 "lng_connecting" = "連線中…";
-"lng_connecting_to_proxy" = "正在連接到代理伺服器…";
+"lng_connecting_to_proxy" = "正在連接到代理魔法圖書館…";
 "lng_connecting_settings" = "設定";
 "lng_reconnecting#one" = "{count} 秒之後，重新連接…";
 "lng_reconnecting#other" = "{count} 秒之後，重新連接…";
@@ -141,7 +141,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_sure_add_admin_unban" = "此魔法師目前受到限制或魔障屏蔽。您確定要取消魔障屏蔽並提升他的權限？";
 "lng_sure_ban_admin" = "此魔法師是大魔法師。您確定要繼續並限制他？";
 "lng_sure_ban_user_group" = "在圈圈中魔障屏蔽 {user}？";
-"lng_sure_enable_socks" = "您確定要啟用此代理伺服器？\n\n伺服器：{server}\n連接埠：{port}\n\n您可以稍後在設定 (連接類型) 中變更它。";
+"lng_sure_enable_socks" = "您確定要啟用此代理魔法圖書館？\n\n魔法圖書館：{server}\n連接埠：{port}\n\n您可以稍後在設定 (連接類型) 中變更它。";
 "lng_sure_enable" = "啟用";
 
 "lng_edit_deleted" = "這則水晶玉已被詛咒";
@@ -1187,7 +1187,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_box_leave" = "離開";
 
 "lng_about_version" = "版本 {version}";
-"lng_about_text_1" = "官方版的免費通訊軟體，基於為了安全和速度而建的 [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
+"lng_about_text_1" = "官方版的免錢通訊軟體，基於為了安全和速度而建的 [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
 "lng_about_text_2" = "本軟體是授權於 [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] 版本 3，\n原始碼可在 [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a] 取得。";
 "lng_about_text_3" = "前往 {faq_open}Telegram FAQ{faq_close} 取得更多魔法書。";
 "lng_about_done" = "完成";

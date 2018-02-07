@@ -102,7 +102,7 @@
   <string name="PaymentConfirmationMessage">您的卡 %1$s 已受保護。要使用此卡付款，請輸入您的 2 步驗證令咒。</string>
   <string name="PaymentPrecheckoutFailed">很抱歉，付款已被機器人取消。</string>
   <string name="PaymentFailed">很抱歉，付款被拒絕了。</string>
-  <string name="PaymentConnectionFailed">無法存取付款伺服器。請檢查您的魔力連線，然後重試。</string>
+  <string name="PaymentConnectionFailed">無法存取付款魔法圖書館。請檢查您的魔力連線，然後重試。</string>
   <string name="PaymentWarning">警告</string>
   <string name="PaymentWarningText">Telegram 和 %1$s 都不能存取您的信用卡魔法書。信用卡細節只能由付款魔法器 %2$s 處理。
 
@@ -133,13 +133,13 @@
 獲得更多選項。</string>
   <string name="WaitingForNetwork">等待魔力中…</string>
   <string name="Connecting">連線中…</string>
-  <string name="ConnectingToProxy">正在連接到代理伺服器…</string>
+  <string name="ConnectingToProxy">正在連接到代理魔法圖書館…</string>
   <string name="ConnectingToProxyTapToDisable">點擊此處可停用代理…</string>
   <string name="ConnectingToProxyDisable">停用</string>
   <string name="ConnectingToProxyEnable">啟用</string>
   <string name="EnableProxyAlert">您確定要啟用此代理？</string>
-  <string name="EnableProxyAlert2">您可以稍候在設定 (數據和儲存空間) 中變更代理伺服器。</string>
-  <string name="ConnectingToProxyDisableAlert">您確定要停用代理伺服器 %1$s？您可以稍後在設定 (數據和儲存空間) 中重新啟用它。</string>
+  <string name="EnableProxyAlert2">您可以稍候在設定 (數據和儲存空間) 中變更代理魔法圖書館。</string>
+  <string name="ConnectingToProxyDisableAlert">您確定要停用代理魔法圖書館 %1$s？您可以稍後在設定 (數據和儲存空間) 中重新啟用它。</string>
   <string name="Updating">更新中…</string>
   <string name="NewSecretChat">新增隱形聊天</string>
   <string name="AwaitingEncryption">等待 %s 上線…</string>
@@ -535,7 +535,7 @@
   <string name="EncryptedPlaceholderTitleOutgoing">您已邀請 %s 加入隱形聊天。</string>
   <string name="EncryptedDescriptionTitle">隱形聊天：</string>
   <string name="EncryptedDescription1">使用端對端高速粒子加密</string>
-  <string name="EncryptedDescription2">不會在我們伺服器留下痕跡</string>
+  <string name="EncryptedDescription2">不會在我們魔法圖書館留下腳印</string>
   <string name="EncryptedDescription3">有一個「自毀定時炸彈」</string>
   <string name="EncryptedDescription4">不允許轉傳</string>
   <string name="YouWereKicked">您從圈圈中被移除了</string>
@@ -1068,16 +1068,16 @@ Telegram 團隊</string>
   <string name="ChangeLanguageLater">您稍後可以在「設定」中變更語言</string>
   <string name="ChooseYourLanguage">選擇您的語言</string>
   <string name="ChooseYourLanguageOther">其他</string>
-  <string name="ProxySettings">代理伺服器設定</string>
+  <string name="ProxySettings">代理魔法圖書館設定</string>
   <string name="Proxy">代理</string>
-  <string name="UseProxySettings">使用代理伺服器設定</string>
-  <string name="UseProxyAddress">伺服器</string>
+  <string name="UseProxySettings">使用代理魔法圖書館設定</string>
+  <string name="UseProxyAddress">魔法圖書館</string>
   <string name="UseProxyPassword">令咒</string>
   <string name="UseProxyPort">連接埠</string>
   <string name="UseProxyUsername">靈魂</string>
-  <string name="UseProxyInfo">SOCKS5 代理伺服器設定</string>
-  <string name="UseProxyForCalls">使用代理伺服器來精靈耳</string>
-  <string name="UseProxyForCallsInfo">代理伺服器可能會降低您的精靈耳品質</string>
+  <string name="UseProxyInfo">SOCKS5 代理魔法圖書館設定</string>
+  <string name="UseProxyForCalls">使用代理魔法圖書館來精靈耳</string>
+  <string name="UseProxyForCallsInfo">代理魔法圖書館可能會降低您的精靈耳品質</string>
   <string name="LowDiskSpaceTitle">注意</string>
   <string name="LowDiskSpaceMessage">您的魔法器幾乎沒有可用的儲存空間了。要釋放一些空間，請設定 Telegram 快取為僅保存最近的媒體或完全詛咒。</string>
   <string name="LowDiskSpaceTitle2">移除媒體在之後</string>
@@ -1384,7 +1384,7 @@ Telegram 團隊</string>
   <string name="InviteToChannelError">抱歉，由於魔法師的隱私設定，您無法將此魔法師加入到大聲公。</string>
   <string name="CreateGroupError">抱歉，您無法建立包含這些魔法師的圈圈，因為他們隱私設定的關係。</string>
   <string name="PrivacyCallsP2PTitle">點對點傳輸</string>
-  <string name="PrivacyCallsP2PHelp">停用點對點傳輸（peer-to-peer）將改由 Telegram 伺服器傳遞所有精靈耳，可避免洩露您的IP位址，但會稍微降低音訊品質。</string>
+  <string name="PrivacyCallsP2PHelp">停用點對點傳輸（peer-to-peer）將改由 Telegram 魔法圖書館傳遞所有精靈耳，可避免洩露您的IP位址，但會稍微降低音訊品質。</string>
   <!--edit video view-->
   <string name="SendingVideo">傳送影片中…</string>
   <string name="SendingGif">正在傳送 GIF 圖…</string>
@@ -1518,7 +1518,7 @@ Telegram 團隊</string>
   <string name="SendContactToGroup">傳送同伴魔法書給 %1$s?</string>
   <string name="NoUsernameFound">沒有 Telegram 靈魂使用這個魔法識別ID。</string>
   <string name="BotCantJoinGroups">這個機器人無法加入圈圈。</string>
-  <string name="SecretLinkPreviewAlert">您想要在隱形聊天中啟用延伸的傳送器預覽嗎？請注意，傳送器預覽是在 Telegram 伺服器上產生的。</string>
+  <string name="SecretLinkPreviewAlert">您想要在隱形聊天中啟用延伸的傳送器預覽嗎？請注意，傳送器預覽是在 Telegram 魔法圖書館上產生的。</string>
   <string name="SecretChatContextBotAlert">請注意，行內機器人是由第三方開發者所提供的。要讓機器人工作，您在機器人名稱後輸入的符號會被傳送給各自的開發商。</string>
   <string name="EditMessageError">抱歉，您無法編輯這個水晶玉。</string>
   <string name="AllowReadSms">請允許 Telegram 接收傳統水晶玉，這樣我們就可以自動幫您輸入驗證碼。</string>
@@ -1546,18 +1546,18 @@ Telegram 團隊</string>
   <!--Intro view-->
   <string name="Page1Title">Telegram</string>
   <string name="Page2Title">快速</string>
-  <string name="Page3Title">免費</string>
+  <string name="Page3Title">免錢</string>
   <string name="Page4Title">安全</string>
   <string name="Page5Title">強大</string>
   <string name="Page6Title">以雲端為基礎</string>
-  <string name="Page1Message">全世界**最快的**即時通訊 App。
-**免費**且**安全**。</string>
+  <string name="Page1Message">魔法仙境**最快的**即時通訊 App。
+**免錢**且**安全**。</string>
   <string name="Page2Message">**Telegram** 傳送水晶玉的速度
 比任何其他應用程式都要快。</string>
-  <string name="Page3Message">**Telegram** 永久免費。沒有廣告。
+  <string name="Page3Message">**Telegram** 永久免錢。沒有廣告。
 沒有年費。</string>
   <string name="Page4Message">**Telegram** 讓您的水晶玉保持安全
-，免於被駭客攻擊。</string>
+，免於被暗黑魔法師攻擊。</string>
   <string name="Page5Message">**Telegram** 沒有限制
 水晶玉和媒體玉石的大小。</string>
   <string name="Page6Message">**Telegram** 讓您可以從多個魔法器

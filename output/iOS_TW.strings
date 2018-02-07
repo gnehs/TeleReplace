@@ -107,7 +107,7 @@
 // State
 "State.Connecting" = "連線中…";
 "State.connecting" = "正在連線";
-"State.ConnectingToProxy" = "正在連接到代理伺服器…";
+"State.ConnectingToProxy" = "正在連接到代理魔法圖書館…";
 "State.ConnectingToProxyInfo" = "點擊此處進行設定";
 "State.Updating" = "更新中…";
 "State.WaitingForNetwork" = "正在等待魔力";
@@ -180,7 +180,7 @@
 
 // Tour
 "Tour.Title1" = "Telegram";
-"Tour.Text1" = "全世界**最快的**即時通訊 App。\n**免費**且**安全**。";
+"Tour.Text1" = "魔法仙境**最快的**即時通訊 App。\n**免錢**且**安全**。";
 
 "Tour.Title2" = "快速";
 "Tour.Text2" = "**Telegram** 傳送水晶玉的速度\n比任何其他應用程式都要快。";
@@ -189,13 +189,13 @@
 "Tour.Text3" = "**Telegram** 沒有限制您的\n聊天水晶玉和媒體玉石的大小。";
 
 "Tour.Title4" = "安全";
-"Tour.Text4" = "**Telegram** 讓您的水晶玉保持安全\n，免於被駭客攻擊。";
+"Tour.Text4" = "**Telegram** 讓您的水晶玉保持安全\n，免於被暗黑魔法師攻擊。";
 
 "Tour.Title5" = "基於雲端的";
 "Tour.Text5" = "**Telegram** 讓您可以從多個魔法器\n存取您的水晶玉。";
 
-"Tour.Title6" = "免費";
-"Tour.Text6" = "**Telegram** 永久免費。沒有廣告。\n沒有年費。";
+"Tour.Title6" = "免錢";
+"Tour.Text6" = "**Telegram** 永久免錢。沒有廣告。\n沒有年費。";
 
 "Tour.StartButton" = "開始傳水晶玉";
 
@@ -313,7 +313,7 @@
 "Conversation.EncryptedPlaceholderTitleOutgoing" = "您已邀請 %@ 加入隱形聊天。";
 "Conversation.EncryptedDescriptionTitle" = "隱形聊天：";
 "Conversation.EncryptedDescription1" = "使用端對端高速粒子加密";
-"Conversation.EncryptedDescription2" = "不會在我們伺服器留下痕跡";
+"Conversation.EncryptedDescription2" = "不會在我們魔法圖書館留下腳印";
 "Conversation.EncryptedDescription3" = "有一個「自毀定時炸彈」";
 "Conversation.EncryptedDescription4" = "不允許轉傳";
 "Conversation.ContextMenuCopy" = "複製";
@@ -1685,7 +1685,7 @@
 "KeyCommand.SendMessage" = "傳送水晶玉";
 "KeyCommand.ChatInfo" = "聊天室魔法書";
 
-"Conversation.SecretLinkPreviewAlert" = "您想要在隱形聊天中啟用延伸的傳送器預覽嗎？請注意，傳送器預覽是在 Telegram 伺服器上產生的。";
+"Conversation.SecretLinkPreviewAlert" = "您想要在隱形聊天中啟用延伸的傳送器預覽嗎？請注意，傳送器預覽是在 Telegram 魔法圖書館上產生的。";
 "Conversation.SecretChatContextBotAlert" = "請注意，行內機器人是由第三方開發者所提供的。要讓機器人工作，您在機器人名稱後輸入的符號會被傳送給各自的開發商。";
 
 "Map.OpenInWaze" = "在 Waze 中開啟";
@@ -2463,7 +2463,7 @@
 "Conversation.RestrictedStickers" = "這個圈圈的大魔法師限制您在這張貼貼圖。";
 
 "ChatSettings.ConnectionType.Title" = "連接類型";
-"ChatSettings.ConnectionType.UseProxy" = "使用代理伺服器";
+"ChatSettings.ConnectionType.UseProxy" = "使用代理魔法圖書館";
 "ChatSettings.ConnectionType.UseSocks5" = "SOCKS5";
 
 "SocksProxySetup.Title" = "代理";
@@ -2472,7 +2472,7 @@
 "SocksProxySetup.TypeSocks" = "SOCKS5";
 
 "SocksProxySetup.Connection" = "連接";
-"SocksProxySetup.Hostname" = "伺服器";
+"SocksProxySetup.Hostname" = "魔法圖書館";
 "SocksProxySetup.Port" = "連接埠";
 
 "SocksProxySetup.Credentials" = "認證（選填）";
@@ -2498,7 +2498,7 @@
 "Group.Members.AddMemberBotErrorNotAllowed" = "很抱歉，您沒有權限將機器人添加到此圈圈。";
 
 "Privacy.Calls.P2P" = "點對點傳輸";
-"Privacy.Calls.P2PHelp" = "停用點對點傳輸（peer-to-peer）將改由 Telegram 伺服器傳遞所有精靈耳，可避免洩露您的IP位址，但會稍微降低音訊品質。";
+"Privacy.Calls.P2PHelp" = "停用點對點傳輸（peer-to-peer）將改由 Telegram 魔法圖書館傳遞所有精靈耳，可避免洩露您的IP位址，但會稍微降低音訊品質。";
 
 "Privacy.Calls.Integration" = "iOS 精靈耳整合";
 "Privacy.Calls.IntegrationHelp" = "iOS 精靈耳整合顯示 Telegram 精靈耳於鎖定螢幕上和精靈耳紀錄中。如果啟用了 iCloud 同步，您的精靈耳紀錄將與 Apple 共享。";
@@ -2512,8 +2512,8 @@
 "Channel.EditAdmin.CannotEdit" = "您無法編輯此大魔法師的權限。";
 "Call.RateCall" = "評價這個精靈耳";
 
-"Settings.ApplyProxyAlert" = "您確定要啟用這個代理？\n伺服器：%1$@\n連接埠：%2$@\n\n您可以稍後在設定（數據和儲存）中變更您的代理伺服器。";
-"Settings.ApplyProxyAlertCredentials" = "您確定要啟用這個代理？\n伺服器：%1$@\n連接埠：%2$@\n靈魂：%3$@\n令咒：%4$@\n\n您可以稍後在設定（數據和儲存）中變更您的代理伺服器。";
+"Settings.ApplyProxyAlert" = "您確定要啟用這個代理？\n魔法圖書館：%1$@\n連接埠：%2$@\n\n您可以稍後在設定（數據和儲存）中變更您的代理魔法圖書館。";
+"Settings.ApplyProxyAlertCredentials" = "您確定要啟用這個代理？\n魔法圖書館：%1$@\n連接埠：%2$@\n靈魂：%3$@\n令咒：%4$@\n\n您可以稍後在設定（數據和儲存）中變更您的代理魔法圖書館。";
 "Settings.ApplyProxyAlertEnable" = "啟用";
 
 "Channel.Management.RestrictedBy" = "被 %@ 限制";
@@ -2530,7 +2530,7 @@
 "Conversation.ContextMenuBan" = "魔障屏蔽";
 
 "SocksProxySetup.UseForCalls" = "使用於精靈耳";
-"SocksProxySetup.UseForCallsHelp" = "代理伺服器可能會降低您的精靈耳品質";
+"SocksProxySetup.UseForCallsHelp" = "代理魔法圖書館可能會降低您的精靈耳品質";
 
 "InviteText.URL" = "https://telegram.org/dl";
 "InviteText.SingleContact" = "嗨，我在使用 Telegram 聊天。加入我們吧！ 在這裡下載：%@";
@@ -2778,7 +2778,7 @@
 
 
 
-"InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳您的同伴到其高度高速粒子加密的雲端伺服器，讓您可以透過您的所有魔法器與朋友聯繫。";
+"InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳您的同伴到其高度高速粒子加密的雲端魔法圖書館，讓您可以透過您的所有魔法器與朋友聯繫。";
 "InfoPlist.NSLocationWhenInUseUsageDescription" = "當您傳送您的位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
 "InfoPlist.NSCameraUsageDescription" = "我們需要這個，以便您可以拍攝並分享照片及影片。";
 "InfoPlist.NSPhotoLibraryUsageDescription" = "我們需要這樣做，以便您可以從相簿分享照片和影片。";
