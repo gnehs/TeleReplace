@@ -288,7 +288,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_settings_section_general" = "一般";
 "lng_settings_change_lang" = "變更語言";
 "lng_languages" = "語言";
-"lng_sure_save_language" = "為了改變介面語言\nTelegram 將重新啟動";
+"lng_sure_save_language" = "為了進入魔法世界\nTelegram 將重新啟動";
 "lng_settings_update_automatically" = "自動更新";
 "lng_settings_current_version_label" = "版本 {version}:";
 "lng_settings_current_version" = "版本 {version}";
