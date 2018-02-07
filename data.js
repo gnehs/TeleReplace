@@ -37,7 +37,7 @@ data = [
     //Android
     ["<string name=\"TelegramFAQ\">常見問題</string>", "<string name=\"TelegramFaq\">獲取最新魔法師翻譯檔</string>"],
     ["<string name=\"TelegramFaq\">常見問題</string>", "<string name=\"TelegramFaq\">獲取最新魔法師翻譯檔</string>"],
-    ["<string name=\"TelegramFaqUrl\">https://telegram.org/faq</string>", "<string name=\"TelegramFaqUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7pOh2SKyTDbXg</string>"],
+    ["<string name=\"TelegramFaqUrl\">https://telegram.org/faq</string>", "<string name=\"TelegramFaqUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>"],
     //Desktop
     ["為了改變介面語言\nTelegram 將重新啟動", "為了進入魔法世界\nTelegram 將重新啟動\n咒語詠唱結束後，將自動切換為魔法師中文"],
 ]
