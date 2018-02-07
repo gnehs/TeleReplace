@@ -21,7 +21,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_language_name" = "魔法師中文";
 "lng_switch_to_this" = "繼續使用魔法師中文";
 
-"lng_menu_contacts" = " 同伴";
+"lng_menu_contacts" = "同伴";
 "lng_menu_calls" = "精靈耳";
 "lng_menu_settings" = "設定";
 "lng_menu_about" = "關於";
@@ -32,7 +32,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_disable_notifications_from_tray" = "關閉水晶玉通知";
 "lng_enable_notifications_from_tray" = "恢復水晶玉通知";
 "lng_open_from_tray" = "開啟 Telegram";
-"lng_minimize_to_tray" = "最小化至系統匣";
+"lng_minimize_to_tray" = "最小化至魔法器匣";
 "lng_quit_from_tray" = "結束 Telegram";
 "lng_tray_icon_text" = "Telegram 還在這裡運行，\n您可以從設定頁面進行變更。\n\n如果此圖示從通知區域選單中消失，\n您可以將它從隱藏的圖示中拖回到這裡。";
 
@@ -167,7 +167,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_photo_caption" = "說明文字";
 "lng_photos_comment" = "註解";
 
-"lng_phone_title" = "您的 魔法器號碼";
+"lng_phone_title" = "您的魔法器號碼";
 "lng_phone_desc" = "請確認您的陣營號碼並且\n輸入您的魔法器號碼。";
 "lng_phone_notreg" = "如果您目前沒有 Telegram 靈魂，\n請用 {link_start}Android / iPhone{link_end} 或 {signup_start}在這裡{signup_end}[b]註冊[/b]";
 "lng_country_code" = "陣營號碼";
@@ -177,9 +177,9 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_country_select" = "選擇陣營";
 
 "lng_code_ph" = "驗證碼";
-"lng_code_desc" = "我們已經傳送一則包含驗證碼的 傳統水晶玉\n到您的魔法器。請在下面輸入。";
+"lng_code_desc" = "我們已經傳送一則包含驗證碼的傳統水晶玉\n到您的魔法器。請在下面輸入。";
 "lng_code_telegram" = "請輸入您原本已安裝的 [b]Telegram[/b] 應用程式中剛收到的驗證碼。";
-"lng_code_no_telegram" = "透過 傳統水晶玉傳送驗證碼";
+"lng_code_no_telegram" = "透過傳統水晶玉傳送驗證碼";
 "lng_code_call" = "Telegram 會在 {minutes}:{seconds} 打精靈耳給您";
 "lng_code_calling" = "正在要求 Telegram 來電…";
 "lng_code_called" = "Telegram 撥打了您的魔法器號碼";
@@ -218,7 +218,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_signin_reset_in_days" = "{days_count} {hours_count} {minutes_count}";
 "lng_signin_reset_in_hours" = "{hours_count} {minutes_count}";
 "lng_signin_reset_cancelled" = "您最近嘗試重置此靈魂的動作已被活躍魔法師取消。請在 7 天內再試一次。";
-"lng_signin_banned_text" = "這個 魔法器號碼被魔障屏蔽了。";
+"lng_signin_banned_text" = "這個魔法器號碼被魔障屏蔽了。";
 "lng_signin_banned_help" = "幫助";
 
 "lng_signup_title" = "您的魔法書";
@@ -230,10 +230,10 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_dlg_filter" = "搜尋";
 "lng_dlg_new_group_name" = "圈圈名稱";
 "lng_dlg_new_channel_name" = "大聲公名稱";
-"lng_no_contacts" = "您沒有 同伴";
+"lng_no_contacts" = "您沒有同伴";
 "lng_no_chats" = "您的聊天將在這裡";
 "lng_contacts_loading" = "載入中…";
-"lng_contacts_not_found" = "找不到 同伴";
+"lng_contacts_not_found" = "找不到同伴";
 "lng_dlg_search_for_messages" = "搜尋水晶玉";
 "lng_update_telegram" = "更新 Telegram";
 "lng_dlg_search_in" = "搜尋水晶玉在";
@@ -299,7 +299,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_settings_update_ready" = "新版本已準備就緒";
 "lng_settings_update_now" = "立即重新啟動";
 "lng_settings_update_fail" = "更新檢查失敗 :(";
-"lng_settings_workmode_tray" = "顯示系統匣圖示";
+"lng_settings_workmode_tray" = "顯示魔法器匣圖示";
 "lng_settings_workmode_window" = "顯示工作列圖示";
 "lng_settings_auto_start" = "開機時啟動 Telegram";
 "lng_settings_start_min" = "啟動時最小化";
@@ -335,7 +335,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_download_path_default" = "預設資料夾";
 "lng_download_path_clear" = "清除全部";
 "lng_download_path_header" = "選擇下載路徑";
-"lng_download_path_default_radio" = "Telegram 資料夾在系統目錄的 «下載» 中";
+"lng_download_path_default_radio" = "Telegram 資料夾在魔法器目錄的 «下載» 中";
 "lng_download_path_temp_radio" = "暫存資料夾，在登出或解除安裝時清除";
 "lng_download_path_dir_radio" = "自訂資料夾，只能手動清除";
 "lng_download_path_choose" = "選擇下載路徑";
@@ -438,7 +438,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_settings_groups_invite_privacy" = "圈圈邀請設定";
 "lng_settings_show_sessions" = "顯示登入的魔法器";
 "lng_settings_self_destruct" = "靈魂自毀設定";
-"lng_settings_change_phone" = "更改 魔法器號碼";
+"lng_settings_change_phone" = "更改魔法器號碼";
 
 "lng_settings_reset" = "登出其他的魔法器";
 "lng_settings_reset_sure" = "您確定要登出所有\n其他的魔法器嗎？";
@@ -458,11 +458,11 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 
 "lng_sessions_header" = "目前使用的魔法器";
 "lng_sessions_other_header" = "登入的魔法器";
-"lng_sessions_other_desc" = "您可以使用相同的 魔法器號碼，從其它魔法器、平板電腦和桌面電腦登入 Telegram 。您的所有數據將立即同步。";
+"lng_sessions_other_desc" = "您可以使用相同的魔法器號碼，從其它魔法器、平板電腦和桌面電腦登入 Telegram 。您的所有數據將立即同步。";
 "lng_sessions_terminate_all" = "登出其他的魔法器";
 
 "lng_blocked_list_title" = "魔障屏蔽名單";
-"lng_blocked_list_unknown_phone" = "未知的 魔法器號碼";
+"lng_blocked_list_unknown_phone" = "未知的魔法器號碼";
 "lng_blocked_list_unblock" = "解除魔障屏蔽";
 "lng_blocked_list_add" = "魔障屏蔽魔法師";
 "lng_blocked_list_add_title" = "選擇要魔障屏蔽的魔法師";
@@ -471,7 +471,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_blocked_list_not_found" = "沒有找到魔法師。";
 
 "lng_edit_privacy_everyone" = "每個人";
-"lng_edit_privacy_contacts" = "我的 同伴";
+"lng_edit_privacy_contacts" = "我的同伴";
 "lng_edit_privacy_nobody" = "沒有人";
 "lng_edit_privacy_exceptions" = "添加例外";
 
@@ -513,23 +513,23 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_edit_privacy_calls_never_title" = "永不允許";
 
 "lng_self_destruct_title" = "靈魂自動銷毀";
-"lng_self_destruct_description" = "您在這段期間內至少要上線一次，否則您的靈魂將被詛咒，您也將失去所有的圈圈、水晶玉及 同伴。";
+"lng_self_destruct_description" = "您在這段期間內至少要上線一次，否則您的靈魂將被詛咒，您也將失去所有的圈圈、水晶玉及同伴。";
 "lng_self_destruct_months#one" = "{count} 個月";
 "lng_self_destruct_months#other" = "{count} 個月";
 "lng_self_destruct_years#one" = "{count} 年";
 "lng_self_destruct_years#other" = "{count} 年";
 
-"lng_change_phone_title" = "更改 魔法器號碼";
-"lng_change_phone_description" = "您可以在這裡更改 Telegram 所綁定的魔法器\n號碼。您的靈魂和所有您的雲端資料 — 水晶玉\n、媒體、 同伴……等，將被移動到新的號碼。\n\n[b]重要提示[/b]：您所有的 Telegram  同伴將\n取得您的[b]新號碼[/b]，並加入到他們的魔法器通\n訊錄中，只要他們有您的舊號碼，並且您沒有在 \nTelegram 中魔障屏蔽他們。";
-"lng_change_phone_warning" = "您的所有 Telegram  同伴將取得您的新號碼，並加入到他們的魔法器通訊錄中，只要他們有您的舊號碼，並且您沒有在 Telegram 中魔障屏蔽他們。";
+"lng_change_phone_title" = "更改魔法器號碼";
+"lng_change_phone_description" = "您可以在這裡更改 Telegram 所綁定的魔法器\n號碼。您的靈魂和所有您的雲端資料 — 水晶玉\n、媒體、同伴……等，將被移動到新的號碼。\n\n[b]重要提示[/b]：您所有的 Telegram 同伴將\n取得您的[b]新號碼[/b]，並加入到他們的魔法器通\n訊錄中，只要他們有您的舊號碼，並且您沒有在 \nTelegram 中魔障屏蔽他們。";
+"lng_change_phone_warning" = "您的所有 Telegram 同伴將取得您的新號碼，並加入到他們的魔法器通訊錄中，只要他們有您的舊號碼，並且您沒有在 Telegram 中魔障屏蔽他們。";
 "lng_change_phone_occupied" = "號碼 {phone} 已經連接到一個 Telegram 靈魂。遷移到新號碼之前，請詛咒該靈魂。";
 "lng_change_phone_button" = "更改號碼";
 "lng_change_phone_new_title" = "輸入新號碼";
-"lng_change_phone_new_description" = "我們將傳送一則包含驗證碼的 傳統水晶玉到您的新號碼。";
+"lng_change_phone_new_description" = "我們將傳送一則包含驗證碼的傳統水晶玉到您的新號碼。";
 "lng_change_phone_new_submit" = "提交";
 "lng_change_phone_code_title" = "輸入令咒";
-"lng_change_phone_code_description" = "我們已經傳送一則包含驗證碼的 傳統水晶玉到您的魔法器 {phone}。";
-"lng_change_phone_success" = "您的 魔法器號碼已變更。";
+"lng_change_phone_code_description" = "我們已經傳送一則包含驗證碼的傳統水晶玉到您的魔法器 {phone}。";
+"lng_change_phone_success" = "您的魔法器號碼已變更。";
 
 "lng_mute_duration_hours#one" = "{count} 小時";
 "lng_mute_duration_hours#other" = "{count} 小時";
@@ -541,7 +541,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_profile_actions_section" = "動作";
 "lng_profile_bot_settings" = "Bot 設定";
 "lng_profile_bot_help" = "Bot 説明";
-"lng_profile_invite_link_section" = " 傳送器";
+"lng_profile_invite_link_section" = "傳送器";
 "lng_profile_create_public_link" = "建立公開的傳送器";
 "lng_profile_edit_public_link" = "編輯公開的傳送器";
 "lng_profile_search_members" = "搜尋魔法師";
@@ -556,7 +556,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_profile_username" = "魔法識別ID：";
 "lng_profile_link" = "傳送器：";
 "lng_profile_bio" = "個性簽名：";
-"lng_profile_add_contact" = "添加 同伴";
+"lng_profile_add_contact" = "添加同伴";
 "lng_profile_edit_contact" = "編輯";
 "lng_profile_clear_and_exit" = "詛咒並離開";
 "lng_profile_leave_channel" = "離開大聲公";
@@ -620,7 +620,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_info_channel_title" = "大聲公魔法書";
 "lng_profile_enable_notifications" = "通知";
 "lng_profile_send_message" = "傳送水晶玉";
-"lng_info_add_as_contact" = "添加為 同伴";
+"lng_info_add_as_contact" = "添加為同伴";
 "lng_profile_shared_media" = "共享的媒體";
 "lng_media_type_photos" = "照片";
 "lng_media_type_videos" = "影片";
@@ -631,9 +631,9 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_media_type_rounds" = "視訊水晶玉";
 "lng_profile_common_groups_section" = "共同的圈圈";
 "lng_profile_share_contact" = "分享聯絡魔法書";
-"lng_info_edit_contact" = "編輯 同伴";
-"lng_info_delete_contact" = "詛咒 同伴";
-"lng_info_share_contact" = "分享 同伴";
+"lng_info_edit_contact" = "編輯同伴";
+"lng_info_delete_contact" = "詛咒同伴";
+"lng_info_share_contact" = "分享同伴";
 "lng_profile_clear_history" = "清除聊天紀錄";
 "lng_profile_delete_conversation" = "詛咒對話";
 "lng_profile_block_user" = "魔障屏蔽魔法師";
@@ -698,8 +698,8 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_channel_admin_status_not_admin" = "不是大魔法師";
 "lng_channel_banned_status_restricted_by" = "被 {user} 限制";
 
-"lng_group_blocked_list_about" = "被魔障屏蔽的魔法師將從圈圈中移除，只能透過大魔法師的邀請回來。\n 傳送器對他們沒有作用。";
-"lng_channel_blocked_list_about" = "已魔障屏蔽的魔法師會從大聲公中移除。\n 傳送器對他們不起作用。";
+"lng_group_blocked_list_about" = "被魔障屏蔽的魔法師將從圈圈中移除，只能透過大魔法師的邀請回來。\n傳送器對他們沒有作用。";
+"lng_channel_blocked_list_about" = "已魔障屏蔽的魔法師會從大聲公中移除。\n傳送器對他們不起作用。";
 
 "lng_chat_all_members_admins" = "所有魔法師都是大魔法師";
 "lng_chat_about_all_admins" = "所有魔法師可以添加新魔法師，編輯圈圈名稱和照片。";
@@ -707,8 +707,8 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 
 "lng_participant_filter" = "搜尋";
 "lng_participant_invite" = "邀請";
-"lng_participant_invite_sorry#one" = "很抱歉，您個人僅能將前 {count} 位魔法師加入到大聲公。\n\n從現在開始，人們將需要透過您的 傳送器來加入。";
-"lng_participant_invite_sorry#other" = "很抱歉，您個人僅能將前 {count} 位魔法師加入到大聲公。\n\n從現在開始，人們將需要透過您的 傳送器來加入。";
+"lng_participant_invite_sorry#one" = "很抱歉，您個人僅能將前 {count} 位魔法師加入到大聲公。\n\n從現在開始，人們將需要透過您的傳送器來加入。";
+"lng_participant_invite_sorry#other" = "很抱歉，您個人僅能將前 {count} 位魔法師加入到大聲公。\n\n從現在開始，人們將需要透過您的傳送器來加入。";
 "lng_create_group_back" = "返回";
 "lng_create_group_next" = "下一步";
 "lng_create_group_create" = "建立";
@@ -717,11 +717,11 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_create_public_channel_title" = "公開的大聲公";
 "lng_create_public_channel_about" = "任何人都可以透過搜尋找到這個大聲公，並且加入";
 "lng_create_private_channel_title" = "私人的大聲公";
-"lng_create_private_channel_about" = "僅擁有特別 傳送器的人可以加入";
+"lng_create_private_channel_about" = "僅擁有特別傳送器的人可以加入";
 "lng_create_public_group_title" = "公開的圈圈";
 "lng_create_public_group_about" = "任何人可以透過搜尋找到這個圈圈並且加入，而聊天紀錄每個人都看得見";
 "lng_create_private_group_title" = "私人的圈圈";
-"lng_create_private_group_about" = "當被邀請或有一 傳送器時，人們才可以加入";
+"lng_create_private_group_about" = "當被邀請或有一傳送器時，人們才可以加入";
 "lng_create_group_skip" = "略過";
 
 "lng_create_channel_link_invalid" = "此傳送器是無效的";
@@ -735,10 +735,10 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_create_channel_crop" = "為您的大聲公照片選擇一個範圍";
 
 "lng_failed_add_participant" = "無法添加魔法師。請稍後再試。";
-"lng_failed_add_not_mutual" = "抱歉，如果一個人離開了圈圈，只有互為 同伴的人可以把他們帶回(他們要有您的魔法器號碼，而您有他們的)。";
-"lng_failed_add_not_mutual_channel" = "抱歉，如果一個人離開了大聲公，只有互為 同伴的人可以把他們帶回(他們要有您的魔法器號碼，而您有他們的)。";
+"lng_failed_add_not_mutual" = "抱歉，如果一個人離開了圈圈，只有互為同伴的人可以把他們帶回(他們要有您的魔法器號碼，而您有他們的)。";
+"lng_failed_add_not_mutual_channel" = "抱歉，如果一個人離開了大聲公，只有互為同伴的人可以把他們帶回(他們要有您的魔法器號碼，而您有他們的)。";
 
-"lng_sure_delete_contact" = "您確定要從 同伴名單中詛咒 {contact} ？";
+"lng_sure_delete_contact" = "您確定要從同伴名單中詛咒 {contact} ？";
 "lng_sure_delete_history" = "您確定要詛咒與 {contact} 的所有聊天記錄？\n\n這個動作無法復原。";
 "lng_sure_delete_group_history" = "您確定要詛咒 «{group}» 圈圈中的所有聊天紀錄？\n\n這個動作無法復原。";
 "lng_sure_delete_and_exit" = "您確定要詛咒所有聊天紀錄並且離開 «{group}» 圈圈？\n\n這個動作無法復原。";
@@ -769,7 +769,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_action_kick_user" = "{from} 移除了 {user}";
 "lng_action_user_left" = "{from} 離開了圈圈";
 "lng_action_user_joined" = "{from} 加入了圈圈";
-"lng_action_user_joined_by_link" = "{from} 透過 傳送器加入了圈圈";
+"lng_action_user_joined_by_link" = "{from} 透過傳送器加入了圈圈";
 "lng_action_user_registered" = "{from} 剛才加入了 Telegram";
 "lng_action_removed_photo" = "{from} 移除了圈圈照片";
 "lng_action_removed_photo_channel" = "已移除大聲公照片";
@@ -789,7 +789,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_action_pinned_media_video_message" = "一則視訊水晶玉";
 "lng_action_pinned_media_file" = "一個玉石";
 "lng_action_pinned_media_gif" = "一張GIF魔法";
-"lng_action_pinned_media_contact" = "一則 同伴魔法書";
+"lng_action_pinned_media_contact" = "一則同伴魔法書";
 "lng_action_pinned_media_location" = "一個位置標記";
 "lng_action_pinned_media_sticker" = "一張貼圖";
 "lng_action_pinned_media_emoji_sticker" = "一 {emoji} 貼圖";
@@ -837,18 +837,18 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_channels_too_much_public_revoke_confirm_channel" = "您確定要撤換傳送器 {link}？\n\n大聲公 «{group}» 將變成私人的。";
 "lng_channels_too_much_public_revoke" = "撤換";
 
-"lng_group_invite_bad_link" = "這個 傳送器已經壞掉或過期了。";
+"lng_group_invite_bad_link" = "這個傳送器已經壞掉或過期了。";
 "lng_group_invite_join" = "加入";
 
 "lng_group_invite_members#one" = "{count} 個魔法師，其中：";
 "lng_group_invite_members#other" = "{count} 個魔法師，其中包括：";
 
-"lng_group_invite_create" = "建立一個 傳送器";
+"lng_group_invite_create" = "建立一個傳送器";
 "lng_group_invite_about" = "Telegram 魔法師將能夠加入\n您的圈圈通過以下傳送器。";
 "lng_group_invite_about_channel" = "Telegram 魔法師透過以下傳送器\n將能夠加入您的大聲公。";
-"lng_group_invite_create_new" = "撤換 傳送器";
-"lng_group_invite_about_new" = "您之前的傳送器將被停用，而我們會產生一個新的 傳送器給您。";
-"lng_group_invite_copied" = " 傳送器已複製到剪貼簿。";
+"lng_group_invite_create_new" = "撤換傳送器";
+"lng_group_invite_about_new" = "您之前的傳送器將被停用，而我們會產生一個新的傳送器給您。";
+"lng_group_invite_copied" = "傳送器已複製到剪貼簿。";
 "lng_group_invite_no_room" = "無法加入這個圈圈，因為\n目前已經有太多魔法師了。";
 
 "lng_channel_public_link_copied" = "傳送器已複製到剪貼簿。";
@@ -868,7 +868,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_cancel_edit_post_no" = "否";
 
 "lng_bot_share_location_unavailable" = "抱歉，位置魔法書分享目前在 Telegram Desktop 還無法使用。";
-"lng_bot_share_phone" = "您想和這個機器人分享您的 魔法器號碼嗎？";
+"lng_bot_share_phone" = "您想和這個機器人分享您的魔法器號碼嗎？";
 "lng_bot_share_phone_confirm" = "分享";
 
 "lng_attach_failed" = "失敗了";
@@ -942,7 +942,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_in_dlg_album" = "相簿";
 "lng_in_dlg_video" = "影片";
 "lng_in_dlg_audio_file" = "音訊檔";
-"lng_in_dlg_contact" = " 同伴";
+"lng_in_dlg_contact" = "同伴";
 "lng_in_dlg_audio" = "語音水晶玉";
 "lng_in_dlg_video_message" = "視訊水晶玉";
 "lng_in_dlg_file" = "玉石";
@@ -1139,8 +1139,8 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_share_done" = "完成！";
 
 "lng_contact_phone" = "魔法器號碼";
-"lng_enter_contact_data" = "新增 同伴";
-"lng_edit_contact_title" = "編輯 同伴名稱";
+"lng_enter_contact_data" = "新增同伴";
+"lng_edit_contact_title" = "編輯同伴名稱";
 "lng_edit_channel_title" = "編輯大聲公";
 "lng_edit_sign_messages" = "水晶玉附上簽名";
 "lng_edit_group_who_invites" = "誰可以添加魔法師";
@@ -1148,14 +1148,14 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_edit_group_invites_only_admins" = "僅大魔法師";
 "lng_edit_group" = "編輯圈圈";
 "lng_edit_self_title" = "編輯您的姓名";
-"lng_confirm_contact_data" = "新增 同伴";
+"lng_confirm_contact_data" = "新增同伴";
 "lng_add_contact" = "建立";
-"lng_add_contact_button" = "新增 同伴";
-"lng_contacts_header" = " 同伴";
-"lng_contact_not_joined" = "很遺憾 {name} 目前還沒有加入 Telegram，但您可以傳送一則邀請水晶玉給他。\n\n我們會通知您，當您的 同伴加入 Telegram 。";
+"lng_add_contact_button" = "新增同伴";
+"lng_contacts_header" = "同伴";
+"lng_contact_not_joined" = "很遺憾 {name} 目前還沒有加入 Telegram，但您可以傳送一則邀請水晶玉給他。\n\n我們會通知您，當您的同伴加入 Telegram 。";
 "lng_try_other_contact" = "嘗試其他人";
 "lng_create_group_link" = "傳送器";
-"lng_create_group_invite_link" = " 傳送器";
+"lng_create_group_invite_link" = "傳送器";
 "lng_create_group_description" = "魔法書 (選填)";
 
 "lng_drag_images_here" = "拖放圖片到這裡";
@@ -1234,7 +1234,7 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 
 "lng_confirm_phone_link_invalid" = "這個傳送器已經壞掉或過期了。";
 "lng_confirm_phone_title" = "取消靈魂重置";
-"lng_confirm_phone_about" = "有存取您魔法器號碼 {phone} 的人請求詛咒您的 Telegram 靈魂及重置您的 2 步驗證令咒。\n\n如果這不是您，請輸入我們剛剛透過 傳統水晶玉傳送到您魔法器號碼的驗證碼。";
+"lng_confirm_phone_about" = "有存取您魔法器號碼 {phone} 的人請求詛咒您的 Telegram 靈魂及重置您的 2 步驗證令咒。\n\n如果這不是您，請輸入我們剛剛透過傳統水晶玉傳送到您魔法器號碼的驗證碼。";
 "lng_confirm_phone_success" = "成功 ！\n\n 您靈魂 {phone} 的詛咒過程已經取消。現在，您可以關閉這個視窗。";
 "lng_confirm_phone_send" = "傳送";
 "lng_confirm_phone_enter_code" = "請輸入驗證碼。";
@@ -1470,8 +1470,8 @@ Copyright (c) 2014-2017 John Preston, https://desktop.telegram.org
 "lng_mac_menu_delete" = "詛咒";
 "lng_mac_menu_select_all" = "全選";
 "lng_mac_menu_window" = "視窗";
-"lng_mac_menu_contacts" = " 同伴";
-"lng_mac_menu_add_contact" = "添加 同伴";
+"lng_mac_menu_contacts" = "同伴";
+"lng_mac_menu_add_contact" = "添加同伴";
 "lng_mac_menu_new_group" = "新增圈圈";
 "lng_mac_menu_new_channel" = "新增大聲公";
 "lng_mac_menu_show" = "顯示 Telegram";

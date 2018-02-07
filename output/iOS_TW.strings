@@ -6,7 +6,7 @@
 "MESSAGE_VIDEO" = "%1$@ 傳給您一個影片";
 "MESSAGE_VIDEO_SECRET" = "%1$@ 傳送給您一張自毀的影片";
 "MESSAGE_ROUND" = "%1$@ 傳給您一則視訊水晶玉";
-"MESSAGE_CONTACT" = "%1$@ 與您分享了一個 同伴";
+"MESSAGE_CONTACT" = "%1$@ 與您分享了一個同伴";
 "MESSAGE_GEO" = "%1$@ 傳給您一張地圖";
 "MESSAGE_GEOLIVE" = "%1$@ 開始分享即時位置";
 "MESSAGE_DOC" = "%1$@ 傳給您一個玉石";
@@ -23,7 +23,7 @@
 "CHAT_MESSAGE_PHOTO" = "%1$@ 傳送了一張照片到 %2$@ 圈圈";
 "CHAT_MESSAGE_VIDEO" = "%1$@ 傳送了一個影片到 %2$@ 圈圈";
 "CHAT_MESSAGE_ROUND" = "%1$@ 傳送了一則視訊水晶玉到 %2$@ 圈圈";
-"CHAT_MESSAGE_CONTACT" = "%1$@ 於 %2$@ 圈圈中分享了一個 同伴";
+"CHAT_MESSAGE_CONTACT" = "%1$@ 於 %2$@ 圈圈中分享了一個同伴";
 "CHAT_MESSAGE_GEO" = "%1$@ 傳送了一張地圖到 %2$@ 圈圈";
 "CHAT_MESSAGE_GEOLIVE" = "%1$@ 開始與 %2$@ 分享即時位置";
 "CHAT_MESSAGE_DOC" = "%1$@ 傳送了一個玉石到 %2$@ 圈圈";
@@ -57,7 +57,7 @@
 "CHANNEL_MESSAGE_DOC" = "%1$@ 張貼了一份文件";
 "CHANNEL_MESSAGE_STICKER" = "%1$@ 張貼了一張 %2$@的貼圖";
 "CHANNEL_MESSAGE_AUDIO" = "%1$@ 張貼了一則語音水晶玉";
-"CHANNEL_MESSAGE_CONTACT" = "%1$@ 張貼了一個 同伴";
+"CHANNEL_MESSAGE_CONTACT" = "%1$@ 張貼了一個同伴";
 "CHANNEL_MESSAGE_GEO" = "%1$@ 張貼一張地圖";
 "CHANNEL_MESSAGE_GEOLIVE" = "%1$@ 張貼了一即時位置水晶玉";
 "CHANNEL_MESSAGE_GIF" = "%1$@ 貼了一張 GIF 動圖";
@@ -70,7 +70,7 @@
 "PINNED_DOC" = "%1$@ 置頂了一個玉石";
 "PINNED_STICKER" = "%1$@ 置頂了一張 %2$@的貼圖";
 "PINNED_AUDIO" = "%1$@ 置頂了一則語音水晶玉";
-"PINNED_CONTACT" = "%1$@ 置頂了一個 同伴";
+"PINNED_CONTACT" = "%1$@ 置頂了一個同伴";
 "PINNED_GEO" = "%1$@ 置頂了一張地圖";
 "PINNED_GEOLIVE" = "%1$@ 置頂了一即時位置水晶玉";
 "PINNED_GIF" = "%1$@ 置頂了一張 GIF 動圖";
@@ -203,7 +203,7 @@
 "Login.PhoneAndCountryHelp" = "請確認您的陣營號碼，然後輸入您的魔法器號碼。";
 "Login.CodeSentInternal" = "我們已經傳送驗證碼到您其它魔法器上的 **Telegram** APP";
 "Login.HaveNotReceivedCodeInternal" = "還沒有收到驗證碼？";
-"Login.CodeSentSms" = "我們已傳送一則包含驗證碼的 傳統水晶玉給您";
+"Login.CodeSentSms" = "我們已傳送一則包含驗證碼的傳統水晶玉給您";
 "Login.Code" = "驗證碼";
 "Login.CallRequestState1" = "在 %d:%.2d 後，改用精靈耳語音報驗證碼";
 "Login.CallRequestState2" = "正在請求 Telegram 來電…";
@@ -241,7 +241,7 @@
 "DialogList.Title" = "聊天";
 "DialogList.SearchLabel" = "搜尋水晶玉或魔法師";
 "DialogList.NoMessagesTitle" = "您目前沒有對話";
-"DialogList.NoMessagesText" = "按下右上角的鉛筆按鈕或到 同伴頁面開始傳水晶玉。";
+"DialogList.NoMessagesText" = "按下右上角的鉛筆按鈕或到同伴頁面開始傳水晶玉。";
 "DialogList.SingleTypingSuffix" = "%@ 正在輸入";
 "DialogList.SingleRecordingAudioSuffix" = "%@ 正在錄製音訊";
 "DialogList.SingleUploadingPhotoSuffix" = "%@ 正在傳送照片";
@@ -259,19 +259,19 @@
 "DialogList.EncryptedChatStartedIncoming" = "%@ 建立了一個隱形聊天。";
 
 // Compose
-"Compose.TokenListPlaceholder" = "您想將哪些 同伴加入圈圈？";
+"Compose.TokenListPlaceholder" = "您想將哪些同伴加入圈圈？";
 "Compose.NewMessage" = "新水晶玉";
 "Compose.NewGroup" = "新增圈圈";
 "Compose.NewEncryptedChat" = "新增隱形聊天";
 "Compose.Create" = "建立";
 
 // Contacts
-"Contacts.TabTitle" = " 同伴";
-"Contacts.Title" = " 同伴";
+"Contacts.TabTitle" = "同伴";
+"Contacts.Title" = "同伴";
 "Contacts.FailedToSendInvitesMessage" = "發生錯誤";
-"Contacts.AccessDeniedError" = "Telegram 無法存取您的 同伴";
-"Contacts.AccessDeniedHelpLandscape" = "請到您的 %@ 設定 － 隱私權 －  同伴」。\n然後為 Telegram 選擇「開啟」。";
-"Contacts.AccessDeniedHelpPortrait" = "請到您的 %@ 設定 － 隱私權 －  同伴。然後為 Telegram 選擇「開啟」。";
+"Contacts.AccessDeniedError" = "Telegram 無法存取您的同伴";
+"Contacts.AccessDeniedHelpLandscape" = "請到您的 %@ 設定 － 隱私權 － 同伴」。\n然後為 Telegram 選擇「開啟」。";
+"Contacts.AccessDeniedHelpPortrait" = "請到您的 %@ 設定 － 隱私權 － 同伴。然後為 Telegram 選擇「開啟」。";
 "Contacts.AccessDeniedHelpON" = "開啟";
 "Contacts.InviteToTelegram" = "邀請使用 Telegram";
 "Contacts.InviteFriends" = "邀請朋友";
@@ -289,7 +289,7 @@
 "Conversation.LinkDialogCopy" = "複製";
 "Conversation.ForwardTitle" = "轉傳";
 "Conversation.ForwardChats" = "聊天";
-"Conversation.ForwardContacts" = " 同伴";
+"Conversation.ForwardContacts" = "同伴";
 "Conversation.StatusKickedFromGroup" = "您從圈圈中被移除了";
 "Conversation.StatusLeftGroup" = "您已離開了圈圈";
 "Conversation.StatusTyping" = "正在輸入";
@@ -302,7 +302,7 @@
 "Conversation.Unblock" = "解除魔障屏蔽";
 "Conversation.ClearAll" = "清除聊天";
 "Conversation.Location" = "位置";
-"Conversation.Contact" = " 同伴";
+"Conversation.Contact" = "同伴";
 "Conversation.BlockUser" = "魔障屏蔽魔法師";
 "Conversation.UnblockUser" = "解除魔障屏蔽魔法師";
 "Conversation.UnsupportedMedia" = "您使用的 Telegram 版本不支援此水晶玉。請更新應用程式：\nhttp://telegram.org/update";
@@ -314,7 +314,7 @@
 "Conversation.EncryptedDescriptionTitle" = "隱形聊天：";
 "Conversation.EncryptedDescription1" = "使用端對端高速粒子加密";
 "Conversation.EncryptedDescription2" = "不會在我們伺服器留下痕跡";
-"Conversation.EncryptedDescription3" = "有一個「自毀計時器」";
+"Conversation.EncryptedDescription3" = "有一個「自毀定時炸彈」";
 "Conversation.EncryptedDescription4" = "不允許轉傳";
 "Conversation.ContextMenuCopy" = "複製";
 "Conversation.ContextMenuDelete" = "詛咒";
@@ -354,10 +354,10 @@
 "Notification.Joined" = "%@ 加入了 Telegram";
 "Notification.ChangedGroupName" = "%@ 將圈圈名稱變更為 \"%@\"";
 "Notification.NewAuthDetected" = "%1$@,\n我們偵測到有新魔法器於%3$@%2$@ %4$@ 使用您的靈魂登入\n魔法器類型：%5$@\n位置：%6$@\n\n如果這不是您，您可以到「設定」>「隱私與安全」>「登入的魔法器」裡，將其登出。\n\n如果您懷疑有人未經您的同意登入您的靈魂，請在「隱私與安全」的設定中，啟用「兩步驟驗證」。\n\n感謝您！\nTelegram 團隊";
-"Notification.MessageLifetimeChanged" = "%1$@ 將自毀計時器設定為 %2$@";
-"Notification.MessageLifetimeChangedOutgoing" = "您已將自毀計時器設定為 %1$@";
-"Notification.MessageLifetimeRemoved" = "%1$@ 停用了自毀計時器";
-"Notification.MessageLifetimeRemovedOutgoing" = "您停用了自毀計時器";
+"Notification.MessageLifetimeChanged" = "%1$@ 將自毀定時炸彈設定為 %2$@";
+"Notification.MessageLifetimeChangedOutgoing" = "您已將自毀定時炸彈設定為 %1$@";
+"Notification.MessageLifetimeRemoved" = "%1$@ 停用了自毀定時炸彈";
+"Notification.MessageLifetimeRemovedOutgoing" = "您停用了自毀定時炸彈";
 "Notification.MessageLifetime2s" = "2 秒鐘";
 "Notification.MessageLifetime5s" = "5 秒鐘";
 "Notification.MessageLifetime1m" = "1 分鐘";
@@ -369,7 +369,7 @@
 "Message.Photo" = "照片";
 "Message.Video" = "影片";
 "Message.Location" = "位置";
-"Message.Contact" = " 同伴";
+"Message.Contact" = "同伴";
 "Message.File" = "玉石";
 "Message.Sticker" = "貼圖";
 "Message.Audio" = "語音水晶玉";
@@ -387,7 +387,7 @@
 "Conversation.Kilobytes" = "%d KB";
 "Conversation.Bytes" = "%d B";
 "Conversation.ShareMyContactInfo" = "分享我的聯絡魔法書";
-"Conversation.AddContact" = "添加 同伴";
+"Conversation.AddContact" = "添加同伴";
 "Conversation.SendMessage" = "傳送水晶玉";
 "Conversation.EncryptionCanceled" = "隱形聊天已取消";
 "Conversation.DeleteManyMessages" = "詛咒水晶玉";
@@ -404,8 +404,8 @@
 // User Profile
 "Profile.CreateEncryptedChatError" = "發生錯誤。";
 
-"Profile.CreateNewContact" = "建立新的 同伴";
-"Profile.AddToExisting" = "加入到現有 同伴";
+"Profile.CreateNewContact" = "建立新的同伴";
+"Profile.AddToExisting" = "加入到現有同伴";
 "Profile.EncryptionKey" = "高速粒子加密金鑰";
 "Profile.MessageLifetimeForever" = "關閉";
 "Profile.MessageLifetime2s" = "2 秒鐘";
@@ -414,7 +414,7 @@
 "Profile.MessageLifetime1h" = "1 小時";
 "Profile.MessageLifetime1d" = "1 天";
 "Profile.MessageLifetime1w" = "1 週";
-"Profile.ShareContactButton" = "分享 同伴魔法書";
+"Profile.ShareContactButton" = "分享同伴魔法書";
 
 // User Info
 "UserInfo.Title" = "魔法書";
@@ -422,11 +422,11 @@
 "UserInfo.LastNamePlaceholder" = "姓氏";
 "UserInfo.GenericPhoneLabel" = "魔法器";
 "UserInfo.SendMessage" = "傳送水晶玉";
-"UserInfo.AddContact" = "添加 同伴";
-"UserInfo.ShareContact" = "分享 同伴魔法書";
+"UserInfo.AddContact" = "添加同伴";
+"UserInfo.ShareContact" = "分享同伴魔法書";
 "UserInfo.StartSecretChat" = "開始隱形聊天";
-"UserInfo.DeleteContact" = "詛咒 同伴";
-"UserInfo.CreateNewContact" = "建立新的 同伴";
+"UserInfo.DeleteContact" = "詛咒同伴";
+"UserInfo.CreateNewContact" = "建立新的同伴";
 "UserInfo.AddToExisting" = "加入到現有的";
 "UserInfo.AddPhone" = "添加精靈耳";
 "UserInfo.NotificationsEnabled" = "已啟用";
@@ -436,7 +436,7 @@
 "UserInfo.Invite" = "邀請使用 Telegram";
 
 // New Contact
-"NewContact.Title" = "新的 同伴";
+"NewContact.Title" = "新的同伴";
 
 // Phone Label
 "PhoneLabel.Title" = "標籤";
@@ -464,7 +464,7 @@
 "GroupInfo.ParticipantCount_many" = "%@ 位魔法師";
 "GroupInfo.ParticipantCount_0" = "%@ 位魔法師";
 "GroupInfo.AddParticipant" = "添加魔法師";
-"GroupInfo.AddParticipantTitle" = " 同伴";
+"GroupInfo.AddParticipantTitle" = "同伴";
 "GroupInfo.AddParticipantConfirmation" = "將 %@ 加入到圈圈？";
 "GroupInfo.LeftStatus" = "您已離開了圈圈";
 
@@ -527,7 +527,7 @@
 "Notifications.GroupNotificationsSound" = "音效";
 "Notifications.GroupNotificationsHelp" = "您可以針對特定圈圈在其圈圈魔法書頁上設定自訂通知。";
 
-"Notifications.TextTone" = " 傳統水晶玉鈴聲";
+"Notifications.TextTone" = "傳統水晶玉鈴聲";
 "Notifications.AlertTones" = "提示音";
 "Notifications.ClassicTones" = "經典";
 
@@ -538,7 +538,7 @@
 
 "Notifications.Reset" = "重置";
 "Notifications.ResetAllNotifications" = "重置所有通知";
-"Notifications.ResetAllNotificationsHelp" = "撤銷您全部 同伴和圈圈的所有自訂通知設定。";
+"Notifications.ResetAllNotificationsHelp" = "撤銷您全部同伴和圈圈的所有自訂通知設定。";
 
 // Chat Settings
 "ChatSettings.Title" = "數據與儲存";
@@ -580,7 +580,7 @@
 "Settings.LogoutConfirmationTitle" = "登出？";
 "Settings.LogoutConfirmationText" = "\n請注意，您可以無縫地在所有魔法器上同時使用 Telegram。\n\n記住，登出會讓您所有隱形聊天內容丟失。";
 
-"Login.PadPhoneHelp" = "\n您可以使用您的主要魔法器號碼在所有魔法器上登入 Telegram。\n不要使用您的 iPad SIM 卡號碼 — 我們需要向您傳送 傳統水晶玉。\n\n這個數字是否正確？\n{number}";
+"Login.PadPhoneHelp" = "\n您可以使用您的主要魔法器號碼在所有魔法器上登入 Telegram。\n不要使用您的 iPad SIM 卡號碼 — 我們需要向您傳送傳統水晶玉。\n\n這個數字是否正確？\n{number}";
 "Login.PadPhoneHelpTitle" = "您的魔法器號碼";
 
 "MessageTimer.Custom" = "自訂";
@@ -703,20 +703,20 @@
 "PrivacySettings.PrivacyTitle" = "隱私";
 "PrivacySettings.LastSeen" = "最後上線";
 "PrivacySettings.LastSeenEverybody" = "每個人";
-"PrivacySettings.LastSeenContacts" = "我的 同伴";
+"PrivacySettings.LastSeenContacts" = "我的同伴";
 "PrivacySettings.LastSeenNobody" = "沒有人";
 
 "PrivacySettings.LastSeenEverybodyMinus" = "每個人 (-%@)";
-"PrivacySettings.LastSeenContactsPlus" = "我的 同伴 (+%@)";
-"PrivacySettings.LastSeenContactsMinus" = "我的 同伴 (-%@)";
-"PrivacySettings.LastSeenContactsMinusPlus" = "我的 同伴 (-%@, +%@)";
+"PrivacySettings.LastSeenContactsPlus" = "我的同伴 (+%@)";
+"PrivacySettings.LastSeenContactsMinus" = "我的同伴 (-%@)";
+"PrivacySettings.LastSeenContactsMinusPlus" = "我的同伴 (-%@, +%@)";
 "PrivacySettings.LastSeenNobodyPlus" = "沒有人 (+%@)";
 
 "PrivacySettings.SecurityTitle" = "安全";
 
 "PrivacySettings.DeleteAccountTitle" = "靈魂自動銷毀";
 "PrivacySettings.DeleteAccountIfAwayFor" = "如果離開";
-"PrivacySettings.DeleteAccountHelp" = "您在這段期間內至少要上線一次，否則您的靈魂將被詛咒，您也將失去所有的圈圈、水晶玉及 同伴。";
+"PrivacySettings.DeleteAccountHelp" = "您在這段期間內至少要上線一次，否則您的靈魂將被詛咒，您也將失去所有的圈圈、水晶玉及同伴。";
 
 "PrivacyLastSeenSettings.Title" = "最後上線";
 "PrivacyLastSeenSettings.CustomHelp" = "重要提示：您不分享您最後上線時間的對象，他們的最後上線時間，您也將無法看見。取而代之的是大概的最後上線時間 ( 最近，一週之內，一個月之內 )。";
@@ -776,18 +776,18 @@
 
 "Settings.PhoneNumber" = "變更號碼";
 
-"PhoneNumberHelp.Help" = "您可以在這裡變更 Telegram 所綁定的魔法器號碼。您的靈魂和所有您的雲端資料 — 水晶玉、媒體、 同伴...…等，將被移動到新的號碼。\n\n**重要提示：**您的所有 Telegram  同伴將取得您的**新號碼**，並加入到他們的魔法器通訊錄中，條件是他們有您的舊號碼，且您沒有在 Telegram 中魔障屏蔽他們。";
-"PhoneNumberHelp.Alert" = "您的所有 Telegram  同伴將取得您的新號碼，並加入到他們的魔法器通訊錄中，條件是他們有您的舊號碼，且您沒有在 Telegram 中魔障屏蔽他們。";
+"PhoneNumberHelp.Help" = "您可以在這裡變更 Telegram 所綁定的魔法器號碼。您的靈魂和所有您的雲端資料 — 水晶玉、媒體、同伴...…等，將被移動到新的號碼。\n\n**重要提示：**您的所有 Telegram 同伴將取得您的**新號碼**，並加入到他們的魔法器通訊錄中，條件是他們有您的舊號碼，且您沒有在 Telegram 中魔障屏蔽他們。";
+"PhoneNumberHelp.Alert" = "您的所有 Telegram 同伴將取得您的新號碼，並加入到他們的魔法器通訊錄中，條件是他們有您的舊號碼，且您沒有在 Telegram 中魔障屏蔽他們。";
 "PhoneNumberHelp.ChangeNumber" = "變更號碼";
 
 "ChangePhoneNumberNumber.Title" = "變更號碼";
 "ChangePhoneNumberNumber.NewNumber" = "新號碼";
-"ChangePhoneNumberNumber.Help" = "我們將傳送一則包含驗證碼的 傳統水晶玉到您的新魔法器號碼。";
+"ChangePhoneNumberNumber.Help" = "我們將傳送一則包含驗證碼的傳統水晶玉到您的新魔法器號碼。";
 "ChangePhoneNumberNumber.NumberPlaceholder" = "輸入您的新號碼";
 
 "ChangePhoneNumberCode.Code" = "您的驗證碼";
 "ChangePhoneNumberCode.CodePlaceholder" = "驗證碼";
-"ChangePhoneNumberCode.Help" = "我們已傳送一則包含驗證碼的 傳統水晶玉給您";
+"ChangePhoneNumberCode.Help" = "我們已傳送一則包含驗證碼的傳統水晶玉給您";
 "ChangePhoneNumberCode.CallTimer" = "Telegram 會於 %@ 打精靈耳給您";
 "ChangePhoneNumberCode.RequestingACall" = "正在要求 Telegram 來電…";
 "ChangePhoneNumberCode.Called" = "Telegram 已撥打您的魔法器號碼";
@@ -926,7 +926,7 @@
 "ShareFileTip.Text" = "您可以從您的相機膠卷這裡分享 **無壓縮** 的媒體檔。\n\n要分享任何其他類型的玉石，開啟它們在您的 %@ (例如在您的瀏覽器)，點擊 **開啟於…** 或動作按鈕並選擇 Telegram。";
 "ShareFileTip.CloseTip" = "關閉提示";
 
-"DialogList.SearchSectionDialogs" = "聊天與 同伴";
+"DialogList.SearchSectionDialogs" = "聊天與同伴";
 "DialogList.SearchSectionGlobal" = "全域搜尋";
 "DialogList.SearchSectionMessages" = "水晶玉";
 
@@ -980,7 +980,7 @@
 
 "AccessDenied.Title" = "請允許存取";
 
-"AccessDenied.Contacts" = "Telegram 傳訊是基於您現有的 同伴清單。\n\n請到「設定」>「隱私權」>「 同伴」中，設定 Telegram 為開啟。";
+"AccessDenied.Contacts" = "Telegram 傳訊是基於您現有的同伴清單。\n\n請到「設定」>「隱私權」>「同伴」中，設定 Telegram 為開啟。";
 
 "AccessDenied.VoiceMicrophone" = "Telegram 需要存取您的麥克風以傳送語音水晶玉。\n\n請到「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
 
@@ -1001,9 +1001,9 @@
 
 "AccessDenied.PhotosRestricted" = "Telegram 的照片存取受到限制。\n\n請到設定 － 取用限制 － 照片 和設定 Telegram 為開啟。";
 
-"AccessDenied.LocationDenied" = "Telegram 需要存取您的位置，讓您可以與您的 同伴分享它。\n\n請到「設定」>「隱私權」>「定位服務」，並設定 Telegram 為開啟。";
+"AccessDenied.LocationDenied" = "Telegram 需要存取您的位置，讓您可以與您的同伴分享它。\n\n請到「設定」>「隱私權」>「定位服務」，並設定 Telegram 為開啟。";
 
-"AccessDenied.LocationDisabled" = "Telegram 需要存取您的位置，讓您可以與您的 同伴分享它。\n\n請到「設定」>「隱私權」>「定位服務」，並設定 Telegram 為開啟。";
+"AccessDenied.LocationDisabled" = "Telegram 需要存取您的位置，讓您可以與您的同伴分享它。\n\n請到「設定」>「隱私權」>「定位服務」，並設定 Telegram 為開啟。";
 
 "AccessDenied.LocationTracking" = "Telegram 需要存取您的位置以方便在地圖上顯示您。\n\n請前往「設定」>「隱私權」>「位置服務」，並將其設定為 ON。";
 
@@ -1071,12 +1071,12 @@
 "ForwardedGifs_many" = "%@ 個轉傳的 GIF 動圖";
 "ForwardedGifs_0" = "%@ 個轉傳的 GIF 動圖";
 
-"ForwardedContacts_1" = "1 個轉傳的 同伴";
-"ForwardedContacts_2" = "%@ 個轉傳的 同伴";
-"ForwardedContacts_3_10" = "%@ 個轉傳的 同伴";
-"ForwardedContacts_any" = "%@ 個轉傳的 同伴";
-"ForwardedContacts_many" = "%@ 個轉傳的 同伴";
-"ForwardedContacts_0" = "%@ 個轉傳的 同伴";
+"ForwardedContacts_1" = "1 個轉傳的同伴";
+"ForwardedContacts_2" = "%@ 個轉傳的同伴";
+"ForwardedContacts_3_10" = "%@ 個轉傳的同伴";
+"ForwardedContacts_any" = "%@ 個轉傳的同伴";
+"ForwardedContacts_many" = "%@ 個轉傳的同伴";
+"ForwardedContacts_0" = "%@ 個轉傳的同伴";
 
 "ForwardedAuthors2" = "%@, %@";
 "ForwardedAuthorsOthers_1" = "%@ 和另外 1 人 ";
@@ -1089,7 +1089,7 @@
 "PrivacySettings.TwoStepAuth" = "兩步驟驗證";
 "TwoStepAuth.Title" = "兩步驟驗證";
 "TwoStepAuth.SetPassword" = "設定額外的令咒";
-"TwoStepAuth.SetPasswordHelp" = "您可以設定當您使用一個新魔法器登入時，除了透過 傳統水晶玉取得的驗證碼外，另外要輸入的令咒。";
+"TwoStepAuth.SetPasswordHelp" = "您可以設定當您使用一個新魔法器登入時，除了透過傳統水晶玉取得的驗證碼外，另外要輸入的令咒。";
 "TwoStepAuth.SetupPasswordTitle" = "您的令咒";
 
 "TwoStepAuth.SetupHintTitle" = "令咒提示";
@@ -1205,7 +1205,7 @@
 
 "GroupInfo.InviteByLink" = "透過傳送器，邀請到圈圈";
 
-"GroupInfo.InviteLink.Title" = " 傳送器";
+"GroupInfo.InviteLink.Title" = "傳送器";
 "GroupInfo.InviteLink.LinkSection" = "傳送器";
 "GroupInfo.InviteLink.Help" = "任何已安裝 Telegram 的人可以透過開啟此傳送器加入到您的圈圈。";
 "GroupInfo.InviteLink.CopyLink" = "複製傳送器";
@@ -1213,7 +1213,7 @@
 "GroupInfo.InviteLink.ShareLink" = "分享傳送器";
 "GroupInfo.InviteLink.RevokeAlert.Text" = "您確定要撤換此傳送器？一旦您這樣做，沒有人能夠使用它加入圈圈。";
 "GroupInfo.InviteLink.RevokeAlert.Revoke" = "撤換";
-"GroupInfo.InviteLink.RevokeAlert.Success" = "先前的 傳送器現在已經沒有作用。而一個新的傳送器已經產生了。";
+"GroupInfo.InviteLink.RevokeAlert.Success" = "先前的傳送器現在已經沒有作用。而一個新的傳送器已經產生了。";
 "GroupInfo.InviteLink.CopyAlert.Success" = "傳送器已複製到剪貼簿";
 
 "UserInfo.ShareMyContactInfo" = "分享我的聯絡魔法書";
@@ -1224,7 +1224,7 @@
 
 "Core.ServiceUserStatus" = "服務通知";
 
-"Notification.JoinedGroupByLink" = "%@ 透過 傳送器加入了圈圈";
+"Notification.JoinedGroupByLink" = "%@ 透過傳送器加入了圈圈";
 
 "ChatSettings.Other" = "其他";
 "ChatSettings.Stickers" = "貼圖";
@@ -1271,7 +1271,7 @@
 "UserInfo.BotSettings" = "設定";
 "UserInfo.BotHelp" = "幫助";
 
-"Contacts.SearchLabel" = "搜尋 同伴或魔法識別ID";
+"Contacts.SearchLabel" = "搜尋同伴或魔法識別ID";
 "ChatSearch.SearchPlaceholder" = "搜尋";
 
 "WatchRemote.NotificationText" = "在您的魔法器上開啟此通知以查看來自您 Apple Watch 的水晶玉";
@@ -1352,8 +1352,8 @@
 
 "Channel.NotificationLoading" = "載入中…";
 
-"Compose.ChannelTokenListPlaceholder" = "搜尋 同伴或魔法識別ID";
-"Compose.GroupTokenListPlaceholder" = "搜尋 同伴或魔法識別ID";
+"Compose.ChannelTokenListPlaceholder" = "搜尋同伴或魔法識別ID";
+"Compose.GroupTokenListPlaceholder" = "搜尋同伴或魔法識別ID";
 
 "Compose.ChannelMembers" = "魔法師";
 
@@ -1361,7 +1361,7 @@
 "Channel.Setup.TypePrivate" = "私人的";
 "Channel.Setup.TypePublic" = "公開的";
 "Channel.Setup.TypePublicHelp" = "公開的大聲公可以用搜尋找到，且任何人都可以加入它們。";
-"Channel.Setup.TypePrivateHelp" = "私人的大聲公只能透過 傳送器加入。";
+"Channel.Setup.TypePrivateHelp" = "私人的大聲公只能透過傳送器加入。";
 
 "Channel.Setup.Title" = "大聲公";
 
@@ -1419,7 +1419,7 @@
 "PhotoEditor.CurvesBlue" = "藍";
 
 
-"Channel.ErrorAddTooMuch" = "抱歉，您只能將前 200 名魔法師加入到一個大聲公。但注意，透過大聲公的 傳送器加入，則沒有人數限制。";
+"Channel.ErrorAddTooMuch" = "抱歉，您只能將前 200 名魔法師加入到一個大聲公。但注意，透過大聲公的傳送器加入，則沒有人數限制。";
 
 "ChannelIntro.Title" = "什麼是大聲公？";
 "ChannelIntro.Text" = "大聲公是一個向大量\n觀眾廣播水晶玉的新\n工具。";
@@ -1447,7 +1447,7 @@
 "Group.UpgradeNoticeHeader" = "魔法師數量已達上限";
 
 "Group.UpgradeNoticeText1" = "要超越這個限制，並獲得額外的功能，請升級為超級圈圈：";
-"Group.UpgradeNoticeText2" = "•  超級圈圈可以加入高達 {supergroup_member_limit} 個魔法師\n•  新魔法師可以看到完整的聊天紀錄\n•  大魔法師可以詛咒每個人的水晶玉\n•  通知預設情況下是關閉的";
+"Group.UpgradeNoticeText2" = "⚡️  超級圈圈可以加入高達 {supergroup_member_limit} 個魔法師\n⚡️  新魔法師可以看到完整的聊天紀錄\n⚡️  大魔法師可以詛咒每個人的水晶玉\n⚡️  通知預設情況下是關閉的";
 "GroupInfo.UpgradeButton" = "升級為超級圈圈";
 "Group.UpgradeConfirmation" = "警告：這個動作是不可逆的。要將一個超級圈圈降級為普通圈圈是不可能的。";
 
@@ -1461,9 +1461,9 @@
 "Group.ErrorAddTooMuchBots" = "抱歉，您已經達到了本圈圈可加機器人的最大數量。";
 "Group.ErrorAddTooMuchAdmins" = "抱歉，您已經達到了本圈圈可加大魔法師的最大數量。";
 "Group.ErrorAddBlocked" = "抱歉，您無法將此魔法師加入到圈圈。";
-"Group.ErrorNotMutualContact" = "抱歉，目前您只能將互為 同伴的魔法師加入到圈圈。";
+"Group.ErrorNotMutualContact" = "抱歉，目前您只能將互為同伴的魔法師加入到圈圈。";
 
-"Conversation.SendMessageErrorFlood" = "抱歉，目前您只能傳送水晶玉給互為 同伴的魔法師。";
+"Conversation.SendMessageErrorFlood" = "抱歉，目前您只能傳送水晶玉給互為同伴的魔法師。";
 "Generic.ErrorMoreInfo" = "更多魔法書";
 
 "ChannelInfo.DeleteGroup" = "詛咒圈圈";
@@ -1488,11 +1488,11 @@
 "Group.Management.AddModeratorHelp" = "您可以添加大魔法師來幫助您管理圈圈。";
 
 "Watch.AppName" = "Telegram";
-"Watch.Compose.AddContact" = "選擇 同伴";
+"Watch.Compose.AddContact" = "選擇同伴";
 "Watch.Compose.CreateMessage" = "建立水晶玉";
 "Watch.Compose.CurrentLocation" = "目前的位置";
 "Watch.Compose.Send" = "傳送";
-"Watch.Contacts.NoResults" = "沒有找到符合\n的 同伴";
+"Watch.Contacts.NoResults" = "沒有找到符合\n的同伴";
 "Watch.ChatList.NoConversationsTitle" = "沒有對話";
 "Watch.ChatList.NoConversationsText" = "開始傳水晶玉，\n用力按下，然後點擊\n新水晶玉";
 "Watch.ChatList.Compose" = "新水晶玉";
@@ -1726,7 +1726,7 @@
 "Notification.PinnedAnimationMessage" = "%@ 置頂了一張 GIF 動圖";
 "Notification.PinnedStickerMessage" = "%@ 置頂了一張貼圖";
 "Notification.PinnedLocationMessage" = "%@ 置頂了一張地圖";
-"Notification.PinnedContactMessage" = "%@ 置頂了一個 同伴";
+"Notification.PinnedContactMessage" = "%@ 置頂了一個同伴";
 "Notification.PinnedDeletedMessage" = "%@ 置頂了已詛咒的水晶玉";
 
 "Message.PinnedTextMessage" = "置頂了「%@」";
@@ -1737,7 +1737,7 @@
 "Message.PinnedAnimationMessage" = "置頂了 GIF 動圖";
 "Message.PinnedStickerMessage" = "置頂了貼圖";
 "Message.PinnedLocationMessage" = "置頂了位置水晶玉";
-"Message.PinnedContactMessage" = "置頂了 同伴";
+"Message.PinnedContactMessage" = "置頂了同伴";
 
 "Notification.PinnedMessage" = "置頂了水晶玉";
 
@@ -1745,7 +1745,7 @@
 
 "ConvertToSupergroup.Title" = "超級圈圈";
 "ConvertToSupergroup.HelpTitle" = "**在超級圈圈中：**";
-"ConvertToSupergroup.HelpText" = "• 新魔法師可以看到完整的水晶玉紀錄\n• 詛咒的水晶玉將從所有魔法師的魔法器中消失\n• 大魔法師可以置頂重要水晶玉\n• 創立者可以為圈圈設定一個公開的傳送器";
+"ConvertToSupergroup.HelpText" = "⚡️ 新魔法師可以看到完整的水晶玉紀錄\n⚡️ 詛咒的水晶玉將從所有魔法師的魔法器中消失\n⚡️ 大魔法師可以置頂重要水晶玉\n⚡️ 創立者可以為圈圈設定一個公開的傳送器";
 
 "ConvertToSupergroup.Note" = "**請注意**：這個動作無法復原！";
 
@@ -1753,7 +1753,7 @@
 
 "Group.Setup.TypeHeader" = "圈圈類型";
 "Group.Setup.TypePublicHelp" = "公開的圈圈可以透過搜尋找到，聊天紀錄每個人都看得見，且任何人都可以加入。";
-"Group.Setup.TypePrivateHelp" = "私人的圈圈只有當您被邀請或有一個 傳送器的情況才能加入。";
+"Group.Setup.TypePrivateHelp" = "私人的圈圈只有當您被邀請或有一個傳送器的情況才能加入。";
 
 "Group.Username.CreatePublicLinkHelp" = "人們可以分享這個傳送器給其他人，並且用 Telegram 搜尋來找到您的圈圈。";
 "Group.Username.CreatePrivateLinkHelp" = "人們可以透過點擊此傳送器加入您的圈圈。任何時間，您都可以撤換傳送器。";
@@ -1833,10 +1833,10 @@
 "StickerPacksSettings.ArchivedPacks.Info" = "您最多可以有200套已安裝的貼圖包。\n當您添加更多時，未使用的貼圖會被封存。";
 
 "Conversation.CloudStorageInfo.Title" = "您的雲端儲存";
-"Conversation.ClousStorageInfo.Description1" = "• 轉傳水晶玉到這裡以保存它們";
-"Conversation.ClousStorageInfo.Description2" = "• 傳送媒體和玉石以儲存它們";
-"Conversation.ClousStorageInfo.Description3" = "• 從任何魔法器存取此聊天";
-"Conversation.ClousStorageInfo.Description4" = "• 使用搜尋功能快速找到東西";
+"Conversation.ClousStorageInfo.Description1" = "⚡️ 轉傳水晶玉到這裡以保存它們";
+"Conversation.ClousStorageInfo.Description2" = "⚡️ 傳送媒體和玉石以儲存它們";
+"Conversation.ClousStorageInfo.Description3" = "⚡️ 從任何魔法器存取此聊天";
+"Conversation.ClousStorageInfo.Description4" = "⚡️ 使用搜尋功能快速找到東西";
 
 "Conversation.CloudStorage.ChatStatus" = "與自己聊天";
 
@@ -1844,7 +1844,7 @@
 
 "StickerSettings.ContextInfo" = "如果您封存了一套貼圖，之後您還是可以快速地從封存的貼圖包中恢復。";
 
-"Contacts.TopSection" = " 同伴";
+"Contacts.TopSection" = "同伴";
 
 "Login.ResetAccountProtected.Title" = "重置靈魂";
 "Login.ResetAccountProtected.Text" = "由於靈魂 %@ 是活躍並且受令咒保護的，為了安全起見，我們將在 1 週內詛咒它。\n\n您可以隨時取消此一過程。";
@@ -1854,12 +1854,12 @@
 
 "Login.CodeSentCall" = "我們正撥打您的魔法器，語音告知一組驗證碼。";
 
-"Login.SmsRequestState1" = "Telegram 將在 %d:%.2d 之內傳送給您一則 傳統水晶玉";
-"Login.SmsRequestState2" = "正在請求來自 Telegram 的 傳統水晶玉…";
-"Login.SmsRequestState3" = "Telegram 傳給您一則 傳統水晶玉\n[沒有收到驗證碼？]";
+"Login.SmsRequestState1" = "Telegram 將在 %d:%.2d 之內傳送給您一則傳統水晶玉";
+"Login.SmsRequestState2" = "正在請求來自 Telegram 的傳統水晶玉…";
+"Login.SmsRequestState3" = "Telegram 傳給您一則傳統水晶玉\n[沒有收到驗證碼？]";
 
 "CancelResetAccount.Title" = "取消靈魂重置";
-"CancelResetAccount.TextSMS" = "有存取您魔法器號碼 %@ 的人請求詛咒您的 Telegram 靈魂及重置您的 2 步驗證令咒。\n\n如果這不是您，請輸入我們剛剛透過 傳統水晶玉傳送到您魔法器號碼的驗證碼。";
+"CancelResetAccount.TextSMS" = "有存取您魔法器號碼 %@ 的人請求詛咒您的 Telegram 靈魂及重置您的 2 步驗證令咒。\n\n如果這不是您，請輸入我們剛剛透過傳統水晶玉傳送到您魔法器號碼的驗證碼。";
 
 "CancelResetAccount.Success" = "您靈魂 %@ 的詛咒過程被取消了。";
 
@@ -1983,7 +1983,7 @@
 "Conversation.InstantPagePreview" = "立即查看";
 
 "StickerPack.ViewPack" = "檢視貼圖包";
-"InstantPage.AuthorAndDateTitle" = "作者 %1$@ • %2$@";
+"InstantPage.AuthorAndDateTitle" = "作者 %1$@ ⚡️ %2$@";
 "InstantPage.FeedbackButton" = "留下您對於此預覽的反應";
 "Conversation.JumpToDate" = "跳到該日期";
 "Conversation.AddToReadingList" = "添加到閱讀清單";
@@ -2160,7 +2160,7 @@
 "CheckoutInfo.ErrorCityInvalid" = "請輸入有效的城市。";
 "CheckoutInfo.ErrorNameInvalid" = "請輸入有效的名稱。";
 "CheckoutInfo.ErrorEmailInvalid" = "請輸入有效的電子郵件地址。";
-"CheckoutInfo.ErrorPhoneInvalid" = "請輸入有效的 魔法器號碼。";
+"CheckoutInfo.ErrorPhoneInvalid" = "請輸入有效的魔法器號碼。";
 
 "Checkout.WebConfirmation.Title" = "完成付款";
 "Checkout.PasswordEntry.Title" = "付款確認";
@@ -2302,7 +2302,7 @@
 "Message.ForwardedMessageShort" = "轉傳自\n%@";
 
 "Checkout.LiabilityAlertTitle" = "警告";
-"Checkout.LiabilityAlert" = "Telegram 和 %1$@ 都不能存取您的信用卡魔法書。信用卡細節只能由付款系統 %2$@ 來處理。\n\n支付的款項將直接轉到 %1$@ 的開發者。Telegram 不能提供任何保證，因此您必須自己承擔風險。 如果發生問題，請聯絡 %1$@ 的開發者或您的銀行。";
+"Checkout.LiabilityAlert" = "Telegram 和 %1$@ 都不能存取您的信用卡魔法書。信用卡細節只能由付款魔法器 %2$@ 來處理。\n\n支付的款項將直接轉到 %1$@ 的開發者。Telegram 不能提供任何保證，因此您必須自己承擔風險。 如果發生問題，請聯絡 %1$@ 的開發者或您的銀行。";
 
 "Settings.AppLanguage" = "語言";
 
@@ -2440,7 +2440,7 @@
 "Channel.Management.PromotedBy" = "由 %@ 任命";
 "DialogList.LanguageTooltip" = "您稍後可以在「設定」中變更語言";
 
-"Contacts.PhoneNumber" = " 魔法器號碼";
+"Contacts.PhoneNumber" = "魔法器號碼";
 "Contacts.AddPhoneNumber" = "添加 %@";
 "Contacts.ShareTelegram" = "分享 Telegram";
 
@@ -2520,12 +2520,12 @@
 
 "Stickers.FrequentlyUsed" = "最近使用的";
 
-"Contacts.ImportersCount_1" = "1 個 同伴在 Telegram 上";
-"Contacts.ImportersCount_2" = "%@ 個 同伴在 Telegram 上";
-"Contacts.ImportersCount_3_10" = "%@ 個 同伴在 Telegram 上";
-"Contacts.ImportersCount_any" = "%@ 個 同伴在 Telegram 上";
-"Contacts.ImportersCount_many" = "%@ 個 同伴在 Telegram 上";
-"Contacts.ImportersCount_0" = "%@ 個 同伴在 Telegram 上";
+"Contacts.ImportersCount_1" = "1 個同伴在 Telegram 上";
+"Contacts.ImportersCount_2" = "%@ 個同伴在 Telegram 上";
+"Contacts.ImportersCount_3_10" = "%@ 個同伴在 Telegram 上";
+"Contacts.ImportersCount_any" = "%@ 個同伴在 Telegram 上";
+"Contacts.ImportersCount_many" = "%@ 個同伴在 Telegram 上";
+"Contacts.ImportersCount_0" = "%@ 個同伴在 Telegram 上";
 
 "Conversation.ContextMenuBan" = "魔障屏蔽";
 
@@ -2535,23 +2535,23 @@
 "InviteText.URL" = "https://telegram.org/dl";
 "InviteText.SingleContact" = "嗨，我在使用 Telegram 聊天。加入我們吧！ 在這裡下載：%@";
 "InviteText.ContactsCount_1" = "嗨，我在使用 Telegram 聊天。加入我們吧！ 在這裡下載：%@";
-"InviteText.ContactsCount_2" = "嗨，我在使用 Telegram 聊天。– 另外，還有其他 %@ 個 同伴也是。加入我們吧！在這裡下載：%@";
-"InviteText.ContactsCount_3_10" = "嗨，我在使用 Telegram 聊天。– 還有其他 %@ 個 同伴。加入我們吧！在這裡下載：%@";
-"InviteText.ContactsCount_any" = "嗨，我在使用 Telegram 聊天。 –  還有其他 %@ 個 同伴。加入我們吧！在這裡下載：%@";
-"InviteText.ContactsCount_many" = "嗨，我在使用 Telegram 聊天。 –  還有其他 %@ 個 同伴。加入我們吧！在這裡下載：%@";
-"InviteText.ContactsCount_0" = "嗨，我在使用 Telegram 聊天。– 另外，還有其他 %@ 個 同伴也是。加入我們吧！在這裡下載：%@";
+"InviteText.ContactsCount_2" = "嗨，我在使用 Telegram 聊天。– 另外，還有其他 %@ 個同伴也是。加入我們吧！在這裡下載：%@";
+"InviteText.ContactsCount_3_10" = "嗨，我在使用 Telegram 聊天。– 還有其他 %@ 個同伴。加入我們吧！在這裡下載：%@";
+"InviteText.ContactsCount_any" = "嗨，我在使用 Telegram 聊天。 –  還有其他 %@ 個同伴。加入我們吧！在這裡下載：%@";
+"InviteText.ContactsCount_many" = "嗨，我在使用 Telegram 聊天。 –  還有其他 %@ 個同伴。加入我們吧！在這裡下載：%@";
+"InviteText.ContactsCount_0" = "嗨，我在使用 Telegram 聊天。– 另外，還有其他 %@ 個同伴也是。加入我們吧！在這裡下載：%@";
 
 "Invite.LargeRecipientsCountWarning" = "請注意，您的魔法器可能需要一些時間才能傳送所有這些邀請";
 
-"Contacts.InviteSearchLabel" = "搜尋 同伴";
+"Contacts.InviteSearchLabel" = "搜尋同伴";
 
 "Message.ImageExpired" = "照片已過期";
 "Message.VideoExpired" = "影片已過期";
 
 "SecretImage.Title" = "消失的照片";
 "SecretVideo.Title" = "消失的影片";
-"SecretTimer.ImageDescription" = "如果您設定了計時器，該照片將在查看後自動銷毀。";
-"SecretTimer.VideoDescription" = "如果您設定了計時器，該影片將在查看後自動銷毀。";
+"SecretTimer.ImageDescription" = "如果您設定了定時炸彈，該照片將在查看後自動銷毀。";
+"SecretTimer.VideoDescription" = "如果您設定了定時炸彈，該影片將在查看後自動銷毀。";
 
 "PhotoEditor.TiltShift" = "傾斜移位";
 
@@ -2597,7 +2597,7 @@
 "Channel.Stickers.NotFoundHelp" = "再試一次或從下面的列表中選擇";
 "Channel.Stickers.CreateYourOwn" = "您可以使用 @stickers 機器人創建您自己的自訂貼圖包。";
 
-"MediaPicker.TimerTooltip" = "您現在可以設定自毀計時器";
+"MediaPicker.TimerTooltip" = "您現在可以設定自毀定時炸彈";
 
 "UserInfo.BlockConfirmation" = "魔障屏蔽 %@？";
 
@@ -2694,7 +2694,7 @@
 
 "UserInfo.UnblockConfirmation" = "要解除魔障屏蔽 %@ 嗎？";
 
-"Login.BannedPhoneSubject" = "魔障屏蔽的 魔法器號碼：%@";
+"Login.BannedPhoneSubject" = "魔障屏蔽的魔法器號碼：%@";
 "Login.BannedPhoneBody" = "我試著用我的魔法器號碼：%@\n但 Telegram 顯示它被魔障屏蔽了。請幫忙。";
 
 "Conversation.StopLiveLocation" = "停止分享";
@@ -2763,7 +2763,7 @@
 "PasscodeSettings.HelpBottom" = "注意：如果您忘記了令咒，您將需要詛咒並重新安裝應用程式，而所有的隱形聊天都將會消失。";
 
 "Channel.Setup.TypePublicHelp" = "公開的大聲公可以用搜尋找到，且任何人都可以加入它們。";
-"Channel.Setup.TypePrivateHelp" = "私人的大聲公只能透過 傳送器加入。";
+"Channel.Setup.TypePrivateHelp" = "私人的大聲公只能透過傳送器加入。";
 "Group.Username.InvalidTooShort" = "圈圈名稱必須至少有 5 個字元。";
 "Group.Username.InvalidStartsWithNumber" = "圈圈名稱不能以數字開頭。";
 "Group.Username.CreatePublicLinkHelp" = "人們可以分享這個傳送器給其他人，並且用 Telegram 搜尋來找到您的圈圈。";
@@ -2778,7 +2778,7 @@
 
 
 
-"InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳您的 同伴到其高度高速粒子加密的雲端伺服器，讓您可以透過您的所有魔法器與朋友聯繫。";
+"InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳您的同伴到其高度高速粒子加密的雲端伺服器，讓您可以透過您的所有魔法器與朋友聯繫。";
 "InfoPlist.NSLocationWhenInUseUsageDescription" = "當您傳送您的位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
 "InfoPlist.NSCameraUsageDescription" = "我們需要這個，以便您可以拍攝並分享照片及影片。";
 "InfoPlist.NSPhotoLibraryUsageDescription" = "我們需要這樣做，以便您可以從相簿分享照片和影片。";
@@ -2791,7 +2791,7 @@
 "InfoPlist.NSFaceIDUsageDescription" = "您可以使用 Face ID 來解鎖應用程式。";
 
 "Privacy.Calls.P2PNever" = "永不";
-"Privacy.Calls.P2PContacts" = "我的 同伴";
+"Privacy.Calls.P2PContacts" = "我的同伴";
 "Privacy.Calls.P2PAlways" = "總是";
 
 "ChatSettings.AutoDownloadTitle" = "自動媒體下載";
@@ -2813,7 +2813,7 @@
 
 "AutoDownloadSettings.Cellular" = "行動魔力";
 "AutoDownloadSettings.WiFi" = "WI-FI";
-"AutoDownloadSettings.Contacts" = " 同伴";
+"AutoDownloadSettings.Contacts" = "同伴";
 "AutoDownloadSettings.PrivateChats" = "其他私人的聊天";
 "AutoDownloadSettings.GroupChats" = "圈圈聊天";
 "AutoDownloadSettings.Channels" = "大聲公";
@@ -2843,14 +2843,14 @@
 "Appearance.TextSize" = "文字大小";
 "Appearance.Preview" = "聊天預覽";
 "Appearance.ColorTheme" = "顏色主題玉石";
-"Appearance.ThemeDayClassic" = "日經典";
-"Appearance.ThemeDay" = "日";
-"Appearance.ThemeNight" = "夜";
-"Appearance.ThemeNightBlue" = "夜藍色";
-"Appearance.PreviewReplyAuthor" = "盧西奧";
-"Appearance.PreviewReplyText" = "萊因哈特，我們需要找到您一些…";
-"Appearance.PreviewIncomingText" = "啊！你們這些孩子今天有了技術音樂！享受經典, 像大衛·哈塞爾霍夫！";
-"Appearance.PreviewOutgoingText" = "我現在不能認真對待你。抱歉…";
+"Appearance.ThemeDayClassic" = "經典";
+"Appearance.ThemeDay" = "亮色";
+"Appearance.ThemeNight" = "深色";
+"Appearance.ThemeNightBlue" = "深國民黨";
+"Appearance.PreviewReplyAuthor" = "勇者";
+"Appearance.PreviewReplyText" = "明日的魔王討伐，您要帶著魔法…";
+"Appearance.PreviewIncomingText" = "我決定在家裡享受雞塊大餐，謝謝尼ㄉ提議，這種事勇者你一人就可以了吧";
+"Appearance.PreviewOutgoingText" = "可是，魔力全無沒人背我回家啦，嗚嗚嗚";
 "Appearance.AccentColor" = "強調色";
 "Appearance.PickAccentColor" = "選擇一強調色";
 
