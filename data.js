@@ -56,15 +56,14 @@ data = [
     ["紫色", "紫水晶"],
     ["橙色", "親民黨"],
     //Android
-    ["<string name=\"TelegramFAQ\">常見問題</string>", "<string name=\"TelegramFaq\">獲取最新魔法師翻譯檔</string>"],
-    ["<string name=\"TelegramFaq\">常見問題</string>", "<string name=\"TelegramFaq\">獲取最新魔法師翻譯檔</string>"],
-    ["<string name=\"TelegramFaqUrl\">https://telegram.org/faq</string>", "<string name=\"TelegramFaqUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>"],
+    ["<string name=\"PrivacyPolicy\">隱私政策</string>", "<string name=\"PrivacyPolicy\">獲取最新魔法師翻譯檔</string>"],
+    ["<string name=\"PrivacyPolicyUrl\">https://telegram.org/privacy</string>", "<string name=\"PrivacyPolicyUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>"],
     //Desktop
-    ["為了改變介面語言\nTelegram 將重新啟動", "為了進入魔法世界\nTelegram 將重新啟動\n咒語詠唱結束後，將自動切換為魔法師中文"],
+    ["為了改變介面語言", "為了進入魔法世界"],
     //iOS
     ["盧西奧", "勇者"],
-    ["萊因哈特，我們需要找到您一些…", "明日的魔王討伐，您要帶著魔法…"],
+    ["萊因哈特，我們需要找到您一些…", "明日的魔王討伐，您要帶魔法軍…"],
     ["啊！你們這些孩子今天有了技術音樂！享受經典, 像大衛·哈塞爾霍夫！", "我決定在家裡享受雞塊大餐，謝謝尼ㄉ提議，這種事勇者你一人就可以了吧"],
-    ["我現在不能認真對待你。抱歉…", "可是，魔力全無沒人背我回家啦，嗚嗚嗚"],
+    ["我現在不能認真對待你。抱歉…", "可是，魔力全無沒人背我回家啦，嗚嗚嗚(ry"],
 ]
 exports.getTData = data;
