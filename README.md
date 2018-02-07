@@ -1,2 +1,4 @@
 # TeleTranslation
-魔法師翻譯黨
+魔法師翻譯
+
+goo.gl/icnFnE
