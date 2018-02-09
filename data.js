@@ -50,7 +50,7 @@ data = [
     ['"Appearance.ThemeNightBlue" = "夜藍色"', '"Appearance.ThemeNightBlue" = "深藍色"'],
     //color
     ["藍色", "國民黨"],
-    ["紅色", "火焰"],
+    ["紅色", "共產黨"],
     ["黃色", "時代力量"],
     ["綠色", "民進黨"],
     ["青色", "翡翠玉石"],
