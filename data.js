@@ -58,7 +58,7 @@ data = [
     ["深褐色", "茶葉"],
     ["黑色", "黑膽石"],
     ["粉紅色", "粉紅小馬"],
-    ["紫色", "紫水晶"],
+    ["紫色", "佛教如來宗"],
     ["橙色", "親民黨"],
     //Android
     ["<string name=\"PrivacyPolicy\">隱私政策</string>", "<string name=\"PrivacyPolicy\">獲取最新魔法師翻譯檔</string>"],
