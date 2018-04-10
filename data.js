@@ -47,11 +47,12 @@ data = [
     ["移除", "炸毀"],
     ["輸入", "施展魔法"],
     ["yyyy年", "魔法曆yyyy年"],
+    ["完成", "好惹"],
     //iOS Theme
     ['"Appearance.ThemeDayClassic" = "日經典"', '"Appearance.ThemeDayClassic" = "經典"'],
     ['"Appearance.ThemeDay" = "日"', '"Appearance.ThemeDay" = "亮色"'],
     ['"Appearance.ThemeNight" = "夜"', '"Appearance.ThemeNight" = "深色"'],
-    ['"Appearance.ThemeNightBlue" = "夜藍色"', '"Appearance.ThemeNightBlue" = "深藍色"'],
+    ['"Appearance.ThemeNightBlue" = "夜藍色"', '"Appearance.ThemeNightBlue" = "深藍"'],
     //color
     ["藍色", "國民黨"],
     ["紅色", "共產黨"],
