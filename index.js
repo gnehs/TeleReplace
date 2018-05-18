@@ -2,8 +2,8 @@ const fs = require('fs') //檔案系統
 const replaceWords = require(__dirname + '/data.js').getTData //翻譯替換檔
 
 console.log('   =========================================')
-console.log('      gnehs/TeleReplace')
-console.log('      https://github.com/gnehs/TeleReplace')
+console.log('      gnehs/TeleReplace                     ')
+console.log('      https://github.com/gnehs/TeleReplace  ')
 console.log('   =========================================')
 
 fs.readdir(__dirname + "/source/", function(err, files) { //讀取資料夾
