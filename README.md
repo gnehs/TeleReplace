@@ -1,7 +1,6 @@
+![](https://i.imgur.com/CUhK0YE.png)
 # TeleReplace
 魔法師翻譯
-
-![](https://i.imgur.com/CUhK0YE.png)
 ## 說明
 `index.js` 是主要的程式
 
