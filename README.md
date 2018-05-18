@@ -1,8 +1,8 @@
 # TeleReplace
 魔法師翻譯
-## 說明
-這個程式基本上無依賴，只要有裝 node.js 就可以使用
 
+![](https://i.imgur.com/CUhK0YE.png)
+## 說明
 `index.js` 是主要的程式
 
 `data.js` 裡頭放了替換用的詞語
