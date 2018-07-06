@@ -582,7 +582,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_manage_admins" = "管理大魔法師";
 "lng_profile_manage_blocklist" = "管理魔障屏蔽名單";
 "lng_profile_manage_restrictedlist" = "管理受限名單";
-"lng_profile_recent_actions" = "最近ㄉ操作";
+"lng_profile_recent_actions" = "魔法日誌";
 "lng_profile_common_groups#one" = "{count} 個共同ㄉ圈圈";
 "lng_profile_common_groups#other" = "{count} 個共同ㄉ圈圈";
 "lng_profile_participants_section" = "魔法師";
@@ -700,7 +700,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_manage_channel_title" = "管理大聲公";
 "lng_manage_group_info" = "圈圈魔法書";
 "lng_manage_channel_info" = "大聲公魔法書";
-"lng_manage_peer_recent_actions" = "最近ㄉ操作";
+"lng_manage_peer_recent_actions" = "魔法日誌";
 "lng_manage_peer_members" = "魔法師";
 "lng_manage_peer_administrators" = "大魔法師";
 "lng_manage_peer_banned_users" = "魔障屏蔽名單";
@@ -1427,7 +1427,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_about" = "這是什麼？";
 "lng_admin_log_about_text" = "這是圈圈魔法師和大魔法師在過去48小時內所有操作ㄉ清單。";
 "lng_admin_log_no_results_title" = "沒有找到任何操作";
-"lng_admin_log_no_results_text" = "沒有找到最近ㄉ操作是符合尼查詢ㄉ";
+"lng_admin_log_no_results_text" = "沒有找到魔法日誌是符合尼查詢ㄉ";
 "lng_admin_log_no_results_search_text" = "沒有找到最近有包含「{query}」ㄉ操作。";
 "lng_admin_log_no_events_title" = "還沒有操作";
 "lng_admin_log_no_events_text" = "沒有圈圈魔法師和管\n理員在過去48小時\n內ㄉ操作。";

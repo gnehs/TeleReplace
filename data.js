@@ -51,7 +51,7 @@ data = [
     ["人類", "魔法師"],
     ["通知", "啄木鳥"],
     ["上線", "施展魔法"],
-    ["最近的動作", "魔法日誌"],
+    ["最近的操作", "魔法日誌"],
     //iOS Theme
     ['"Appearance.ThemeDayClassic" = "日經典"', '"Appearance.ThemeDayClassic" = "經典"'],
     ['"Appearance.ThemeDay" = "日"', '"Appearance.ThemeDay" = "亮色"'],
