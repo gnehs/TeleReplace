@@ -1,5 +1,6 @@
 data = [
     ["正體中文（臺灣）", "魔法師中文"],
+    ["繁體中文（台灣）", "魔法師中文"],
     ["用戶名稱", "魔法識別ID"],
     ["用戶名", "魔法識別ID"],
     ["手機", "魔法器"],
@@ -52,12 +53,16 @@ data = [
     ["通知", "啄木鳥"],
     ["上線", "施展魔法"],
     ["最近的操作", "魔法日誌"],
+    ["夜間模式", "烏麻麻模式"],
+    ["自動", "小精靈智慧選擇"],
+    ["提出疑問", "窩有問題"],
+    ["個性簽名", "魔法師簽名"],
     //iOS Theme
     ['"Appearance.ThemeDayClassic" = "日經典"', '"Appearance.ThemeDayClassic" = "經典"'],
     ['"Appearance.ThemeDay" = "日"', '"Appearance.ThemeDay" = "亮色"'],
     ['"Appearance.ThemeNight" = "夜"', '"Appearance.ThemeNight" = "深色"'],
-    ['"Appearance.ThemeNightBlue" = "夜藍色"', '"Appearance.ThemeNightBlue" = "深藍"'],
     //color
+    ["夜藍色", "烏麻麻國民黨"],
     ["藍色", "國民黨"],
     ["紅色", "共產黨"],
     ["黃色", "時代力量"],
@@ -65,10 +70,12 @@ data = [
     ["青色", "翡翠玉石"],
     ["白色", "石英"],
     ["深褐色", "茶葉"],
+    ["夜黑色", "烏麻麻黑膽石"],
     ["黑色", "黑膽石"],
     ["粉紅色", "粉紅小馬"],
     ["紫色", "佛教如來宗"],
     ["橙色", "親民黨"],
+    ["粉紅", "彩虹小馬"],
     //Android
     ["<string name=\"PrivacyPolicy\">隱私政策</string>", "<string name=\"PrivacyPolicy\">獲取最新魔法師翻譯檔</string>"],
     ["<string name=\"PrivacyPolicyUrl\">https://telegram.org/privacy</string>", "<string name=\"PrivacyPolicyUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>"],
@@ -83,5 +90,7 @@ data = [
     ["了", "ㄌ"],
     ["的", "ㄉ"],
     ["您", "尼"],
+    ["不要", "鼻要"],
+    ["搜尋", "找找"],
 ]
 exports.getTData = data;

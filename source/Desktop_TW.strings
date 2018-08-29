@@ -5,8 +5,8 @@ the official desktop application for the Telegram messaging service.
 For license and copyright information please follow this link:
 https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 */
-"lng_language_name" = "正體中文（臺灣）";
-"lng_switch_to_this" = "繼續使用正體中文（臺灣）";
+"lng_language_name" = "繁體中文（台灣）";
+"lng_switch_to_this" = "繼續使用繁體中文（台灣）";
 
 "lng_menu_contacts" = "聯絡人";
 "lng_menu_calls" = "通話";
@@ -16,11 +16,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_menu_back" = "返回";
 "lng_menu_night_mode" = "夜間模式";
 
-"lng_disable_notifications_from_tray" = "關閉訊息通知";
-"lng_enable_notifications_from_tray" = "恢復訊息通知";
+"lng_disable_notifications_from_tray" = "關閉通知";
+"lng_enable_notifications_from_tray" = "開啟通知";
 "lng_open_from_tray" = "開啟 Telegram";
 "lng_minimize_to_tray" = "最小化至系統匣";
-"lng_quit_from_tray" = "結束 Telegram";
+"lng_quit_from_tray" = "關閉 Telegram";
 "lng_tray_icon_text" = "Telegram 還在這裡運行，\n您可以從設定頁面進行變更。\n\n如果此圖示從通知區域選單中消失，\n您可以將它從隱藏的圖示中拖回到這裡。";
 
 // For lng_month_year or plain month name.
@@ -97,7 +97,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_status_recently" = "最後上線於不久前";
 "lng_status_last_week" = "最後上線於一週內";
 "lng_status_last_month" = "最後上線於一個月內";
-"lng_status_lastseen_now" = "最後上線就在剛才";
+"lng_status_lastseen_now" = "最後上線於剛才";
 "lng_status_lastseen_minutes#one" = "最後上線於 {count} 分鐘之前";
 "lng_status_lastseen_minutes#other" = "最後上線於 {count} 分鐘之前";
 "lng_status_lastseen_hours#one" = "最後上線於 {count} 小時之前";
@@ -109,7 +109,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_status_online" = "在線上";
 "lng_status_connecting" = "連線中…";
 
-"lng_chat_status_unaccessible" = "無法存取群組";
+"lng_chat_status_unaccessible" = "無法進入群組";
 "lng_chat_status_members#one" = "{count} 個成員";
 "lng_chat_status_members#other" = "{count} 個成員";
 "lng_chat_status_online#one" = "{count} 人在線上";
@@ -132,10 +132,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_error_start_minimized_passcoded" = "您已設定本地密碼，因此 Telegram Desktop 無法啟動最小化。它會要求您輸入密碼，然後才能開始操作。";
 "lng_error_pinned_max#one" = "很抱歉，您不可以置頂超過 {count} 個聊天到頂部。";
 "lng_error_pinned_max#other" = "很抱歉，您不可以置頂超過 {count} 個聊天到頂部。";
-"lng_error_public_groups_denied" = "不幸的是，您被禁止參與公開的群組。\n{more_info}";
+"lng_error_public_groups_denied" = "很遺憾，您被禁止參與公開的群組了。\n{more_info}";
 "lng_error_cant_add_member" = "很抱歉，您不能將機器人添加到此群組。您必須請一位群組管理員來做這件事。";
 "lng_error_cant_add_bot" = "很抱歉，這個機器人不能添加到群組。";
-"lng_error_cant_add_admin_invite" = "很抱歉，您不能將此用戶添加為管理員，因為該用戶還不是群組的成員。";
+"lng_error_cant_add_admin_invite" = "很抱歉，您不能將此用戶添加為管理員，因為他不是此群組的成員，且您不被允許邀請他。";
 "lng_error_cant_add_admin_unban" = "很抱歉，您不能將此用戶添加為管理員，因為該用戶在黑名單之中，而您無法將其解除封鎖。";
 "lng_error_cant_ban_admin" = "很抱歉，您不能封鎖此用戶，因為他是此群組中的管理員，您不能將他降級。";
 "lng_error_admin_limit" = "抱歉，您已經達到了本群組可加管理員的最大數量。";
@@ -206,7 +206,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_signin_bad_password" = "您輸入了一個錯誤的密碼。";
 "lng_signin_wrong_code" = "您輸入了一個無效的驗證碼。請重試。";
 "lng_signin_try_password" = "無法存取您的電子郵件？";
-"lng_signin_password_removed" = "您的雲端密碼已停用。\n您可以在「設定」中建立一個新的。";
+"lng_signin_password_removed" = "您的雲端密碼已停用。\n您可以在「設定」中建立新的。";
 "lng_signin_no_email_forgot" = "由於您在設定密碼時沒有提供復原用的電子信箱，您剩餘的選項就是要記住您的密碼，或是重置您的帳號。";
 "lng_signin_cant_email_forgot" = "如果無法恢復存取電子郵件，您剩餘的選項是記住您的密碼，不然就只好重置您的帳號。";
 "lng_signin_reset_account" = "重置您的帳號";
@@ -282,7 +282,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_notifications_position" = "在螢幕上的位置";
 "lng_settings_notifications_count" = "通知數量";
 "lng_settings_sound_notify" = "播放音效";
-"lng_settings_include_muted" = "未讀計數中包含已關閉通知的聊天室";
+"lng_settings_include_muted" = "未讀計數中包含已關閉通知的聊天";
 
 "lng_notification_preview" = "您有一則新訊息";
 "lng_notification_reply" = "回覆";
@@ -325,7 +325,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_bg_from_gallery" = "從相簿選擇";
 "lng_settings_bg_from_file" = "從檔案選擇";
 "lng_settings_bg_edit_theme" = "編輯主題";
-"lng_settings_bg_tile" = "鋪排背景";
+"lng_settings_bg_tile" = "平鋪背景";
 "lng_settings_adaptive_wide" = "根據視窗寬度自動調整對話氣泡位置";
 
 "lng_backgrounds_header" = "選擇新的聊天室背景";
@@ -335,7 +335,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_keep_changes" = "保留變更";
 "lng_theme_revert" = "恢復";
 
-"lng_download_path_dont_ask" = "不要問每個檔案的下載路徑";
+"lng_download_path_dont_ask" = "不要詢問每個檔案的下載路徑";
 "lng_download_path_label" = "下載路徑：";
 "lng_download_path_temp" = "暫存資料夾";
 "lng_download_path_default" = "預設資料夾";
@@ -355,7 +355,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_section_privacy" = "隱私和安全";
 
 "lng_local_storage_title" = "本地儲存";
-"lng_settings_no_data_cached" = "找不到快取的數據！";
+"lng_settings_no_data_cached" = "找不到快取的資料！";
 "lng_settings_images_cached#one" = "{count} 張圖片，{size}";
 "lng_settings_images_cached#other" = "{count} 張圖片，{size}";
 "lng_settings_audios_cached#one" = "{count} 則語音訊息，{size}";
@@ -383,7 +383,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passcode_autolock_hours#one" = "{count} 小時";
 "lng_passcode_autolock_hours#other" = "{count} 小時";
 "lng_passcode_enter_old" = "輸入目前的密碼";
-"lng_passcode_enter_first" = "輸入一組密碼";
+"lng_passcode_enter_first" = "輸入密碼";
 "lng_passcode_enter_new" = "輸入新的密碼";
 "lng_passcode_confirm_new" = "再次輸入新的密碼";
 "lng_passcode_about" = "設定本地密碼後，鎖形圖示會顯示在聊天清單的頂端。 點擊它以鎖定應用程式。\n\n注意：如果您忘記了本地密碼，則您需要在 Telegram Desktop 中重新登入。";
@@ -394,7 +394,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passcode_ph" = "您的密碼";
 "lng_passcode_submit" = "提交";
 "lng_passcode_logout" = "登出";
-"lng_passcode_need_unblock" = "您需要先解鎖我。";
+"lng_passcode_need_unblock" = "您需要先將我解鎖。";
 
 "lng_cloud_password_waiting" = "驗證連結傳送到 {email}…";
 "lng_cloud_password_change" = "變更雲端密碼";
@@ -403,22 +403,22 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_set" = "啟用兩步驟驗證";
 "lng_cloud_password_edit" = "變更雲端密碼";
 "lng_cloud_password_enter_old" = "輸入目前的密碼";
-"lng_cloud_password_enter_first" = "輸入一組密碼";
+"lng_cloud_password_enter_first" = "輸入密碼";
 "lng_cloud_password_enter_new" = "輸入新的密碼";
 "lng_cloud_password_confirm_new" = "再次輸入新的密碼";
 "lng_cloud_password_hint" = "輸入密碼提示";
-"lng_cloud_password_change_hint" = "輸入新的密碼提示";
+"lng_cloud_password_change_hint" = "輸入新密碼提示";
 "lng_cloud_password_bad" = "密碼和提示不可以一樣。";
 "lng_cloud_password_email" = "輸入復原用的電子信箱";
-"lng_cloud_password_bad_email" = "不正確的電子信箱，請嘗試其它的。";
+"lng_cloud_password_bad_email" = "電子信箱不正確，請嘗試其它的。";
 "lng_cloud_password_about" = "當您登入到一個新裝置，除了一般的驗證碼外，這個密碼將被要求輸入。";
 "lng_cloud_password_about_recover" = "警告！您確定您不想加入一個密碼恢復用的電子郵件信箱？\n\n如果您忘了您的密碼，您將\n無法再存取您的 Telegram 帳號。";
 "lng_cloud_password_skip_email" = "略過電子信箱";
-"lng_cloud_password_almost" = "一個驗證連結被傳送到\n您所提供的電子信箱中。\n\n兩步驟驗證將被啟用\n，當您跟隨該連結時。";
-"lng_cloud_password_was_set" = "啟用了兩步驟驗證。";
+"lng_cloud_password_almost" = "一個驗證連結已傳送到\n您所提供的電子信箱中。兩步驟驗證將被啟用，當您跟隨該連結時。";
+"lng_cloud_password_was_set" = "兩步驟驗證已啟用。";
 "lng_cloud_password_updated" = "您的雲端密碼更新了。";
-"lng_cloud_password_removed" = "停用了兩步驟驗證。";
-"lng_cloud_password_differ" = "密碼不相符";
+"lng_cloud_password_removed" = "已停用兩步驟驗證。";
+"lng_cloud_password_differ" = "密碼不一致";
 "lng_cloud_password_wrong" = "錯誤的雲端密碼";
 "lng_cloud_password_is_same" = "密碼沒有被變更";
 "lng_cloud_password_passport_losing" = "警告！保存在您的 Telegram 護照中的所有資料都將丟失！";
@@ -449,7 +449,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_online" = "已連接";
 "lng_proxy_checking" = "正在檢查";
 "lng_proxy_connecting" = "正在連接";
-"lng_proxy_available" = "可用，{ping} 毫秒反應時間";
+"lng_proxy_available" = "可用，{ping} 毫秒網路延遲";
 "lng_proxy_unavailable" = "無法使用";
 "lng_proxy_edit" = "編輯代理伺服器";
 "lng_proxy_menu_edit" = "編輯";
@@ -491,7 +491,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_sessions_header" = "目前使用的裝置";
 "lng_sessions_other_header" = "已登入的裝置";
-"lng_sessions_other_desc" = "您可以使用相同的電話號碼，從其它手機、平板電腦和桌面電腦登入 Telegram 。您的所有數據將立即同步。";
+"lng_sessions_other_desc" = "您可以使用相同的電話號碼，從其它手機、平板電腦和桌面電腦登入 Telegram 。您的所有資料將立即同步。";
 "lng_sessions_terminate_all" = "登出其他的裝置";
 
 "lng_blocked_list_title" = "封鎖名單";
@@ -592,10 +592,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_bio" = "個性簽名：";
 "lng_profile_add_contact" = "添加聯絡人";
 "lng_profile_edit_contact" = "編輯";
-"lng_profile_clear_and_exit" = "刪除並離開";
-"lng_profile_leave_channel" = "離開頻道";
+"lng_profile_clear_and_exit" = "刪除並退出";
+"lng_profile_leave_channel" = "退出頻道";
 "lng_profile_delete_channel" = "刪除頻道";
-"lng_profile_leave_group" = "離開群組";
+"lng_profile_leave_group" = "退出群組";
 "lng_profile_delete_group" = "刪除群組";
 "lng_profile_report" = "檢舉";
 "lng_profile_search_messages" = "搜尋訊息";
@@ -608,7 +608,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_view_channel" = "檢視頻道";
 "lng_profile_join_channel" = "加入頻道";
 "lng_profile_join_group" = "加入群組";
-"lng_profile_delete_and_exit" = "離開";
+"lng_profile_delete_and_exit" = "退出";
 "lng_profile_kick" = "移除";
 "lng_profile_sure_kick" = "從群組中移除 {user} ？";
 "lng_profile_sure_kick_channel" = "從頻道中移除 {user} ？";
@@ -669,9 +669,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_info_delete_contact" = "刪除聯絡人";
 "lng_info_share_contact" = "分享聯絡人";
 "lng_profile_clear_history" = "清除聊天紀錄";
-"lng_profile_delete_conversation" = "刪除對話";
+"lng_profile_delete_conversation" = "刪除聊天";
 "lng_profile_block_user" = "封鎖用戶";
 "lng_profile_unblock_user" = "解除封鎖用戶";
+"lng_profile_export_chat" = "匯出聊天紀錄";
+"lng_profile_export_channel" = "匯出頻道紀錄";
 "lng_media_selected_photo#one" = "{count} 張照片";
 "lng_media_selected_photo#other" = "{count} 張照片";
 "lng_media_selected_video#one" = "{count} 個影片";
@@ -770,16 +772,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_create_channel_crop" = "為您的頻道照片選擇一個範圍";
 
 "lng_failed_add_participant" = "無法添加用戶。請稍後再試。";
-"lng_failed_add_not_mutual" = "抱歉，如果一個人離開了群組，只有互為聯絡人的人可以把他們帶回(他們要有您的手機號碼，而您有他們的)。";
-"lng_failed_add_not_mutual_channel" = "抱歉，如果一個人離開了頻道，只有互為聯絡人的人可以把他們帶回(他們要有您的手機號碼，而您有他們的)。";
+"lng_failed_add_not_mutual" = "抱歉，如果一個人退出了群組，只有互為聯絡人的人可以把他們帶回(他們要有您的手機號碼，而您有他們的)。";
+"lng_failed_add_not_mutual_channel" = "抱歉，如果一個人退出了頻道，只有互為聯絡人的人可以把他們帶回(他們要有您的手機號碼，而您有他們的)。";
 
 "lng_sure_delete_contact" = "您確定要從聯絡人名單中刪除 {contact} ？";
 "lng_sure_delete_history" = "您確定要刪除與 {contact} 的所有聊天紀錄？\n\n這個操作無法撤銷。";
 "lng_sure_delete_group_history" = "您確定要刪除 «{group}» 群組中的所有聊天紀錄？\n\n這個操作無法撤銷。";
-"lng_sure_delete_and_exit" = "您確定要刪除所有聊天紀錄並且離開 «{group}» 群組？\n\n這個操作無法撤銷。";
-"lng_sure_leave_channel" = "您確定要離開\n這個頻道？";
+"lng_sure_delete_and_exit" = "您確定要刪除所有聊天紀錄並且退出 «{group}» 群組？\n\n這個操作無法撤銷。";
+"lng_sure_leave_channel" = "您確定要退出這個頻道？";
 "lng_sure_delete_channel" = "您確定要刪除這個頻道？所有成員將被移除並且所有訊息會被清空。";
-"lng_sure_leave_group" = "您確定要離開此群組？";
+"lng_sure_leave_group" = "您確定要退出這個群組？";
 "lng_sure_delete_group" = "您確定要刪除這個群組？所有成員將被移除並且所有訊息會被清空。";
 "lng_sure_delete_saved_messages" = "您確定想要刪除所有已儲存的訊息？\n\n這個操作無法撤銷。";
 
@@ -802,7 +804,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_you_joined" = "您加入了這個頻道";
 "lng_action_add_you_group" = "{from} 將您加入到這個群組";
 "lng_action_kick_user" = "{from} 移除了 {user}";
-"lng_action_user_left" = "{from} 離開了群組";
+"lng_action_user_left" = "{from} 退出了群組";
 "lng_action_user_joined" = "{from} 加入了群組";
 "lng_action_user_joined_by_link" = "{from} 透過邀請連結加入了群組";
 "lng_action_user_registered" = "{from} 剛才加入了 Telegram";
@@ -843,7 +845,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_you_took_screenshot" = "您擷取了螢幕畫面！";
 "lng_action_bot_allowed_from_domain" = "您允許此機器人在您登入 {domain} 時向您傳送訊息。";
 "lng_action_secure_values_sent" = "{user} 收到以下文件：{documents}";
-"lng_action_secure_personal_details" = "個人資料";
+"lng_action_secure_personal_details" = "個人資訊";
 "lng_action_secure_proof_of_identity" = "身分證明";
 "lng_action_secure_address" = "地址";
 "lng_action_secure_proof_of_address" = "地址證明";
@@ -872,8 +874,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_add_more_after_upgrade#one" = "在升級為一個超級群組之後，您將能夠添加高達 {count} 個成員。";
 "lng_profile_add_more_after_upgrade#other" = "在升級為一個超級群組之後，您將能夠添加高達 {count} 個成員。";
 
-"lng_channel_not_accessible" = "抱歉，這個頻道不能存取。";
-"lng_group_not_accessible" = "抱歉，這個群組不能存取。";
+"lng_channel_not_accessible" = "抱歉，無法進入這個頻道。";
+"lng_group_not_accessible" = "抱歉，無法進入這個群組。";
 "lng_group_full" = "抱歉，此群組成員名額已滿。";
 
 "lng_channels_too_much_public_about" = "抱歉，您已經建立了太多公開的連結。您可以撤換其中一個舊群組或頻道的公開連結。";
@@ -887,7 +889,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_members#one" = "{count} 個成員，其中：";
 "lng_group_invite_members#other" = "{count} 個成員，其中包括：";
 
-"lng_group_invite_create" = "建立一個邀請連結";
+"lng_group_invite_create" = "建立邀請連結";
 "lng_group_invite_about" = "Telegram 用戶將能夠加入\n您的群組通過以下連結。";
 "lng_group_invite_about_channel" = "Telegram 用戶透過以下連結\n將能夠加入您的頻道。";
 "lng_group_invite_create_new" = "撤換邀請連結";
@@ -1002,12 +1004,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_report_spam" = "檢舉垃圾訊息";
 "lng_report_spam_hide" = "隱藏";
 "lng_report_spam_thanks" = "感謝您的檢舉！";
-"lng_report_spam_sure" = "您確定要檢舉出自此用戶的垃圾訊息？";
-"lng_report_spam_sure_group" = "您確定要檢舉在此群組中的垃圾訊息？";
-"lng_report_spam_sure_channel" = "您確定要檢舉在此頻道中的垃圾訊息？";
+"lng_report_spam_sure" = "您確定要檢舉此用戶的垃圾訊息嗎？";
+"lng_report_spam_sure_group" = "您確定要檢舉此群組中的垃圾訊息嗎？";
+"lng_report_spam_sure_channel" = "您確定要檢舉此頻道中的垃圾訊息嗎？";
 "lng_report_spam_ok" = "檢舉";
-"lng_cant_send_to_not_contact" = "抱歉，目前您只能傳送訊息給\n互相有聯絡的人。\n{more_info}";
-"lng_cant_invite_not_contact" = "抱歉，目前您只能將互相有聯絡\n的人加入到群組。\n{more_info}";
+"lng_cant_send_to_not_contact" = "抱歉，目前您只能傳送訊息給\n互為聯絡人的人。\n{more_info}";
+"lng_cant_invite_not_contact" = "抱歉，目前您只能將互為聯絡人\n的人加入到群組。\n{more_info}";
 "lng_cant_more_info" = "更多資訊 »";
 "lng_cant_invite_banned" = "抱歉，只有管理員可以加入此用戶。";
 "lng_cant_invite_privacy" = "抱歉，因為用戶的隱私設定，您無法將其加入到群組中。";
@@ -1026,8 +1028,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_from_draft" = "草稿";
 "lng_bot_description" = "這個機器人可以做什麼？";
 "lng_unblock_button" = "解除封鎖";
-"lng_channel_mute" = "關閉訊息通知";
-"lng_channel_unmute" = "恢復訊息通知";
+"lng_channel_mute" = "關閉通知";
+"lng_channel_unmute" = "開啟通知";
 "lng_saved_messages" = "已儲存的訊息";
 "lng_saved_short" = "儲存";
 "lng_saved_forward_here" = "轉傳訊息到這裡以便快速存取";
@@ -1237,7 +1239,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_delete_for_everyone_check" = "也從所有人的聊天紀錄中刪除";
 "lng_delete_for_other_check" = "也從 {user} 的聊天紀錄中刪除";
 "lng_box_delete" = "刪除";
-"lng_box_leave" = "離開";
+"lng_box_leave" = "退出";
 
 "lng_about_version" = "版本 {version}";
 "lng_about_text_1" = "官方版的免費通訊應用，基於速度快而且安全的 [a href=\"https://core.telegram.org/api\"]Telegram API[/a] 。";
@@ -1267,13 +1269,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mediaview_doc_image" = "檔案";
 "lng_mediaview_today" = "今天於 {time}";
 "lng_mediaview_yesterday" = "昨天的 {time}";
-"lng_mediaview_date_time" = "{date} 的 {time}";
+"lng_mediaview_date_time" = "{date}{time}";
 
 "lng_mediaview_saved" = "圖片儲存至您的 [c]下載[/c] 資料夾";
 
 "lng_theme_preview_title" = "主題預覽";
 "lng_theme_preview_generating" = "正在產生顏色主題預覽…";
-"lng_theme_preview_invalid" = "無效數據在此主題檔案中。";
+"lng_theme_preview_invalid" = "無效資料在此主題檔案中。";
 "lng_theme_preview_apply" = "套用此主題";
 
 "lng_new_authorization" = "{name},\n我們偵測到有新裝置使用您的帳號登入，時間為 {date} 日 {day} 的 {time} \n\n裝置： {device}\n位置： {location}\n\n如果這不是您，您可以到「設定」>「顯示登入的裝置」，然後登出該裝置。\n\n如果您懷疑有人未經您的同意登入您的帳號，您可以到「設定」中，啟用「兩步驟驗證」。\n\nTelegram 團隊，\n敬上";
@@ -1404,7 +1406,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_restricted_send_media" = "這個群組的管理員限制您在這裡張貼媒體內容。";
 "lng_restricted_send_stickers" = "這個群組的管理員限制您在這裡張貼貼圖。";
 "lng_restricted_send_gifs" = "這個群組的管理員限制您在這裡張貼 GIF 動圖。";
-"lng_restricted_send_inline" = "這個群組的管理員限制您在這裡張貼行內機器人內容。";
+"lng_restricted_send_inline" = "這個群組的管理員限制您在這張貼內聯內容。";
 
 "lng_restricted_list_title" = "受限名單";
 "lng_banned_list_title" = "封鎖名單";
@@ -1465,8 +1467,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_deleted_message" = "{from} 刪除了訊息：";
 "lng_admin_log_participant_joined" = "{from} 加入了群組";
 "lng_admin_log_participant_joined_channel" = "{from} 加入了頻道";
-"lng_admin_log_participant_left" = "{from} 離開了群組";
-"lng_admin_log_participant_left_channel" = "{from} 離開了頻道";
+"lng_admin_log_participant_left" = "{from} 退出了群組";
+"lng_admin_log_participant_left_channel" = "{from} 退出了頻道";
 "lng_admin_log_invited" = "邀請了 {user}";
 "lng_admin_log_banned" = "封鎖了 {user}";
 "lng_admin_log_restricted" = "變更了對 {user} 的限制，{until}";
@@ -1544,14 +1546,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_create_password" = "請建立一組密碼，將用於加密您的個人資料。";
 "lng_passport_about_password" = "當您登入到新裝置時, 也將需要此密碼。";
 "lng_passport_password_create" = "建立密碼";
-"lng_passport_link_sent" = "確認連結已傳送到您的電子信箱\n{email}";
+"lng_passport_link_sent" = "驗證連結已傳送到您的電子信箱\n{email}";
 "lng_passport_stop_password_sure" = "您確定要取消設定密碼嗎？";
 "lng_passport_password_placeholder" = "您的密碼";
 "lng_passport_next" = "下一頁";
 "lng_passport_password_wrong" = "您輸入的密碼無效。";
 "lng_passport_header" = "請求的資訊";
 "lng_passport_identity_title" = "身分證件";
-"lng_passport_identity_description" = "上傳您的護照或其他ID的掃描";
+"lng_passport_identity_description" = "上傳您的身分證明";
 "lng_passport_identity_passport" = "護照";
 "lng_passport_identity_passport_upload" = "上傳您的護照掃描";
 "lng_passport_identity_card" = "身分證";
@@ -1574,12 +1576,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_address_temporary" = "臨時註冊";
 "lng_passport_address_temporary_upload" = "上傳您臨時註冊的掃描";
 "lng_passport_address_about" = "要確認您的地址，請上傳所選文件（所有頁面）的掃描或照片。";
+"lng_passport_or_title" = "{document} 或 {second_document}";
 "lng_passport_document_type" = "請選擇您的文件類型：";
 "lng_passport_upload_document" = "上傳文件";
 "lng_passport_phone_title" = "電話號碼";
 "lng_passport_phone_description" = "輸入您的電話號碼";
 "lng_passport_email_title" = "電子郵件";
 "lng_passport_email_description" = "請輸入您的電子郵件地址";
+"lng_passport_identity_selfie" = "與您的文件一起自拍";
+"lng_passport_translation_needed" = "上載文件的翻譯";
 "lng_passport_accept_allow" = "您接受 {policy} 並允許 {bot} 機器人向您傳送訊息。";
 "lng_passport_allow" = "您允許 {bot} 機器人向您傳送訊息。";
 "lng_passport_policy" = "{bot} 隱私權政策";
@@ -1592,23 +1597,29 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_upload_scans" = "上傳掃描";
 "lng_passport_upload_more" = "上傳其他掃描";
 "lng_passport_selfie_title" = "自拍照";
-"lng_passport_selfie_name" = "照片";
 "lng_passport_selfie_description" = "上傳您自己持有文件的照片。確保身分證和您的臉部清晰可見。";
 "lng_passport_upload_selfie" = "上傳自拍照";
+"lng_passport_reupload_selfie" = "重新上傳自拍照";
 "lng_passport_front_side_title" = "正面";
-"lng_passport_front_side_name" = "掃描";
 "lng_passport_front_side_description" = "上傳您文件的正面。";
 "lng_passport_upload_front_side" = "上傳正面掃描";
+"lng_passport_reupload_front_side" = "重新上傳正面掃描";
 "lng_passport_reverse_side_title" = "反面";
-"lng_passport_reverse_side_name" = "掃描";
 "lng_passport_reverse_side_description" = "上傳您文件的反面。";
 "lng_passport_upload_reverse_side" = "上傳反面掃描";
-"lng_passport_personal_details" = "個人資料";
-"lng_passport_personal_details_enter" = "輸入您的個人資料";
+"lng_passport_reupload_reverse_side" = "重新上傳反面掃描";
+"lng_passport_main_page_title" = "首頁";
+"lng_passport_main_page_description" = "上傳您文件的首頁。";
+"lng_passport_upload_main_page" = "上傳首頁的掃描";
+"lng_passport_reupload_main_page" = "重新上傳首頁的掃描";
+"lng_passport_personal_details" = "個人資訊";
+"lng_passport_personal_details_enter" = "填寫您的個人資訊";
+"lng_passport_document_details" = "文件細節";
 "lng_passport_choose_image" = "選擇掃描圖片";
 "lng_passport_delete_scan_undo" = "撤銷";
 "lng_passport_scan_uploaded" = "已上傳於 {date}";
-"lng_passport_first_name" = "名稱";
+"lng_passport_first_name" = "名字";
+"lng_passport_middle_name" = "中間名";
 "lng_passport_last_name" = "姓氏";
 "lng_passport_birth_date" = "出生日期";
 "lng_passport_gender" = "性別";
@@ -1617,14 +1628,19 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_country" = "國家";
 "lng_passport_residence_country" = "住處";
 "lng_passport_country_choose" = "選擇國家";
-"lng_passport_document_number" = "卡號";
+"lng_passport_document_number" = "文件編號";
 "lng_passport_expiry_date" = "有效日期";
+"lng_passport_native_name_title" = "以文件所用語言呈現名字";
+"lng_passport_native_name_about" = "您的姓名使用發布文件的國家 ({country}) 之語言。";
+"lng_passport_native_name_language" = "您在{language}中的名稱";
+"lng_passport_native_name_language_about" = "您的姓名使用發布文件的國家之語言。";
 "lng_passport_address" = "地址";
-"lng_passport_address_enter" = "輸入您的地址";
+"lng_passport_address_enter" = "請提供您的地址";
 "lng_passport_street" = "街道";
 "lng_passport_city" = "鄉/鎮/區";
 "lng_passport_state" = "縣/市";
 "lng_passport_postcode" = "郵遞區號";
+"lng_passport_translation" = "翻譯";
 "lng_passport_use_existing" = "使用 {existing}";
 "lng_passport_use_existing_phone" = "使用與在 Telegram 上相同的電話號碼。";
 "lng_passport_new_phone" = "或輸入新電話號碼";
@@ -1638,10 +1654,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_scans_limit_reached" = "抱歉，這個文件被掃描太多次了。";
 "lng_passport_delete_document" = "刪除文件";
 "lng_passport_delete_document_sure" = "您確定要刪除此文件嗎？";
-"lng_passport_delete_details" = "刪除個人資料";
-"lng_passport_delete_details_sure" = "您確定要刪除您的個人資料嗎？";
+"lng_passport_delete_details" = "刪除個人資訊";
+"lng_passport_delete_details_sure" = "您確定要刪除您的個人資訊嗎？";
 "lng_passport_delete_address" = "刪除地址資訊";
-"lng_passport_delete_address_sure" = "您確實要刪除您的地址資訊嗎？";
+"lng_passport_delete_address_sure" = "您確定要刪除您的地址資訊嗎？";
 "lng_passport_delete_email" = "刪除電子郵件地址";
 "lng_passport_delete_email_sure" = "您確定要刪除您的電子郵件地址？";
 "lng_passport_delete_phone" = "刪除電話號碼";
@@ -1655,6 +1671,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_error_bad_size" = "抱歉，這個圖片的尺寸不對。";
 "lng_passport_error_cant_read" = "無法讀取此檔案。請選擇一圖片。";
 "lng_passport_bad_name" = "請只使用拉丁字母。";
+"lng_passport_wait_upload" = "上傳完成後請稍候。";
+"lng_passport_app_out_of_date" = "很抱歉，您的 Telegram 應用已經過期，無法處理此請求。請更新 Telegram。";
 
 "lng_export_title" = "匯出個人資料";
 "lng_export_progress_title" = "正在匯出個人資料";
@@ -1700,7 +1718,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_state_video_message" = "圓形視訊訊息";
 "lng_export_state_sticker" = "貼圖";
 "lng_export_state_gif" = "GIF 動圖";
-"lng_export_progress" = "您現在可以關閉這個視窗。在資料匯出完成之前請不要關閉本程式。";
+"lng_export_progress" = "您現在可以關閉這個視窗。在資料匯出完成之前，請不要關閉 Telegram。";
 "lng_export_stop" = "停止";
 "lng_export_sure_stop" = "您確定要停止匯出您的資料嗎？\n\n如果您這樣做，之後您需要重新開始。";
 "lng_export_about_done" = "您的資料已成功匯出。";
@@ -1710,7 +1728,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_total_size" = "總大小：{size}。";
 "lng_export_folder" = "選擇匯出資料夾";
 "lng_export_invalid" = "抱歉，您已開始新的資料匯出，因此這個資料匯出現在已被取消。";
-"lng_export_delay" = "抱歉，基於安全的理由，您在 {hours} 後才可以開始下載您的資料。我們已通知您的所有裝置有關匯出資料的請求，以確保其已獲得授權，如果不是，您仍有時間做出反應。\n\n請在 {date} 使用相同的裝置回到這裡，並重複請求。";
+"lng_export_delay" = "抱歉，基於安全的理由，您在 {hours}後才可以開始下載您的資料。我們已通知您的所有裝置有關匯出資料的請求，以確保其已獲得授權，如果不是，您仍有時間做出反應。\n\n請在{date}回到這裡，並使用相同的裝置重複請求。";
 "lng_export_delay_less_than_hour" = "不到一小時";
 "lng_export_delay_hours#one" = "{count} 小時";
 "lng_export_delay_hours#other" = "{count} 小時";
@@ -1719,11 +1737,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_suggest_cancel" = "現在不要";
 "lng_export_about_telegram" = "這是您請求的所有資料。請記住：我們不會將您的資料用於廣告目標，我們不會把它出售給其他人，並且我們不屬於任何 \"公司家族\"。\n\nTelegram 只保留它所需的資訊，以作為功能豐富的雲端服務 - 例如，您的雲端聊天，讓您可以方便地從任何裝置存取它們而無需使用第三方備份，或聯絡人資訊，讓您方便地在 Telegram 上傳訊息給對方。\n\n檢查行動裝置 Telegram \"設定\" > \"隱私與安全\" 的相關設定。";
 "lng_export_about_contacts" = "如果您允許存取，您聯絡人的資訊將不斷與 Telegram 同步。多虧了這一點，您可以輕鬆切換到 Telegram，而不會失去現有的社交圖譜 - 並透過所有您的裝置與朋友進行聯繫。我們使用您的聯絡人資料，以便在他們加入 Telegram 時通知您。我們還使用它來確保您看到的是電話簿中的姓名，而不是人們為自己選擇的螢幕名稱。\n\n您可以在行動裝置上 Telegram 的\"設定\" > \"隱私與安全\" 中停用聯絡人的同步或刪除您已同步的聯絡人。";
-"lng_export_about_frequent" = "此評分顯示哪些人可能經常傳送訊息。Telegram 使用這些資料填入搜尋區頂部的 \"人們\" 。該評分也針對行內機器人計算，以便應用程式可以在附件選單中推薦給您最可能使用到的機器人（或者當您使用 \"@\" 開始新訊息時）。\n\n要刪除此資料，請前往設定 > 隱私與安全，然後停用 \"建議常用聯絡人\"（需要 iOS 平台 Telegram 4.8.3 版或 Android 平台 Telegram 4.8.10 版或更新版本）。更多資訊，請參閱此頁面：https：//telegram.org/faq_export";
+"lng_export_about_frequent" = "此評分顯示哪些人可能經常傳送訊息。Telegram 使用這些資料填入搜尋區頂部的 \"人們\" 。該評分也針對內聯機器人計算，以便應用程式可以在附件選單中推薦您最可能使用到的機器人（或者當您使用 \"@\" 開始新訊息時）。\n\n要刪除此資料，請前往設定 > 隱私與安全，然後停用 \"建議常用聯絡人\"（需要 iOS 平台 Telegram 4.8.3 版或 Android 平台 Telegram 4.8.10 版或更新版本）。";
 "lng_export_about_sessions" = "我們在「設定」>「隱私與安全」>「已登入的裝置」中儲存此資訊以顯示您已連接的裝置。";
-"lng_export_about_web_sessions" = "我們在設定 > 隱私與安全 > 已登入的裝置中儲存網站登入資訊，以顯示您使用 Telegram 登入的網站。斷開與網站的連結將從 Telegram 伺服器中刪除此資料。";
+"lng_export_about_web_sessions" = "我們儲存此資訊以顯示您透過使用 Telegram 來驗證身分所登入的網站。此資訊顯示在 \"設定\" > \"隱私與安全\" > \"已登入的裝置或網站\" 中。";
 "lng_export_about_chats" = "本頁面列出這次匯出的所有聊天內容，以及其資料的所在位置。";
-"lng_export_about_left_chats" = "本頁面列出了您已離開的所有超級群組和頻道，以及在哪裡尋找這些資料。\n\n請注意，當您離開您建立的頻道或超級群組時，您可以選擇將其刪除，或者直接離開（如果您想稍後重新加入；或者儘管您不再是成員了，社群仍然可以保持活著，只是改由您授權的管理員經營）。";
+"lng_export_about_left_chats" = "以下是您退出或您被封鎖的超級群組和頻道。\n\n請注意，當您要退出您所創立的頻道或超級群組時，您可以選擇刪除它，或者僅是退出（如果您想稍後重新加入，或者儘管不是成員，仍然讓社群保持活著）。";
 
 // Wnd specific
 
@@ -1755,7 +1773,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_menu_hide_others" = "隱藏其他";
 "lng_mac_menu_show_all" = "顯示所有";
 "lng_mac_menu_preferences" = "偏好設定…";
-"lng_mac_menu_quit_telegram" = "結束 {telegram}";
+"lng_mac_menu_quit_telegram" = "關閉 {telegram}";
 "lng_mac_menu_about_telegram" = "關於 {telegram}";
 "lng_mac_menu_file" = "檔案";
 "lng_mac_menu_logout" = "登出";
