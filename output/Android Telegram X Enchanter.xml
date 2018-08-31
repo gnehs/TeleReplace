@@ -967,7 +967,7 @@
   <string name="Ringtone">鈴聲</string>
   <string name="RingtoneDisabled">已停用</string>
   <string name="Calls">精靈耳</string>
-  <string name="Connected">魔力連接完畢，歡迎來到魔法 Telegram！</string>
+  <string name="Connected">魔力連接完畢！</string>
   <string name="Allow">允許</string>
   <string name="ContactAdded">同伴已添加</string>
   <string name="SuggestInvitingUser">%1$s 目前還沒有使用 Telegram，尼想要邀請對方加入嗎？</string>

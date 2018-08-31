@@ -12,7 +12,7 @@ fs.readdir(__dirname + "/source/", function(err, files) { //讀取資料夾
         let fileUrl = __dirname + '/source/' + files[i] //檔案位置
         let fileName = files[i] //檔案名稱
         if (/^(._)/.test(fileName)) { // 檢測檔案名稱是否以「._」開頭，有則跳過
-            console.log(' - 已跳過 ', fileName)
+            //console.log(' - 已跳過 ', fileName)
         } else {
             fs.readFile(fileUrl, (err, fileData) => {
                 if (err) throw err;
@@ -31,6 +31,8 @@ function replaceWord(data) {
 }
 
 function saveOutput(fileData, fileName) { //存檔
+    if (fileName == 'android_x_zh-TW.xml') fileName = `Android Telegram X Enchanter.xml`
+    else fileName = fileName.replace(/TW/g, 'Enchanter')
     fs.writeFile(__dirname + '/output/' + fileName, fileData, (err) => { if (err) throw err })
     console.log(' - 已轉換 ', fileName)
 }

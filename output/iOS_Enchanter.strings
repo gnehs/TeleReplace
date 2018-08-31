@@ -2900,7 +2900,7 @@
 "Settings.Proxy" = "代理";
 "Settings.ProxyDisabled" = "已停用";
 "Settings.ProxyConnecting" = "連接中...";
-"Settings.ProxyConnected" = "魔力連接完畢，歡迎來到魔法 Telegram！";
+"Settings.ProxyConnected" = "魔力連接完畢！";
 
 "SocksProxySetup.UseProxy" = "使用代理";
 "SocksProxySetup.SavedProxies" = "已儲存ㄉ代理";
