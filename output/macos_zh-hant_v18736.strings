@@ -1,0 +1,2364 @@
+﻿
+"Messages.UnreadMark" = "未讀水晶玉";
+"Messages.ForwardHeader" = "轉傳ㄉ水晶玉";
+"Messages.File.State.FetchingIn_1" = "%d% 已下載";
+"Messages.File.State.FetchingOut_1" = "%d% 已上傳";
+
+"Messages.File.State.Remote" = "下載";
+"Messages.File.State.Local" = "在 Finder 中顯示";
+"Messages.DeletedMessage" = "已詛咒ㄉ水晶玉";
+
+"Messages.Placeholder.SentMessage" = "施展魔法水晶玉…";
+"SearchField.Search" = "找找";
+"Contacts.ContacsSeparator" = "同伴";
+"Navigation.back" = "返回";
+"Navigation.Edit" = "編輯";
+"Navigation.Done" = "好惹";
+"Navigation.Close" = "關閉";
+"Navigation.Cancel" = "取消";
+
+"Gallery.Counter" = "%d / %d";
+
+"Peer.Status.online" = "在線上";
+"Peer.Status.recently" = "最後施展魔法於不久前";
+"Peer.Status.justNow" = "最後施展魔法於剛才";
+"Peer.Status.lastWeek" = "最後施展魔法於一週內";
+"Peer.Status.lastMonth" = "最後施展魔法於一個月內";
+"Peer.Status.longTimeAgo" = "最後施展魔法於很久以前";
+
+"Peer.Status.Today" = "今天";
+"Peer.Status.Yesterday" = "昨天";
+"Peer.Status.LastSeenAt" = "最後施展魔法於 %@ ㄉ %@";
+
+
+/* do not translate key with 'countable' suffix */
+
+"Peer.Status.Member_countable" = "%d";
+
+
+
+
+
+"Peer.Status.Member_other" = "%d 位魔法師";
+
+
+"Peer.Status.Member_countable" = "%d";
+
+
+
+
+
+"Peer.Status.Member_other" = "%d 位魔法師";
+
+/* do not translate key with 'countable' suffix */
+"Peer.Status.Member.Online_countable" = "%d";
+
+
+
+
+
+"Peer.Status.Member.Online_other" = "%d 人在線上";
+
+
+/* do not translate key with 'countable' suffix */
+"Peer.Status.minAgo_countable" = "%d";
+
+
+
+
+
+"Peer.Status.minAgo_other" = "最後施展魔法於 %d 分鐘前";
+
+"Peer.Status.channel" = "大聲公";
+"Peer.Status.group" = "圈圈";
+
+"Telegram.PeerInfoController" = "魔法書";
+"PeerInfo.SendMessage" = "傳送水晶玉";
+"PeerInfo.ShareContact" = "分享同伴魔法書";
+"PeerInfo.StartSecretChat" = "開始隱形聊天";
+"PeerInfo.SharedMedia" = "共享ㄉ媒體";
+"PeerInfo.Notifications" = "啄木鳥";
+"PeerInfo.BlockUser" = "魔障屏蔽魔法師";
+"PeerInfo.UnblockUser" = "解除魔障屏蔽魔法師";
+"PeerInfo.username" = "魔法識別ID";
+"PeerInfo.about" = "關於";
+"PeerInfo.bio" = "魔法師簽名";
+"PeerInfo.info" = "魔法書";
+"PeerInfo.SetGroupPhoto" = "設定圈圈頭像";
+"PeerInfo.AddMember" = "添加魔法師";
+"PeerInfo.DeleteAndExit" = "詛咒並退出";
+"PeerInfo.LeaveGroup" = "退出圈圈";
+
+"PeerInfo.StopBot" = "讓機器人停止";
+"PeerInfo.RestartBot" = "重啟機器人";
+
+"PeerInfo.LeaveChannel" = "退出大聲公";
+"PeerInfo.Report" = "檢舉";
+"PeerInfo.sharelink" = "分享傳送器";
+"PeerInfo.Confirm.LeaveChannel" = "尼確定要退出此大聲公？";
+"PeerInfo.Confirm.LeaveGroup" = "尼確定要退出該圈圈嗎？\n\n這操作無法撤銷。";
+"PeerInfo.Confirm.DeleteChat" = "尼確定要詛咒所有歷史聊天記錄並退出「%@」？\n\n這個操作無法撤銷。";
+"Confirm.DeleteAdminedChannel" = "等一下！詛咒此大聲公將炸毀所有魔法師，而且所有ㄉ水晶玉都將會消失。\n\n尼確定要詛咒大聲公？";
+"Confirm.DeleteChatUser" = "尼確定想要詛咒所有歷史聊天記錄？\n\n這個操作無法撤銷。";
+"Confirm.LeaveGroup" = "尼確定要退出此圈圈嗎？";
+
+"PeerMedia.SharedMedia" = "共享ㄉ媒體";
+"EmptyPeer.Description" = "請選擇聊天對象，開始傳水晶玉";
+
+"Emoji.Recent" = "經常使用ㄉ";
+"Emoji.SmilesAndPeople" = "表情符號與人物";
+"Emoji.AnimalsAndNature" = "動物與自然";
+"Emoji.FoodAndDrink" = "飲食";
+"Emoji.ActivityAndSport" = "活動";
+"Emoji.TravelAndPlaces" = "旅遊 & 地方";
+"Emoji.Objects" = "物品";
+"Emoji.Symbols" = "符號";
+"Emoji.Flags" = "旗幟";
+
+
+"Chat.DropTitle" = "拖放玉石到此處傳送";
+"Chat.DropQuickDesc" = "用一個快速ㄉ方法";
+"Chat.DropAsFilesDesc" = "不壓縮";
+
+"Chat.DropFolder.Title" = "將資料夾拖到此處傳送";
+
+
+"Message.ActionsPanel.Delete" = "詛咒";
+"Message.ActionsPanel.Forward" = "轉傳";
+"Message.ActionsPanel.EmptySelected" = "選擇水晶玉";
+
+
+/* do not translate key with 'countable' suffix */
+"Message.ActionsPanel.SelectedCount_countable" = "%d";
+
+
+
+
+
+"Message.ActionsPanel.SelectedCount_other" = "%d 則水晶玉已選取";
+
+
+/* do not translate key with 'countable' suffix */
+"Message.AccessoryPanel.Forwarded_countable" = "%d";
+
+
+
+
+
+"Message.AccessoryPanel.Forwarded_other" = " %d 則轉傳ㄉ水晶玉";
+
+
+
+/* do not translate key with 'countable' suffix */
+"ForwardModalAction.Title_countable" = "%d";
+
+
+
+
+
+"ForwardModalAction.Title_other" = "正在轉傳水晶玉";
+
+
+/*
+ _zero
+ _one
+ _two
+ _few
+ _many
+ _other
+ */
+
+/* do not translate key with 'countable' suffix */
+"ForwardModalAction.description_countable" = "%d %@";
+
+
+
+
+
+"ForwardModalAction.description_other" = "選擇一魔法師或聊天室以轉傳來自 %@ ㄉ水晶玉";
+
+
+"Alert.OK" = "好";
+"Alert.Cancel" = "取消";
+
+
+"Alert.Forward.Error" = "無法轉傳水晶玉到這個對話中。";
+
+"PreviewSender.CompressFile" = "以壓縮形式傳送";
+"PreviewSender.CaptionPlaceholder" = "添加說明文字…";
+
+
+"PreviewSender.CollageTooltip" = "將媒體合併至一條水晶玉";
+
+
+
+
+"Modal.Send" = "傳送";
+"Modal.Share" = "分享";
+"Modal.CopyLink" = "複製傳送器";
+"Modal.Cancel" = "取消";
+"Modal.OK" = "好";
+
+"QuickLook.Preview" = "預覽";
+
+
+"Chat.Service.You" = "尼";
+"Chat.Service.Group.Created" = "%@ 建立ㄌ「%@」圈圈";
+"Chat.Service.Group.AddedMembers" = "%@ 邀請ㄌ %@";
+"Chat.Service.Group.AddedSelf" = "%@ 加入ㄌ圈圈";
+"Chat.Service.Group.RemovedMembers" = "%@ 詛咒ㄌ %@";
+"Chat.Service.Group.RemovedSelf" = "%@ 退出ㄌ圈圈";
+"Chat.Service.Group.UpdatedPhoto" = "%@ 更新ㄌ圈圈頭像";
+"Chat.Service.Group.RemovedPhoto" = "%@ 炸毀ㄌ圈圈頭像";
+"Chat.Service.Group.UpdatedTitle" = "%@ 將圈圈名稱變更為「%@」";
+"Chat.Service.Group.UpdatedPinnedMessage" = "%@ 置頂ㄌ「%@」";
+"Chat.Service.Group.JoinedByLink" = "%@ 透過傳送器加入ㄌ圈圈";
+"Chat.Service.Group.MigratedToSupergroup" = "這個圈圈被升級為一個超級圈圈";
+"Chat.Service.Group.TookScreenshot" = "%@ 擷取ㄌ螢幕畫面！";
+"Chat.Service.PinnedMessage" = "置頂水晶玉";
+
+
+"Chat.Service.Channel.UpdatedPhoto" = "大聲公照片已更新";
+"Chat.Service.Channel.RemovedPhoto" = "大聲公照片已炸毀";
+"Chat.Service.Channel.UpdatedTitle" = "大聲公重新命名為「%@」";
+
+
+"Chat.Service.SecretChat.SetTimer" = "%@ 將閱後即焚定時炸彈設定為 %@";
+"Chat.Service.SecretChat.SetTimer.Self" = "尼將閱後即焚定時炸彈設定為 %@";
+"Chat.Service.SecretChat.DisabledTimer" = "%@ 停用ㄌ閱後即焚定時炸彈";
+"Chat.Service.SecretChat.DisabledTimer.Self" = "尼停用ㄌ閱後即焚定時炸彈";
+
+"Chat.Input.Mute" = "關閉水晶玉啄木鳥";
+"Chat.Input.Unmute" = "恢復水晶玉啄木鳥";
+"Chat.Input.Return" = "返回圈圈";
+"Chat.Input.SecretChat.WaitingToOnline" = "正在等待魔法師施展魔法...";
+"Chat.Input.Delete" = "詛咒並退出";
+"Chat.Input.Join" = "加入";
+"Chat.Input.Unblock" = "解除魔障屏蔽";
+"Chat.Input.Restart" = "重新啟動";
+
+"Message.Context.Reply1" = "回覆";
+"Message.Context.ReplyHelp" = "雙擊";
+
+"Message.Context.Forward" = "轉傳";
+"Message.Context.Delete" = "詛咒";
+"Message.Context.Select" = "選擇";
+"Message.Context.Edit" = "編輯";
+"Message.Context.Goto" = "顯示水晶玉";
+"Message.Context.Pin" = "置頂";
+
+"Message.Context.Confirm.Pin1" = "尼想要置頂這則水晶玉嗎？";
+"Message.Context.Confirm.NotifyPin" = "啄木鳥所有魔法師";
+
+"Message.Context.ForwardToCloud" = "保存到雲端儲存";
+
+"Entertainment.Switch.GifAndStickers" = "貼圖 & GIF";
+"Entertainment.Switch.Emoji" = "表情符號";
+"Telegram.LayoutAccountController" = "設定";
+
+"AccountSettings.SetProfilePhoto" = "設定個人頭像";
+"AccountSettings.General" = "一般";
+
+"AccountSettings.Proxy.Connecting" = "正在連線";
+"AccountSettings.Proxy.Connected" = "魔力連接完畢！";
+
+"AccountSettings.Stickers" = "貼圖";
+"AccountSettings.Notifications" = "啄木鳥";
+"AccountSettings.Username" = "魔法識別ID";
+"AccountSettings.Language" = "語言";
+"AccountSettings.PrivacyAndSecurity" = "隱私和安全";
+
+"AccountSettings.About" = "關於";
+"AccountSettings.FAQ" = "常見問題";
+"AccountSettings.AskQuestion" = "窩有問題";
+
+"ConnectingStatus.connecting" = "正在連線";
+"ConnectingStatus.online" = "在線上";
+"ConnectingStatus.updating" = "正在更新";
+"ConnectingStatus.waitingNetwork" = "正在等待魔力";
+"ConnectingStatus.connectingToProxy" = "正在連接到代理魔法圖書館";
+
+"Chat.ConnectingStatus.connecting" = "正在連線";
+"Chat.ConnectingStatus.updating" = "正在更新";
+"Chat.ConnectingStatus.waitingNetwork" = "正在等待魔力";
+"Chat.ConnectingStatus.connectingToProxy" = "正在連線到代理魔法圖書館";
+
+"InputAttach.Popover.PhotoOrVideo" = "照片或影片";
+"InputAttach.Popover.Picture" = "相機";
+"InputAttach.Popover.File" = "玉石";
+
+
+"Compose.Popover.NewGroup" = "新建圈圈";
+"Compose.Popover.NewChannel" = "新建大聲公";
+"Compose.Popover.NewSecretChat" = "新建隱形聊天";
+
+
+"Chat.Cancel" = "取消";
+"Gallery.Context.SaveAs" = "另存為⋯";
+"Gallery.Context.ShowMessage" = "顯示水晶玉";
+"Gallery.Context.CopyToClipboard" = "複製到剪貼簿";
+"Gallery.ContextDeletePhoto" = "詛咒";
+
+"Gallery.WaitDownload.Photo" = "請等待照片完全下載。";
+"Gallery.WaitDownload.Video" = "請等待影片完全下載。";
+
+"Chat.Input.Accessory.EditMessage" = "編輯水晶玉";
+"Chat.Message.edited" = "已編輯";
+
+"PeerMedia.Popover.SharedMedia" = "共享ㄉ媒體";
+"PeerMedia.Popover.SharedFiles" = "共享ㄉ玉石";
+"PeerMedia.Popover.SharedLinks" = "共享ㄉ傳送器";
+"PeerMedia.Popover.SharedAudio" = "共享ㄉ音訊";
+
+
+
+
+
+
+
+"Chat.Message.Via" = "透過";
+
+"Audio.UnknownArtist" = "未知ㄉ魔法師";
+"Audio.UntitledSong" = "無標題";
+
+"AudioController.voiceMessage" = "語音水晶玉";
+"AudioController.videoMessage" = "視訊水晶玉";
+"You" = "尼";
+
+
+"Login.WelcomeDescription" = "歡迎使用 macOS 應用程式";
+"Login.countryLabel" = "陣營";
+"Login.phoneFieldPlaceholder" = "魔法器號碼";
+"Login.Next" = "下一步";
+
+"Login.InvalidCountryCode" = "無效陣營號碼";
+"Login.codePlaceholder" = "驗證碼";
+
+
+"Login.EnterCodeFromApp" = "請施展魔法尼剛才在其它魔法器上ㄉ Telegram 中收到ㄉ驗證碼。";
+"Login.SendSmsIfNotReceivedAppCode" = "仍未收到驗證碼？";
+"Login.JustSentSms" = "窩們已經透過飛鴿傳書向尼傳送驗證碼。請在上面施展魔法它。";
+"Login.PhoneCalledCode" = "窩們剛撥打ㄌ尼ㄉ魔法器。請在上方施展魔法該驗證碼。";
+"Login.PhoneDialed" = "Telegram 撥打ㄌ尼ㄉ魔法器號碼";
+"Login.willCall" = "Telegram 會於 %d:%@ 打精靈耳給尼";
+"Login.willSendSms" = "Telegram 將在 %d:%@ 之內傳送給尼一則飛鴿傳書";
+"Login.passwordPlaceholder" = "令咒";
+
+"Login.EnterPasswordDescription" = "尼已經啟用「兩步驗證」，現在尼ㄉ靈魂受一組額外ㄉ令咒所保護。";
+"Login.RecoveryMailFailed" = "由於尼在設定令咒時沒有提供復原用ㄉ電子信箱，尼剩餘ㄉ選項就是要記起尼ㄉ令咒，或是重置尼ㄉ靈魂。";
+
+"Login.ResetAccount" = "重置窩ㄉ靈魂";
+"Login.ResetAccountDescription" = "如果尼繼續重置尼ㄉ靈魂，尼將失去所有ㄉ聊天和水晶玉，連同任何尼分享ㄉ媒體和玉石。";
+"Login.ResetAccount" = "重置窩ㄉ靈魂";
+
+"PHONE_NUMBER_INVALID" = "無效ㄉ魔法器號碼";
+"Login.FloodWait" = "嘗試太多次ㄌ，請稍後再試";
+"PHONE_CODE_INVALID" = "精靈耳驗證碼無效";
+"PHONE_CODE_EXPIRED" = "驗證碼過期ㄌ";
+"PASSWORD_HASH_INVALID" = "不正確ㄉ令咒";
+
+
+
+"Chat.ForwardActionHeader" = "轉傳水晶玉";
+
+
+
+"GeneralSettings.LargeFonts" = "大水晶玉字體";
+"GeneralSettings.MediaKeysForInAppPlayer" = "處理應用程式內播放器ㄉ媒體鍵";
+"GeneralSettings.EmojiReplacements" = "小精靈智慧選擇替換表情符號";
+"GeneralSettings.InputSettings" = "施展魔法設定";
+"GeneralSettings.GeneralSettings" = "一般設定";
+
+"GeneralSettings.SendByEnter" = "按下 Enter 鍵就送出水晶玉";
+"GeneralSettings.SendByCmdEnter" = "按下 ⌘ + Enter 鍵才送出水晶玉";
+
+"Telegram.GeneralSettingsViewController" = "一般設定";
+"AccountSettings.Logout" = "登出";
+"NotificationSettings.ToggleNotifications" = "啄木鳥";
+"NotificationSettings.MessagesPreview" = "水晶玉預覽";
+"NotificationSettings.IncludeMutedChats" = "包括已關閉啄木鳥ㄉ聊天";
+"NotificationSettings.CountUnreadMessages" = "計算未讀水晶玉";
+
+
+
+
+
+"NotificationSettings.BadgeHeader" = "未讀數量標記";
+"NotificationSettings.BadgeDesc" = "關閉以顯示未讀聊天ㄉ數量而不是水晶玉。";
+
+
+"NotificationSettings.NotificationTone" = "啄木鳥鈴聲";
+"NotificationSettings.ResetNotifications" = "重置啄木鳥";
+"NotificationSettings.ResetNotificationsText" = "尼可以針對以下特定聊天設定自訂啄木鳥。";
+"Telegram.NotificationSettingsViewController" = "啄木鳥";
+"AccountSettings.DataAndStorage" = "數據和儲存";
+"DefaultSoundName" = "預設";
+"NotificationSettings.Tone.Default" = "預設";
+"NotificationSettingsToneNone" = "無";
+
+"NotificationSettings.Confirm.Reset" = "重置啄木鳥";
+
+
+"Weekday.ShortFriday" = "週五";
+"Weekday.ShortMonday" = "週一";
+"Weekday.ShortSaturday" = "週六";
+"Weekday.ShortSunday" = "週日";
+"Weekday.ShortThursday" = "週四";
+"Weekday.ShortTuesday" = "週二";
+"Weekday.ShortWednesday" = "週三";
+
+
+"Time.at" = "於";
+"Time.last_seen" = "最後施展魔法";
+"Time.today" = "今天";
+"Time.yesterday" = "昨天";
+
+
+"Chat.EmptyChat" = "還沒有水晶玉在這裡";
+
+"Chat.List.Sticker" = "%@ 張貼圖";
+"Chat.List.Voice" = "語音水晶玉";
+"Chat.List.InstantVideo" = "視訊水晶玉";
+"Chat.List.Video" = "影片";
+"Chat.List.Photo" = "照片";
+"Chat.List.GIF" = "動圖";
+"Chat.List.Map" = "位置";
+"Chat.List.Contact" = "同伴";
+
+"UsernameSettings.ChangeDescription" = "尼可以在 Telegram 上選擇魔法識別ID。如果尼這樣做，別人就可以藉由此魔法識別ID找到尼及與尼聯絡，而不需要知道尼ㄉ魔法器號碼。\n\n\n尼可以使用 a-z、0-9 及底線。最小長度是 5 個字元。";
+"UsernameSettings.InputPlaceholder" = "施展魔法尼ㄉ魔法識別ID";
+"Telegram.UsernameSettingsViewController" = "魔法識別ID";
+"UsernameSettings.available" = "%@ 是可用ㄉ。";
+
+"Error.Username.UnderscopeStart" = "魔法識別ID不能以底線開頭。";
+"Error.Username.UnderscopeEnd" = "魔法識別ID不能以底線結束。";
+"Error.Username.NumberStart" = "魔法識別ID不能以數字開頭。";
+"Error.Username.Invalid" = "此魔法識別ID無效。";
+"Error.Username.MinimumLength" = "魔法識別ID必須至少有 5 個字元。";
+"Error.Username.AlreadyTaken" = "此魔法識別ID已被佔用。";
+"UsernameSettings.Done" = "好惹";
+
+"Search.Separator.ChatsAndContacts" = "同伴與聊天";
+"Search.Separator.GlobalPeers" = "全域找找";
+"Search.Separator.Messages" = "水晶玉";
+"Search.Separator.Recent" = "最近ㄉ";
+"Search.Separator.Popular" = "人們";
+"PeerInfo.AdminLabel" = "大魔法師";
+"Share.Link.Copied" = "已複製到剪貼簿";
+
+
+"Presence.bot" = "機器人";
+"CreateGroup.NameHolder" = "圈圈名稱";
+"Telegram.ChannelIntroViewController" = "大聲公";
+"Channel.IntroDescriptionHeader" = "什麼是大聲公？";
+"Channel.IntroDescription" = "大聲公是一個向魔法師們廣播水晶玉ㄉ工具。";
+
+"Channel.Create" = "建立";
+"Channel.NewChannel" = "新增大聲公";
+"Group.CreateGroup" = "新增圈圈";
+"Compose.Create" = "建立";
+"Compose.Next" = "下一步";
+"Channel.ChannelNameHolder" = "大聲公名稱";
+"Channel.DescriptionHolder" = "魔法書";
+"Channel.DescriptionHolderDescrpiton" = "尼可以為尼ㄉ大聲公提供選擇性ㄉ描述。";
+
+
+"Channel.TypeHeaderChannel" = "大聲公類型";
+"Channel.TypeHeaderGroup" = "圈圈類型";
+
+
+"Channel.Public" = "公開ㄉ";
+"Channel.Private" = "私人";
+
+
+"Channel.PrivateAboutChannel" = "私人ㄉ大聲公只能透過傳送器加入。";
+"Channel.PublicAboutChannel" = "公開ㄉ大聲公可以用找找找到，且任何人都可以加入它們。";
+"Channel.PrivateAboutGroup" = "只有在尼被邀請或有傳送器ㄉ情況下, 才能加入私人圈圈。";
+"Channel.PublicAboutGroup" = "公開ㄉ圈圈可以透過找找找到，聊天紀錄每個人都看得見，且任何人都可以加入。";
+
+"Channel.PublicNamesLimitError" = "抱歉，尼已經建立ㄌ太多公開ㄉ傳送器。尼可以撤銷其中一個舊圈圈或大聲公ㄉ公開傳送器";
+
+
+"Channel.ExportLinkAboutChannel" = "人們可以透過點擊此傳送器加入尼ㄉ大聲公。任何時間，尼都可以撤換傳送器。";
+"Channel.ExportLinkAboutGroup" = "人們可以透過點擊此傳送器加入尼ㄉ圈圈。任何時間，尼都可以撤換傳送器。";
+"Channel.UsernameAboutChannel" = "人們可以分享這個傳送器給其他人，並且用 Telegram 找找來找到尼ㄉ大聲公。";
+"Channel.UsernameAboutGroup" = "人們可以分享這個傳送器給其他人，並且用 Telegram 找找來找到尼ㄉ圈圈。";
+
+
+"Group.NewGroup" = "新增圈圈";
+
+"Chat.Confirm.ActionUndonable" = "這個操作無法撤銷";
+"Chat.Confirm.DeleteMessages" = "要詛咒所選ㄉ水晶玉嗎？";
+"Chat.Confirm.DeleteMessagesForEveryone" = "也從所有人ㄉ聊天紀錄中詛咒";
+
+"Telegram.PrivacyAndSecurityViewController" = "隱私和安全";
+"PrivacySettings.PrivacyHeader" = "隱私";
+"PrivacySettings.BlockedUsers" = "魔障屏蔽名單";
+"PrivacySettings.LastSeen" = "最後施展魔法";
+"PrivacySettings.Groups" = "圈圈和大聲公";
+"PrivacySettings.VoiceCalls" = "語音精靈耳";
+"PrivacySettings.SecurityHeader" = "安全";
+"PrivacySettings.Passcode" = "令咒";
+"PrivacySettings.ActiveSessions" = "已登入ㄉ魔法器及網站";
+
+"PrivacySettings.UseProxy" = "使用代理魔法圖書館";
+"PrivacySettings.ProxyHeader" = "連接類型";
+
+"PrivacySettings.TwoStepVerification" = "兩步驟驗證";
+
+"Telegram.PasscodeSettingsViewController" = "令咒";
+
+
+
+
+
+
+"Chat.Input.StartBot" = "開始";
+
+"InlineModalAction.Title" = "分享機器人內容";
+"InlineModalAction.Desc" = "透過 %@ 選擇一位魔法師或聊天室來分享內容";
+
+
+
+"ChatList.Context.Unmute" = "恢復水晶玉啄木鳥";
+"ChatList.Context.Mute" = "關閉水晶玉啄木鳥";
+"ChatList.Context.ClearHistory" = "清除聊天紀錄";
+"ChatList.Context.Call" = "精靈耳";
+"ChatList.Context.DeleteChat" = "詛咒聊天";
+"ChatList.Context.DeleteAndExit" = "詛咒並退出";
+"ChatList.Context.LeaveChannel" = "退出大聲公";
+"ChatList.Context.LeaveGroup" = "退出圈圈";
+"ChatList.Context.ReturnGroup" = "返回圈圈";
+"ChatList.Context.Pin" = "置頂";
+"ChatList.Context.Unpin" = "取消置頂";
+
+"ChatList.SecretChat.Terminated" = "隱形聊天已取消";
+"ChatList.SecretChat.Joined" = "%@ 加入ㄌ尼ㄉ隱形聊天。";
+"ChatList.SecretChat.Created" = "%@ 建立ㄌ一個隱形聊天。";
+"ChatList.SecretChat.ExKeys" = "正在等待施展魔法";
+
+"ChatList.UnsupportedMessage" = "水晶玉不被支援";
+"Chat.Message.Unsupported" = "尼使用ㄉ Telegram 版本不支援此水晶玉。請更新到最新版，透過「設定」或安裝它從：https://macos.telegram.org ";
+"Text.Copy" = "複製";
+"Text.CopyText" = "複製文字";
+"Text.CopyLabel" = "複製 %@";
+
+"Peer.Activity.User.TypingText" = "正在施展魔法";
+"Peer.Activity.User.SendingPhoto" = "正在傳送照片";
+"Peer.Activity.User.RecordingVideo" = "正在錄製影片";
+"Peer.Activity.User.SendingVideo" = "正在傳送影片";
+"Peer.Activity.User.RecordingAudio" = "正在錄製語音";
+"Peer.Activity.User.SendingFile" = "正在傳送玉石";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Peer.Media.SharedMediaEmptyList" = "在這個聊天室內分享照片與影片 - 或者讓迴紋針繼續不高興。";
+"Peer.Media.SharedFilesEmptyList" = "尼可以傳送或接收任何格式玉石，單檔最大 1.5 GB，並且可以在任何地方存取它們。";
+"Peer.Media.SharedLinksEmptyList" = "在這個聊天室中所分享ㄉ全部傳送器會出現在這裡。";
+"Peer.Media.SharedMusicEmptyList" = "在這個聊天室中所分享ㄉ全部音樂會出現在這裡。";
+
+"SecretTimer.Off" = "關閉";
+
+"Timer.Seconds_countable" = "%d";
+
+
+
+
+
+"Timer.Seconds_other" = "%d 剎那";
+
+
+"Timer.Days_countable" = "%d";
+
+
+
+
+
+"Timer.Days_other" = "%d 天";
+
+
+"Timer.Minutes_countable" = "%d";
+
+
+
+
+
+"Timer.Minutes_other" = "%d 分鐘";
+
+"Timer.Hours_countable" = "%d";
+
+
+
+
+
+"Timer.Hours_other" = "%d 小時";
+
+
+"Timer.Weeks_countable" = "%d";
+
+
+
+
+
+"Timer.Weeks_other" = "%d 週";
+
+"Timer.Months_countable" = "%d";
+
+
+
+
+
+"Timer.Months_other" = "%d 個月";
+
+"Timer.Years_countable" = "%d";
+
+
+
+
+
+"Timer.Years_other" = "%d 年";
+
+"Timer.Forever" = "永遠";
+"ChatList.Draft" = "草稿：";
+"ChatList.You" = "尼";
+
+"Notification.LockedPreview" = "尼有一則新水晶玉";
+"JoinLink.Join" = "加入";
+
+"Group.Unavailable" = "很抱歉，這個圈圈似乎並不存在。";
+
+"Chat.Title.self" = "尼ㄉ雲端儲存";
+"Separator.ShowMore" = "顯示更多";
+"Separator.ShowLess" = "顯示較少";
+"Separator.Clear" = "清除";
+"Stickers.Recent" = "最近ㄉ";
+"Stickers.Favorite" = "最愛";
+
+"Account.Confirm.AskQuestion" = "請留意，Telegram ㄉ技術支援是由魔法圖書館提供。窩們會試著盡快回覆，但還是需要一點時間。\n\n請看看 Telegram FAQ：其中有重要ㄉ故障排除提示，並且回答ㄌ大多數問題。";
+"Account.Confirm.GoToFaq" = "開啟 FAQ";
+
+"Chat.SecretChat.EmptyHeader" = "隱形聊天：";
+"Chat.SecretChat.1Feature" = "- 使用端到端高速粒子加密";
+"Chat.SecretChat.2Feature" = " - 不會在窩們ㄉ魔法圖書館留下腳印";
+"Chat.SecretChat.3Feature" = "- 有「閱後即焚定時炸彈」";
+"Chat.SecretChat.4Feature" = "- 不允許轉傳";
+
+
+"TextView.Transform.Bold" = "粗體";
+"TextView.Transform.Italic" = "斜體";
+"TextView.Transform.Code" = "等寬字體";
+
+
+"AccountsController.NewAccount" = "新靈魂";
+
+"Account.Confirm.Logout" = "登出？";
+"Account.Confirm.LogoutText" = "記住，登出將取消所有隱形聊天。";
+
+"Telegram.ConvertGroupViewController" = "超級圈圈";
+
+"Supergroup.Convert.Description" = "**在超級圈圈中：**\n\n⚡️ 新魔法師可以看到完整ㄉ歷史聊天記錄\n⚡️ 詛咒ㄉ水晶玉將從所有魔法師ㄉ魔法器中消失\n⚡️ 大魔法師可以置頂重要水晶玉\n⚡️ 創立者可以為圈圈設定一個公開ㄉ傳送器";
+"Supergroup.Convert.Undone" = "**請注意**：這個操作無法撤銷。";
+"Supergroup.Convert.Button" = "轉換為超級圈圈";
+
+
+"PeerInfo.MembersHeader_countable" = "%d";
+
+
+
+
+
+"PeerInfo.MembersHeader_other" = "%d 位魔法師";
+
+"PeerInfo.InviteLink" = "傳送器";
+"PeerInfo.Admins" = "大魔法師";
+"PeerInfo.BlackList" = "黑名單";
+"PeerInfo.SetAdmins" = "設定大魔法師";
+"PeerInfo.GroupType" = "圈圈類型";
+"PeerInfo.ChannelType" = "大聲公類型";
+"PeerInfo.GroupType.Public" = "公開ㄉ";
+"PeerInfo.GroupType.Private" = "私人";
+"PeerInfo.SetAboutDescription" = "尼可以為尼ㄉ圈圈提供選擇性ㄉ描述。";
+"PeerInfo.About.Placeholder" = "魔法書";
+"PeerInfo.ConvertToSupergroup" = "轉換為超級圈圈";
+
+"Telegram.ChannelBlacklistViewController" = "黑名單";
+"Telegram.ChannelAdminsViewController" = "大魔法師";
+
+"ChannelBlacklist.EmptyDescrpition" = "黑名單上ㄉ魔法師會從圈圈中被炸毀，只能透過大魔法師ㄉ邀請而回來。傳送器對他們沒作用。";
+
+"Admins.GroupAdmins" = "圈圈大魔法師";
+"Admins.ChannelAdmins" = "大聲公大魔法師";
+
+"Admins.OnlyAdminsCanAddMembers" = "只有大魔法師可以添加新魔法師";
+"Admins.EverbodyCanAddMembers" = "每個人都可以添加新魔法師";
+"Admins.GroupDescription" = "尼可以添加大魔法師來幫助尼管理圈圈";
+"Admins.ChannelDescription" = "尼可以添加大魔法師來幫助尼管理大聲公";
+"Admins.SelectNewAdminTitle" = "同伴";
+"Admins.AddAdmin" = "添加大魔法師";
+"Admins.Creator" = "創立者";
+"Admins.Admin" = "大魔法師";
+"Admins.WhoCanInvite.Text" = "誰可以添加魔法師";
+"Admins.WhoCanInvite.Admins" = "僅限大魔法師";
+"Admins.WhoCanInvite.Everyone" = "所有魔法師";
+
+"Telegram.ChannelVisibilityController" = "圈圈";
+
+
+
+
+
+
+
+
+
+
+
+"PeerInfo.Confirm.AddMember" = "將 \"%@\" 加入到圈圈？";
+"PeerInfo.Confirm.RemovePeer" = "將 \"%@\" 從圈圈中炸毀？";
+
+"PeerInfo.FirstName.Placeholder" = "名字";
+"PeerInfo.LastName.Placeholder" = "姓氏";
+"PeerInfo.GroupName.Placeholder" = "圈圈名稱";
+"PeerInfo.ChannelName.Placeholder" = "大聲公名稱";
+"PeerInfo.Phone" = "精靈耳";
+
+"ConvertToSupergroup.Alert.Error" = "發生錯誤，請稍後再試。";
+"ConvertToSuperGroup.Confirm" = "尼確定嗎？這個操作無法撤銷。";
+"Telegram.LinkInvationController" = "傳送器";
+
+"GroupInvation.CopyLink" = "複製傳送器";
+"GroupInvation.Revoke" = "撤換";
+"GroupInvation.Share" = "分享傳送器";
+
+"GroupInvation.GroupDescription" = "任何已安裝 Telegram ㄉ人都可以透過此傳送器加入尼ㄉ圈圈。";
+"GroupInvation.ChannelDescription" = "任何已安裝 Telegram ㄉ人可以透過跟隨此傳送器加入到尼ㄉ大聲公";
+
+"Chat.Header.PinnedMessage" = "置頂水晶玉";
+"Chat.Header.ReportSpam" = "檢舉垃圾水晶玉";
+"Chat.Confirm.Unpin" = "尼想要取消置頂這則水晶玉嗎？";
+
+
+
+
+
+
+
+
+
+"Compose.Select.SecretChat" = "隱形聊天";
+"Compose.Confirm.StartSecretChat" = "建立與 \"%@\" ㄉ隱形聊天";
+
+
+"ReportReason.Spam" = "垃圾水晶玉";
+"ReportReason.Violence" = "暴力";
+"ReportReason.Porno" = "色情";
+"ReportReason.ChildAbuse" = "虐待兒童";
+"ReportReason.Copyright" = "版權";
+"PeerInfo.ChannelReported" = "感謝尼！尼ㄉ檢舉將很快被窩們ㄉ團隊進行審查。";
+
+"PeerInfo.SignMessages.Desc" = "將大魔法師ㄉ名稱添加到他們發布ㄉ水晶玉中。";
+"PeerInfo.SignMessages" = "水晶玉附上簽名";
+"PeerInfo.SetChannelPhoto" = "設定大聲公照片";
+"PeerInfo.Members" = "魔法師";
+"PeerInfo.DeleteChannel" = "詛咒大聲公";
+"PeerInfo.DeleteSecretChat" = "詛咒隱形聊天";
+
+"ChannelMembers.AddMembers" = "添加魔法師";
+"ChannelMembers.InviteLink" = "透過傳送器來邀請";
+"ChannelMembers.MembersListDesc" = "只有大聲公大魔法師可以看到這個清單。";
+"Telegram.ChannelMembersViewController" = "大聲公魔法師";
+
+"LinkInvation.Group.Confirm.Revoke" = "尼確定要撤換此傳送器？一旦尼這樣做，沒有人能夠使用它加入圈圈。";
+"LinkInvation.Channel.Confirm.Revoke" = "尼確定要撤換此傳送器？一旦尼這樣做，沒有人能夠使用它加入大聲公。";
+"LinkInvation.Confirm.Ok" = "撤換";
+"ChannelMembers.Select.Title" = "添加魔法師";
+"PeerInfo.Confirm.StartSecretChat" = "尼確定要與 \"%@\" 開始隱形聊天嗎？";
+
+
+"PeerInfo.BotStatus.HasNoAccess" = "沒有存取水晶玉權限";
+"PeerInfo.BotStatus.HasAccess" = "可以存取水晶玉";
+"PeerInfo.GroupsInCommon" = "共同ㄉ圈圈";
+"GroupsInCommon.Empty" = "無共同ㄉ圈圈";
+"Telegram.GroupsInCommonViewController" = "共同ㄉ圈圈";
+
+"ChannelVisibility.Checking" = "正在檢查";
+"ChannelVisibility.Loading" = "載入中……";
+
+"Peer.DeletedUser" = "已詛咒ㄉ靈魂";
+
+"ChatList.Service.Call.incoming" = "撥入精靈耳 (%@)";
+"ChatList.Service.Call.outgoing" = "撥出精靈耳 (%@)";
+"ChatList.Service.Call.Cancelled" = "取消ㄉ精靈耳";
+"ChatList.Service.Call.Missed" = "未接來電";
+
+"Chat.Service.Call.Cancelled" = "已取消";
+
+
+
+
+
+
+
+
+
+
+"About.Description" = "macOS 版ㄉ免錢即時通訊軟體，基於以速度和安全為目標ㄉ MTProto 魔力傳輸協定。";
+"ChatService.ChannelCreated" = "大聲公已建立";
+"Telegram.BlockedPeersViewController" = "魔障屏蔽名單";
+"BlockedPeers.EmptyDescrpition" = "被魔障屏蔽ㄉ魔法師無法向尼傳送水晶玉或將尼加入到圈圈。他們不會看到尼ㄉ個人頭像，在線上和最後施展魔法ㄉ狀態。";
+
+"Sessions.CurrentSessionHeader" = "目前使用ㄉ魔法器";
+"Sessions.TerminateOthers" = "登出其他ㄉ魔法器";
+"Sessions.TerminateDescription" = "將其他魔法器登出，只保留目前使用ㄉ。";
+"Sessions.ActiveSessionsHeader" = "其他ㄉ魔法器";
+
+
+"Passcode.TurnOn" = "開啟令咒";
+"Passcode.TurnOnDescription" = "當尼設定一個額外ㄉ令咒，尼可以使用 ⌘ + L 來鎖定。\n\n注意：如果尼忘記令咒，則需要詛咒並重新安裝應用程式。 所有隱形聊天將遺失。";
+"Passcode.TurnOff" = "關閉令咒";
+"Passcode.Change" = "變更令咒";
+"Passcode.Autolock" = "小精靈智慧選擇鎖定";
+"Passcode.AutoLock.Disabled" = "已停用";
+"Passcode.AutoLock.IfAway" = "如果離開 %@ 之久";
+
+"Passcode.EnterPasscodePlaceholder" = "施展魔法令咒";
+"Passcode.ReEnterPlaceholder" = "再次施展魔法令咒";
+"Passcode.EnterCurrentPlaceholder" = "施展魔法目前ㄉ令咒";
+"Passcode.EnterNewPlaceholder" = "施展魔法新ㄉ令咒";
+
+"Passcode.Next" = "下一步";
+
+
+"Peer.ServiceNotifications" = "服務啄木鳥";
+
+"Alert.SendError.Header" = "尼ㄉ水晶玉無法被傳送";
+"Alert.SendError.Text" = "傳送上一則水晶玉時出錯。 尼要重新傳送嗎？";
+"Alert.SendError.Resend" = "重新傳送";
+"Alert.SendError.Delete" = "詛咒";
+"Alert.SendError.Ignore" = "忽略";
+
+"GeneralSettings.EnableSidebar" = "側邊欄";
+"Telegram.RecentSessionsController" = "已登入ㄉ魔法器";
+"RecentSessions.Confirm.TerminateOthers" = "尼確定要將其他魔法器登出？";
+"RecentSessions.Confirm.Revoke" = "尼想要中斷這個連線嗎？";
+"RecentSessions.Revoke" = "撤銷";
+
+
+"Legacy.Intro.Description1" = "歡迎使用超快速而穩定ㄉ新版 macOS Telegram，完全重新用 Swift 3.0 程式語言所寫。";
+"Legacy.Intro.Description2" = "請注意，尼現有ㄉ隱形聊天將以唯讀模式提供。 當然，尼可以建立新ㄉ繼續聊天。";
+"Legacy.Intro.Next" = "開始傳水晶玉";
+
+"Messages.ReplyLoading.Header" = "回覆";
+"Messages.ReplyLoading.Loading" = "載入中⋯";
+"PeerInfo.DeleteContact" = "詛咒同伴";
+"PeerInfo.Confirm.DeleteContact" = "要詛咒同伴？";
+"Compose.SelectUsers" = "選擇魔法師";
+"PeerInfo.AddContact" = "添加同伴";
+"Telegram.GroupAdminsController" = "大魔法師";
+"GroupAdmins.AllMembersAdmins" = "所有魔法師都是大魔法師";
+"GroupAdmins.Desc.AdminInvites" = "只有大魔法師可以添加及炸毀魔法師，編輯此圈圈名稱和照片。";
+"GroupAdmins.Desc.AllInvites" = "圈圈魔法師可以添加新魔法師，編輯此圈圈名稱和照片。";
+"Login.PhoneNumberNotRegistred" = "魔法器號碼未註冊。 如果尼還沒有 Telegram 靈魂，請使用尼ㄉ行動魔法器註冊。";
+"Login.YourPhoneLabel" = "尼ㄉ精靈耳";
+"Login.YourCodeLabel" = "尼ㄉ驗證碼";
+"Login.YourPasswordLabel" = "尼ㄉ令咒";
+
+"PeerInfo.EncryptionKey" = "高速粒子加密金鑰";
+
+"Telegram.SecretChatKeyViewController" = "高速粒子加密金鑰";
+"EncryptionKey.Description" = "這張圖片和文字是產生自與 **%@** 隱形聊天ㄉ高速粒子加密金鑰。\n\n如果在 **%@** 魔法器上看起來也是一樣ㄉ，則端到端高速粒子加密通訊就會得到保證。";
+
+
+"GeneralSettings.InAppSounds" = "程式內音效";
+"Chat.ShareInlineResultActionHeader" = "分享";
+"Context.CopyMedia" = "另存為⋯";
+"Context.ShowInFinder" = "在 Finder 中顯示";
+"Telegram.InstalledStickerPacksController" = "貼圖";
+
+
+
+
+
+
+
+
+
+"Telegram.FeaturedStickerPacksController" = "熱門貼圖";
+"Telegram.ArchivedStickerPacksController" = "封存貼圖";
+"ArchivedStickers.Description" = "尼最多可以有200套已安裝ㄉ貼圖包。當尼添加更多時，未使用ㄉ貼圖會被封存。";
+"InstalledStickers.PacksTitle" = "貼圖包";
+"InstalledStickers.Descrpiption" = "歡迎畫家使用窩們ㄉ @Stickers 機器人來加入他們所擁有ㄉ貼圖包。\n\n點擊一張貼圖來查看和添加整套貼圖包。";
+"InstalledStickers.Archived" = "封存貼圖";
+"InstalledStickers.Tranding" = "熱門貼圖";
+"StickerSet.Remove" = "炸毀";
+"InstalledStickers.Remove.Description" = "此貼圖包將被封存。尼可以隨時從「已封存ㄉ貼圖」區快速恢復它。";
+"InstalledStickers.Remove.Delete" = "詛咒";
+"Alert.UserDoesntExists" = "抱歉，這個魔法師似乎並不存在。";
+"InAppLinks.Confirm.OpenExternal" = "開啟 %@？";
+
+"Login.Header.Code" = "施展魔法驗證碼";
+"Login.Header.Password" = "施展魔法令咒";
+"Login.Header.SignUp" = "註冊";
+
+"Contacts.AddContact" = "添加同伴";
+"Contacts.FirstName.Placeholder" = "名字";
+"Contacts.LastName.Placeholder" = "姓氏";
+"Contacts.PhoneNumber.Placeholder" = "魔法器號碼";
+"Contacts.NotRegistredTitle" = "不是 Telegram 同伴";
+"Contacts.NotRegistredDescription" = "此同伴尚未在 Telegram 中註冊。一旦註冊，尼將能夠傳送 Telegram 水晶玉給對方。";
+
+"DataAndStorage.StorageUsage" = "儲存空間用量";
+"DataAndStorage.NetworkUsage" = "魔力用量";
+
+
+"DataAndStorage.AutomaticDownload.GroupsChannels" = "圈圈和大聲公";
+
+"DataAndStorage.AutomaticPhotoDownload.Header" = "小精靈智慧選擇下載照片";
+"DataAndStorage.AutomaticAudioDownload.Header" = "小精靈智慧選擇下載音訊";
+"DataAndStorage.AutomaticVideoDownload.Header" = "小精靈智慧選擇下載影片";
+
+
+
+"Telegram.StorageUsageController" = "儲存空間用量";
+"StorageUsage.KeepMedia" = "保留媒體";
+"StorageUsage.KeepMedia.Description" = "雲端聊天中ㄉ照片、影片和其他玉石在這段時間若**未被存取**，就會從魔法器中炸毀以節省儲存空間。\n\n所有媒體仍會保留在 Telegram 雲端中，而當尼需要時，可重新下載。";
+"StorageUsage.ChatsHeader" = "聊天";
+"StorageUsage.Calculating" = "正在計算目前快取ㄉ大小...";
+"App.MaxFileSize" = "最大玉石大小為 1.5 GB";
+"Message.Context.SaveGif" = "添加 GIF";
+
+"Context.RecentGifRemove" = "炸毀";
+"Sidebar.Avalability" = "側邊欄可用於聊天室";
+
+
+
+"PrivacySettingsController.Header" = "最後施展魔法";
+"PrivacySettingsController.Everbody" = "每個人";
+"PrivacySettingsController.MyContacts" = "窩ㄉ同伴";
+"PrivacySettingsController.Nobody" = "沒有人";
+"PrivacySettingsController.NeverShare" = "永不分享";
+"PrivacySettingsController.AlwaysShare" = "總是分享";
+"PrivacySettingsController.NeverShareWith" = "永不與誰分享";
+"PrivacySettingsController.AlwaysShareWith" = "總是與誰分享";
+"PrivacySettingsController.NeverAllow" = "永不允許";
+"PrivacySettingsController.AlwaysAllow" = "總是允許";
+
+"PrivacySettingsController.P2p.Always" = "總是";
+"PrivacySettingsController.P2p.Contacts" = "窩ㄉ同伴";
+"PrivacySettingsController.P2p.Never" = "永不";
+
+
+
+
+"PrivacySettingsController.UserCount_countable" = "%d";
+
+
+
+
+
+"PrivacySettingsController.UserCount_other" = "%d 個魔法師";
+
+"PrivacySettingsController.AddUsers" = "添加魔法師";
+
+"PrivacySettingsController.LastSeenHeader" = "誰可以看到窩ㄉ時間戳記";
+"PrivacySettingsController.LastSeenDescription" = "重要提示：尼不分享尼最後施展魔法時間ㄉ對象，他們最後施展魔法ㄉ時間，尼也將無法看見。取而代之ㄉ是，大概ㄉ最後施展魔法時間（最近，一週之內，一個月之內）。";
+
+"PrivacySettingsController.GroupHeader" = "誰可以將窩加入圈圈和大聲公？";
+"PrivacySettingsController.GroupDescription" = "尼可以精確地限制誰可以邀請尼加入到圈圈和大聲公。";
+
+"PrivacySettingsController.PhoneCallHeader" = "誰可以打精靈耳給窩";
+"PrivacySettingsController.PhoneCallDescription" = "尼可以精確地限制誰可以打精靈耳給尼。";
+"PrivacySettingsController.PeerInfo" = "這些設定將覆蓋上述值。";
+
+"Chat.Call.Outgoing" = "撥出精靈耳";
+"Chat.Call.Incoming" = "撥入精靈耳";
+
+"CallHeader.EndCall" = "結束精靈耳";
+"Call.ParticipantVersionOutdatedError" = "%@ ㄉ應用程式不支援精靈耳。 他需要更新應用程式，然後尼才能與他精靈耳。";
+"Call.UndefinedError" = "未定義ㄉ錯誤，請稍後再試。";
+"Call.PrivacyErrorMessage" = "很抱歉，%@ 不接受精靈耳。";
+
+"Call.StatusRequesting" = "聯絡中⋯";
+"Call.StatusRinging" = "撥號中⋯";
+"Call.StatusConnecting" = "魔力連接中…";
+"Call.StatusEnded" = "精靈耳結束";
+"Call.StatusFailed" = "精靈耳失敗";
+"Call.StatusBusy" = "忙線";
+"Call.StatusCalling" = "正在打精靈耳給尼...";
+
+
+
+"Call.Recent.Outgoing" = "撥出";
+"Call.Recent.Incoming" = "撥入";
+"Call.Recent.Missed" = "未接來電";
+
+
+"Call.ShortSeconds_countable" = "%d";
+
+
+
+
+
+"Call.ShortSeconds_other" = "%d 剎那";
+
+"Call.ShortMinutes_countable" = "%d";
+
+
+
+
+
+"Call.ShortMinutes_other" = "%d 分";
+
+
+"Telegram.LayoutRecentCallsViewController" = "最近ㄉ精靈耳";
+"RecentCalls.Empty" = "尼最近ㄉ精靈耳會顯示在這裡";
+
+"Call.Confirm.DiscardCurrent.Header" = "精靈耳進行中";
+"Call.Confirm.DiscardCurrent.Description" = "與 %@ 結束精靈耳，並和 %@ 開始一新ㄉ精靈耳嗎？";
+"Call.RatingModal.Placeholder" = "發表評論⋯";
+"QuickSwitcher.Recently" = "最近ㄉ";
+"QuickSwitcher.Popular" = "受歡迎ㄉ";
+"QuickSwitcher.Description" = "**tab** 或 **↑ ↓** 以瀏覽，**⮐** 以選取，**esc** 以放棄";
+
+"Chat.Context.Edit1" = "編輯";
+
+"Chat.Context.EnableNotifications" = "關閉水晶玉啄木鳥";
+"Chat.Context.DisableNotifications" = "恢復水晶玉啄木鳥";
+"Chat.Context.ClearHistory" = "清空聊天紀錄";
+"Chat.Context.Info" = "魔法書";
+"Chat.Context.FeedInfo" = "大聲公魔法書";
+
+"Payments.Unsupported" = "很抱歉，Telegram Mac 目前還不支援付款。請使用窩們ㄉ一個行動應用程式來執行此操作。";
+
+"Chat.Service.PaymentSent" = "尼剛剛成功轉帳 **%@** 給 **%@** 為ㄌ **%@**";
+"Chat.List.Service.PaymentSent" = "付款：%@";
+
+"Telegram.LanguageViewController" = "語言";
+
+
+"1Xt-HY-uBw.title" = "Telegram";
+"2oI-Rn-ZJC.title" = "轉換";
+
+"4J7-dP-txa.title" = "進入全螢幕";
+"4sb-4s-VLi.title" = "結束 Telegram";
+"5QF-Oa-p0T.title" = "編輯";
+
+
+"5kV-Vb-QxS.title" = "關於 Telegram";
+"6dh-zS-Vam.title" = "重做";
+"78Y-hA-62v.title" = "小精靈智慧選擇修正拼寫";
+"9ic-FL-obx.title" = "替換";
+"9yt-4B-nSM.title" = "聰明複製/貼上";
+"BOF-NM-1cW.title" = "偏好設定⋯";
+"Cag-YX-WT6.title" = "隱藏 Telegram";
+"Dv1-io-Yv7.title" = "拼寫和語法";
+
+"H8h-7b-M4v.title" = "檢視";
+
+
+"HFQ-gK-NFA.title" = "文字替換";
+"HFo-cy-zxI.title" = "顯示拼寫和語法";
+"HyV-fh-RgO.title" = "檢視";
+"Kd2-mp-pUS.title" = "顯示全部";
+"LE2-aR-0XJ.title" = "將所有帶到前面";
+"OY7-WF-poV.title" = "最小化";
+"Olw-nP-bQN.title" = "隱藏";
+
+"R4o-n2-Eq4.title" = "縮放";
+"Ruw-6m-B2m.title" = "全選";
+
+"UEZ-Bs-lqG.title" = "大寫";
+"Vdr-fp-XzO.title" = "隱藏其他";
+"W48-6f-4Dl.title" = "編輯";
+"WeT-3V-zwk.title" = "貼上和匹配樣式";
+"aUF-d1-5bR.title" = "視窗";
+
+
+"c8a-y6-VQd.title" = "轉換";
+"cwL-P1-jid.title" = "聰明傳送器";
+"d9M-CD-aMd.title" = "變小寫";
+"dRJ-4n-Yzg.title" = "復原";
+"gVA-U4-sdL.title" = "貼上";
+"hQb-2v-fYv.title" = "聰明引號";
+"hz2-CU-CR7.title" = "立即檢查文件";
+"mK6-2p-4JG.title" = "檢查語法與拼寫";
+"pa3-QI-u2k.title" = "詛咒";
+"rbD-Rh-wIN.title" = "在施展魔法時檢查拼寫";
+"rgM-f4-ycn.title" = "聰明破折號";
+"tRr-pd-1PS.title" = "數據檢測器";
+"uQy-DD-JDr.title" = "Telegram";
+"uRl-iY-unG.title" = "剪下";
+"vmV-6d-7jI.title" = "變大寫";
+"x3v-GG-iWU.title" = "複製";
+"1000.title" = "檢查更新";
+"z6F-FW-3nz.title" = "顯示替換";
+"sZh-ct-GQS.title" = "快速找找";
+
+"Login.ContinueOnLanguage" = "繼續使用繁體中文";
+"Date.Today" = "今天";
+
+/* This key for which language this file, for example: Italian -> Italiano, Russian -> Русский */
+"AccountSettings.CurrentLanguage" = "繁體中文";
+"Suggest.Localization.Header" = "選擇尼ㄉ語言";
+"Suggest.Localization.Other" = "其他";
+
+"PrivacySettings.PeerSelect.AddNew" = "添加新ㄉ";
+
+"Channel.EditAdmin.Permission.ChangeInfo" = "變更大聲公魔法書";
+"Group.EditAdmin.Permission.ChangeInfo" = "變更圈圈魔法書";
+"Channel.EditAdmin.Permission.DeleteMessages" = "詛咒水晶玉";
+"Channel.EditAdmin.Permission.BanUsers" = "魔障屏蔽魔法師";
+"Channel.EditAdmin.Permission.PinMessages" = "置頂水晶玉";
+"Channel.EditAdmin.Permission.AddNewAdmins" = "添加新ㄉ大魔法師";
+"Channel.EditAdmin.Permission.PostMessages" = "發布水晶玉";
+"Channel.EditAdmin.Permission.EditMessages" = "編輯水晶玉";
+"Channel.EditAdmin.Permission.InviteUsers" = "邀請魔法師";
+
+"Channel.Persmission.Denied.SendMessages.Until" = "這個圈圈ㄉ大魔法師限制尼在這裡發言直到 %@";
+"Channel.Persmission.Denied.SendMessages.Forever" = "這個圈圈ㄉ大魔法師限制尼在這裡發言";
+
+"Channel.Persmission.Denied.SendMedia.Until" = "這個圈圈ㄉ大魔法師限制尼在這傳送媒體直到 %@";
+"Channel.Persmission.Denied.SendMedia.Forever" = "這個圈圈ㄉ大魔法師限制尼在這裡傳送媒體";
+
+"Channel.Persmission.Denied.SendStickers.Until" = "這個圈圈ㄉ大魔法師限制尼在這傳送貼圖直到 %@";
+"Channel.Persmission.Denied.SendStickers.Forever" = "這個圈圈ㄉ大魔法師限制尼在這裡傳送貼圖";
+
+
+
+
+
+"Channel.Persmission.Denied.SendInline.Until" = "這個圈圈ㄉ大魔法師限制尼在這張貼行內機器人內容直到 %@";
+"Channel.Persmission.Denied.SendInline.Forever" = "這個圈圈ㄉ大魔法師限制尼在這張貼行內機器人內容";
+
+"Channel.Admin.Dismiss" = "解除大魔法師身分";
+"Channel.Admin.AdminAccess" = "此大魔法師將能夠添加具有相同（或較低）權限ㄉ新大魔法師。";
+"Channel.Admin.AdminRestricted" = "此大魔法師將不能添加新ㄉ大魔法師。";
+
+"Channel.Admin.WhatCanAdminDo" = "這個大魔法師可以做什麼？";
+
+"Channel.EventLog.What" = "這是什麼？";
+"Channel.EventLog.Alert.Header" = "什麼是事件日誌？";
+"Channel.EventLog.Alert.Info" = "這是魔法師和大魔法師在過去48小時內所有操作ㄉ紀錄。";
+
+
+"Group.EventLog.Service.TitleUpdated" = "%@ 編輯ㄌ圈圈標題：";
+"Group.EventLog.Service.LinkUpdated" = "%@ 編輯ㄌ圈圈傳送器：";
+"Group.EventLog.Service.AboutUpdated" = "%@ 編輯ㄌ圈圈魔法書：";
+
+"Channel.EventLog.Service.TitleUpdated" = "%@ 編輯ㄌ大聲公標題：";
+"Channel.EventLog.Service.LinkUpdated" = "%@ 編輯ㄌ大聲公傳送器：";
+"Channel.EventLog.Service.AboutUpdated" = "%@ 編輯ㄌ大聲公魔法書：";
+
+"Group.EventLog.Service.LinkRemoved" = "%@ 炸毀ㄌ圈圈傳送器：";
+"Group.EventLog.Service.AboutRemoved" = "%@ 炸毀ㄌ圈圈魔法書：";
+"Channel.EventLog.Service.LinkRemoved" = "%@ 炸毀ㄌ大聲公傳送器：";
+"Channel.EventLog.Service.AboutRemoved" = "%@ 炸毀ㄌ大聲公魔法書：";
+
+"EventLog.Service.PreviousTitle" = "原本ㄉ標題";
+"EventLog.Service.PreviousLink" = "原本ㄉ傳送器";
+"EventLog.Service.PreviousDesc" = "原本ㄉ魔法書";
+
+
+"EventLog.Service.Demote.SendMessages" = "傳送水晶玉";
+"EventLog.Service.Demote.SendMedia" = "傳送媒體";
+"EventLog.Service.Demote.SendStickers" = "傳送貼圖";
+"EventLog.Service.Demote.EmbedLinks" = "嵌入傳送器";
+"EventLog.Service.Demote.SendInline" = "傳送行內水晶玉";
+
+"EventLog.Service.Promote.ChangeInfo" = "變更魔法書";
+"EventLog.Service.Promote.DeleteMessages" = "詛咒水晶玉";
+"EventLog.Service.Promote.PostMessages" = "發布水晶玉";
+"EventLog.Service.Promote.AddUsers" = "添加魔法師";
+"EventLog.Service.Promote.InviteViaLink" = "透過傳送器邀請魔法師";
+"EventLog.Service.Promote.PinMessages" = "置頂水晶玉";
+"EventLog.Service.Promote.AddNewAdmins" = "添加新ㄉ大魔法師";
+"EventLog.Service.Promote.BanUsers" = "魔障屏蔽魔法師";
+"EventLog.Service.Promote.EditMessages" = "編輯水晶玉";
+
+"EventLog.Service.Promoted.Changed" = "變更ㄌ %@ %@ ㄉ權限：";
+"EventLog.Service.Promoted" = "提升ㄌ %@ %@：";
+
+"EventLog.Service.Demoted" = "無限期地限制ㄌ %@ %@";
+"EventLog.Service.Demoted.Until" = "限制ㄌ %@ %@ 直到 %@";
+"EventLog.Service.Demoted.Changed" = "變更ㄌ對 %@ %@ 無限期ㄉ限制";
+"EventLog.Service.Demoted.Changed.Until" = "變更ㄌ對 %@ %@ ㄉ限制，直到 %@";
+"EventLog.Service.Banned" = "魔障屏蔽ㄌ %@ %@";
+
+"EventLog.Service.DeletedMessage" = "%@ 詛咒ㄌ水晶玉：";
+"EventLog.Service.EditedMessage" = "%@ 編輯ㄌ水晶玉：";
+"EventLog.Service.UpdatePinned" = "%@ 置頂ㄌ水晶玉：";
+"EventLog.Service.RemovePinned" = "%@ 取消ㄌ置頂水晶玉";
+"EventLog.Service.ChangedStickerSet" = "%@ 變更ㄌ圈圈貼圖包";
+"EventLog.Service.RemovedStickerSet" = "%@ 炸毀ㄌ圈圈貼圖包";
+
+
+"Group.EventLog.Service.EnableInvites" = "%@ 啟用ㄌ圈圈邀請";
+"Group.EventLog.Service.DisableInvites" = "%@ 停用ㄌ圈圈邀請";
+"Channel.EventLog.Service.EnableSignatures" = "%@ 啟用ㄌ水晶玉簽名";
+"Channel.EventLog.Service.DisableSignatures" = "%@ 停用ㄌ水晶玉簽名";
+
+
+"Group.EventLog.Service.PhotoUpdated" = "%@ 更新ㄌ圈圈照片";
+"Group.EventLog.Service.PhotoRemoved" = "%@ 炸毀ㄌ圈圈頭像";
+"Channel.EventLog.Service.PhotoUpdated" = "%@ 更新ㄌ大聲公照片";
+"Channel.EventLog.Service.PhotoRemoved" = "%@ 炸毀ㄌ大聲公照片";
+
+"Group.EventLog.Service.UpdateLeft" = "%@ 退出ㄌ圈圈";
+"Channel.EventLog.Service.UpdateLeft" = "%@ 退出ㄌ大聲公";
+
+"Group.EventLog.Service.UpdateJoin" = "%@ 加入ㄌ此圈圈";
+"Channel.EventLog.Service.UpdateJoin" = "%@ 加入ㄌ大聲公";
+
+
+"Telegram.ChannelEventLogController" = "所有操作";
+
+"ChannelEventFilter.NewRestrictions" = "新增限制";
+"ChannelEventFilter.NewAdmins" = "新增大魔法師";
+"ChannelEventFilter.NewMembers" = "新增魔法師";
+"ChannelEventFilter.GroupInfo" = "編輯圈圈魔法書";
+"ChannelEventFilter.ChannelInfo" = "大聲公魔法書";
+"ChannelEventFilter.DeletedMessages" = "詛咒ㄉ水晶玉";
+"ChannelEventFilter.EditedMessages" = "編輯ㄉ水晶玉";
+"ChannelEventFilter.PinnedMessages" = "置頂ㄉ水晶玉";
+"ChannelEventFilter.LeavingMembers" = "已炸毀魔法師";
+
+"Group.EventLog.EmptyText" = "**還沒有事件**\n\n48小時內圈圈ㄉ大魔法師及魔法師沒有任何操作。";
+"Channel.EventLog.EmptyText" = "**還沒有事件**\n\n48小時內大聲公ㄉ大魔法師及魔法師沒有任何操作。";
+"Channel.EventLog.EmptySearch" = "** 沒有找到事件**\n\n沒有找到符合尼查詢ㄉ最新活動。";
+
+"ChannelBlacklist.Restricted" = "受限名單";
+"ChannelBlacklist.Blocked" = "魔障屏蔽名單";
+"ChannelBlacklist.AddMember" = "添加魔法師";
+
+"Channel.UserRestriction" = "魔法師限制";
+"Channel.BlockUser.CanReadMessages" = "可以閱讀水晶玉";
+"Channel.BlockUser.CanSendMessages" = "可以傳送水晶玉";
+"Channel.BlockUser.CanSendMedia" = "可以傳送媒體";
+"Channel.BlockUser.CanSendStickers" = "可以傳送貼圖與GIF動圖";
+"Channel.BlockUser.CanEmbedLinks" = "可以嵌入傳送器";
+"Channel.BlockUser.BlockFor" = "魔障屏蔽";
+"Channel.Blacklist.SelectNewUserTitle" = "魔法師";
+
+"Channel.Admins.PromotedBy" = "由 %@ 任命";
+"Channel.Admins.AddAdminError" = "抱歉，尼無法將此魔法師晉升為大魔法師";
+"Channel.Blacklist.RestrictedBy" = "被 %@ 限制";
+"Channel.Blacklist.BlockedBy" = "被 %@ 魔障屏蔽";
+"Channel.Blacklist.DemoteAdminError" = "很抱歉，尼不能魔障屏蔽此魔法師，因為他是此圈圈中ㄉ大魔法師，尼不被允許降級他。";
+
+"Channel.Admins.Promote.BannedAdminError" = "很抱歉，尼無法將此魔法師添加為大魔法師，因為他在黑名單中，且尼無法取消魔障屏蔽他。";
+"Channel.Admins.Promote.UnmemberAdminError" = "很抱歉，尼不能將此魔法師添加為大魔法師，因為他不是此圈圈ㄉ魔法師，且尼不被允許邀請他。";
+"Channel.BanForever" = "永遠";
+
+"Channel.EventFilter.EventsHeader" = "事件";
+"Channel.EventFilter.AdminsHeader" = "大魔法師";
+
+"Channel.SelectPeers.Contacts" = "同伴";
+"Channel.SelectPeers.Global" = "全域";
+
+"Supergroup.DeleteRestriction.DeleteMessage" = "詛咒水晶玉";
+"Supergroup.DeleteRestriction.BanUser" = "魔障屏蔽魔法師";
+"Supergroup.DeleteRestriction.ReportSpam" = "檢舉垃圾水晶玉";
+"Supergroup.DeleteRestriction.DeleteAllMessages" = "詛咒所有水晶玉";
+"ChannelAdmins.RecentActions" = "魔法日誌";
+
+
+"Telegram.ProxySettingsViewController" = "代理";
+"ProxySettings.ConnectionHeader" = "連接";
+"ProxySettings.CredentialsHeader" = "證明 (可選)";
+"ProxySettings.Disabled" = "已停用";
+"ProxySettings.Socks5" = "SOCKS5";
+
+"ProxySettings.Type" = "代理魔法圖書館類型";
+"ProxySettings.Server" = "魔法圖書館";
+"ProxySettings.Port" = "連接埠";
+"ProxySettings.Username" = "靈魂";
+"ProxySettings.Password" = "令咒";
+"ProxySettings.Save" = "儲存";
+
+"Channel.EventLog.OriginalMessage" = "原始水晶玉";
+"Channel.EventLog.Empty" = "空ㄉ";
+"Channel.Admin.CantEditRights" = "尼無法編輯此大魔法師ㄉ權限。";
+"Channel.Blacklist.Unban" = "解除魔障屏蔽";
+
+"ConnectingStatus.DisableProxy" = "點擊此處可停用代理...";
+"Proxy.ForceDisable" = "尼確定要停用代理魔法圖書館 %@？";
+"Proxy.ForceEnable.Header1" = "尼想要添加這個代理魔法圖書館嗎？";
+"Proxy.ForceEnable.OK" = "添加代理魔法圖書館";
+
+"Proxy.ForceEnable.MTPDesc" = "此代理魔法圖書館可能會在尼ㄉ聊天清單中顯示贊助者ㄉ大聲公。這不會洩露尼ㄉ Telegram 通訊內容。";
+
+
+"Proxy.ForceEnable.Text.IP" = "魔法圖書館：%@";
+"Proxy.ForceEnable.Text.Port" = "連接埠：%d";
+"Proxy.ForceEnable.Text.Username" = "魔法識別ID：%@";
+"Proxy.ForceEnable.Text.Password" = "令咒：%@";
+
+"Proxy.ForceEnable.Text" = "尼可以稍候在設定 (隱私和安全) 中變更代理魔法圖書館。";
+"ProxySettings.Share" = "與朋友分享此傳送器，以避開尼所在陣營ㄉ審查制度";
+"ProxySettings.ExportLink" = "從剪貼簿匯出傳送器";
+
+
+"ProxySettings.ProxyNotFound" = "代理設定在剪貼簿中找不到。";
+"ProxySettings.ExportDescription" = "如果尼ㄉ剪貼簿包含 socks5-傳送器 (**t.me/socks?server=127.0.0.1&port=80**) 它將立即被應用";
+"Confirm.AddBotToGroup" = "將機器人加入到「%@」？";
+
+"AccountSettings.Theme" = "外觀";
+"Telegram.AppearanceViewController" = "外觀";
+"Telegram.SelectPeersController" = "選擇魔法師";
+"GeneralSettings.DarkMode" = "烏麻麻模式";
+"GeneralSettings.DarkMode.Description" = "夜間和黑膽石桌面ㄉ配色方案";
+"GeneralSettings.Font.Description" = "使用大字體ㄉ水晶玉";
+
+
+
+"Context.ViewStickerSet" = "檢視貼圖包";
+
+"Storage.Clear.Photos" = "照片";
+"Storage.Clear.Videos" = "影片";
+"Storage.Clear.Audio" = "音訊";
+"Storage.Clear.Documents" = "文件";
+"Storage.Clear" = "清除 %@";
+"AccountSettings.Bio" = "魔法師簽名";
+
+"Telegram.BioViewController" = "魔法師簽名";
+
+"Bio.Placeholder" = "關於尼ㄉ幾句話";
+"Bio.Description" = "尼可以添加幾行關於尼自己ㄉ描述。\n任何打開尼個人魔法書頁ㄉ人會看到這段文字。";
+"Bio.Save" = "儲存";
+
+"ServiceMessage.ExpiredPhoto" = "照片已過期";
+"ServiceMessage.ExpiredFile" = "玉石已過期";
+"ServiceMessage.ExpiredVideo" = "影片已過期";
+
+"ServiceMessage.DesturctingPhoto" = "%@ 傳送給尼一張自毀ㄉ照片。請在尼ㄉ魔法器上檢視。";
+"ServiceMessage.DesturctingPhoto.You" = "%@ 傳送ㄌ一張自毀ㄉ照片。";
+
+"ServiceMessage.DesturctingVideo" = "%@ 傳送給尼一個自毀ㄉ影片。請在尼ㄉ魔法器上檢視。";
+"ServiceMessage.DesturctingVideo.You" = "%@ 傳送ㄌ一個自毀ㄉ影片。";
+"ChatList.Service.DestructingPhoto" = "自毀ㄉ照片";
+"ChatList.Service.DestructingVideo" = "自毀ㄉ影片";
+
+
+"ShareExtension.Share" = "分享";
+"ShareExtension.Cancel" = "取消";
+"ShareExtension.Search" = "找找";
+"ShareExtension.Passcode.Placeholder" = "令咒";
+"ShareExtension.Passcode.Next" = "下一步";
+"ShareExtension.Unauthorized.OK" = "好";
+"ShareExtension.Unauthorized.Description" = "要透過 Telegram 分享，請開啟 Telegram 應用程式並登入。";
+
+"Chat.SearchFrom" = "從：";
+"Chat.SearchCount" = "%d / %d";
+
+"Entertainment.Emoji" = "表情符號";
+"Entertainment.Stickers" = "貼圖";
+"Entertainment.GIF" = "GIF 圖";
+"ShareModal.Search.Placeholder" = "分享到⋯";
+"ShareModal.Search.ForwardPlaceholder" = "轉傳至…";
+"InstantPage.AuthorAndDateTitle" = "由 %1$@ ⚡️ %2$@";
+"IV.Channel.Join" = "加入";
+
+"Chat.Context.AddFavoriteSticker" = "添加到「最愛」";
+"Chat.Context.RemoveFavoriteSticker" = "從「最愛」中炸毀";
+"Chat.InstantView" = "即時瀏覽";
+"Context.RemoveFaveSticker" = "炸毀";
+"Stickers.GroupStickers" = "圈圈貼圖";
+
+"PeerInfo.SetGroupStickersSet" = "圈圈貼圖包";
+"Telegram.GroupStickerSetController" = "圈圈貼圖包";
+"GroupStickers.CreateDescription" = "尼可以使用 @stickers 機器人創建尼自己ㄉ自訂貼圖包。";
+"GroupStickers.ChooseHeader" = "從尼ㄉ貼圖中選擇";
+"GroupStickers.EmptyHeader" = "沒有找到這樣ㄉ貼圖";
+"GroupStickers.EmptyDesc" = "再試一次或從下面ㄉ列表中選擇";
+
+"AccountSettings.SetBio" = "設定魔法師簽名";
+"AccountSettings.SetUsername" = "設定魔法識別ID";
+
+"FastSettings.EnableDarkMode" = "啟用烏麻麻模式";
+"FastSettings.DisableDarkMode" = "停用烏麻麻模式";
+"FastSettings.LockTelegram" = "鎖定 Telegram";
+"FastSettings.Mute2Hours" = "暫停啄木鳥 2 小時";
+"FastSettings.Unmute" = "開啟啄木鳥";
+"FastSettings.SetPasscode" = "設定令咒";
+
+"GeneralSettings.AppearanceSettings" = "外觀設定";
+
+"Chat.Context.CopyBlock" = "複製預先設好格式ㄉ區塊";
+
+
+
+
+"PeerInfo.PreHistory.Visible" = "顯示";
+"PeerInfo.PreHistory.Hidden" = "隱藏";
+
+
+
+"PreHistorySettings.Description.Visible" = "新魔法師可以看到加入前ㄉ舊水晶玉。";
+"PreHistorySettings.Description.Hidden" = "新魔法師無法看到加入前ㄉ舊水晶玉。";
+
+
+"ChangePhoneNumber.Intro.Description" = "尼可以在這裡變更 Telegram 所綁定ㄉ魔法器號碼。尼ㄉ靈魂和所有尼ㄉ雲端資料：水晶玉、媒體、同伴…等，將被移動到新ㄉ號碼。\n\n**重要提示：** 尼ㄉ所有 Telegram 同伴將取得尼ㄉ**新號碼** ，並加入到他們ㄉ魔法器通訊錄中，條件是他們有尼ㄉ舊號碼，且尼沒有在 Telegram 中魔障屏蔽他們。";
+
+"Telegram.PhoneNumberConfirmController" = "變更號碼";
+
+
+
+
+
+
+
+
+
+
+
+
+"Messages.Placeholder.Broadcast" = "廣播…";
+"Messages.Placeholder.SilentBroadcast" = "無聲廣播…";
+
+
+
+
+"GeneralSettings.ForceTouch.Edit" = "編輯水晶玉";
+
+
+
+
+
+
+
+
+
+
+"TwoStepAuth.SetPassword" = "設定額外ㄉ令咒";
+"TwoStepAuth.SetPasswordHelp" = "尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ驗證碼外，另外要施展魔法ㄉ令咒。";
+
+"TwoStepAuth.SetupPasswordTitle" = "尼ㄉ令咒";
+
+"TwoStepAuth.SetupEmailTitle" = "備援電子信箱";
+
+
+"TwoStepAuth.SetupHint" = "為尼ㄉ令咒建立提示";
+
+
+
+"TwoStepAuth.SetupEmail" = "設定備援電子信箱";
+"TwoStepAuth.ChangeEmail" = "變更備援電子信箱";
+"TwoStepAuth.PendingEmailHelp" = "尼ㄉ備援電子信箱 %@ 尚未啟用，等待確認。";
+"TwoStepAuth.GenericHelp" = "尼已啟用兩步驟驗證。\n尼需要此處設定ㄉ令咒以登入尼ㄉ Telegram 靈魂。";
+
+"TwoStepAuth.ConfirmationText" = "請檢查尼ㄉ電子郵件，並點擊驗證傳送器，以好惹兩步驟驗證設定。請務必檢查垃圾郵件夾。";
+"TwoStepAuth.ConfirmationAbort" = "取消兩步驟驗證設定";
+
+
+"TwoStepAuth.SetupPasswordEnterPasswordNew" = "施展魔法尼ㄉ新令咒";
+
+
+
+
+"TwoStepAuth.EnterPasswordHint" = "提示： %@";
+"TwoStepAuth.EnterPasswordHelp" = "尼已啟用兩步驟驗證，因此尼ㄉ靈魂受到額外令咒ㄉ保護。";
+"TwoStepAuth.EnterPasswordForgot" = "忘記令咒ㄌ嗎？";
+
+
+
+
+
+"TwoStepAuth.EmailHelp" = "請添加尼ㄉ有效電子信箱。 這是恢復忘記令咒ㄉ唯一方法。";
+
+
+
+"TwoStepAuth.RecoveryUnavailable" = "由於尼在設定令咒時沒有提供備援電子信箱，尼剩餘ㄉ選項是想起尼ㄉ令咒，或是重置尼ㄉ靈魂。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"TwoStepAuth.Error.HaventEmail" = "由於尼在設定令咒時沒有提供備援電子信箱，尼剩餘ㄉ選項是想起尼ㄉ令咒，或是重置尼ㄉ靈魂。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+"PreviewSender.SendFile_other" = "傳送 %d 個玉石";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Peer.SavedMessages" = "已儲存ㄉ水晶玉";
+
+
+
+"PrivacySettings.LastSeenEverybodyMinus" = "所有人 (-%@)";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Search.Global.Group1_other" = "%@, %d 位魔法師";
+
+
+
+
+
+
+
+
+
+//"ChatList.Context.PinError" = "Sorry, you can pin no more than 5 chats to the top.";
+
+
+
+
+
+
+
+
+
+
+"AppearanceSettings.TextSize.Header" = "文字大小";
+
+
+
+
+
+"AppearanceSettings.ColorTheme.day_classic" = "日經典";
+
+"AppearanceSettings.ColorTheme.night_blue" = "夜國民黨";
+
+
+"AppearanceSettings.ChatView.Bubbles" = "氣泡";
+
+
+"AppearanceSettings.FollowSystemAppearance.DefaultDay" = "選擇將用於魔法器日間模式ㄉ預設淺色主題玉石。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Chat.Message.DeleteForMeAndPerson" = "為窩和 %@ 删除";
+"Chat.Message.DeleteForMe" = "為窩詛咒";
+
+
+
+
+
+"GeneralSettings.InstantViewHeader" = "即時瀏覽";
+
+"GeneralSettings.AutoplayGifs" = "小精靈智慧選擇播放 GIF 動圖";
+"GeneralSettings.AccentColor" = "強調色";
+"GeneralSettings.ChatBackground" = "聊天室背景";
+"Chat.LiveLocation" = "即時位置";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Telegram.DataAndStorageViewController" = "數據和儲存";
+"DataAndStorage.AutomaticDownload" = "小精靈智慧選擇下載媒體";
+
+"DataAndStorage.AutomaticDownload.Reset" = "重置小精靈智慧選擇下載設定";
+
+
+"DataAndStorage.AutomaticDownload.Files" = "玉石";
+"DataAndStorage.AutomaticDownload.Voice" = "語音水晶玉";
+"DataAndStorage.AutomaticDownload.InstantVideo" = "視訊水晶玉";
+
+
+
+
+"DataAndStorage.CategorySettings.GroupChats" = "圈圈聊天";
+"DataAndStorage.CategorySettings.Channels" = "大聲公";
+"DataAndStorage.CateroryFileSizeLimit.Header" = "按大小限制";
+"DataAndStorage.CateroryFileSize.Unlimited" = "無限制";
+"DataAndStorage.Confirm.ResetSettings" = "撤銷所有自訂小精靈智慧選擇下載設定。";
+
+
+"Chat.Confirm.ReportSpam.Channel" = "檢舉垃圾水晶玉並退出大聲公？";
+"Chat.Confirm.ReportSpam.Group" = "檢舉垃圾水晶玉並退出圈圈？";
+
+"Appearance.CustomBackground" = "自訂背景";
+
+
+
+
+
+
+"ChatWallpaper.Empty" = "預設";
+
+"Chat.Service.BotPermissionAllowed" = "尼允許這個機器人在尼登入 %@ 時向尼傳送水晶玉。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Text.Context.Copy.Code" = "複製代碼";
+
+"Text.Context.Copy.Username" = "複製魔法識別ID";
+"Text.Context.Copy.Hashtag" = "複製主題玉石標籤";
+
+
+
+
+
+
+
+
+
+
+
+"Telegram.WebSessionsController" = "使用 Telegram 靈魂登入ㄉ網站";
+"PrivacyAndSecurity.WebAuthorizationHeader" = "已傳送器ㄉ網站";
+
+
+"WebAuthorizations.LogoutAll.Description" = "尼可以登入支援使用 Telegram 靈魂登入ㄉ網站。";
+"WebAuthorizations.LoggedIn.Descrpiption" = "已傳送器ㄉ網站";
+"WebAuthorizations.LogoutAll" = "斷開與所有網站ㄉ傳送器";
+
+
+
+
+"Telegram.PassportController" = "護照";
+
+
+
+
+
+"SecureId.Request.Permission.PersonalDetails" = "個人魔法書";
+
+"SecureId.Request.Permission.ResidentialAddress" = "居住地址";
+"SecureId.Request.Permission.IdentityDocument" = "身分證件";
+
+"SecureId.Request.Permission.UtilityBill" = "水電費帳單";
+
+
+
+
+"SecureId.Request.Permission.InternalPassport" = "內部護照";
+
+"SecureId.Request.Permission.TemporaryRegistration" = "臨時註冊";
+
+"SecureId.Request.Accept" = "授權";
+
+
+
+
+
+
+
+
+
+"SecureId.Request.Permission.Email.Empty" = "提供尼ㄉ聯絡電子郵件地址";
+"SecureId.Request.Permission.Phone.Empty" = "提供尼ㄉ聯絡精靈耳";
+"SecureId.Request.Permission.Identity.Empty" = "上傳尼ㄉ護照或其他身分證件ㄉ掃描";
+"SecureId.Request.Permission.Address.Empty" = "上傳尼ㄉ地址證明";
+
+
+"SecureId.ScanNumber" = "掃描 %d";
+
+"SecureId.Identity.Id" = "身分證";
+
+"SecureId.Identity.DriverLicense" = "駕照";
+"SecureId.Identity.UtilityBill" = "水電費帳單";
+"SecureId.Identity.BankStatement" = "銀行對帳單";
+"SecureId.Identity.TenancyAgreement" = "租約";
+"SecureId.Identity.PassportRegistration" = "護照註冊";
+
+
+"SecureId.ResidentialAddress" = "居住地址";
+"SecureId.PhoneNumber" = "魔法器號碼";
+"SecureId.Email" = "電子郵件地址";
+
+"SecureId.DeletePassport" = "詛咒 Telegram Passport";
+
+"SecureId.Gender.Male" = "男";
+"SecureId.Gender.Female" = "女";
+
+
+
+
+
+
+
+"SecureId.Identity.Placeholder.MiddleName" = "中間名";
+"SecureId.Identity.InputPlaceholder.MiddleName" = "中間名";
+
+
+
+
+
+
+
+
+"SecureId.Identity.Placeholder.Citizenship" = "國籍";
+"SecureId.Identity.Placeholder.Residence" = "居住";
+
+"SecureId.Identity.Placeholder.IssuedDate" = "核發日期";
+"SecureId.Identity.Placeholder.ExpiryDate" = "有效日期";
+"SecureId.Identity.DocumentDetailsHeader" = "文件詳細魔法書";
+
+
+
+
+"SecureId.Identity.Passport.InputPlaceholder" = "文件編號";
+
+
+
+
+
+
+
+"SecureId.Scans.Header" = "掃描";
+"SecureId.UploadScan" = "上傳掃描";
+"SecureId.UploadAdditionalScan" = "上傳其他掃描";
+
+
+
+
+
+
+
+
+
+
+"SecureId.IdentityScan.Description" = "文件必須包含尼ㄉ姓名、居住地址，郵票 / 條碼 / QR code / 商標，以及核發日期不超過3個月。";
+
+
+"SecureId.RequestedInformation.Header" = "所需魔法書";
+
+"SecureId.Accept.Help" = "尼正在將尼ㄉ文件直接傳送給 **%@** ，並允許其所屬ㄉ **%@** 向尼傳送水晶玉。";
+"Chat.Service.SecureId.AccessGranted" = "%@ 收到ㄌ以下文件：%@";
+
+
+
+
+
+
+
+
+
+
+"SecureId.CreatePassword.PasswordInputPlaceholder" = "施展魔法尼ㄉ令咒";
+"SecureId.CreatePassword.RePasswordInputPlaceholder" = "再次施展魔法尼ㄉ令咒";
+"SecureId.CreatePassword.Description" = "請建立令咒來保護尼ㄉ付款魔法書。當尼登入時，會被要求施展魔法。"; //WRONG
+
+
+
+"SecureId.CreatePassword.Email.Header" = "備援電子信箱";
+
+
+"SecureId.CreatePassword.Email.Description" = "請添加尼ㄉ有效電子信箱。 這是恢復忘記令咒ㄉ唯一方法。";
+
+
+
+"SecureId.EmailActivate.Description" = "請施展魔法窩們剛傳送到 %@ ㄉ驗證碼";
+
+
+"SecureId.DeleteIdentity" = "詛咒文件";
+
+
+
+
+"SecureId.InsertPassword.Description" = "請施展魔法尼ㄉ令咒以存取尼ㄉ個人數據。";
+"SecureId.PhoneNumber.UseSame.Desc" = "使用與 Telegram 相同ㄉ魔法器號碼。";
+
+"SecureId.PhoneNumber.Note" = "注意：尼將在尼提供ㄉ魔法器號碼上收到驗證碼。";
+
+
+"SecureId.InsertPassword.Settings.Description" = "請施展魔法尼ㄉ Telegram 令咒以解密尼ㄉ數據";
+
+
+"SecureId.Email.UseSame" = "使用 %@";
+"SecureId.Email.UseSame.Desc" = "注意：尼將收到尼提供ㄉ電子郵件地址ㄉ驗證碼。";
+
+"SecureId.Email.Email.InputPlaceholder" = "施展魔法尼ㄉ電子郵件地址";
+
+
+
+
+
+
+"SecureId.Address.Header" = "地址";
+"SecureId.Address.Street.Placeholder" = "街道";
+"SecureId.Address.Street.InputPlaceholder" = "街道和號碼，郵政信箱";
+"SecureId.Address.Street1.InputPlaceholder" = "公寓、套房、單位、建築物、樓層";
+
+"SecureId.Address.City.InputPlaceholder" = "城市";
+"SecureId.Address.Region.Placeholder" = "地區";
+
+"SecureId.Address.Country.Placeholder" = "陣營";
+
+"SecureId.Address.Postcode.InputPlaceholder" = "郵遞區號";
+
+
+
+
+
+
+
+
+"SecureId.forgotPassword.NoEmail" = "由於尼在設定令咒時沒有提供備援電子信箱，尼剩餘ㄉ選項是想起尼ㄉ令咒，或是重置尼ㄉ靈魂。";
+
+
+
+
+
+
+
+"SecureId.Warning.DataLost" = "警告！尼將失去所有儲存在尼 Telegram Passport 中ㄉ資料！";
+"SecureId.Upload.Main" = "上傳文件首頁ㄉ照片";
+"SecureId.Upload.Front" = "上傳文件ㄉ正面照片";
+"SecureId.Upload.Reverse" = "上傳文件反面ㄉ照片";
+"SecureId.Upload.Selfie" = "上傳自己持有文件ㄉ自拍照";
+
+
+
+
+
+"SecureId.Info.Title" = "什麼是 Telegram Passport？";
+"SecureId.Info" = "使用 Telegram Passport，尼可以輕鬆註冊需要身分驗證ㄉ網站和服務。\n\n尼ㄉ魔法書、個人數據和文件受到端到端高速粒子加密ㄉ保護。沒有尼ㄉ允許, 任何人都不能存取它們。";
+"SecureId.Info.More" = "更多魔法書";
+
+
+"SecureId.Add.PersonalDetails" = "添加個人魔法書";
+"SecureId.Edit.PersonalDetails" = "編輯個人魔法書";
+"SecureId.Add.Passport" = "添加護照";
+"SecureId.Edit.Passport" = "編輯護照";
+"SecureId.Add.ID" = "添加身分證";
+"SecureId.Edit.ID" = "編輯身分證";
+
+
+"SecureId.Add.InternalPassport" = "添加內部護照";
+"SecureId.Edit.InternalPassport" = "編輯內部護照";
+
+"SecureId.Add.ResidentialAddress" = "添加居住地址";
+"SecureId.Edit.ResidentialAddress" = "編輯居住地址";
+"SecureId.Add.UtilityBill" = "添加水電費帳單";
+"SecureId.Edit.UtilityBill" = "編輯水電費帳單";
+"SecureId.Add.BankStatement" = "添加銀行對帳單";
+"SecureId.Edit.BankStatement" = "編輯銀行對帳單";
+
+
+"SecureId.Add.PassportRegistration" = "添加護照註冊";
+"SecureId.Edit.PassportRegistration" = "編輯護照註冊";
+"SecureId.Add.TemporaryRegistration" = "添加臨時註冊";
+"SecureId.Edit.TemporaryRegistration" = "編輯臨時註冊";
+
+"SecureId.Delete.PersonalDetails" = "詛咒個人魔法書";
+"SecureId.Delete.Confirm.PersonalDetails" = "尼確定要詛咒個人魔法書？";
+"SecureId.Confirm.DeleteDocument" = "尼確定要詛咒此文件？";
+"SecureId.Confirm.DeleteAddress" = "詛咒地址";
+"SecureId.AppVersionOutdated" = "很抱歉，尼ㄉ Telegram 應用已經過時ㄌ，無法處理此請求。請更新 Telegram。";
+
+"SecureId.EmptyDescription.UtilityBill" = "上傳尼ㄉ水電費帳單掃描";
+"SecureId.EmptyDescription.BankStatement" = "上傳尼ㄉ銀行對帳單掃描";
+"SecureId.EmptyDescription.TenancyAgreement" = "上傳尼ㄉ租約掃描";
+"SecureId.EmptyDescription.PassportRegistration" = "上傳尼ㄉ護照註冊掃描";
+"SecureId.EmptyDescription.TemporaryRegistration" = "上傳尼臨時註冊ㄉ掃描";
+
+"SecureId.EmptyDescription.PersonalDetails" = "填寫尼ㄉ個人魔法書";
+"SecureId.EmptyDescription.Address" = "提供尼ㄉ位址";
+
+"SecureId.EmptyDescription.Passport" = "上傳尼ㄉ護照掃描";
+
+"SecureId.EmptyDescription.IdentityCard" = "上傳尼ㄉ身分證掃描";
+"SecureId.EmptyDescription.InternalPassport" = "上傳尼ㄉ內部護照掃描";
+
+"SecureId.CreatePassword.Intro.Header" = "**%@ 要求存取尼ㄉ個人數據**以便尼註冊其服務。";
+
+
+"SecureId.Translation.Header" = "翻譯";
+"SecureId.Translation.Desc" = "上傳文件英文譯本ㄉ掃描。";
+
+
+
+
+
+"ProxySettings.Item.Checking" = "檢查中…";
+
+"ProxySettings.Secret" = "金鑰";
+
+
+
+
+"Login.ConnectionError.TryAgain" = "再試一次";
+"Login.ConnectionError.UseProxy" = "使用代理魔法圖書館";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"EditAccount.Logout" = "登出";
+
+
+
+
+
+
+"Chanel.EventFilter.AllEvents" = "所有事件";
+
+
+
+
+
+
+"NetworkUsage.Header.Generic" = "水晶玉";
+
+
+
+"NetworkUsage.Header.Files" = "玉石";
+"NetworkUsage.Reset" = "重置統計資料";
+
+
+
+
+
+"ChatList.SponsoredChannel" = "代理贊助商";
+
+
+"AudioRecord.Help.Fixed" = "點擊圓圈外部以取消";
+"AudioRecord.Help.Plain" = "在圓圈外釋放以取消";
+
+
+
+
+"Chat.ProxySponsored.AlertText" = "此大聲公是由尼使用ㄉ代理魔法圖書館所顯示。要從聊天清單中詛咒此大聲公，請在 Telegram ㄉ設定中停用該代理。";
+
+
+
+"Chat.Channel.Unaccessible" = "抱歉，此大聲公已無法存取。";
+"Chat.Group.Unaccessible" = "抱歉，此圈圈已無法存取。";
+
+
+
+
+
+
+
+
+
+
+"Chat.LiveLocation.Updated_other" = "在 %d 分鐘以前更新";
+
+"Chat.LiveLocation.UpdatedNow" = "剛剛更新";
+
+
+
+
+
+
+
+
+
+
+"Location.Send.Locating" = "定位中…";
+
+
+"Location.Send.ShowNearby" = "顯示附近地點";
+"Location.Send.HideNearby" = "隱藏附近地點";
+
+
+
+
+
+
+
+
+"ProxySettings.ShareProxyList" = "分享代理清單";
+
+"TermsOfService.Accept" = "同意並繼續";
+"TermsOfService.Disagree" = "拒絕";
+
+
+
+"TermsOfService.Disagree.OK" = "拒絕並停用";
+"TermsOfService.ConfirmAge" = "窩確定窩已滿 %@ 歲。";
+"TermsOfService.ProceedBot" = "請同意並繼續 %@。";
+"ChatList.Context.MaskAsRead" = "標記為已讀";
+"ChatList.Context.MaskAsUnread" = "標記為未讀";
+
+"Chat.EditMessage.Media" = "點擊以編輯媒體";
+
+
+
+
+"Suggest.Frequent.Contacts" = "推薦常用同伴";
+"Suggest.Frequent.Contacts.Desc" = "在找找區塊ㄉ頂部顯示尼經常傳水晶玉ㄉ對象，以便快速選取。";
+"Suggest.Frequent.Contacts.Alert" = "This will delete all data about the people you message frequently as well as the inline bots you are likely to use.";
+
+
+
+
+
+
+"Search.Popular.SavedMessages" = "已儲存";
+
+
+"Article.MarkAsRead" = "標記為已讀";
+
+"Article.ReadAll" = "查閱全部";
+"Article.RemoveAll" = "炸毀全部";
+"Article.Remove" = "炸毀";
+
+
+"Search.Popular.Delete" = "詛咒";
+
+
+
+
+"UpdateApp.UpdateTelegram" = "更新 Telegram";
+"UpdateApp.TelegramUpdate" = "Telegram 更新";
+
+
+
+"SecureId.DiscardChanges.Header" = "放棄變更";
+"SecureId.DiscardChanges.Text" = "尼確定要放棄所有變更嗎？";
+
+
+"SecureId.LoginText" = "請登入尼ㄉ靈魂以使用 Telegram Passport";
+
+
+
+
+
+
+"ContactInfo.PhoneLabelHomeFax" = "住家傳真";
+
+
+
+
+"ContactInfo.BirthdayLabel" = "生日";
+"ContactInfo.Job" = "公司";
+
+
+"ContactInfo.ContactInfo" = "聯絡魔法書";
+"Chat.ViewContact" = "查看同伴";
+
+
+
+
+
+
+
+
+"ChatList.Swiping.Read" = "已讀";
+"ChatList.Swiping.Unread" = "未讀";
+"ChatList.Swiping.Delete" = "詛咒";
+"ChatList.Swiping.Pin" = "置頂";
+"ChatList.Swiping.Unpin" = "取消置頂";
+"ChatList.Swiping.Mute" = "關閉啄木鳥";
+"ChatList.Swiping.Unmute" = "開啟啄木鳥";
+
+
+
+
+"Passport.Language.ar" = "阿拉伯文";
+"Passport.Language.az" = "亞塞拜然文";
+"Passport.Language.bg" = "保加利亞文";
+"Passport.Language.bn" = "孟加拉文";
+"Passport.Language.cs" = "捷克文";
+"Passport.Language.da" = "丹麥文";
+"Passport.Language.de" = "德文";
+"Passport.Language.dv" = "迪維希文";
+"Passport.Language.dz" = "宗喀文";
+"Passport.Language.el" = "希臘文";
+
+"Passport.Language.es" = "西班牙文";
+"Passport.Language.et" = "愛沙尼亞文";
+"Passport.Language.fa" = "波斯文";
+"Passport.Language.fr" = "法文";
+"Passport.Language.he" = "希伯來文";
+"Passport.Language.hr" = "克羅地亞文";
+"Passport.Language.hu" = "匈牙利文";
+"Passport.Language.hy" = "亞美尼亞文";
+"Passport.Language.id" = "印尼文";
+"Passport.Language.is" = "冰島文";
+"Passport.Language.it" = "義大利文";
+"Passport.Language.ja" = "日文";
+"Passport.Language.ka" = "喬治亞文";
+"Passport.Language.km" = "高棉文";
+"Passport.Language.ko" = "韓文";
+"Passport.Language.lo" = "寮國文";
+"Passport.Language.lt" = "立陶宛文";
+"Passport.Language.lv" = "拉脫維亞文";
+"Passport.Language.mk" = "馬其頓文";
+"Passport.Language.mn" = "蒙古文";
+"Passport.Language.ms" = "馬來文";
+"Passport.Language.my" = "緬甸文";
+"Passport.Language.ne" = "尼泊爾文";
+"Passport.Language.nl" = "荷蘭文";
+"Passport.Language.pl" = "波蘭文";
+"Passport.Language.pt" = "葡萄牙文";
+"Passport.Language.ro" = "羅馬尼亞文";
+"Passport.Language.ru" = "俄文";
+"Passport.Language.sk" = "斯洛伐克文";
+"Passport.Language.sl" = "斯洛維尼亞文";
+"Passport.Language.th" = "泰文";
+"Passport.Language.tk" = "土庫曼文";
+"Passport.Language.tr" = "土耳其文";
+"Passport.Language.uk" = "烏克蘭文";
+"Passport.Language.uz" = "烏玆別克文";
+"Passport.Language.vi" = "越南文";
+
+"SecureId.NameNative.HeaderEmpty" = "在居住國ㄉ姓名";
+"SecureId.NameNative.Header" = "尼ㄉ%@名字";
+"SecureId.NameNative.Desc.Language" = "以尼所在陣營ㄉ語言表達尼ㄉ姓名 (%@)。";
+"SecureId.NameNative.Desc.Empty" = "以尼所在陣營ㄉ語言表達尼ㄉ姓名";
+
+"SecureId.Identity.NameInLatine" = "使用拉丁字母施展魔法尼ㄉ姓名";
+
+
+"SecureId.Password.Error.Invalid" = "令咒無效。請重試";
+
+
+
+"SecureId.InputError.LatinOnly" = "請使用英文。";
+
+"Alert.Confirm.Discard" = "放棄";
+
+
+"Appearance.Settings.AutoNight" = "小精靈智慧選擇烏麻麻模式";
+
+
+
+
+
+
+
+"AutoNight.Settings.Sunrise.Desc" = "計算日落和日出時間需要對尼ㄉ大致位置進行一次檢查。注意，此位置僅儲存在尼ㄉ本地魔法器上。\n\n日落：%@\n日出：%@";
+
+
+"AutoNight.Settings.From" = "從";
+"AutoNight.Settings.To" = "到";
+"AutoNight.Settings.UpdateLocation" = "更新位置";
+"AutoNight.Settings.SunsetAndSunrise" = "使用本地ㄉ日落和日出時間";
+"AutoNight.Settings.Disabled" = "停用";
+"AutoNight.Settings.Scheduled" = "排定";
+
+
+"Gallery.Context.Share.ThisPhoto" = "這張照片";
+
+
+
+
+
+
+"Gallery.Context.Share.AllPhotos_other" = "所有 %d 張照片";
+
+
+"Gallery.Context.Share.ThisVideo" = "這個影片";
+"Gallery.Context.Share.AllVideos_countable" = "%d";
+
+
+
+
+
+"Gallery.Context.Share.AllVideos_other" = "全部 %d 個影片";
+
+
+
+
+
+
+
+"Gallery.Context.Share.AllItems_other" = "全部 %d 個項目";
+
+
+"Gallery.Context.ShowGallery" = "共享ㄉ媒體";
+
+
+
+
+
+
+
+
+
+
+
+
+
+"RequestAcces.Error.HaveNotAccess.Call" = "Telegram 需要存取尼ㄉ麥克風才能撥打精靈耳。";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Audio" = "Telegram needs access to your microphone to send voice messages";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Audio" = "Telegram needs access to your microphone to send voice messages";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Camera" = "Telegram needs access to your camera to send voice messages";
+
+
+
+
+/* new from translations.telegram.org */
+
+
+
+
+
+
+
+"SecureId.Add.RentalAgreement" = "添加租約";
+"SecureId.Edit.RentalAgreement" = "編輯租約";
+
+
+
+
+"_NS88.title" = "編輯";
+
+
+
+
+
+
+"Td7-aD-5lo.title" = "視窗";
+
+
+
+
+
+
+"EditImageControl.Confirm.Discard" = "尼確定要放棄所有變更嗎？";
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Chat.SendMessageErrorFlood" = "抱歉，目前尼只能傳水晶玉給互為同伴ㄉ魔法師。";
+"Chat.SendMessageErrorGroupRestricted" = "抱歉，尼目前無法在公開圈圈發水晶玉。";
+"Generic.ErrorMoreInfo" = "更多魔法書";
+
+
+"Forward.ToSavedMessages" = "轉傳水晶玉到這裡以便快速存取";

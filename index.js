@@ -31,7 +31,7 @@ function replaceWord(data) {
 }
 
 function saveOutput(fileData, fileName) { //存檔
-    if (fileName == 'android_x_zh-TW.xml') fileName = `Android Telegram X Enchanter.xml`
+    if (fileName == 'android_x_zh_TW.xml') fileName = `Android Telegram X Enchanter.xml`
     else fileName = fileName.replace(/TW/g, 'Enchanter')
     fs.writeFile(__dirname + '/output/' + fileName, fileData, (err) => { if (err) throw err })
     console.log(' - 已轉換 ', fileName)
