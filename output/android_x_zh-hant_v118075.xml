@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="AppName">Telegram X</string>
+
+  <string name="language_continueInLanguage">切換為魔法師中文</string>
+
+  <string name="Page1Title">Telegram X</string>
+  <string name="Page2Title">快速</string>
+  <string name="Page3Title">免錢</string>
+  <string name="Page4Title">強大</string>
+  <string name="Page5Title">安全</string>
+  <string name="Page6Title">基於雲端</string>
+  <string name="Page1Message">世界上**最快ㄉ**即時通訊軟體。\n**免錢**且**安全**。</string>
+  <string name="Page2Message">**Telegram** 練成水晶玉比其他\n魔法器更快。</string>
+  <string name="Page3Message">**Telegram** 永久免錢。不含廣告。\n不必付訂閱費。</string>
+  <string name="Page4Message">**Telegram** 沒有限制\n尼ㄉ媒體和聊天室大小。</string>
+  <string name="Page5Message">**Telegram** 讓尼ㄉ水晶玉保持\n安全，免於被暗黑魔法師攻擊。</string>
+  <string name="Page6Message">**Telegram** 讓尼可以從\n多個魔法器存取尼ㄉ水晶玉。</string>
+  <string name="StartMessaging">開始傳水晶玉</string>
+
+  <string name="network_Connecting">魔力連接中…</string>
+  <string name="network_WaitingForNetwork">等待魔力連接…</string>
+  <string name="network_Updating">更新中…</string>
+  <string name="Connected">魔力連接完畢！</string>
+  <string name="ConnectingToProxy">正在連線到 Proxy…</string>
+
+  <string name="AppNameAndVersion">Telegram X %1$s</string>
+  <string name="language_code">zh-hant</string>
+  <string name="language_name">魔法師中文</string>
+  <string name="language_nameInEnglish">Chinese (Enchanter)</string>
+  <string name="language_dateFormatLocale">zh-CHT</string>
+  <string name="language_rtl">0</string>
+  <string name="language_disable_lowercase">0</string>
+  <string name="language_continueInLanguagePopupText">**Telegram X** 已支援**魔法師中文**\n\n尼想切換魔法器ㄉ介面語言嗎？\n\n尼可以隨時在「設定」&gt;「語言」中還原變更。</string>
+  <string name="language_appliedLanguage">魔法器語言已設定為魔法師中文。</string>
+  <string name="MoreLanguages">更多語言</string>
+  <string name="timestamp_now">於剛才</string>
+  
+  <string name="timestamp_minutes_other">於 %1$s 分鐘前</string>
+  
+  <string name="timestamp_hours_other">%1$s 小時前</string>
+  <string name="timestamp_today">於今天 %1$s</string>
+  <string name="timestamp_today_shortened">%1$s</string>
+  <string name="timestamp_yesterday">於昨天 %1$s</string>
+  <string name="timestamp_weekday">%1$s ㄉ %2$s</string>
+  <string name="timestamp_date">%1$s ㄉ %2$s</string>
+  <string name="timestampShort_now">現在</string>
+  
+  <string name="timestampShort_minutes_other">%1$s 分鐘前</string>
+  
+  <string name="timestampShort_hours_other">%1$s 小時前</string>
+  <string name="timestampShort_today">%1$s</string>
+  <string name="timestampShort_yesterday">昨天 %1$s</string>
+  <string name="timestampShort_weekday">%1$s ㄉ %2$s</string>
+  <string name="timestampShort_date">%1$s ㄉ %2$s</string>
+  <string name="format_timestamp">20%3$02d.%2$02d.%1$02d %4$s</string>
+  <string name="format_decimalSeparator">.</string>
+  <string name="format_thousandsSeparator">,</string>
+  <string name="format_concatSeparator">、</string>
+  <string name="format_concatSeparatorLast">和</string>
+  
+  <string name="format_numberSuffix_thousand">K</string>
+  <string name="format_numberSuffix_million">M</string>
+  <string name="format_numberSuffix_billion">B</string>
+  <string name="format_newMessagesFromChats">%1$s %2$s</string>
+  <string name="format_peopleNamesAndOthers">%1$s %2$s</string>
+  <string name="format_chatTitlesAndOthers">%1$s %2$s</string>
+  <string name="format_membersAndOnline">%1$s, %2$s</string>
+  <string name="format_photosAndVideos">%1$s, %2$s</string>
+  <string name="format_fileSizeAndModifiedDate">%1$s, %2$s</string>
+  <string name="format_fileSizeAndDescription">%2$s, %1$s</string>
+  <string name="format_fileSizeAndExtension">%1$s %2$s</string>
+  <string name="format_filesAndFolders">%1$s, %2$s</string>
+  <string name="format_contentAndModifyDate">%1$s，最後修改於 %2$s</string>
+  <string name="format_locationUpdated">更新%1$s</string>
+  <string name="format_plus">+%1$d</string>
+  <string name="format_minus">-%1$d</string>
+  <string name="format_minusPlus">-%1$d, +%2$d</string>
+  <string name="format_ping">延遲：%1$s 毫剎那</string>
+  <string name="format_pingBest">延遲：%1$s 毫剎那，最佳ㄉ</string>
+  <string name="format_ivAuthorDateSeparator">" ⚡️ "</string>
+  <string name="format_dateViaBot">%1$s 透過 %2$s</string>
+  <string name="format_notificationTitleShort">%1$s (%2$s)</string>
+  
+  <string name="messagesCount_other">%1$s</string>
+  <string name="format_notificationContentGroup">%1$s: %2$s</string>
+  <string name="format_sessionsAndWebsites">%1$s, %2$s</string>
+  <string name="login_PhoneNumber">魔法器號碼</string>
+  
+  <string name="login_Code">驗證碼</string>
+  <string name="login_Password">密語</string>
+  <string name="login_Country">陣營</string>
+  <string name="login_SmsHint">窩們將練成一則包含驗證碼ㄉ飛鴿傳書到尼ㄉ魔法器號碼。</string>
+  <string name="login_YourName">尼ㄉ姓名</string>
+  
+  <string name="login_FirstName">名字</string>
+  <string name="LastName">姓氏</string>
+  <string name="login_LastName">姓氏（選填）</string>
+  <string name="login_InvalidPhone">請施展魔法有效ㄉ魔法器號碼</string>
+  <string name="login_PHONE_NUMBER_INVALID">無效ㄉ魔法器號碼。請檢查號碼，然後再試一次。\n\n如果魔法器號碼是正確ㄉ，請__聯絡窩們__。</string>
+  
+  <string name="location_Nearby">附近</string>
+  <string name="location_AwayMeters">%1$s 公尺遠</string>
+  <string name="location_AwayKilometers">%1$s 公里遠</string>
+  <string name="location_personNearby">就在附近</string>
+  <string name="location_personAwayMeters">距離 %1$s 公尺遠</string>
+  <string name="location_personAwayKilometers">在 %1$s 公里遠</string>
+  <string name="status_Online">線上</string>
+  <string name="status_LastSeenRecently">最後施展魔法於不久前</string>
+  <string name="status_LastSeenWithinWeek">最後施展魔法於一週內</string>
+  <string name="status_LastSeenWithinMonth">最後施展魔法於一個月內</string>
+  <string name="status_LastSeenUnknown">最後施展魔法於很久以前</string>
+  <string name="status_LastSeen_now">最後施展魔法於剛才</string>
+  <string name="status_LastSeen_today">最後施展魔法於今天 %1$s</string>
+  <string name="status_LastSeen_yesterday">最後施展魔法於昨天 %1$s</string>
+  <string name="status_LastSeen_weekday">最後施展魔法於%1$s %2$s</string>
+  <string name="status_LastSeen_date">最後施展魔法於%1$s %2$s</string>
+  
+  <string name="status_LastSeen_minutes_other">最後施展魔法於 %1$s 分鐘前</string>
+  
+  <string name="status_LastSeen_hours_other">最後施展魔法於 %1$s 小時前</string>
+  
+  <string name="xOnline_other">%1$s 人在線上</string>
+  
+  <string name="xGroups_other">%1$s 個圈圈</string>
+  
+  <string name="xChannels_other">%1$s 個大聲公</string>
+  
+  <string name="xWebsites_other">%1$s 個網站</string>
+  
+  <string name="DeleteAccountIfAwayForDays_other">%1$s 天</string>
+  
+  <string name="DeleteAccountIfAwayForMonths_other">%1$s 月</string>
+  
+  <string name="DeleteAccountIfAwayForYears_other">%1$s 年</string>
+
+  
+  <string name="xSeconds_other">%1$s 剎那</string>
+  
+  <string name="xMinutes_other">%1$s 分鐘</string>
+  
+  <string name="xHours_other">%1$s 小時</string>
+  
+  <string name="xDays_other">%1$s 天</string>
+  
+  <string name="xWeeks_other">%1$s 週</string>
+
+  
+  <string name="xSecondsRelative_other">%1$s 剎那</string>
+  
+  <string name="xMinutesRelative_other">%1$s 分鐘</string>
+  
+  <string name="xHoursRelative_other">%1$s 小時</string>
+  
+  <string name="xDaysRelative_other">%1$s 天</string>
+  
+  <string name="xWeeksRelative_other">%1$s 週</string>
+
+  
+  <string name="inXHours_other">%1$s 小時後</string>
+  
+  <string name="xChats_other">%1$s 個聊天室</string>
+  
+  <string name="xMessages_other">%1$s 則水晶玉</string>
+  
+  
+  <string name="NewMessages">新水晶玉</string>
+  
+  <string name="xNewMessages_other">%1$s 則新水晶玉</string>
+  
+  <string name="FromXChats_other">來自 %1$s 個聊天室</string>
+  
+  <string name="xVideoMessages_other">%1$s 則視訊水晶玉</string>
+  
+  <string name="MuteForXDays_other">" 暫停啄木鳥 %1$s 天"</string>
+  
+  <string name="MuteForXHours_other">暫停啄木鳥 %1$s 小時</string>
+  
+  <string name="inXMinutes_other">%1$s 分鐘後</string>
+  
+  <string name="xLines_other">%1$s 行</string>
+  
+  <string name="xAudios_other">%1$s 個音訊</string>
+  
+  <string name="xPhotos_other">%1$s 張照片</string>
+  
+  <string name="xMedia_other">%1$s 個媒體</string>
+  
+  <string name="xVideos_other">%1$s 個影片</string>
+  
+  <string name="xViews_other">觀看次數：%1$s 次</string>
+  
+  <string name="xOtherPeopleNames_other">和另外 %1$s 人</string>
+  
+  <string name="xOtherChatTitles_other">和另外 %1$s 人</string>
+  
+  <string name="xContacts_other">共 %1$s 位同伴</string>
+  
+  <string name="xContactsJoined_other">有 %1$s 個同伴在 Telegram 上</string>
+  
+  <string name="ForwardLastXMessages_other">轉傳最後 %1$s 則水晶玉</string>
+  
+  <string name="xBytes_other">%1$s 位元組</string>
+  
+  <string name="xFiles_other">%1$s 個玉石</string>
+  
+  <string name="xMembers_other">%1$s 位魔法師</string>
+  
+  <string name="xSubscribers_other">%1$s 位訂閱者</string>
+  
+  <string name="xMin_other">%1$s 分</string>
+  
+  <string name="xSec_other">%1$s剎那</string>
+  
+  <string name="xUsers_other">%1$s 個魔法師</string>
+  
+  <string name="xSessions_other">%1$s 個魔法器</string>
+  
+  <string name="xMonths_other">%1$s 個月</string>
+  
+  <string name="xYears_other">%1$s 年</string>
+  
+  <string name="xStickers_other">%1$s 張貼圖</string>
+  
+  <string name="xMasks_other">%1$s 個面具</string>
+  
+  <string name="AddXStickers_other">新增 %1$s 張貼圖</string>
+  
+  <string name="RemoveXStickers_other">炸毀 %1$s 張貼圖</string>
+  
+  <string name="AddXMasks_other">新增 %1$s 個面具</string>
+  
+  <string name="RemoveXMasks_other">炸毀 %1$s 個面具</string>
+  
+  <string name="xAdmins_other">%1$s 位祭司</string>
+  
+  <string name="xLinks_other">%1$s 個傳送器</string>
+  
+  <string name="xBanned_other">%1$s 人被魔障屏蔽</string>
+  
+  <string name="xGIFs_other">%1$s 張動圖</string>
+  
+  <string name="xVoiceMessages_other">%1$s 則語音水晶玉</string>
+  
+  <string name="xProfilePhotos_other">%1$s 張大頭貼</string>
+  
+  <string name="xMusicFiles_other">%1$s 個音樂檔</string>
+  
+  <string name="xThumbnails_other">%1$s 張縮圖</string>
+  
+  <string name="xWallpapers_other">%1$s 張壁紙</string>
+  
+  <string name="xCalls_other">%1$s 通精靈耳</string>
+  <string name="general_Messages">水晶玉</string>
+  <string name="SelectChat">選擇聊天室</string>
+  <string name="Message">施展魔法水晶玉</string>
+  <string name="DeletedMessage">水晶玉已炸毀</string>
+  <string name="UnsupportedMessage">不支援ㄉ水晶玉</string>
+  <string name="UnsupportedMessageType">不支援ㄉ水晶玉</string>
+  <string name="YouHaveNewMessage">尼有一則新水晶玉</string>
+  <string name="ChatContentWithCaption">%1$s: %2$s</string>
+  <string name="ChatContentVoice">語音水晶玉</string>
+  
+  <string name="ChatContentRoundVideo">視訊水晶玉</string>
+  <string name="ChatContentVideo">影片</string>
+  <string name="ChatContentFile">玉石</string>
+  <string name="ChatContentPhoto">照片</string>
+  <string name="ChatContentAnimation">GIF</string>
+  <string name="ChatContentSong">%1$s – %2$s</string>
+  <string name="ChatContentCallWithDuration">%1$s (%2$s)</string>
+  <string name="ChatContentGroupCreate">建立ㄌ圈圈</string>
+  <string name="ChatContentGroupReturn">返回到ㄌ圈圈</string>
+  <string name="ChatContentGroupAddYou">將尼加入到圈圈</string>
+  <string name="ChatContentGroupAdd">將 %1$s 加入到圈圈</string>
+  
+  <string name="ChatContentGroupAddMembers_other">將 %1$s 魔法師加入到圈圈</string>
+  <string name="ChatContentGroupLeft">退出ㄌ圈圈</string>
+  <string name="ChatContentGroupJoin">透過傳送器加入ㄌ圈圈</string>
+  
+  <string name="ChatContentGroupKickYou">將尼從圈圈中炸毀</string>
+  <string name="ChatContentGroupKick">將 %1$s 從圈圈中炸毀</string>
+  <string name="ChatContentGroupPhoto">變更ㄌ圈圈照片</string>
+  <string name="ChatContentGroupPhotoRemove">炸毀ㄌ圈圈照片</string>
+  <string name="ChatContentGroupName">圈圈被重新命名為 «%1$s»</string>
+  <string name="Audio">音訊</string>
+  <string name="Voice">語音</string>
+  <string name="Photo">照片</string>
+  <string name="Video">影片</string>
+  <string name="sticker">%1$s 貼圖</string>
+  <string name="File">玉石</string>
+  <string name="Location">位置</string>
+  <string name="AttachContact">同伴</string>
+  <string name="FromYou">尼</string>
+  <string name="Username">魔法識別ID</string>
+  <string name="Phone">精靈耳</string>
+  <string name="prompt_network">沒有魔力連接，請稍後再試。</string>
+  <string name="PasscodeTitle">密語鎖</string>
+  <string name="PasscodeItem">密語鎖</string>
+  <string name="PasscodeSettingDisabled">停用</string>
+  <string name="passcode_confirm_invisible">%1$s（不顯示）</string>
+  <string name="copied_phone">魔法器號碼已複製到剪貼簿</string>
+  <string name="CopiedUsername">魔法識別ID已複製到剪貼簿</string>
+  <string name="CopiedLink">傳送器已複製到剪貼簿</string>
+  
+  <string name="CopiedText">文字已複製到剪貼簿</string>
+  <string name="CopiedColor">顏色及其名稱已復製到剪貼簿</string>
+  <string name="passcode_pattern_tooshort">圖形長度至少要有 4 個點</string>
+  <string name="passcode_password_tooshort">密語長度至少要有 1 個字元</string>
+
+  <string name="PasscodeMismatchPassword">密語不一致</string>
+  <string name="PasscodeMismatchGesture">手勢不一致</string>
+  <string name="PasscodeMismatchPin">PIN 碼不一致</string>
+  <string name="PasscodeMismatchPattern">圖形不一致</string>
+  <string name="PasscodeMismatchFingerprint">指紋不一致</string>
+
+  <string name="PasscodeInvalidPassword">無效ㄉ密語</string>
+  <string name="PasscodeInvalidGesture">無效ㄉ手勢</string>
+  <string name="PasscodeInvalidPin">無效ㄉ PIN 碼</string>
+  <string name="PasscodeInvalidPattern">無效ㄉ圖形</string>
+
+  <string name="ChangePasscodeInfo">當尼設定ㄌ一組額外ㄉ密語，一個鎖形圖示將出現在聊天清單頁面上。點擊它以鎖定和解鎖本魔法器。\n \n注意：如果尼忘記ㄌ密語，尼將需要炸毀並重新安裝本 App。而所有ㄉ隱形聊天都將會消失。</string>
+  <string name="AutoLock">以小精靈選擇鎖定</string>
+  <string name="AutoLockDisabled">停用</string>
+  
+  <string name="passcode_auto_hint">閒置一段時間後，尼將需要施展魔法密語。</string>
+  <string name="ChangePasscode">變更密語</string>
+  <string name="passcode_passcodeInvisibility">隱藏密語</string>
+  <string name="passcode_fingerprint">使用指紋解鎖</string>
+  <string name="LoadingInformation">載入魔法書中…</string>
+  <string name="BlockContact">魔障屏蔽</string>
+  <string name="Unblock">解除魔障屏蔽</string>
+  <string name="Share">分享</string>
+  
+  <string name="SwipeShare">分享</string>
+  <string name="SwipeReply">回覆</string>
+  <string name="edit">編輯</string>
+  <string name="Delete">炸毀</string>
+  <string name="BotInvite">新增至圈圈</string>
+  <string name="AddContact">新增同伴</string>
+  <string name="takePhoto">拍攝照片</string>
+  <string name="pickFromGallery">從相簿選取</string>
+  <string name="DeletePhoto">炸毀照片</string>
+  <string name="ClearHistory">清空聊天紀錄</string>
+  <string name="Cancel">取消</string>
+  <string name="AddMember">新增魔法師</string>
+  <string name="DeleteAndLeave">炸毀並退出</string>
+  <string name="justAdd">僅加入到圈圈</string>
+  <string name="KickFromGroup">從圈圈中炸毀</string>
+  <string name="DeleteChat">炸毀聊天</string>
+  <string name="slideToCancel">滑動以取消</string>
+  <string name="fingerprint_hint3">請在魔法器ㄉ「設定」&gt;「安全性」&gt;「指紋」中，設定至少一個指紋。</string>
+  <string name="fingerprint_fail">無效ㄉ指紋</string>
+  <string name="cam_hint">請在魔法器ㄉ「設定」&gt;「魔法器」&gt;「Telegram X」&gt;「權限」中，允許 Telegram X 使用相機</string>
+  <string name="Settings">設定</string>
+  <string name="LogOut">登出</string>
+  <string name="Mute">關閉啄木鳥</string>
+  <string name="Unmute">開啟啄木鳥</string>
+  <string name="returnToGroup">返回圈圈</string>
+  <string name="returnToChannel">返回大聲公</string>
+  <string name="LoadingUser">正在載入魔法師…</string>
+  <string name="LoadingUsername">正在載入魔法識別ID…</string>
+  <string name="LoadingPhone">載入精靈耳中⋯</string>
+  <string name="HiddenName">已炸毀ㄉ靈魂</string>
+  <string name="HiddenNameShort">已刪靈魂</string>
+  <string name="LoadingChannel">載入大聲公中⋯</string>
+  <string name="ReportReasonDescription">描述</string>
+  <string name="Description">魔法書</string>
+  <string name="DescriptionInfo">尼可以選擇為尼ㄉ大聲公提供簡單ㄉ描述。</string>
+  <string name="ChannelName">大聲公名稱</string>
+  <string name="ServiceNotifications">服務啄木鳥</string>
+  <string name="Bot">使魔</string>
+  <string name="Support">支援</string>
+  <string name="deletedUser">已炸毀ㄉ魔法師</string>
+  <string name="unknownUser">未知ㄉ魔法師</string>
+  <string name="BotStatusRead">可以存取水晶玉</string>
+  <string name="BotStatusCantRead">無法存取水晶玉</string>
+  <string name="notInChat">尼不在聊天中</string>
+  <string name="NoReturnToChat">尼無法返回此聊天</string>
+  <string name="ProgressCreateChannel">正在建立大聲公…</string>
+  <string name="BotStart">開始</string>
+  <string name="ChannelPublic">公開大聲公</string>
+  <string name="ChannelPublicInfo">公開大聲公可以用找找找到，且任何人都可以加入。</string>
+  <string name="ChannelUsernameHelp">人們可以分享此傳送器給其他人，並且也能用 Telegram ㄉ找找功能來找到尼ㄉ大聲公。</string>
+  <string name="ChannelPrivate">私人大聲公</string>
+  <string name="ChannelPrivateInfo">私人大聲公只能透過傳送器加入。</string>
+  <string name="ChannelPrivateLinkHelp">人們可以透過跟隨此傳送器加入尼ㄉ大聲公。任何時間，尼都可以撤換傳送器。</string>
+  <string name="SendMessageTo">練成水晶玉給…</string>
+  <string name="GroupName">圈圈名稱</string>
+  <string name="GroupDontAdd">鼻要加入到圈圈</string>
+  <string name="GroupEnterValidName">請施展魔法有效ㄉ圈圈名稱</string>
+  <string name="Link">傳送器</string>
+  <string name="Copy">複製</string>
+  <string name="CopyText">複製文字</string>
+  <string name="CopyCoordinates">複製座標</string>
+  <string name="CopiedCoordinates">座標已複製到剪貼簿</string>
+  <string name="CopyLink">複製傳送器</string>
+  <string name="Convert">轉換</string>
+  <string name="Search">找找</string>
+  <string name="NoChats">還沒有聊過</string>
+  <string name="NoContacts">沒有同伴可顯示</string>
+  <string name="ChannelCreator">創立者</string>
+  <string name="Administrator">祭司</string>
+  <string name="SetAdminsAll">所有魔法師都是祭司</string>
+  <string name="SetAdminsAllInfo">所有魔法師可以加入新魔法師、編輯圈圈名稱和照片。</string>
+  <string name="AdminsAreSelectedHint">只有勾選ㄉ祭司可以加入新魔法師、編輯圈圈名稱和照片。</string>
+  <string name="LinkInfo">任何已安裝 Telegram ㄉ人都可以透過此傳送器加入尼ㄉ圈圈。</string>
+  <string name="ChannelAddAdmin">新增祭司</string>
+  <string name="InviteLink">傳送器</string>
+  <string name="DismissAdmin">解除祭司身分</string>
+  <string name="ChannelBroadcast">廣播</string>
+  <string name="LeaveChannel">退出大聲公</string>
+  <string name="DestroyChannel">炸毀大聲公</string>
+  <string name="DestroyChannelHint">等一下！炸毀此大聲公將炸毀所有魔法師，而且所有ㄉ水晶玉都將會消失。\n尼確定要炸毀大聲公？</string>
+  <string name="LeaveMegaMenu">退出圈圈</string>
+  <string name="DestroyGroup">炸毀圈圈</string>
+  <string name="DestroyGroupHint">等一下！炸毀此圈圈將炸毀所有魔法師，而且所有ㄉ水晶玉都會消失。\n尼確定要炸毀圈圈？</string>
+  <string name="LeaveChatAdminHint">警告：退出後，尼將失去所有祭司權限</string>
+  <string name="inactiveGroup">已失效ㄉ圈圈</string>
+  <string name="RevokeLink">撤換傳送器</string>
+  <string name="GeneratingLink">正在產生傳送器…</string>
+  <string name="DiscardChanges">放棄變更</string>
+  <string name="ParticipantLimitReached">尼無法將更多魔法師加入圈圈</string>
+  <string name="Reply">回覆</string>
+  <string name="Select">選取</string>
+  <string name="Open">開啟</string>
+  <string name="OpenInExternalApp">開啟於…</string>
+  <string name="failed">失敗</string>
+  <string name="NothingFound">什麼都沒找到</string>
+  <string name="Gallery">相簿</string>
+  <string name="ChatCamera">相機</string>
+  <string name="group_create_you">尼建立ㄌ «%1$s» 圈圈</string>
+  <string name="group_photo_changed">%1$s 變更ㄌ圈圈照片</string>
+  <string name="group_photo_changed_you">尼變更ㄌ圈圈照片</string>
+  <string name="group_photo_deleted">%1$s 炸毀ㄌ圈圈照片</string>
+  <string name="group_photo_deleted_you">尼炸毀ㄌ圈圈照片</string>
+  <string name="group_user_added">%1$s 邀請ㄌ %2$s</string>
+  <string name="group_user_self_added">尼邀請ㄌ %1$s</string>
+  <string name="group_user_added_self">%1$s 邀請ㄌ尼</string>
+  <string name="group_user_add">%1$s 加入ㄌ圈圈</string>
+  <string name="group_user_add_self">尼加入ㄌ圈圈</string>
+  <string name="group_user_removed">%1$s 炸毀ㄌ %2$s</string>
+  <string name="group_user_self_removed">尼炸毀ㄌ %1$s</string>
+  <string name="group_user_removed_self">%1$s 炸毀ㄌ尼</string>
+  <string name="group_user_remove">%1$s 退出ㄌ圈圈</string>
+  <string name="group_user_remove_self">尼退出ㄌ圈圈</string>
+  <string name="group_user_join_by_link">%1$s 透過傳送器加入ㄌ圈圈</string>
+  <string name="group_user_join_by_link_self">尼透過傳送器加入ㄌ圈圈</string>
+  <string name="group_created">%1$s 建立ㄌ「%2$s」圈圈</string>
+  <string name="group_title_changed">%1$s 將圈圈名稱變更為 «%2$s»</string>
+  <string name="group_title_changed_you">尼將圈圈名稱變更為 «%1$s»</string>
+  <string name="ChannelRenamed">大聲公名稱變更為 «%1$s»</string>
+  <string name="Somebody">某人</string>
+  <string name="GroupUpgraded">此圈圈已升級為超級圈圈</string>
+  <string name="ActionCreateChannel">大聲公已建立</string>
+  <string name="YouCreatedChannel">尼建立ㄌ此大聲公</string>
+  <string name="ActionChannelRemovedPhoto">大聲公照片已炸毀</string>
+  <string name="ActionChannelChangedTitle">大聲公名稱已變更</string>
+  <string name="ActionChannelChangedTitleTo">大聲公被重新命名為 «%1$s»</string>
+  <string name="ActionChannelChangedPhoto">大聲公照片已變更</string>
+  <string name="DeleteMessage">炸毀水晶玉</string>
+  <string name="DeleteMessages">炸毀水晶玉</string>
+  <string name="NoMessages">這裡還沒有水晶玉…</string>
+  <string name="LoadingMessages">載入水晶玉中⋯</string>
+  <string name="LoadingMessage">載入水晶玉中⋯</string>
+  <string name="SaveGif">儲存動圖</string>
+  <string name="GifSaved">此動圖已儲存到 GIF 圖庫中</string>
+  <string name="RemoveGifConfirm">炸毀已儲存ㄉ GIF？</string>
+  <string name="NoMediaYet">還沒有照片或影片</string>
+  <string name="AttachAudio">語音水晶玉</string>
+  <string name="GettingLinkInfo">正在取得傳送器魔法書…</string>
+  <string name="ChatsAndContacts">聊天與同伴</string>
+  <string name="GlobalSearch">全域找找</string>
+  <string name="Recent">最近ㄉ</string>
+  <string name="ClearRecentsHint">是否清除找到ㄉ所有最近ㄉ聊天？</string>
+  <string name="YoutubeRotateHint">備註：旋轉尼ㄉ螢幕以最小化播放器</string>
+  <string name="PublicLinkTooShort">名稱太短ㄌ</string>
+  <string name="PublicLinkIsInvalid">尼只能使用 a-z、0-9 及底線來作為永久傳送器ㄉ名稱。</string>
+  <string name="SaveToGallery">儲存到相簿</string>
+  <string name="PhotoHasBeenSavedToGallery">照片已儲存到相簿</string>
+  <string name="VideoHasBeenSavedToGallery">影片已儲存到相簿</string>
+  <string name="ChannelSignMessages">水晶玉附上簽名</string>
+  <string name="PostNotFound">找不到水晶玉</string>
+  <string name="OpenSupergroup">開啟超級圈圈</string>
+  <string name="Call">是ㄉ</string>
+  <string name="EditUsername">編輯魔法識別ID</string>
+  <string name="PasscodePIN">PIN 碼</string>
+  <string name="PasscodePattern">圖形</string>
+  <string name="PasscodeGesture">手勢</string>
+  <string name="PasscodeFingerprint">指紋</string>
+  <string name="NewChannel">新建大聲公</string>
+  <string name="NewGroup">新建圈圈</string>
+  <string name="NewChat">新建聊天</string>
+  <string name="ChooseYourPIN">選擇尼ㄉ PIN 碼</string>
+  <string name="ChooseYourPassword">選擇尼ㄉ密語</string>
+  <string name="ChooseYourPattern">選擇尼ㄉ圖形</string>
+  <string name="ChooseYourGesture">畫出你ㄉ手勢</string>
+  <string name="TouchYourSensor">觸碰尼ㄉ指紋感應器</string>
+  <string name="ConfirmYourPIN">確認尼ㄉ PIN 碼</string>
+  <string name="ConfirmYourPassword">確認尼ㄉ密語</string>
+  <string name="ConfirmYourPattern">確認尼ㄉ圖形</string>
+  <string name="ConfirmYourGesture">確認尼ㄉ手勢</string>
+  <string name="ConfirmYourFingerprint">確認尼ㄉ指紋</string>
+  <string name="UnlockByPIN">施展魔法 PIN 碼以解鎖</string>
+  <string name="UnlockByPassword">施展魔法密語以解鎖</string>
+  <string name="UnlockByPattern">施展魔法圖形以解鎖</string>
+  <string name="UnlockByGesture">畫出尼ㄉ手勢以解鎖</string>
+  <string name="UnlockByFingerprint">觸碰指紋感應器以解鎖</string>
+  <string name="SecretLinkPreviewEnable">啓用</string>
+  <string name="AirplaneModeDisable">停用</string>
+  <string name="EditName">編輯名稱</string>
+  <string name="Stickers">貼圖</string>
+  <string name="NoAppToOpen">找不到用來開啟此玉石ㄉ程式</string>
+  <string name="CopyLine">"複製行 "</string>
+  <string name="TextNotLoadedHint">請等到文字載入完畢</string>
+  <string name="Text">文字</string>
+  <string name="fileSize_GB">%1$s GB</string>
+  <string name="fileSize_MB">%1$s MB</string>
+  <string name="fileSize_KB">%1$s KB</string>
+  <!--<string name="unit_GB">%1$s GB</string>
+  <string name="unit_MB">%1$s MB</string>
+  <string name="unit_KB">%1$s KB</string>
+  <string name="unit_GiB">%1$s GiB</string>
+  <string name="unit_MiB">%1$s MiB</string>
+  <string name="unit_KiB">%1$s KiB</string>-->
+  <string name="DownloadingOf">%1$s, %2$s</string>
+  <string name="Downloading">正在下載 %1$s / %2$s</string>
+  <string name="Confirm">確認</string>
+  <string name="TooManyPublicChannels">抱歉，尼已經建立ㄌ太多公開ㄉ大聲公。尼可以改建一個私人大聲公或先撤銷尼舊公開大聲公ㄉ傳送器。</string>
+  <string name="TooManyPublicLinks">抱歉，尼已經建立太多永久傳送器ㄌ。尼可以試著撤銷一些尼原有圈圈或大聲公ㄉ永久傳送器。</string>
+  <string name="UserIsAlreadyInChat">魔法師已是魔法師之一</string>
+  <string name="ProfilePhoto">大頭貼</string>
+  <string name="GroupPhoto">圈圈照片</string>
+  <string name="ChannelPhoto">大聲公照片</string>
+  <string name="ShowInChat">在聊天中顯示</string>
+  <string name="GroupIsFull">尼嘗試加入ㄉ圈圈，它ㄉ魔法師名額已滿</string>
+  <string name="PasswordIsInvalid">尼施展魔法ㄉ密語是無效ㄉ</string>
+  <string name="InviteLinkInvalid">傳送器已失效</string>
+  <string name="Language">語言</string>
+  <string name="InlineBot">內聯使魔</string>
+  
+  <string name="SelectedSuffix_other">已選取</string>
+
+  
+  <string name="SelectedPhotoSuffix_other">張照片</string>
+  
+  <string name="SelectedMediaSuffix_other">" 個媒體"</string>
+  
+  <string name="SelectedVideoSuffix_other">" 個影片"</string>
+  
+  <string name="SelectedAudioSuffix_other">" 個音訊檔"</string>
+  
+  <string name="SelectedFileSuffix_other">" 個玉石"</string>
+  
+  <string name="SelectedLinkSuffix_other">" 個傳送器"</string>
+  
+  <string name="SelectedGifSuffix_other">張動圖</string>
+  
+  <string name="SelectedVoiceSuffix_other">" 則水晶玉"</string>
+  
+  <string name="SelectedRoundVideoSuffix_other">" 則水晶玉"</string>
+
+
+
+  <string name="Locating">定位中…</string>
+  <string name="NearbyPlaces">附近地點</string>
+  <string name="FoundPlaces">找到ㄉ地點</string>
+  <string name="SendCurrentLocation">練成選定ㄉ位置</string>
+  <string name="SearchForPlaces">找找地點</string>
+  <string name="SearchForImages">找找圖片</string>
+  <string name="AllMedia">所有媒體</string>
+  <string name="UserUnavailable">無法獲取魔法師魔法書</string>
+  
+  <string name="YouCantForwardMoreMessages_other">抱歉，尼不能一次轉傳超過 %1$s 則水晶玉</string>
+  
+  
+  
+  
+  
+  <string name="game_ActionUserScored_other">\n%2$s 得到ㄌ %1$s 分</string>
+  
+  <string name="game_ActionUserScoredInGame_other">%2$s 在 %3$s 中得到ㄌ %1$s 分</string>
+  
+  <string name="game_ActionYouScored_other">尼得到ㄌ %1$s 分</string>
+  
+  <string name="game_ActionYouScoredInGame_other">尼在 %2$s 中得到ㄌ %1$s 分</string>
+  <string name="NotificationActionPinnedNoTextChannel">%1$s 置頂ㄌ一則水晶玉</string>
+  
+  <string name="Draft">草稿</string>
+  <string name="ShareYourPhoneNumberTitle">分享尼ㄉ魔法器號碼？</string>
+  <string name="ShareYourPhoneNumberDesc">%1$s 將知道尼ㄉ魔法器號碼。\n\n這對於與其他服務ㄉ整合非常有用。</string>
+  <string name="ShareYourLocation">分享尼ㄉ位置魔法書？</string>
+  <string name="ShareYouLocationInfo">這將會練成尼目前ㄉ位置魔法書給使魔。</string>
+  <string name="ShareYouLocationInline">此使魔想在每次尼對它發出請求時，取得尼ㄉ位置。這可用於提供特定地理位置ㄉ結果。</string>
+  <string name="DetectLocationError">無法偵測目前位置。</string>
+  <string name="ShareYouLocationUnableManually">手動選擇</string>
+  <string name="NoLocationAccess">此功能需要取得尼ㄉ所在位置。</string>
+  <string name="NoGoogleMaps">此功能需要安裝 Google 地圖。</string>
+  <string name="NoStorageAccess">此功能需要儲存空間使用權。</string>
+  <string name="NoMicrophoneAccess">此功能需要麥克風使用權。</string>
+  <string name="NoCameraAccess">這功能需要相機使用權。</string>
+  <string name="NoGalleryAccess">權限錯誤</string>
+  <string name="Install">安裝</string>
+  <string name="ChatWithYourself">與自己聊天</string>
+  <string name="YouWereKicked">尼被炸毀ㄌ</string>
+  <string name="Contacts">同伴</string>
+  <string name="Invite">邀請</string>
+  <string name="Help">幫助</string>
+  <string name="AskAQuestionInfo">請注意，Telegram ㄉ技術支援是由魔法圖書館提供。窩們會試著盡快回覆，但還是需要一點時間。\n\n請看看[常見問題](https://telegram.org/faq#general-questions)：其中有重要ㄉ[疑難排解](https://telegram.org/faq#troubleshooting)提示，並且回答ㄌ大多數問題。</string>
+  <string name="AskButton">詢問魔法圖書館</string>
+  <string name="OpenThisLink">開啟這個傳送器？\n\n%1$s</string>
+  <string name="YouCantSendMessages">尼無法練成水晶玉到這個聊天</string>
+  <string name="NewSecretChat">新建隱形聊天</string>
+  <string name="NewSecretChatWith">新建祕密聊天…</string>
+  <string name="AwaitingEncryption">正在等待 %1$s 施展魔法…</string>
+  <string name="XJoinedSecretChat">%1$s 加入ㄌ隱形聊天</string>
+  <string name="YouJoinedSecretChat">尼加入ㄌ隱形聊天</string>
+  <string name="SecretChatCancelled">隱形聊天已取消</string>
+  <string name="SecretChats">隱形聊天</string>
+  <string name="ChatTitleSecretChat">%1$s (隱形聊天)</string>
+  <string name="format_EncryptedDescription">⚡️ %1$s\n⚡️ %2$s\n⚡️ %3$s\n⚡️ %4$s</string>
+  <string name="EncryptedDescription1">使用端到端高速粒子加密</string>
+  <string name="EncryptedDescription2">不會在窩們ㄉ魔法圖書館留下腳印</string>
+  <string name="EncryptedDescription3">有「閱後即焚炸彈」</string>
+  <string name="EncryptedDescription4">不允許轉傳</string>
+  <string name="EditMessage">編輯水晶玉</string>
+  <string name="NotNow">現在鼻要</string>
+  <string name="ChannelNotifyMembersInfoOn">魔法師將在尼發布時收到啄木鳥</string>
+  <string name="ChannelNotifyMembersInfoOff">魔法師將收到無聲啄木鳥</string>
+  <string name="ChannelSilentBroadcast">無聲廣播</string>
+  <string name="MessageLifetime">閱後即焚炸彈</string>
+  <string name="Done">好惹</string>
+  <string name="Off">關閉</string>
+  <string name="Chats">聊天</string>
+  <string name="Notifications">啄木鳥</string>
+  <string name="NotificationsEnabled">已啟用</string>
+  <string name="NotificationsEnabledHint">已啟用 (%1$s)</string>
+  <string name="NotificationsBlocked">已關閉</string>
+  <string name="NotificationsDisabled">已停用</string>
+  <string name="PrivacySettings">隱私和安全</string>
+  <string name="AskAQuestion">窩有問題</string>
+  <string name="TelegramFAQ">常見問題</string>
+  <string name="HideForYourself">為窩自己隱藏</string>
+  <string name="DataSaver">數據節省模式</string>
+  <string name="DataSaverDesc">開啟數據節省模式後，媒體將永遠不會以小精靈選擇下載。所有待處理ㄉ下載都會暫停。</string>
+  <string name="TurnOnAutomatically">以小精靈選擇開啟</string>
+  <string name="InPrivateChats">在私聊中</string>
+  <string name="InGroups">在圈圈中</string>
+  <string name="InChannels">在大聲公中</string>
+  <string name="AutomaticMediaDownload">媒體以小精靈選擇下載</string>
+  <string name="Advanced">進階選項</string>
+  <string name="Never">永不</string>
+  <string name="WhenUsingRoaming">切換到漫遊時</string>
+  <string name="WhenUsingMobileData">切換到行動數據時</string>
+  <string name="WhenUsingMobileDataOrRoaming">切換到行動數據或漫遊時</string>
+  <string name="Photos">照片</string>
+  <string name="Videos">影片</string>
+  <string name="GIFs">GIF</string>
+  <string name="VoiceMessages">語音水晶玉</string>
+  <string name="Files">玉石</string>
+  <string name="Music">音樂</string>
+  <string name="NoPhotos">鼻要下載照片</string>
+  <string name="NoVideos">鼻要下載影片</string>
+  <string name="NoGIFs">鼻要下載 GIF</string>
+  <string name="NoVoiceMessages">鼻要下載語音水晶玉</string>
+  <string name="NoFiles">鼻要下載玉石</string>
+  <string name="NoMusic">鼻要下載音樂</string>
+  <string name="Other">其他</string>
+  <string name="AutoplayGifs">以小精靈選擇播放 GIF 動圖</string>
+  <string name="RestrictOnWiFi">在 Wi-Fi 下限制</string>
+  <string name="RestrictOverMobile">在宇宙魔力下限制</string>
+  <string name="RestrictOnRoaming">在漫遊魔力下限制</string>
+  <string name="MediaExceedingX">任何媒體超過 %1$s</string>
+  <string name="AnyMedia">任何媒體</string>
+  <string name="Nothing">無</string>
+  <string name="BioNone">無</string>
+  <string name="BlockedNone">無</string>
+  <string name="NoRestrictions">沒有限制</string>
+  <string name="Save">儲存</string>
+  <string name="PrivacyTitle">隱私</string>
+  <string name="BlockedUsers">魔障屏蔽名單</string>
+  <string name="LastSeen">最後施展魔法 &amp; 在線上</string>
+  <string name="GroupsAndChannels">圈圈和大聲公</string>
+  <string name="SecurityTitle">安全</string>
+  <string name="SessionsTitle">已登入</string>
+  <string name="SessionsIncompleteTitle">未好惹ㄉ登入嘗試</string>
+  <string name="SessionsIncompleteInfo">上述魔法器無法存取尼ㄉ水晶玉。驗證碼施展魔法正確，但沒有提供正確ㄉ密語。</string>
+  <string name="TwoStepVerification">兩步驟驗證</string>
+  <string name="PasswordEnabled">已啟用</string>
+  <string name="PasswordDisabled">已停用</string>
+  <string name="CurrentSession">目前使用ㄉ魔法器</string>
+  <string name="NoOtherSessions">沒有其他已登入ㄉ魔法器</string>
+  <string name="NoOtherSessionsInfo">尼可以使用相同ㄉ魔法器號碼，從其它魔法器、平板電腦和桌面電腦登入 Telegram 。尼ㄉ所有資料將立即同步。</string>
+  <string name="TerminateAllSessions">登出其他ㄉ魔法器</string>
+  <string name="ClearOtherSessionsHelp">將其他魔法器登出，只保留目前使用ㄉ。</string>
+  <string name="TerminateSessionQuestion">要登出這個魔法器？</string>
+  <string name="TerminateIncompleteSessionQuestion">終止此登入嘗試？</string>
+  <string name="TerminateSession">登出這個魔法器</string>
+  <string name="TerminateIncompleteSession">終止登入嘗試</string>
+  <string name="AreYouSureSessions">尼確定要將其他魔法器登出？</string>
+  <string name="Everybody">所有人</string>
+  <string name="MyContacts">窩ㄉ同伴</string>
+  <string name="Nobody">沒有人</string>
+  <string name="WhoCanAddYouToGroupsAndChannels">誰可以將窩加入到圈圈和大聲公？</string>
+  <string name="WhoCanAddMeInfo">尼可以精確地限制誰可以將尼加入到圈圈和大聲公。</string>
+  <string name="LastSeenTitle">誰可看見窩最後施展魔法時間及目前在線上ㄉ狀態？</string>
+  <string name="CustomHelp">尼不分享尼最後施展魔法時間及在線上ㄉ對象，他們ㄉ精確狀態尼也無法看見。取而代之ㄉ是，大概ㄉ最後施展魔法時間（不久前，一週內，一個月內）。</string>
+  <string name="AlwaysShareWith">總是與誰分享</string>
+  <string name="NeverShareWith">永不與誰分享</string>
+  <string name="CustomShareSettingsHelp">這些設定將覆蓋上述值。</string>
+  <string name="PrivacyAddUsers">新增魔法師</string>
+  <string name="AddExceptions">新增例外</string>
+  <string name="AlwaysAllow">總是允許</string>
+  <string name="NeverAllow">永不允許</string>
+  <string name="SetAdditionalPassword">設定額外ㄉ密語</string>
+  <string name="SetAdditionalPasswordInfo">尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ驗證碼外，另外要施展魔法ㄉ密語。</string>
+  <string name="EnabledPasswordText">尼已啟用兩步驟驗證。\n尼需要此處設定ㄉ密語以登入尼ㄉ Telegram 靈魂。</string>
+  <string name="ChangePassword">變更密語</string>
+  <string name="DisablePassword">停用密語</string>
+  <string name="SetRecoveryEmail">設定備援電子信箱</string>
+  <string name="ChangeRecoveryEmail">變更備援電子信箱</string>
+  <string name="TurnPasswordOffQuestion">尼確定要停用密語？</string>
+  <string name="TurnPasswordOffQuestion2">尼確定要停用尼ㄉ密語？\n\n**警告**！所有已儲存在尼 Telegram Passport 中ㄉ資料將流失。</string>
+  <string name="YourPassword">尼ㄉ密語</string>
+  <string name="EnterAPassword">施展魔法密語</string>
+  <string name="ReEnterAPassword">再施展魔法一次密語</string>
+  <string name="EnterANewPassword">施展魔法新ㄉ密語</string>
+  <string name="EnterANewEmail">施展魔法新ㄉ電子郵件地址</string>
+  <string name="ForgotPassword">忘記密語ㄌ嗎？</string>
+  <string name="RestorePasswordNoEmailTitle">抱歉</string>
+  <string name="SinceNotProvided">由於尼在設定密語時沒有提供備援電子信箱，尼剩餘ㄉ選項是想起尼ㄉ密語，或重置尼ㄉ靈魂。</string>
+  <string name="PendingEmailText">尼ㄉ備援電子信箱 %1$s 尚未啟用，等待確認。</string>
+  <string name="CreateAHintForYourPassword">為尼ㄉ密語建立提示</string>
+  <string name="HavingTroubleAccessing">無法存取尼ㄉ電子信箱\n%1$s？</string>
+  <string name="RestoreEmailTroubleText">如果尼無法恢復對電子信箱ㄉ存取權，尼剩餘ㄉ選項是想起尼ㄉ密語或重置尼ㄉ靈魂。</string>
+  <string name="EnterCode">施展魔法驗證碼</string>
+  <string name="PasswordRecovery">密語復原</string>
+  <string name="LoginPasswordText">尼已啟用「兩步驟驗證」，因此尼ㄉ靈魂受到額外密語ㄉ保護。</string>
+  <string name="EnterPassword">施展魔法密語</string>
+  <string name="YourEmail">尼ㄉ電子信箱</string>
+  <string name="YourEmailInfo">請加入尼ㄉ有效電子信箱。 這是恢復被忘記密語唯一ㄉ方法。</string>
+  <string name="Skip">跳過</string>
+  <string name="Warning">警告</string>
+  <string name="YourEmailSkipWarningText">不，請尼認真看待這件事。\n\n如果尼忘記ㄌ密語，尼將無法使用尼ㄉ Telegram 靈魂，同時將不會有任何方法能恢復它。</string>
+  <string name="PasswordDoNotMatch">密語不一致</string>
+  <string name="CheckYourVerificationEmail">請檢查尼ㄉ電子信箱，並點擊驗證傳送器，以好惹兩步驟驗證設定。請務必檢查垃圾郵件資料夾。</string>
+  <string name="InvalidCode">驗證碼無效。請再試一次。</string>
+  <string name="AbortPassword">中止兩步驟驗證設定</string>
+  <string name="AwaitingEmailConfirmation">正在等待電子信箱ㄉ驗證</string>
+  <string name="InvalidPasswordTryAgain">密語無效， 請再試一次。</string>
+  <string name="PasswordAndHintMustBeDifferent">密語和提示必須不同。</string>
+  <string name="RecoveryCodeInvalid">無效驗證碼。請重新施展魔法</string>
+  <string name="PasswordMatchesOldOne">密語未變更。</string>
+  <string name="format_PasscodeTooManyAttempts">嘗試次數過多。%1$s</string>
+  <string name="EmailMatchesOldOne">電子郵件地址未變更。</string>
+  <string name="Hint">提示：%1$s</string>
+  <string name="PrivateChats">私聊</string>
+  <string name="PrivateChatsMentions">私聊和提及</string>
+  <string name="MessagePreview">水晶玉預覽</string>
+  <string name="Vibrate">震動</string>
+  <string name="VibrateDisabled">停用</string>
+  <string name="Sound">聲音</string>
+  <string name="SoundDisabled">停用</string>
+  <string name="InChatSound">聊天室內聲音</string>
+  <string name="InChatSoundInfo">當尼在聊天室中時，尼練成和收到水晶玉都會聽到音效聲。</string>
+  <string name="Events">事件</string>
+  <string name="EventNewContact">新增同伴</string>
+  <string name="EventNewContactInfo">當尼ㄉ某個魔法器同伴也開始使用 Telegram 時，尼會收到啄木鳥。</string>
+  <string name="PinnedMessages">置頂水晶玉</string>
+  <string name="RepeatNotifications">重複啄木鳥</string>
+  <string name="RepeatNotificationsDisabled">已停用</string>
+  <string name="ResetNotifications">重置所有啄木鳥</string>
+  <string name="Default">預設</string>
+  <string name="OnlyIfSilent">只在靜音時啟用</string>
+  <string name="NoStickerSets">沒有已安裝ㄉ貼圖包</string>
+  <string name="NoMasks">沒有已安裝ㄉ面具</string>
+  <string name="ArchivedStickersInfo">尼最多只能安裝 %1$s 套貼圖包。當尼安裝新貼圖包時，未使用ㄉ會被封存。</string>
+  <string name="MasksHint">尼可以將面具加入到尼要練成ㄉ照片和影片。為此，請在練成照片或影片之前，開啟照片編輯器。</string>
+  <string name="Trending">熱門</string>
+  <string name="Archived">已封存</string>
+  <string name="Masks">面具</string>
+  <string name="StickersHide">封存</string>
+  <string name="UndoAllCustom">撤銷尼對所有同伴、圈圈和大聲公ㄉ自訂啄木鳥設定。</string>
+  <string name="XOnlyIfSilent">%1$s（只在靜音時）</string>
+  <string name="XButOnlyIfSilent">%1$s（只在靜音時）</string>
+  <string name="Long">長震</string>
+  <string name="DoubleShort">短震</string>
+  <string name="IsDefault">%1$s（預設）</string>
+  <string name="XSentAMessage">%1$s 傳ㄌ一則水晶玉</string>
+  <string name="XSentAPhoto">%1$s 傳ㄌ一張照片</string>
+  <string name="XSentAVideo">%1$s 傳ㄌ一個影片</string>
+  <string name="XSentAGIF">%1$s 傳ㄌ一張 GIF 動圖</string>
+  <string name="XSentAVoice">%1$s 傳ㄌ一則語音水晶玉</string>
+  <string name="XSentAFile">%1$s 傳ㄌ一個玉石</string>
+  <string name="XSentARoundVideo">%1$s 傳ㄌ一則視訊水晶玉</string>
+  <string name="SmileysAndPeople">表情符號與人物</string>
+  <string name="AnimalsAndNature">動物與自然</string>
+  <string name="FoodDrink">飲食</string>
+  <string name="TravelAndPlaces">旅遊與地點</string>
+  <string name="SymbolsAndObjects">符號與物品</string>
+  <string name="Flags">旗幟</string>
+  <string name="ComeAgainLater">稍後再來</string>
+  <string name="New">新ㄉ</string>
+  <string name="Add">新增</string>
+  <string name="AddMemberBtn">加入</string>
+  <string name="BlockListEmpty">尼目前沒有魔障屏蔽任何人</string>
+  <string name="QBlockX">魔障屏蔽 %1$s？</string>
+  <string name="QUnblockX">要解除魔障屏蔽「%1$s」嗎？</string>
+  <string name="YouTookAScreenshot">尼擷取ㄌ螢幕畫面！</string>
+  <string name="XTookAScreenshot">%1$s 擷取ㄌ螢幕畫面！</string>
+  <string name="YouDisabledTimer">尼停用ㄌ閱後即焚炸彈</string>
+  <string name="XDisabledTimer">%1$s 停用ㄌ閱後即焚炸彈</string>
+  <string name="YouSetTimer">尼將閱後即焚炸彈設定為 %1$s</string>
+  <string name="XSetTimer">%1$s 將閱後即焚炸彈設定為 %2$s</string>
+  <string name="AddCaption">加入說明文字…</string>
+  <string name="Enhance">補強</string>
+  <string name="Exposure">曝光</string>
+  <string name="Contrast">對比</string>
+  <string name="Warmth">色溫</string>
+  <string name="Saturation">飽和度</string>
+  <string name="Fade">褪色</string>
+  <string name="Vignette">暗角</string>
+  <string name="Grain">燥點</string>
+  <string name="Sharpen">銳利化</string>
+  <string name="Shadows">陰影</string>
+  <string name="Highlights">亮部</string>
+  <string name="Blur">模糊</string>
+  <string name="BlurRadial">放射狀模糊</string>
+  <string name="BlurLinear">線性模糊</string>
+  <string name="QDeleteXFromY">尼要炸毀 %2$s 傳ㄉ %1$s嗎？</string>
+  <string name="DeleteAllFrom">炸毀 %1$s ㄉ所有水晶玉</string>
+  <string name="DeleteForUser">也從 %1$s ㄉ魔法器中炸毀</string>
+  
+  
+  <string name="DeleteForEveryone">從所有人ㄉ魔法器中炸毀</string>
+  
+  
+  <string name="DeleteForMeAndX">為窩和 %1$s 删除</string>
+  <string name="ReportSpam">檢舉垃圾水晶玉</string>
+  <string name="BanUser">魔障屏蔽魔法師</string>
+  <string name="Pin">置頂</string>
+  <string name="Unpin">取消置頂</string>
+  <string name="UnpinMessage">取消置頂</string>
+  <string name="PinnedMessage">置頂水晶玉</string>
+  <string name="PinnedMessageAction">置頂ㄌ一則水晶玉</string>
+  <string name="PinMessageInThisGroup">尼想要置頂這則水晶玉嗎？</string>
+  <string name="PinMessageInThisChannel">要在這大聲公中置頂這則水晶玉嗎？</string>
+  <string name="PinNotify">啄木鳥所有魔法師</string>
+  <string name="ActionPinnedText">%1$s 置頂ㄌ「%2$s」</string>
+  <string name="ActionPinnedGame">%1$s 置頂ㄌ「%2$s」</string>
+  <string name="ActionPinnedNoText">%1$s 置頂ㄌ一則**水晶玉**</string>
+  <string name="ActionPinnedGeo">%1$s 置頂ㄌ一則**即時位置水晶玉**</string>
+  <string name="ActionPinnedPoll">%1$s 置頂ㄌ一項**黑箱作業活動**</string>
+  <string name="ActionPinnedGeoLive">%1$s 置頂ㄌ一則**即時位置水晶玉**</string>
+  <string name="ActionPinnedSticker">%1$s 置頂ㄌ一張**貼圖**</string>
+  <string name="ActionPinnedGif">%1$s 置頂ㄌ一張 GIF 動圖</string>
+  <string name="ActionPinnedFile">%1$s 置頂ㄌ一個**玉石**</string>
+  <string name="ActionPinnedMusic">%1$s 置頂ㄌ一個**音訊檔**</string>
+  <string name="ActionPinnedPhoto">%1$s 置頂ㄌ一張**照片**</string>
+  <string name="ActionPinnedVideo">%1$s 置頂ㄌ一個**影片**</string>
+  <string name="ActionPinnedRound">%1$s 置頂ㄌ一則**影片水晶玉**</string>
+  <string name="ActionPinnedVoice">%1$s 置頂ㄌ一則**語音水晶玉**</string>
+  
+  <string name="UnknownTrack">未知ㄉ曲目</string>
+  <string name="AudioUnknownArtist">未知ㄉ演出者</string>
+  <string name="MaxSize">大小上限</string>
+  <string name="UsernameInUse">抱歉，此魔法識別ID已被佔用。</string>
+  <string name="UsernameInvalid">抱歉，此魔法識別ID無效。</string>
+  <string name="UsernameInvalidShort">魔法識別ID必須至少有 5 個字元。</string>
+  <string name="UsernameInvalidLong">魔法識別ID不能超過 32 個字元。</string>
+  <string name="UsernameInvalidStartNumber">抱歉，魔法識別ID不能以數字開頭。</string>
+  <string name="UsernameHelp">尼可以在 **Telegram** 上設定一個魔法識別ID。如果尼這樣做，別人就可以藉由此魔法識別ID找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 **a-z**、**0-9** 及底線。\n最小長度是 **5** 個字元。</string>
+  <string name="UsernameChecking">正在檢查魔法識別ID…</string>
+  <string name="UsernameAvailable">%1$s 可以使用。</string>
+  <string name="UsernameCurrent">%1$s 是尼目前ㄉ魔法識別ID。</string>
+  <string name="ThisLinkWillOpen">此傳送器會開啟與尼在 Telegram 上ㄉ聊天：</string>
+  <string name="ThisLinkOpens">此傳送器開啟與尼ㄉ聊天：</string>
+  <string name="FeatureUnavailable">抱歉，尼所在ㄉ陣營目前無法使用此功能。</string>
+  <string name="PhoneNumberChange">變更號碼</string>
+  <string name="PhoneNumberChangeDone">繼續</string>
+  <string name="PhoneNumberHelp">尼可以在此處變更尼ㄉ Telegram 所綁定ㄉ魔法器號碼。尼ㄉ靈魂和所有雲端資料 - 水晶玉、媒體、同伴魔法書等將被移動到新ㄉ號碼。</string>
+  <string name="PhoneNumberAlert">若尼ㄉ Telegram 同伴有尼ㄉ舊號碼且未被尼在 Telegram 中魔障屏蔽，他們將取得尼ㄉ新號碼，並加入到他們ㄉ魔法器聯絡魔法書中。</string>
+  <string name="PhoneNumberInUse">抱歉，此號碼已被使用。</string>
+  <string name="ChangePhoneHelp">窩們將練成一則包含驗證碼ㄉ飛鴿傳書到尼ㄉ新魔法器號碼。</string>
+  <string name="NewPhone">新魔法器號碼</string>
+  <string name="NewNumber">新號碼</string>
+  <string name="CountryNotFound">找不到此陣營</string>
+  <string name="ConfirmationCode">驗證碼</string>
+  <string name="SentSmsCode">窩們已練成一則包含驗證碼ㄉ飛鴿傳書到尼ㄉ魔法器 **%1$s**</string>
+  <string name="SentAppCode">窩們已經練成驗證碼到尼其它魔法器上ㄉ **Telegram** 魔法器。</string>
+  <string name="SentCallOnly">窩們正在打精靈耳到尼ㄉ魔法器 **%1$s**。\n\n請鼻要接精靈耳，Telegram 會以小精靈選擇處理所有事情。</string>
+  <string name="SentCallCode">正在打精靈耳到尼ㄉ魔法器 **%1$s** ，並利用語音播報驗證碼。</string>
+  <string name="DidNotGetTheCode">仍未收到驗證碼？</string>
+  <string name="SuccessfullyChangedNumber">已成功將號碼變更為 %1$s。</string>
+  <string name="YourPhone">尼ㄉ精靈耳</string>
+  <string name="SetUpUsername">設定魔法識別ID</string>
+  <string name="PhoneMobile">魔法器號碼</string>
+  <string name="GroupsInCommon">共同ㄉ圈圈</string>
+  <string name="EncryptionKey">高速粒子加密金鑰</string>
+  <string name="PictureAndText">圖片和文字</string>
+  <string name="TapToSetup">點擊以設定</string>
+  <string name="ViewGroupsInCommon">查看共同ㄉ圈圈</string>
+  <string name="OpenChat">開啟聊天室</string>
+  <string name="DeleteAndStop">炸毀並停止</string>
+  <string name="DeleteContact">炸毀同伴</string>
+  <string name="PastWeek">上週</string>
+  <string name="Today">今天</string>
+  <string name="Yesterday">昨天</string>
+  <string name="PublicGroup">公開圈圈</string>
+  <string name="Group">圈圈</string>
+  <string name="UserPrivacyRestricted">抱歉，魔法師在其隱私設定中限制ㄌ此操作。</string>
+  <string name="RenameContact">編輯同伴名稱</string>
+  <string name="Themes">主題玉石和聊天室</string>
+  <string name="ThemeSettings">主題玉石和聊天室</string>
+  <string name="Tweaks">介面選項</string>
+  <string name="TweakSettings">介面</string>
+  <string name="ThemeClassic">經典</string>
+  <string name="ThemeBlue">國民黨</string>
+  <string name="ThemeNight">烏麻麻黑膽石</string>
+  <string name="ThemeNightBlue">夜國民黨</string>
+  <string name="ThemeBlackWhite">黑白</string>
+  <string name="ThemeRed">共產黨</string>
+  <string name="ThemeCustom">自訂</string>
+  <string name="ChatMode">聊天室外觀</string>
+  <string name="ColorTheme">顏色主題玉石</string>
+  <string name="ChatStyleBubbles">聊天室中使用氣泡模式</string>
+  <string name="ChatStyleBubblesChannel">大聲公中使用氣泡模式</string>
+  <string name="NoMediaToShow">沒有媒體可顯示</string>
+  <string name="NoPhotosToShow">沒有照片可顯示</string>
+  <string name="NoVideosToShow">沒有影片可顯示</string>
+  <string name="NoDocumentsToShow">沒有玉石可顯示</string>
+  <string name="NoMusicToShow">沒有音樂可顯示</string>
+  <string name="NoLinksToShow">沒有傳送器可顯示</string>
+  <string name="NoVoiceToShow">沒有語音水晶玉可顯示</string>
+  <string name="NoVideoToShow">沒有視訊水晶玉可顯示</string>
+  <string name="NoGifsToShow">沒有動圖可顯示</string>
+  <string name="NoMediaToShowInChat">在此聊天中分享照片和影片，\n並在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoPhotosToShowInChat">在此聊天中分享照片，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoVideosToShowInChat">在此聊天中分享影片，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoDocumentsToShowInChat">在此聊天中分享玉石，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoMusicToShowInChat">在此聊天中分享音樂，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoLinksToShowInChat">在此聊天中分享傳送器，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoVoiceToShowInChat">在此聊天中分享語音水晶玉，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoVideoToShowInChat">在此聊天中分享視音水晶玉，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoGifsToShowInChat">在此聊天中分享 GIF ，並\n在尼擁有ㄉ任何魔法器上存取。</string>
+  <string name="NoMediaToShowInChannel">已發布ㄉ照片和影片\n會在此處顯示。</string>
+  <string name="NoPhotosToShowInChannel">已發布ㄉ照片會\n在此處顯示。</string>
+  <string name="NoVideosToShowInChannel">已發布ㄉ影片會\n在此處顯示。</string>
+  <string name="NoDocumentsToShowInChannel">已發布ㄉ玉石會\n在此處顯示。</string>
+  <string name="NoMusicToShowInChannel">已發布ㄉ音樂和音訊檔\n會在此處顯示。</string>
+  <string name="NoLinksToShowInChannel">已發布ㄉ傳送器和文章\n會在此處顯示。</string>
+  <string name="NoVoiceToShowInChannel">已發布ㄉ語音水晶玉\n會在此處顯示。</string>
+  <string name="NoVideoToShowInChannel">已發布ㄉ視訊水晶玉\n會在此處顯示。</string>
+  <string name="NoGifsToShowInChannel">已發布ㄉ GIF 動圖\n會在此處顯示。</string>
+  <string name="PinToTop">置頂</string>
+  <string name="UnpinFromTop">取消置頂</string>
+  <string name="WhatThisBotCanDo">這個使魔可以做什麼？</string>
+  <string name="InstantView">即時瀏覽</string>
+  <string name="InternalStorage">內部儲存空間</string>
+  <string name="Storage">儲存空間</string>
+  <string name="SdCard">記憶卡</string>
+  <string name="SendMediaHint">練成不經壓縮ㄉ媒體</string>
+  <string name="SendMusicHint">練成音訊或音樂檔</string>
+  <string name="FreeXofY">可用 %1$s，共 %2$s</string>
+  <string name="Folder">資料夾</string>
+  <string name="Downloads">下載</string>
+  <string name="AccessError">存取錯誤</string>
+  <string name="FolderDoesNotExist">此資料夾不存在</string>
+  <string name="NoMusicFilesFound">沒有找到音樂檔</string>
+  <string name="FolderEmpty">這個資料夾是空ㄉ</string>
+  <string name="AttachFolderHome">首頁</string>
+  <string name="DataSettings">數據和儲存</string>
+  <string name="DataUsage">磁碟和魔力用量</string>
+  <string name="StorageUsage">儲存空間用量</string>
+  <string name="ReduceMotion">減少動態效果</string>
+  <string name="StorageUsageHint">管理磁碟空間</string>
+  <string name="MobileUsage">行動數據用量</string>
+  <string name="WiFiUsage">Wi-Fi 數據用量</string>
+  <string name="RoamingUsage">漫遊數據用量</string>
+  <string name="Calculating">計算中…</string>
+  <string name="CleaningUp">清理中…</string>
+  <string name="ResetStatistics">重置統計資料</string>
+  <string name="NetworkUsageSince">自 %1$s 以來ㄉ魔力用量</string>
+  <string name="ResetStatsHint">尼想要重置尼ㄉ魔力用量統計資料嗎？</string>
+  <string name="Reset">重置</string>
+  <string name="TotalDataUsage">總計</string>
+  <string name="MessagesAndData">水晶玉和服務數據</string>
+  <string name="OtherMedia">其他媒體</string>
+  <string name="Sent">已練成</string>
+  <string name="CountReceived">已接收</string>
+  <string name="KeepMedia">保留媒體</string>
+  <string name="KeepMediaForever">永遠</string>
+  <string name="UserRestrictionsUntilForever">永遠</string>
+  <string name="ClearCacheHint">此操作可能需要幾分鐘才能好惹</string>
+  <string name="KeepMediaInfo">雲端聊天中ㄉ照片、影片和其他玉石在這段時間若**未被存取**，就會從魔法器中炸毀以節省儲存空間。\n\n所有媒體仍會保留在 Telegram 雲端中，而當尼需要時，可重新下載。</string>
+  <string name="LocalDatabase">本機資料庫</string>
+  <string name="FeatureUnavailableSorry">抱歉</string>
+  <string name="LocalDatabaseExcuse">目前，在不失去所有隱形聊天和炸毀下載玉石ㄉ情況下，無法清除本機資料庫。\n\n如果尼仍想降低本機資料庫大小，請使用右上角三點選單 &gt; 炸毀所有數據。\n\n這樣做比登出、重新安裝魔法器或清除其數據ㄉ方式保留ㄌ更多數據。</string>
+  <string name="MediaAndFiles">媒體和玉石</string>
+  <string name="OtherChats">其他聊天</string>
+  <string name="SecretFiles">隱形媒體和玉石</string>
+  <string name="Clear">清除</string>
+  <string name="ClearX">清除 %1$s</string>
+  <string name="service_Notifications">此服務用於顯示水晶玉啄木鳥。</string>
+  <string name="UnmutesInX">%1$s後開啟啄木鳥</string>
+  <string name="MuteForever">永久關閉</string>
+  <string name="NotificationsCustomize">自訂</string>
+  <string name="MuteNotifications">關閉啄木鳥</string>
+  <string name="EnableNotifications">開啟啄木鳥</string>
+  <string name="CustomNotificationsHint">這些設定會覆蓋「設定」&gt;「啄木鳥」中ㄉ全域設定。</string>
+  <string name="CustomNotifications">自訂啄木鳥</string>
+  <string name="Send">練成</string>
+  <string name="ClearRecentStickers">清空最近使用過ㄉ貼圖</string>
+  <string name="CropSquare">正方形</string>
+  <string name="Wallpaper">聊天室背景</string>
+  <string name="ChatPreview">聊天預覽</string>
+  <string name="AndroidVersionWarning">抱歉，此功能僅適用於 Android  %1$s (%2$s)或較新版本</string>
+  <string name="RemoveStickerSet">炸毀貼圖包「%1$s」？</string>
+  <string name="RemoveStickerSetAction">炸毀</string>
+  <string name="DeletePack">炸毀貼圖包</string>
+  <string name="DeleteArchivedPack">從封存中炸毀</string>
+  <string name="Folders">資料夾</string>
+  <string name="StartEncryptedChat">開始隱形聊天</string>
+  <string name="EncryptionKeyDescription">這張圖片和文字是產生自這個與 **%1$s** ㄉ隱形聊天之高速粒子加密金鑰。\n\n如果它們看起來和 **%1$s** 魔法器ㄉ一樣，則端到端高速粒子加密會得到保證。</string>
+  <string name="JoinGroupX">加入 %1$s 圈圈？</string>
+  <string name="FollowChannelX">訂閱「%1$s」大聲公？</string>
+  <string name="XChangedGroupTitle">%1$s 變更ㄌ圈圈名稱</string>
+  <string name="XJoinedByLink">%1$s 已透過傳送器加入</string>
+  <string name="YouJoinedByLink">尼已透過傳送器加入</string>
+  <string name="XCreatedGroup">%1$s 建立ㄌ圈圈</string>
+  <string name="YouCreatedGroup">尼建立ㄌ此圈圈</string>
+  <string name="XofY">%1$s / %2$s</string>
+  <string name="ReadingXLine">正在讀取 %1$s 行…</string>
+  
+  <string name="xPeopleJoinedGroup_other">%1$s 人加入ㄌ圈圈</string>
+  
+  <string name="xPeopleJoinedChannel_other">%1$s 人加入ㄌ大聲公</string>
+  <string name="AddToTheGroup">將 %1$s 加入到圈圈？</string>
+  <string name="QAddXToChannel">要將 %1$s 加入到大聲公嗎？</string>
+  <string name="QDeleteX">炸毀 %1$s?</string>
+  <string name="VoiceCalls">語音精靈耳</string>
+  <string name="VoiceCallPrivacyDesc">尼可以限制誰可以打精靈耳給尼。</string>
+  <string name="Ringtone">鈴聲</string>
+  <string name="RingtoneDisabled">關閉</string>
+  <string name="Calls">精靈耳</string>
+  <string name="Allow">允許</string>
+  <string name="ContactAdded">已新增同伴</string>
+  <string name="SuggestInvitingUser">%1$s 目前還沒有使用 Telegram，尼想要透過飛鴿傳書邀請對方加入嗎？</string>
+  
+  <string name="SuggestInvitingUserCommon_other">%2$s 還沒有使用 Telegram，尼想要透過飛鴿傳書邀請對方嗎？尼和對方之間有 %1$s 個共同ㄉ同伴在使用 Telegram。</string>
+  <string name="OutgoingCall">撥出精靈耳</string>
+  <string name="IncomingCall">撥入精靈耳</string>
+  <string name="MissedCall">未接來電</string>
+  <string name="CallMessageOutgoingMissed">取消精靈耳</string>
+  <string name="CallMessageIncomingDeclined">拒接來電</string>
+  <string name="Declined">拒接</string>
+  <string name="DeclineCall">拒絕</string>
+  <string name="AnswerCall">接聽</string>
+  <string name="OutgoingCallBusy">撥出精靈耳（忙線）</string>
+  <string name="Missed">未接</string>
+  <string name="Cancelled">取消</string>
+  <string name="Outgoing">撥出</string>
+  <string name="Incoming">撥入</string>
+  <string name="CallAgain">重撥</string>
+  <string name="CallBack">回撥</string>
+  <string name="Busy">忙線</string>
+  <string name="TextSize">文字大小</string>
+  <string name="TextSizeScaleEnable">啟用文字大小縮放</string>
+  <string name="TextSizeScaleDisable">停用文字大小縮放</string>
+  <string name="TextSizeReset">重置為預設</string>
+  <string name="NoCalls">尼尚未撥打任何精靈耳</string>
+  <string name="VoipOfflineAirplaneTitle">飛航模式</string>
+  <string name="VoipOfflineAirplane">尼目前啟用ㄌ飛航模式，請關閉或連線到 Wi-Fi 魔力以撥打精靈耳。</string>
+  <string name="VoipOfflineTitle">離線</string>
+  <string name="VoipOffline">尼目前處於離線狀態，請連線到魔力以撥打精靈耳。</string>
+  <string name="NoRightToCall">抱歉，%1$s 沒有接精靈耳。</string>
+  <string name="VoipConnecting">正在連線</string>
+  <string name="VoipRinging">撥號中…</string>
+  <string name="VoipWaiting">等待中</string>
+  <string name="VoipFailed">連線失敗</string>
+  <string name="VoipExchangingKeys">正在交換高速粒子加密金鑰</string>
+  <string name="VoipExchangingKeysShort">正在交換高速粒子加密金鑰</string>
+  <string name="VoipEstablishing">魔力連接中…</string>
+  <string name="VoipEnded">精靈耳已結束</string>
+  <string name="VoipCancelled">精靈耳已取消</string>
+  <string name="VoipDeclined">精靈耳已取消</string>
+  <string name="VoipMissed">未接聽</string>
+  <string name="VoipMissedOutgoing">未接聽</string>
+  <string name="VoipUnknown">已接聽來電</string>
+  <string name="VoipBusy">忙線</string>
+  <string name="VoipDisconnect">已斷線</string>
+  <string name="VoipBranding">Telegram Call</string>
+  <string name="CallBrandingIncoming">Telegram Call 來電</string>
+  <string name="OnMobileNetwork">使用宇宙魔力時</string>
+  <string name="OnRoaming">在漫遊時</string>
+  <string name="UseLessDataAlways">總是</string>
+  <string name="MicrophonePermission">需要授權</string>
+  <string name="MicrophonePermissionDesc">需要有麥克風使用權才能撥打精靈耳。</string>
+  <string name="CallEmojiHint">如果這些表情符號與 %1$s 螢幕上ㄉ相同，則此精靈耳為 100%% 安全。</string>
+  <string name="ShowCall">"顯示精靈耳 "</string>
+  <string name="VoipOngoingAlertTitle">另一個精靈耳正在進行</string>
+  <string name="CallInProgressDesc">尼目前正在和 %1$s 精靈耳。尼想要掛斷，然後和 %2$s 進行新ㄉ精靈耳嗎？</string>
+  <string name="VoipUseLessData">以較少ㄉ數據用量進行精靈耳</string>
+  <string name="UseLessDataForCallsDesc">使用較少ㄉ數據可能會改善尼在不良魔力上ㄉ體驗，但會稍微降低音訊品質。</string>
+  <string name="VoipEndCall">結束精靈耳</string>
+  <string name="HangUp">掛斷</string>
+  <string name="ChatQuickActions">滑動操作</string>
+  <string name="Duration">精靈耳時間</string>
+  <string name="VoipRateCallAlert">請評價尼ㄉ Telegram 精靈耳品質</string>
+  <string name="VoipFeedbackCommentHint">可在這裡留下評論</string>
+  <string name="VoipAudioRoutingEarpiece">聽筒</string>
+  <string name="VoipAudioRoutingSpeaker">喇叭</string>
+  <string name="VoipAudioRoutingBluetooth">藍牙</string>
+  <string name="NightMode">烏麻麻模式</string>
+  <string name="Proxy">Proxy</string>
+  <string name="Connection">連線</string>
+  <string name="ProxyDisabled">已停用</string>
+  <string name="ProxySetup">點擊以設定</string>
+  <string name="ProxyCredentials">認證</string>
+  <string name="ProxyCredentialsOptional">認證（選填）</string>
+  <string name="Socks5Proxy">SOCKS5 Proxy</string>
+  <string name="MtprotoProxy">MTPROTO Proxy</string>
+  <string name="ProxySocks5">SOCKS5 %1$s</string>
+  <string name="ProxyMtproto">MTPROTO %1$s</string>
+  <string name="AddSocks5Proxy">新增 SOCKS5 代理</string>
+  <string name="AddMtprotoProxy">新增 MTPROTO 代理</string>
+  <string name="AddHttpProxy">新增 HTTP 代理</string>
+  <string name="HttpProxy">HTTP Proxy</string>
+  <string name="HttpProxyTransparent">通透式 TCP 連線</string>
+  <string name="HttpProxyTransparentHint">如果魔法圖書館支援「經由 HTTP 連線方式ㄉ通透式 TCP 連線」就啟用。\n\n支援時，它可以顯著提高連線速度。如果此 Proxy 不起作用，請嘗試變更此選項。</string>
+  <string name="ProxyHttp">HTTP %1$s</string>
+  <string name="ProxyTorNetwork">Tor Network %1$s</string>
+  <string name="ProxyUsernameHint">靈魂</string>
+  <string name="ProxyPasswordHint">密語</string>
+  <string name="ProxySecretHint">金鑰</string>
+  <string name="ProxyInfo">如果在特定區域中無法連線及存取 Telegram 魔法圖書館，Proxy 可能有助於解決這個問題 。</string>
+  <string name="ProxyErrorDetailed">錯誤（%1$s）</string>
+  <string name="ProxyError">錯誤</string>
+  <string name="ProxyErrorDirect">檢測到問題</string>
+  <string name="ProxyChecking">檢查中…</string>
+  <string name="ProxyAvailable">可用（%1$s）</string>
+  <string name="ProxyNone">不使用 Proxy</string>
+  <string name="ProxyConnections">連線</string>
+  <string name="ProxyConnected">魔力連接完畢！（%1$s）</string>
+  <string name="ProxyAdd">新增 Proxy</string>
+  <string name="ProxyOther">其他設定</string>
+  <string name="UseProxyServer">魔法圖書館</string>
+  <string name="UseProxyPort">連接埠</string>
+  <string name="ProxySettings">Proxy 設定</string>
+  <string name="EnableProxyAlertTitle">尼確定要啟用此 Proxy？</string>
+  <string name="EnableProxyAlertHint">尼可以稍後到「設定」&gt;「數據和儲存」中變更 Proxy。</string>
+  <string name="EnableProxyAlertHintMtproto">此 Proxy 可能會在尼ㄉ聊天清單中顯示贊助商ㄉ大聲公。這不會洩露任何尼ㄉ Telegram 通訊內容。</string>
+  <string name="ProxyEnable">啟用</string>
+  <string name="ProxySaveForLater">儲存 Proxy</string>
+  <string name="UseProxyUsername">靈魂</string>
+  <string name="UseProxyPassword">密語</string>
+  <string name="SaveToDownloads">儲存到「下載」</string>
+  <string name="SaveToMusic">儲存到「音樂」</string>
+  <string name="DownloadedToPath">已成功下載：%1$s</string>
+  <string name="CallNoLongerActive">此精靈耳不再有效</string>
+  <string name="NotificationContactJoined">%1$s 加入ㄌ Telegram！</string>
+  <string name="DeleteEntry">炸毀項目</string>
+  <string name="Sticker">貼圖</string>
+  <string name="AttachRound">視訊水晶玉</string>
+  <string name="MicrophoneMissing">需要麥克風才能撥打精靈耳。它似乎沒有出現在尼ㄉ魔法器上。</string>
+  <string name="People">人們</string>
+  <string name="ChatHintsDelete">從建議中炸毀 %1$s ？</string>
+  <string name="DeleteXFromRecents">要炸毀從最近ㄉ聊天中找到ㄉ%1$s嗎？</string>
+  <string name="SendTo">練成至</string>
+  <string name="SelectChats">選取聊天室</string>
+  <string name="AddComment">留個評論…</string>
+  <string name="SendSticker">練成貼圖</string>
+  <string name="ViewPackPreview">查看貼圖包</string>
+  <string name="UserBio">魔法師簽名</string>
+  <string name="BioDescription">尼可以加入幾行關於尼自己ㄉ描述。\n任何打開尼個人魔法書頁ㄉ人會看到這段文字。</string>
+  <string name="AttachPhotoExpired">照片已過期</string>
+  <string name="AttachVideoExpired">影片已過期</string>
+  <string name="SendByEnter">按下 Enter 鍵就送出水晶玉</string>
+  <string name="HideChatKeyboard">捲動聊天頁面時隱藏鍵盤</string>
+  <string name="CopiedHashtag">主題玉石標籤已複製到剪貼簿</string>
+  <string name="CopiedCashtag">Cashtag 已被複製到剪貼簿</string>
+  <string name="InviteFriends">邀請朋友</string>
+  <string name="InviteText">哈囉，讓窩們切換到 %1$s：%2$s</string>
+  <string name="ShowForwardOptions">顯示轉傳選項</string>
+  <string name="OpenProfile">查看個人魔法書</string>
+  <string name="OpenChannel">查看大聲公</string>
+  <string name="OpenGroup">查看圈圈</string>
+  <string name="OpenBot">檢視使魔</string>
+  <string name="SendAsCopy">作為副本練成</string>
+  <string name="RemoveCaptions">在副本中炸毀說明文字</string>
+  <string name="GifHasBeenSavedToGallery">GIF 已儲存到相簿</string>
+  <string name="Error">錯誤</string>
+  <string name="UsernameNotOccupied">"找不到魔法識別ID為「%1$s」ㄉ "</string>
+  <string name="UsernameNotOccupiedUnknown">未找到特定魔法識別IDㄉ聊天</string>
+  <string name="PriorityRegular">普通</string>
+  <string name="PriorityUrgent">緊急</string>
+  <string name="PriorityLow">低</string>
+  <string name="PriorityMedium">中</string>
+  <string name="PriorityAboutUrgentAndLow">當尼ㄉ魔法器處於“請勿打擾”模式時，仍將顯示緊急啄木鳥。低優先級啄木鳥將顯示在魔法器托盤中而不會妨礙尼。</string>
+  <string name="PriorityAboutLow">低優先級ㄉ啄木鳥將會在不打擾ㄉ情況下顯示在啄木鳥欄。</string>
+  <string name="NotificationsPriority">優先級</string>
+  <string name="SelectMessagesInBetween">選取中間ㄉ水晶玉</string>
+  <string name="ProcessingFile">處理中…</string>
+  <string name="ProcessingFileWait">正在處理玉石。請稍候…</string>
+  <string name="AreYouSureDeleteThisChat">尼確定要炸毀此聊天？</string>
+  <string name="UserRestricted">抱歉，聊天室祭司禁止尼執行此操作。</string>
+  <string name="HashtagDeleteHint">從建議中炸毀此主題玉石標籤？</string>
+  <string name="ReportChatSpam">尼確定要因為垃圾水晶玉而檢舉「%1$s」嗎？</string>
+  <string name="Report">檢舉</string>
+  <string name="ReportChat">檢舉 %1$s</string>
+  <string name="Spam">垃圾水晶玉</string>
+  <string name="Violence">暴力</string>
+  <string name="ChildAbuse">危害兒童</string>
+  <string name="Pornography">色情</string>
+  <string name="ReportChatSent">檢舉已送出</string>
+  <string name="CopiedMessages">水晶玉已複製到剪貼簿</string>
+  <string name="ForwardedFromX">轉傳自 %1$s</string>
+  <string name="InReplyToX">回覆 %1$s</string>
+  <string name="CopyUsername">複製魔法識別ID</string>
+  <string name="PostedBy">由 %1$s 發布</string>
+  <string name="DeleteFromCache">從快取中清除</string>
+  <string name="SendMessageToX">練成水晶玉到 %1$s</string>
+  <string name="DeleteFileHint">備註：以後尼可以隨時重新下載這個玉石。</string>
+  <string name="DeleteMultipleFilesHint">備註：以後尼可以隨時重新下載這些玉石。</string>
+  <string name="FreedX">釋放 %1$s ㄉ磁碟空間</string>
+  <string name="LinkPreview">傳送器預覽</string>
+  <string name="ClearHistoryConfirm">尼確定要清空此聊天紀錄？該操作無法復原！</string>
+  <string name="Channel">大聲公</string>
+  <string name="ThemeCyan">翡翠玉石</string>
+  <string name="ThemePink">粉共產黨</string>
+  <string name="ThemeOrange">親民黨</string>
+  <string name="ThemeWhiteBlack">白黑</string>
+  <string name="ThemeGreen">民進黨</string>
+  <string name="VideoMessages">視訊水晶玉</string>
+  <string name="NoVideoMessages">鼻要下載視訊水晶玉</string>
+  <string name="DeleteContactConfirm">尼確定要從同伴名單中炸毀 %1$s？</string>
+  <string name="NotificationsGooglePlayServices">保證啄木鳥傳遞需要 Google Play 服務。</string>
+  <string name="BotIsDown">使魔沒有回應。 請稍後再試。</string>
+  <string name="BotIsDownSpecific">%1$s 沒有回應。請稍後再試一次。</string>
+  <string name="UseInAppBrowser">應用內瀏覽器</string>
+  <string name="ShareLink">分享傳送器</string>
+  <string name="CopyTextFailed">無法複製文字。最有可能ㄉ原因是，尼嘗試複製ㄉ文字太多ㄌ。</string>
+  <string name="AutoNightMode">以小精靈選擇烏麻麻模式</string>
+  <string name="DisableAutoNightMode">是否停用以小精靈選擇烏麻麻模式？</string>
+  <string name="DisableAutoNightModeDesc">變更目前主題玉石將會停用以小精靈選擇烏麻麻模式。\n\n之後，尼可以隨時在「設定」&gt;「主題玉石和聊天室」中啟用它。</string>
+  <string name="UseProxyForCalls">使用 Proxy 進行精靈耳</string>
+  <string name="UseProxyForCallsInfo">Proxy 可能會降低尼ㄉ精靈耳品質。</string>
+  <string name="HoldToPreview">聊天預覽</string>
+  <string name="BlockUser">魔障屏蔽魔法師</string>
+  <string name="MessageLifetimePhoto">如果尼設定ㄌ炸彈，照片將在被查看後以小精靈選擇銷毀。</string>
+  <string name="MessageLifetimeVideo">如果尼設定ㄌ炸彈，影片將在被查看後以小精靈選擇銷毀。</string>
+  <string name="NoMembersToShow">沒有魔法師可顯示</string>
+  <string name="NoMembersToShowDesc">嘗試變更尼ㄉ找找條件。\n找到ㄉ魔法師將在這裡顯示。</string>
+  <string name="ManageChannel">管理大聲公</string>
+  <string name="ManageGroup">管理圈圈</string>
+  <string name="Restricted">受限制</string>
+  <string name="PromotedByX">由 %1$s 任命</string>
+  <string name="PromotedByXOnDate">由 %1$s %2$s 任命</string>
+  <string name="BannedByX">被 %1$s 魔障屏蔽</string>
+  <string name="BannedByXOnDate">被 %1$s 魔障屏蔽 ( %2$s )</string>
+  <string name="RestrictedByX">被 %1$s 限制</string>
+  <string name="RestrictedByXOnDate">"被 %1$s 限制 ( %2$s ) "</string>
+  <string name="EditGroup">編輯圈圈</string>
+  <string name="GroupInfo">圈圈魔法書</string>
+  <string name="WhoCanAddMembers">誰可以新增魔法師？</string>
+  <string name="RecentActionsGroupHint">過去48小時內在圈圈中ㄉ操作。</string>
+  <string name="RecentActionsChannelHint">過去48小時內在大聲公中ㄉ操作。</string>
+  <string name="Banned">被魔障屏蔽</string>
+  <string name="Private">私人</string>
+  <string name="AllMembers">所有魔法師</string>
+  <string name="OnlyAdmins">僅限祭司</string>
+  
+  <string name="EditAdmin">編輯祭司</string>
+  <string name="AdminRights">祭司權限</string>
+  <string name="UserRestrictions">魔法師限制</string>
+  <string name="SetAsAdmin">晉升為祭司</string>
+  <string name="WhatThisAdminCanDo">這個祭司可以做什麼？</string>
+  <string name="WhatThisUserCanDo">這個魔法師可以做什麼？</string>
+  <string name="UserRestrictionsRead">閱讀水晶玉</string>
+  <string name="UserRestrictionsSend">練成水晶玉</string>
+  <string name="RightSendMedia">練成媒體</string>
+  <string name="UserRestrictionsSendStickers">練成貼圖和動圖</string>
+  <string name="UserRestrictionsSendPolls">練成黑箱作業活動</string>
+  <string name="UserRestrictionsEmbedLinks">嵌入傳送器</string>
+  <string name="RightChangeGroupInfo">變更圈圈魔法書</string>
+  <string name="RightChangeChannelInfo">變更大聲公魔法書</string>
+  <string name="EditAdminGroupDeleteMessages">炸毀水晶玉</string>
+  <string name="RightBanUsers">魔障屏蔽魔法師</string>
+  <string name="RightInviteViaLink">新增魔法師</string>
+  <string name="RightPinMessages">置頂水晶玉</string>
+  <string name="RightAddNewAdmins">新增祭司</string>
+  <string name="RightEditMessages">編輯水晶玉</string>
+  <string name="NoGroupsToShow">沒有圈圈可顯示</string>
+  <string name="GroupsWillBeShownHere">這裡會顯示共同ㄉ圈圈</string>
+  <string name="EditAdminRights">編輯祭司權限</string>
+  <string name="ViewAdminRights">檢視祭司權限</string>
+  <string name="RevokeAdminRights">撤銷祭司權限</string>
+  <string name="EditUserRestrictions">編輯魔法師限制</string>
+  <string name="RestrictUser">限制魔法師</string>
+  <string name="ViewRestrictions">查看限制</string>
+  <string name="EditAdminPostMessages">發布水晶玉</string>
+  <string name="BannedWillBeShownHere">被魔障屏蔽ㄉ魔法師將顯示在這裡</string>
+  <string name="RestrictedWillBeShownHere">受限制ㄉ魔法師將顯示在此</string>
+  <string name="UnbanMember">解除魔障屏蔽</string>
+  
+  <string name="BlockFor">魔障屏蔽時間</string>
+  <string name="RestrictFor">受限時間</string>
+  <string name="RestrictUntil">受限直到</string>
+  <string name="BlockUntil">魔障屏蔽直到</string>
+  <string name="CustomDate">自訂日期</string>
+  <string name="RemoveRestrictions">解除限制</string>
+  <string name="UploadingPhotoWait">正在上傳照片，請稍後…</string>
+  <string name="ChatTitleEmpty">聊天室名稱不能空白</string>
+  <string name="ChannelLinkInfo">任何已安裝 Telegram ㄉ人都可以透過此傳送器加入尼ㄉ大聲公。</string>
+  <string name="ChannelLink">大聲公傳送器</string>
+  <string name="GroupLink">圈圈傳送器</string>
+  <string name="Apply">套用</string>
+  <string name="DescriptionEmptyHint">在此施展魔法魔法書</string>
+  <string name="ScreenCapture">允許螢幕擷取</string>
+  <string name="ScreenCaptureInfo">如果啟用，尼可以擷取本魔法器ㄉ螢幕畫面，且即使密語鎖已開啟，魔法器仍會在任務切換器中顯示尼ㄉ聊天。\n\n尼可能需要重新啟動 App ，這個設定才能生效。</string>
+  <string name="Remove">炸毀</string>
+  <string name="RemoveMember">炸毀</string>
+  <string name="RemoveCall">炸毀</string>
+  <string name="CallX">要打精靈耳給 %1$s 嗎？</string>
+  <string name="ConfirmCalls">撥號前，先提示</string>
+  <string name="ConfirmCallsDesc">每次打精靈耳給任何人時，都先顯示確認對話框。</string>
+  <string name="CustomVibrations">自訂震動</string>
+  <string name="SomeCallInProgressDesc">精靈耳過程無法進行這項操作。</string>
+  <string name="Follow">關注</string>
+  <string name="Unselect">取消選取</string>
+  <string name="ActionIrreversible">此操作無法撤銷。</string>
+  <string name="LinkInUse">抱歉，此名稱已被佔用。</string>
+  <string name="LinkInvalid">抱歉，此名稱無效。</string>
+  <string name="LinkInvalidShort">傳送器名稱至少要有 5 個字元。</string>
+  <string name="LinkInvalidLong">名稱不能超過 32 個字元。</string>
+  <string name="LinkInvalidStartNumber">抱歉，傳送器不能以數字開頭。</string>
+  <string name="LinkGroupHelp">尼可以在 **Telegram** 上設定一個公開ㄉ永久傳送器。如果尼這樣做，其他人就可以透過這個傳送器找到並加入尼ㄉ圈圈。\n\n尼可以使用 **a-z**、**0-9** 和底線。\n最小長度為 **5** 個字元。</string>
+  <string name="LinkChannelHelp">尼可以在 **Telegram** 上設定一個公開ㄉ永久傳送器。如果尼這樣做，其他人就可以透過這個傳送器找到並加入尼ㄉ大聲公。\n\n尼可以使用 **a-z**、**0-9** 和底線。\n最小長度為 **5** 個字元。</string>
+  <string name="LinkChecking">正在檢查傳送器ㄉ可用性…</string>
+  <string name="LinkCurrent">t.me/%1$s 是尼目前ㄉ永久傳送器。</string>
+  <string name="LoadingActions">正在載入…</string>
+  <string name="JoinChat">加入</string>
+  <string name="MemberCanJoinGroup">%1$s 將可以回到圈圈。</string>
+  <string name="MemberCannotJoinGroup">%1$s 將無法回到圈圈，除非祭司將其加入。</string>
+  <string name="MemberCanJoinChannel">%1$s 將能夠返回大聲公。</string>
+  <string name="MemberCannotJoinChannel">%1$s 將無法回到大聲公，除非祭司將其加入。</string>
+  <string name="Unban">解除魔障屏蔽</string>
+  <string name="BanMember">魔障屏蔽魔法師</string>
+  <string name="RemoveFromGroup">從圈圈中炸毀</string>
+  <string name="ChannelRemoveUser">從大聲公中炸毀</string>
+  <string name="InviteBackToGroup">邀請返回到圈圈</string>
+  <string name="InviteBackToChannel">邀請返回大聲公</string>
+  <string name="MemberCannotJoinRegularGroup">%1$s 將無法回到圈圈，除非其他魔法師將其加入或給予傳送器。</string>
+  <string name="AdminCanAssignAdmins">此祭司將能夠加入具有相同（或較低）權限ㄉ新祭司。</string>
+  <string name="AdminCannotAssignAdmins">此祭司將不能新增祭司。</string>
+  <string name="ShareMyContactInfo">分享窩ㄉ聯絡魔法書</string>
+  <string name="MemberBanChannel">此魔法師將會被魔障屏蔽並從大聲公中炸毀。</string>
+  <string name="MemberBanGroup">此魔法師將被魔障屏蔽並從圈圈中炸毀。</string>
+  <string name="MemberRestrictChannel">此魔法師不會從大聲公中炸毀。</string>
+  <string name="MemberRestrictGroup">此魔法師不會從圈圈中炸毀。</string>
+  <string name="UserIsAlreadyAdmin">此魔法師已經是祭司</string>
+  <string name="YouCantBanThis">尼無法魔障屏蔽此魔法師</string>
+  <string name="YouCantPromoteThis">尼無法提升此魔法師ㄉ權限</string>
+  <string name="EventLog">魔法日誌</string>
+  <string name="EventLogAllEvents">所有操作</string>
+  <string name="EventLogSelectedEvents">選定ㄉ操作</string>
+  <string name="EventLogAllAdmins">所有祭司</string>
+  <string name="EventLogEmptyFilter">請指定至少一種操作事件</string>
+  <string name="EventLogEmpty">**這裡還沒有操作紀錄**\n\n圈圈祭司和魔法師在\n過去48小時內\n沒有任何操作。</string>
+  <string name="EventLogEmptyChannel">**這裡尚無任何操作**\n\n大聲公祭司\n在過去 48 小時內\n沒有任何操作。</string>
+  <string name="EventLogEmptySearch">** 沒有找到任何操作**\n\n沒有找到魔法日誌\n是符合尼查詢ㄉ。</string>
+  <string name="EventLogEmptyTextSearch">沒有找到最近有包含「%1$s」ㄉ操作。</string>
+  <string name="EventLogInfoTitle">什麼是魔法日誌？</string>
+  <string name="EventLogInfoDetail">這是魔法師和祭司在過去 48 小時內ㄉ操作紀錄。</string>
+  <string name="EventLogInfoDetailChannel">這是魔法師和祭司在過去 48 小時內ㄉ操作紀錄。</string>
+  <string name="EventLogChannelRestricted">魔障屏蔽ㄌ %1$s</string>
+  <string name="EventLogChannelUnrestricted">取消ㄌ魔障屏蔽 %1$s</string>
+  <string name="EventLogGroupBanned">魔障屏蔽ㄌ %1$s\n\n魔障屏蔽時間：%2$s</string>
+  <string name="EventLogEditedMessages">%1$s 編輯ㄌ這則水晶玉：</string>
+  <string name="EventLogEditedCaption">%1$s 編輯ㄌ說明文字：</string>
+  <string name="EventLogRemovedCaption">%1$s 炸毀ㄌ說明文字：</string>
+  <string name="EventLogOriginalMessages">原始水晶玉</string>
+  <string name="EventLogOriginalCaption">原始說明文字</string>
+  <string name="EventLogOriginalCaptionEmpty">空ㄉ</string>
+  <string name="EventLogPinnedMessages">%1$s 置頂ㄌ這則水晶玉：</string>
+  <string name="EventLogPollStopped">%1$s 關閉ㄌ黑箱作業：</string>
+  <string name="EventLogUnpinnedMessages">%1$s 取消ㄌ置頂水晶玉</string>
+  <string name="EventLogDeletedMessages">%1$s 炸毀ㄌ這則水晶玉：</string>
+  <string name="EventLogChangedGroupLink">%1$s 變更ㄌ圈圈傳送器：</string>
+  <string name="EventLogChangedChannelLink">%1$s 變更ㄌ大聲公傳送器：</string>
+  <string name="EventLogRemovedGroupLink">%1$s 炸毀ㄌ圈圈傳送器</string>
+  <string name="EventLogRemovedChannelLink">%1$s 炸毀ㄌ大聲公傳送器</string>
+  <string name="EventLogPreviousLink">原本ㄉ傳送器</string>
+  <string name="EventLogEditedGroupDescription">%1$s 編輯ㄌ圈圈魔法書：</string>
+  <string name="EventLogEditedChannelDescription">%1$s 編輯ㄌ大聲公魔法書：</string>
+  <string name="EventLogRemovedChannelDescription">%1$s 炸毀ㄌ大聲公魔法書</string>
+  <string name="EventLogRemovedGroupDescription">%1$s 炸毀ㄌ圈圈魔法書</string>
+  <string name="EventLogPreviousGroupDescription">原本ㄉ魔法書</string>
+  <string name="EventLogToggledInvitesOn">%1$s 啟用ㄌ圈圈邀請</string>
+  <string name="EventLogToggledInvitesOff">%1$s 停用ㄌ圈圈邀請</string>
+  <string name="EventLogToggledSignaturesOn">%1$s 啟用ㄌ水晶玉簽名</string>
+  <string name="EventLogToggledSignaturesOff">%1$s 停用ㄌ水晶玉簽名</string>
+  <string name="EventLogPermissions">變更ㄌ預設權限</string>
+  <string name="EventLogPermissionSendMessages">練成媒體</string>
+  <string name="EventLogPermissionSendMedia">練成媒體</string>
+  <string name="EventLogRestrictedNew">限制ㄌ %1$s\n\n受限時間： %2$s</string>
+  <string name="EventLogRestrictedUntil">變更ㄌ對 %1$s ㄉ限制\n\n受限時間：%2$s</string>
+  <string name="EventLogRestrictedDeleted">解除ㄌ對 %1$s ㄉ限制</string>
+  <string name="EventLogRestrictedSendStickers">練成貼圖和動圖</string>
+  <string name="EventLogPermissionSendStickers">練成貼圖和動圖</string>
+  <string name="EventLogRestrictedSendPolls">練成黑箱作業活動</string>
+  <string name="EventLogPermissionSendPolls">練成黑箱作業活動</string>
+  <string name="EventLogRestrictedChangeInfo">變更魔法書</string>
+  <string name="EventLogPermissionChangeInfo">變更魔法書</string>
+  <string name="EventLogRestrictedPinMessages">置頂水晶玉</string>
+  <string name="EventLogPermissionPinMessages">置頂水晶玉</string>
+  <string name="EventLogRestrictedAddUsers">新增魔法師</string>
+  <string name="EventLogPermissionAddUsers">新增魔法師</string>
+  <string name="EventLogRestrictedSendMedia">練成媒體</string>
+  <string name="EventLogRestrictedSendMessages">練成水晶玉</string>
+  <string name="EventLogRestrictedSendEmbed">嵌入傳送器</string>
+  <string name="EventLogPermissionSendEmbed">嵌入傳送器</string>
+  <string name="EventLogRestrictedReadMessages">閱讀水晶玉</string>
+  <string name="EventLogPromotedNew">提升ㄌ %1$s ㄉ權限</string>
+  <string name="EventLogPromoted">變更ㄌ %1$s ㄉ權限</string>
+  <string name="EventLogUnpromoted">炸毀ㄌ %1$s ㄉ祭司權限</string>
+  <string name="EventLogPromotedChangeChannelInfo">變更大聲公魔法書</string>
+  <string name="EventLogPromotedChangeGroupInfo">變更圈圈魔法書</string>
+  <string name="EventLogPromotedPostMessages">發布水晶玉</string>
+  <string name="EventLogPromotedEditMessages">編輯水晶玉</string>
+  <string name="EventLogPromotedDeleteMessages">炸毀水晶玉</string>
+  <string name="EventLogPromotedAddAdmins">新增祭司</string>
+  <string name="EventLogPromotedBanUsers">魔障屏蔽魔法師</string>
+  <string name="EventLogPromotedAddUsers">新增魔法師</string>
+  <string name="EventLogPromotedPinMessages">置頂水晶玉</string>
+  <string name="EventLogFilterAll">所有操作</string>
+  <string name="EventLogFilterNewRestrictions">新增限制</string>
+  <string name="EventLogFilterNewAdmins">新增祭司</string>
+  <string name="EventLogFilterNewMembers">新增魔法師</string>
+  <string name="EventLogFilterGroupInfo">編輯圈圈魔法書</string>
+  <string name="EventLogFilterChannelInfo">大聲公魔法書</string>
+  <string name="EventLogFilterDeletedMessages">炸毀水晶玉</string>
+  <string name="EventLogFilterEditedMessages">編輯水晶玉</string>
+  <string name="EventLogFilterPinnedMessages">置頂水晶玉</string>
+  <string name="EventLogFilterLeavingMembers">魔法師退出</string>
+  <string name="UntilX">直到 %1$s</string>
+  <string name="NetworkUsage">魔力用量</string>
+  <string name="Use169Output">相機以 16:9 比例進行拍攝</string>
+  <string name="RecentStickers">最近使用過</string>
+  <string name="AddToFavorites">加入到「最愛」</string>
+  <string name="RemoveFromFavorites">從「最愛」中炸毀</string>
+  <string name="HoldToAudio">按住可錄音。 點擊則切換到錄影功能。</string>
+  <string name="HoldToVideo">按住可錄影。 點擊則切換到錄音功能。</string>
+  <string name="SecretChatFeatureUnsupported">%1$s ㄉ Telegram 客戶端不支援此功能。需要先安裝更新。</string>
+  <string name="UseHqRoundVideos">錄製高畫質圓形視訊</string>
+  <string name="DiscardVideoMessageTitle">放棄視訊水晶玉</string>
+  <string name="DiscardVideoMessageDescription">尼確定要放棄尼ㄉ視訊水晶玉？</string>
+  <string name="Discard">放棄</string>
+  <string name="MediaTypeUnsupported">此類型媒體不支援該功能</string>
+  <string name="XMadeGroupHistoryHidden">%1$s 使新魔法師無法看見加入前ㄉ水晶玉</string>
+  <string name="XMadeGroupHistoryVisible">%1$s 使新魔法師可以看見加入前ㄉ水晶玉</string>
+  <string name="XChangedGroupStickerSet">%1$s 變更ㄌ圈圈貼圖包</string>
+  <string name="XRemovedGroupStickerSet">%1$s 炸毀ㄌ圈圈貼圖包</string>
+  <string name="ChatHistory">新魔法師加入前ㄉ舊水晶玉</string>
+  <string name="ChatHistoryVisibleInfo">新魔法師可以看到加入前ㄉ水晶玉。</string>
+  <string name="ChatHistoryHiddenInfo">新魔法師無法看到加入前ㄉ舊水晶玉。</string>
+  <string name="ChatHistoryHidden">隱藏</string>
+  
+  
+  <string name="ChatHistoryVisible">顯示</string>
+  <string name="DiscardCurrentChanges">放棄當前變更嗎？</string>
+  <string name="CropFree">自由</string>
+  <string name="CropOriginal">原始</string>
+  <string name="UseRearRoundVideos">從後置鏡頭開始</string>
+  <string name="EMail">電子信箱</string>
+  <string name="Beginning">跳到第一則水晶玉</string>
+  <string name="PaymentSuccessfullyPaid">尼剛剛成功為 %3$s 將 %1$s 轉給 %2$s</string>
+  <string name="PaymentSuccessfullyPaidNoItem">尼剛剛成功將 %1$s 轉給 %2$s</string>
+  <string name="OpenMessage">查看水晶玉</string>
+  <string name="SavedMessages">窩ㄉ收藏</string>
+  <string name="Saved">窩ㄉ收藏</string>
+  <string name="channel_create_somebody">大聲公 «%1$s» 已建立</string>
+  <string name="channel_user_add">%1$s 加入ㄌ大聲公</string>
+  <string name="channel_user_add_self">尼加入ㄌ大聲公</string>
+  <string name="channel_user_remove">%1$s 退出ㄌ大聲公</string>
+  <string name="channel_user_remove_self">尼退出ㄌ大聲公</string>
+  <string name="Installed">已安裝</string>
+  <string name="AsSeparateMessages">將媒體顯示為個別ㄉ水晶玉</string>
+  <string name="AsOneMessage">將媒體合併為一則水晶玉</string>
+  
+  <string name="AsXMessages_other">作為 %1$s 則水晶玉</string>
+  
+  <string name="AttachVideosSuffix_other">個影片</string>
+  
+  <string name="AttachPhotosSuffix_other">張照片</string>
+  
+  <string name="AttachMediasSuffix_other">" 個媒體"</string>
+  <string name="NewPinnedMessage">置頂ㄉ水晶玉：%1$s</string>
+  <string name="PinnedMessageChanged">置頂ㄉ水晶玉已炸毀</string>
+  <string name="Markdown">Markdown</string>
+  <string name="MarkdownEnabled">啟用</string>
+  <string name="MarkdownTextOnly">啟用（無選單）</string>
+  <string name="MarkdownDisabled">停用</string>
+  <string name="MarkdownHint">啟用時，下列 Markdown 規則生效：\n**粗體**\n__斜體__\n`單行程式碼` ```多行程式碼```\n[文字](網址)</string>
+  <string name="MessageNotFound">找不到水晶玉</string>
+  <string name="SyncHintTitle">尋找同伴</string>
+  <string name="SyncHint">為ㄌ幫助尼與朋友和家人傳送器，請允許 %1$s 存取尼ㄉ魔法器聯絡魔法書。</string>
+  <string name="SyncHintRetry">為ㄌ幫助尼在 Telegram 練成水晶玉給家人和朋友們，請允許存取尼ㄉ同伴資料。\n\n請到尼魔法器ㄉ「設定」&gt;「魔法器」&gt;「權限」，然後將「同伴」這個選項開啟。</string>
+  <string name="SyncHintUnavailable">請到尼魔法器ㄉ「設定」&gt;「魔法器」&gt;「權限」，然後將「同伴」這個選項開啟，讓 Telegram 可以存取尼ㄉ同伴資料。</string>
+  <string name="Continue">繼續</string>
+  <string name="NoChatsText">**沒有聊天室可顯示**\n\n請邀請尼ㄉ朋友和家人加入 Telegram</string>
+  <string name="ShowContacts">開始聊天</string>
+  <string name="ContactsOnTelegramSingle">%1$s 正在使用 Telegram</string>
+  <string name="ContactsOnTelegramSeveral">%1$s 和 %2$s 也在使用 Telegram</string>
+  
+  <string name="ContactsOnTelegramMany_other">%2$s 和 %1$s 位同伴也在使用 Telegram</string>
+  <string name="SearchPeople">找找人們</string>
+  <string name="ManyContactsJoined">1000+ ㄉ同伴在 Telegram 上</string>
+  
+  <string name="InviteTextCommonMany_other">哈囉，窩在使用 Telegram 聊天。– 還有其他 %1$s 個同伴也是。來加入窩們吧！在這裡下載： %2$s</string>
+  <string name="InviteTextCommonOverThousand">哈囉～窩在使用很棒ㄉ通訊軟體：Telegram - 窩們其他超過 1000 個以上ㄉ同伴也是。加入窩們吧！你可以在這裡下載：%1$s</string>
+  <string name="InviteContacts">邀請同伴</string>
+  <string name="NoRestrictionsHint">請指定至少一個限制規則</string>
+  <string name="NoAdminRulesHint">至少指定一個管理規則</string>
+  <string name="SecretLinkPreviewAlert">尼想要在隱形聊天中啟用傳送器預覽功能嗎？請注意，傳送器預覽是在 Telegram 魔法圖書館上產生ㄉ。</string>
+  <string name="SecretChatContextBotAlert">請注意，內聯使魔是由第三方開發者所提供ㄉ。為ㄌ使使魔工作，尼在使魔名稱後施展魔法ㄉ符號會被練成給各自ㄉ開發者。</string>
+  <string name="ClearRecentEmojiAction">清除最近使用ㄉ表情符號</string>
+  <string name="PaintModeDoodle">塗鴉</string>
+  <string name="PaintModeArrow">箭頭</string>
+  <string name="PaintModeRect">矩形</string>
+  <string name="PaintModeFill">填色</string>
+  <string name="ChatAccessFailed">無法存取此聊天</string>
+  <string name="ChatAccessRestrictedGroup">尼已被此圈圈魔障屏蔽ㄌ</string>
+  <string name="ChatAccessRestrictedChannel">尼在這個大聲公被魔障屏蔽ㄌ</string>
+  <string name="ChatAccessPrivateGroup">這是私人圈圈</string>
+  <string name="ChatAccessPrivateChannel">這個是私人大聲公</string>
+  <string name="YouCantInviteMembers">尼無法在此聊天中新增魔法師</string>
+  <string name="RecoveryCodeSent">窩們已練成 6 位數驗證碼至 %1$s。請檢查尼ㄉ電子信箱，並在此施展魔法。</string>
+  <string name="RecoveryCodeResent">驗證碼已重新發送到尼ㄉ電子信箱中。</string>
+  <string name="RecoveryCodeSentEmailUnknown">窩們已經練成ㄌ一個 6 位數ㄉ復原碼給尼。請檢查尼ㄉ電子郵件並在此處施展魔法。</string>
+  <string name="RestoreEmailTroubleUnknown">無法存取尼ㄉ電子信箱？</string>
+  <string name="VoipInCallBranding">Telegram Call</string>
+  <string name="PhoneCall">魔法器精靈耳</string>
+  <string name="SetAsCurrent">設定為大頭貼</string>
+  <string name="ArchiveStickerSet">封存貼圖包「 %1$s」？之後，尼可以在「設定」&gt;「貼圖」&gt;「已封存」中恢復使用。</string>
+  <string name="ArchiveStickerSetAction">封存</string>
+  <string name="ArchivePack">封存貼圖包</string>
+  <string name="ClearDrawing">清除繪圖</string>
+  <string name="RoundVideoPlaybackError">無法播放視訊水晶玉，請參閱日誌ㄌ解詳細魔法書。</string>
+  <string name="VideoPlaybackError">無法播放影片，請參閱日誌ㄌ解詳細魔法書。</string>
+  <string name="VideoPlaybackUnsupported">影片格式不被支援。</string>
+  <string name="GifPlaybackError">無法播放 GIF，請參閱日誌ㄌ解詳細魔法書。</string>
+  <string name="GifPlaybackUnsupported">不支援 GIF 格式。</string>
+  <string name="AudioPlaybackError">無法播放音訊，請參閱日誌ㄌ解詳細魔法書。</string>
+  <string name="AudioPlaybackUnsupported">不支援ㄉ音訊格式。</string>
+  <string name="CloudDownload">下載 %1$s</string>
+  <string name="CloudResume">繼續下載</string>
+  <string name="CloudPause">暫停下載</string>
+  <string name="PlayListHighlight">在清單中突出顯示</string>
+  <string name="PlayListReverse">相反ㄉ順序</string>
+  <string name="PlayListAdd">播放下一首</string>
+  <string name="PlayListRestore">新增至播放清單</string>
+  <string name="PlayListPlayNext">播放下一首</string>
+  <string name="PlayListRemoveTrack">將 %1$s 從目前ㄉ播放清單炸毀？</string>
+  <string name="PlayListRemove">炸毀</string>
+  <string name="PlaySkipNext">下一首</string>
+  <string name="PlaySkipPrev">上一首</string>
+  <string name="PlayPlay">播放</string>
+  <string name="PlayPause">暫停</string>
+  <string name="PlayResume">繼續</string>
+  <string name="PlayStop">停止</string>
+  <string name="NotificationChannelCommonPrivate">所有私聊和提及ㄉ預設啄木鳥設定。</string>
+  <string name="NotificationChannelCommonGroup">所有圈圈和大聲公ㄉ預設啄木鳥設定。</string>
+  <string name="NotificationChannelCommonGroups">所有圈圈聊天ㄉ預設啄木鳥設定。</string>
+  <string name="NotificationChannelCommonChannels">所有大聲公ㄉ預設啄木鳥設定。</string>
+  <string name="NotificationChannelSecretChat">與 %1$s 隱形聊天ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelUser">來自 %1$s ㄉ水晶玉與提及ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelGroupChat">圈圈 «%1$s» ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelGroupChatPublic">圈圈 «%1$s» (%2$s) ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelChannelChat">大聲公 «%1$s» ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelChannelChatPublic">大聲公 «%1$s» (%2$s) ㄉ自訂啄木鳥設定。</string>
+  <string name="NotificationChannelCustom">自訂：%1$s</string>
+  <string name="NotificationChannelPlayback">音樂播放器</string>
+  <string name="NotificationChannelCall">撥入精靈耳</string>
+  <string name="NotificationChannelOutgoingCall">撥出精靈耳</string>
+  <string name="NotificationChannelMore">更多設定</string>
+  <string name="RingtoneCustom">自訂</string>
+  <string name="IncognitoKeyboard">無痕鍵盤</string>
+  <string name="IncognitoKeyboardInfo">要求鍵盤不更新任何個性化數據，例如根據尼在「隱形聊天」中施展魔法產生ㄉ施展魔法紀錄和個性化語言模型。\n\n請注意，此設定不是保證，有些施展魔法法可能不會遵循它。</string>
+  <string name="FailureMessageText">很抱歉，這則水晶玉因為錯誤而無法正常顯示。\n\n請複製錯誤水晶玉並練成至 support@telegram.org 好讓窩們可以修復該錯誤。\n感謝尼！</string>
+  <string name="PrivacyCallsP2PTitle">蹦比蹦傳輸</string>
+  <string name="PrivacyCallsP2PTitle2">在精靈耳中使用蹦比蹦傳輸</string>
+  <string name="PeerToPeerInfo">停用蹦比蹦傳輸 ( peer-to-peer ) 將改由 Telegram 魔法圖書館傳遞所有精靈耳，可避免洩露尼ㄉ IP 位址，但會稍微降低精靈耳品質。</string>
+  <string name="AutoNightDisabled">停用</string>
+  <string name="AutoNightAutomatic">以小精靈選擇</string>
+  <string name="AutoNightScheduled">排定</string>
+  <string name="AutoNightModeScheduledByLocation">查出本地ㄉ日落和日出時間</string>
+  <string name="AutoNightModeScheduledByLocationProgress">確定位置…</string>
+  <string name="AutoNightModeScheduledTurnOn">從</string>
+  <string name="AutoNightModeScheduledTurnOff">到</string>
+  <string name="AutoNightModeDescription">依據環境亮度或是尼ㄉ時間偏好，切換至深色主題玉石。</string>
+  <string name="AutoNightModeDescriptionAuto">當環境亮度低於 %1$d%% 時，切換至深色主題玉石。\n\n那顆預設灰色會跑ㄉ小點點顯示尼ㄉ魔法器目前感測到ㄉ環境亮度。</string>
+  <string name="AutoNightModeDescriptionScheduled">依據尼ㄉ時間偏好，切換至深色主題玉石</string>
+  <string name="PrivacyBots">使魔</string>
+  <string name="WebSessionsTitle">用 Telegram 靈魂登入</string>
+  <string name="NoActiveLogins">**沒有已登入ㄉ網站**\n\n尼可以登入支援使用 Telegram 靈魂登入ㄉ網站。</string>
+  <string name="TerminateAllWebSessions">斷開與所有網站ㄉ傳送器</string>
+  <string name="ClearOtherWebSessionsHelp">尼可以登入支援使用 Telegram 靈魂登入ㄉ網站。</string>
+  <string name="OtherWebSessions">已傳送器ㄉ網站</string>
+  <string name="TerminateWebSessionQuestion">斷開與 %1$s ㄉ傳送器 ?</string>
+  <string name="DisconnectWebsite">斷開</string>
+  <string name="DisconnectWebsiteAction">斷開與網站ㄉ傳送器</string>
+  <string name="DisconnectAllWebsitesHint">尼確定要斷開與所有網站ㄉ傳送器嗎？</string>
+  <string name="DisconnectWebsiteBan">魔障屏蔽 %1$s？</string>
+  <string name="ConnectedWebsitesDesc">點擊以斷開與尼 Telegram 靈魂ㄉ傳送器。</string>
+  <string name="NotificationsLed">LED 提示燈</string>
+  <string name="LedDisabled">停用</string>
+  <string name="LedDefault">預設</string>
+  <string name="LedBlue">國民黨</string>
+  <string name="LedOrange">親民黨</string>
+  <string name="LedYellow">時代力量</string>
+  <string name="LedGreen">民進黨</string>
+  <string name="LedCyan">翡翠玉石</string>
+  <string name="LedRed">共產黨</string>
+  <string name="LedPurple">佛教如來宗</string>
+  <string name="LedPink">粉共產黨</string>
+  <string name="LedWhite">石英</string>
+  <string name="SetProfilePhotoError">更新照片時出錯：%1$s</string>
+  <string name="BotNotFound">沒找到「%1$s」 使魔</string>
+  <string name="AddAccount">新增靈魂</string>
+  <string name="VoipAnsweringAsAccount">以 %1$s ㄉ身分接聽來電</string>
+  <string name="ShowSourceMessage">跳轉至水晶玉來源處</string>
+  <string name="Directions">導航…</string>
+  <string name="ShowOnFoursquare">Foursquare</string>
+  <string name="AttachLiveLocation">即時位置</string>
+  
+  <string name="AccurateToMeters_other">精確到 %1$s 公尺</string>
+  
+  <string name="xStrings_other">%1$s 個字串</string>
+  <string name="ShareLiveLocation">分享即時位置</string>
+  <string name="SendLiveLocationInfo">當尼移動時，即時更新</string>
+  <string name="PullToSeePlaces">向上拖動查看周邊區域</string>
+  <string name="LoadingPlaces">正在尋找地點…</string>
+  <string name="NoPlacesFound">找不到位置</string>
+  
+  <string name="SharingLiveLocationToChats_other">尼正與 %1$s 個聊天室分享尼ㄉ即時位置</string>
+  <string name="LiveLocationAlertPrivate">選擇 %1$s 會看到尼即時所在位置ㄉ持續時間。</string>
+  <string name="LiveLocationAlertGroup">選擇此聊天中ㄉ人們將看到尼即時所在位置ㄉ持續時間。</string>
+  <string name="StopSharingLiveLocation">停止分享即時位置</string>
+  <string name="StopLiveLocationInfo">尼要停止分享即時位置到所有聊天室嗎？</string>
+  <string name="StopLiveLocationInfoX">尼要停止與 %1$s 分享即時位置嗎？</string>
+  
+  <string name="SharingWithXChats_other">正在與 %1$s 個聊天室分享</string>
+  <string name="SharingWithX">正在與「%1$s」分享</string>
+  <string name="AttachLiveLocationIsSharing">正在與「%1$s」分享</string>
+  <string name="SharingYouAndOtherName">尼和 %1$s</string>
+  <string name="StopAllLocationSharings">全部停止</string>
+  <string name="StopLiveLocationShort">停止分享</string>
+  <string name="PublicGroupsUnavailable">抱歉，尼ㄉ靈魂無法使用公開圈圈。</string>
+  <string name="StopLiveLocation">停止分享位置</string>
+  <string name="ApplyToAll">套用到全部</string>
+  <string name="DroppedPin">標記ㄉ位置</string>
+  <string name="CalculatingDistance">正在計算距離…</string>
+  <string name="DirectionGo">前往</string>
+  <string name="LayerMapDefault">日間</string>
+  <string name="LayerMapDark">夜間</string>
+  <string name="LayerMapSatellite">衛星</string>
+  <string name="LayerMapTerrain">地圖</string>
+  <string name="LayerMapHybrid">混合</string>
+  <string name="Typing">正在施展魔法</string>
+  <string name="IsTypingGroup">%1$s 正在施展魔法</string>
+  <string name="AreTypingGroup">%1$s 正在施展魔法</string>
+  <string name="RecordingAudio">正在錄製語音</string>
+  <string name="IsRecordingAudio">%1$s 正在錄製語音水晶玉…</string>
+  <string name="AreRecordingAudio">%1$s 正在錄製語音水晶玉</string>
+  <string name="SendingVoice">正在練成語音水晶玉</string>
+  <string name="IsSendingVoice">%1$s 正在練成語音水晶玉</string>
+  <string name="AreSendingVoice">%1$s 正在練成語音水晶玉</string>
+  <string name="RecordingVideo">正在錄製視訊</string>
+  <string name="IsRecordingVideo">%1$s 正在錄製視訊</string>
+  <string name="AreRecordingVideo">%1$s 正在錄製視訊水晶玉</string>
+  <string name="SendingLocation">正在選擇位置</string>
+  <string name="IsSendingLocation">%1$s 正在選擇位置</string>
+  <string name="AreSendingLocation">%1$s 正在選擇地點</string>
+  <string name="SendingContact">正在選擇同伴…</string>
+  <string name="IsSendingContact">%1$s 正在選擇同伴…</string>
+  <string name="AreSendingContact">%1$s 正在選擇同伴…</string>
+  <string name="RecordingRound">正在錄製視訊水晶玉</string>
+  <string name="IsRecordingRound">%1$s 正在錄製視訊水晶玉</string>
+  <string name="AreRecordingRound">%1$s 正在錄製視訊水晶玉</string>
+  <string name="SendingRound">正在練成視訊水晶玉</string>
+  <string name="IsSendingRound">%1$s 正在練成視訊水晶玉</string>
+  <string name="AreSendingRound">%1$s 正在練成視訊水晶玉</string>
+  <string name="SendingPhoto">正在練成照片</string>
+  <string name="IsSendingPhoto">%1$s 正在練成照片…</string>
+  <string name="AreSendingPhoto">%1$s 正在練成照片</string>
+  <string name="SendingGame">正在玩遊戲</string>
+  <string name="IsSendingGame">%1$s 正在玩遊戲</string>
+  <string name="AreSendingGame">%1$s 正在玩遊戲</string>
+  <string name="SendingVideo">正在練成影片</string>
+  <string name="IsSendingVideo">%1$s 正在練成影片</string>
+  <string name="AreSendingVideos">%1$s 正在練成影片</string>
+  <string name="SendingFile">正在練成玉石</string>
+  <string name="IsSendingFile">%1$s 正在練成玉石</string>
+  <string name="AreSendingFile">%1$s 正在練成玉石</string>
+  <string name="LiveLocations">即時位置</string>
+  <string name="ReportMessageUser">檢舉 %1$s 練成ㄉ水晶玉</string>
+  <string name="ReportMessagesUser">檢舉 %1$s 練成ㄉ水晶玉</string>
+  <string name="ReportMessage">檢舉 %1$s 練成ㄉ水晶玉</string>
+  <string name="ReportMessages">檢舉 %1$s 練成ㄉ水晶玉</string>
+  
+  <string name="ReportXMessages_other">檢舉 %1$s 則水晶玉</string>
+  <string name="SuggestStickers">透過表情符號推薦貼圖</string>
+  <string name="SuggestStickersAll">所有貼圖</string>
+  <string name="SuggestStickersInstalled">已安裝ㄉ</string>
+  <string name="SuggestStickersNone">無</string>
+  <string name="MessageContentPreview">圖片預覽</string>
+  <string name="PlaceSearchError">找找地點時出錯</string>
+  <string name="ShareAs">以…分享</string>
+  <string name="PerformAs">選擇操作身分…</string>
+  <string name="OpenLinkAs">以…開啟傳送器</string>
+  <string name="CurrentAccount">%1$s（目前）</string>
+  <string name="Proceed">繼續</string>
+  <string name="LiveLocationError">無法偵測目前ㄉ位置。</string>
+  <string name="AutoInstantView">在「即時瀏覽」中開啟</string>
+  <string name="AutoInstantViewDesc">每當尼開啟傳送器時，Telegram 會嘗試為它產生一個「即時瀏覽」ㄉ頁面。</string>
+  <string name="AutoInstantViewNone">沒有傳送器</string>
+  <string name="AutoInstantViewTelegram">telegram.org + telegra.ph</string>
+  <string name="AutoInstantViewAll">所有傳送器</string>
+  <string name="DeepLinkUnsupported">未知或損壞ㄉ傳送器格式</string>
+  <string name="AppUpdateRequiredTitle">需要更新</string>
+  <string name="AppUpdateRequiredText">要執行此操作，請更新 Telegram 版本。</string>
+  <string name="AppUpdateOk">更新</string>
+  <string name="ProxySponsor">Proxy 贊助商</string>
+  <string name="message_via">" 透過 "</string>
+  <string name="message_adminSign">"  祭司"</string>
+  <string name="message_adminSignPlain">祭司</string>
+  <string name="WhoCanCallMe">誰可以打精靈耳給窩？</string>
+  <string name="UseP2PWith">與誰精靈耳使用蹦比蹦傳輸？</string>
+  <string name="PrivacyLastSeenNobody">沒有人可以看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyLastSeenNobodyExcept">沒有人 (%1$s) 可以看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyLastSeenContacts">只有同伴可以看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyLastSeenContactsExcept">只有同伴（%1$s）可以看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyLastSeenEverybody">所有人都可以看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyLastSeenEverybodyExcept">所有人（%1$s）都能看到尼ㄉ最後施展魔法時間</string>
+  <string name="PrivacyAddToGroupsNobody">沒有人可以將尼加入到圈圈和大聲公</string>
+  <string name="PrivacyAddToGroupsNobodyExcept">沒有人 (%1$s) 可以將窩加入到圈圈和大聲公</string>
+  <string name="PrivacyAddToGroupsContacts">只有同伴可以將尼加入到圈圈及大聲公</string>
+  <string name="PrivacyAddToGroupsContactsExcept">只有同伴（%1$s）可以將尼加入到圈圈及大聲公</string>
+  <string name="PrivacyAddToGroupsEverybody">所有人都可以將尼加入到圈圈和大聲公中</string>
+  <string name="PrivacyAddToGroupsEverybodyExcept">所有人 (%1$s) 都可以將尼加入到圈圈和大聲公中</string>
+  <string name="PrivacyCallsNobody">沒有人可以打精靈耳給尼</string>
+  <string name="PrivacyCallsNobodyExcept">沒有人 (%1$s) 可以打精靈耳給尼</string>
+  <string name="PrivacyCallsContacts">只有同伴可以打精靈耳給尼</string>
+  <string name="PrivacyCallsContactsExcept">只有同伴 (%1$s) 可以打精靈耳給尼</string>
+  <string name="PrivacyCallsEverybody">每個人都可以打精靈耳給尼</string>
+  <string name="PrivacyCallsEverybodyExcept">每個人 (%1$s) 都可以打精靈耳給尼</string>
+  <string name="PrivacyP2PNobody">停用</string>
+  <string name="PrivacyP2PNobodyExcept">停用 (%1$s)</string>
+  <string name="PrivacyP2PContacts">僅用於同伴</string>
+  <string name="PrivacyP2PContactsExcept">僅用於同伴 (%1$s)</string>
+  <string name="PrivacyP2PEverybody">啟用</string>
+  <string name="PrivacyP2PEverybodyExcept">啟用 (%1$s)</string>
+  <string name="NotificationsEnableOverride">啟用此聊天ㄉ啄木鳥將覆蓋「設定 &gt; 啄木鳥」ㄉ全域值（%1$s）</string>
+  <string name="NotificationsDefault">使用全域設定 (%1$s)</string>
+  <string name="NotificationsDefaultEnabled">啟用</string>
+  <string name="NotificationsDefaultUnmutesIn">於 %1$s後恢復啄木鳥</string>
+  <string name="NotificationsDefaultDisabled">已停用</string>
+  <string name="NotificationsDefaultValue">%1$s (預設)</string>
+  <string name="NotificationsDefaultInfo">此聊天ㄉ啄木鳥已明確啟用。</string>
+  <string name="ProxyShowErrors">顯示錯誤細節</string>
+  <string name="ProxyHideErrors">隱藏錯誤細節</string>
+  <string name="ProxyReorderByPing">根據延遲時間重新排序</string>
+  <string name="ProxyRemove">炸毀 Proxy</string>
+  <string name="ProxyEdit">編輯 Proxy</string>
+  <string name="ProxyRemoveInfo">尼確定要炸毀此 Proxy 設定嗎？</string>
+  <string name="ErrorUsersTooFew">由於所選魔法師ㄉ隱私設定, 尼無法將其加入到圈圈。</string>
+  <string name="SyncContacts">同步魔法器同伴</string>
+  <string name="SyncContactsInfoOff">開啟此選項可以持續將本魔法器中ㄉ聯絡魔法書與尼ㄉ靈魂同步。</string>
+  <string name="SyncContactsInfoOn">此魔法器ㄉ聯絡魔法書將會被加入到尼ㄉ靈魂中。</string>
+  <string name="SyncContactsDelete">炸毀同伴名單</string>
+  <string name="SyncContactsDeleteButton">炸毀同伴名單</string>
+  <string name="SyncContactsDeleteInfo">這將從 Telegram 魔法圖書館中炸毀尼ㄉ魔法器聯絡魔法書及尼手動加ㄉ同伴。如果啟用ㄌ「同步魔法器同伴」，就會重新同步。但手動加ㄉ同伴仍然不會恢復在同伴名單上。</string>
+  <string name="BotWebsiteAllowed">尼允許這個使魔在尼登入 %1$s 時向尼練成水晶玉。</string>
+  <string name="QuickActionSettingNone">無</string>
+  <string name="QuickActionSettingShare">分享</string>
+  <string name="QuickActionSettingReply">回覆</string>
+  <string name="SecretWebPage">傳送器預覽</string>
+  <string name="SecretWebPageInfo">傳送器預覽將在 Telegram 魔法圖書館上產生。窩們不儲存有關尼練成ㄉ傳送器之資料。</string>
+  <string name="PrivacyPaymentsClear">清除付款及配送魔法書</string>
+  <string name="PrivacyClearShipping">配送魔法書</string>
+  <string name="PrivacyClearPayment">付款魔法書</string>
+  <string name="PrivacyPaymentsClearAlert">要炸毀尼ㄉ配送魔法書，並指示所有支付服務供應商炸毀尼已儲存ㄉ信用卡魔法書？請注意，Telegram 從不儲存尼ㄉ信用卡資料。</string>
+  <string name="SuggestContacts">建議常聯絡ㄉ人</string>
+  <string name="SuggestContactsAlert">這將炸毀尼常傳水晶玉對象ㄉ所有資料，以及尼可能有在使用ㄉ內聯使魔。</string>
+  <string name="SuggestContactsDone">炸毀並停用</string>
+  <string name="MarkAsRead">標示為已讀</string>
+  <string name="MarkAsUnread">標示為未讀</string>
+  <string name="CreateLink">建立超傳送器</string>
+  <string name="URL">網址</string>
+  <string name="CreateLinkDone">儲存</string>
+  <string name="CreateLinkCancel">取消</string>
+  <string name="TerminateSessionFreshError">出於安全考慮，尼無法在剛登入不久ㄉ魔法器上將登入較久ㄉ魔法器登出。請改用較早登入ㄉ魔法器，或等待幾小時。</string>
+  <string name="SecretLinkPreviewDisable">停用</string>
+  <string name="Sessions">魔法器</string>
+  <string name="Websites">網站</string>
+  <string name="ActionRead">標示為已讀</string>
+  <string name="FoundMessagesFromUser">來自 %1$s ㄉ水晶玉</string>
+  <string name="FoundMessagesFromSelf">來自尼ㄉ水晶玉</string>
+  <string name="FoundMessagesQuery">%1$s</string>
+  <string name="ViewMessagesFromYou">來自尼ㄉ水晶玉</string>
+  <string name="ViewMessagesFromUser">來自 %1$s ㄉ水晶玉</string>
+  <string name="BotDeleteHint">從建議清單中炸毀使魔？</string>
+  <string name="BotHelp">幫助</string>
+  <string name="BotSettings">設定</string>
+  <string name="TextFormatBold">粗體</string>
+  <string name="TextFormatItalic">斜體</string>
+  <string name="TextFormatMonospace">等寬字體</string>
+  <string name="TextFormatLink">建立超傳送器</string>
+  <string name="EarpieceMode">透過魔法器聽筒播放</string>
+  <string name="EarpieceModeNever">永不</string>
+  <string name="EarpieceModeProximity">靠近耳朵時</string>
+  <string name="EarpieceModeAlways">總是</string>
+  
+  <string name="TryAgainSeconds_other">%1$s 剎那後再試一次。</string>
+  
+  <string name="TryAgainMinutes_other">%1$s 分鐘後再試一次</string>
+  
+  <string name="TryAgainHours_other">請於 %1$s 小時後，再試一次。</string>
+  <string name="format_TooManyRequests">嘗試次數過多。%1$s</string>
+  <string name="JoinChannel">加入大聲公</string>
+  <string name="NobodyLikesSpam2">抱歉，目前尼只能將互為同伴ㄉ魔法師加入到圈圈。</string>
+  <string name="LeaveAdminNoReturnHintChannel">警告：尼將失去所有祭司ㄉ權限，除非祭司將尼加入，否則將無法返回此大聲公</string>
+  <string name="LeaveAdminNoReturnHintGroup">警告：尼將失去所有祭司ㄉ權限，除非其他魔法師將尼加入，否則將無法返回此圈圈</string>
+  <string name="LeaveNoReturnHintChannel">警告：除非祭司將尼加入，否則尼將無法返回此大聲公</string>
+  <string name="LeaveNoReturnHintGroup">警告：除非其他魔法師將尼加入，否則尼將無法返回此圈圈</string>
+  <string name="LeaveCreatorHintChannel">警告：除非祭司將尼加入，否則尼可能無法返回此大聲公</string>
+  <string name="LeaveCreatorHintGroup">警告：除非其他魔法師將尼加入，否則尼可能無法返回此圈圈</string>
+  <string name="LeaveReturnPublicLinkHintChannel">尼可以透過其公開ㄉ傳送器返回此大聲公</string>
+  <string name="LeaveReturnPublicLinkHintGroup">尼可以透過其公開ㄉ傳送器返回此圈圈</string>
+  <string name="DeleteUserChatConfirm">尼確定要炸毀與「%1$s」ㄉ聊天嗎？此操作無法撤銷。</string>
+  <string name="DeleteSecretChatPendingConfirm">尼確定要取消與 %1$s ㄉ隱形聊天？</string>
+  <string name="DeleteSecretChatClosedConfirm">尼確定要炸毀與「%1$s」ㄉ隱形聊天？此操作無法撤銷。</string>
+  <string name="DeleteSecretChatConfirm">尼確定要炸毀與「%1$s」ㄉ隱形聊天？所有聊天紀錄將被永久炸毀。此操作無法撤銷。</string>
+  <string name="DeleteSecretChatHistoryForOtherParty">也清空 %1$s 那一端ㄉ聊天紀錄</string>
+  <string name="ChatWithUser">與 %1$s 聊天</string>
+  <string name="SecretChatWithUser">與「%1$s」ㄉ隱形聊天</string>
+  <string name="LeaveDoneGroup">退出</string>
+  <string name="LeaveRemoveFromList">從清單中炸毀聊天</string>
+  <string name="DestroyXNoMembers">永久炸毀 %1$s？</string>
+  
+  <string name="DestroyX_other">要炸毀「%2$s」？ 它將從尼和其他 %1$s 位魔法師面前消失。</string>
+  <string name="Copyright">版權</string>
+  <string name="PrivacyAdvanced">進階</string>
+  <string name="DeleteAccountIfAwayFor2">靈魂保留期限</string>
+  <string name="DeleteAccountHelp">尼在這段期間內至少要施展魔法一次，否則尼ㄉ靈魂將被炸毀，尼也將失去所有ㄉ圈圈、水晶玉及同伴。</string>
+  <string name="PrivacyDeleteCloudDrafts">炸毀所有雲端草稿</string>
+  <string name="AreYouSureClearDrafts">尼確定要炸毀所有雲端草稿嗎？</string>
+  <string name="SeparateMediaTab">將媒體區分為照片和影片類別</string>
+  <string name="TabMedia">媒體</string>
+  <string name="TabPhoto">照片</string>
+  <string name="TabVideo">影片</string>
+  <string name="TabVoiceMessages">語音</string>
+  <string name="TabVideoMessages">視訊</string>
+  <string name="TabVideoMessagesLong">視訊水晶玉</string>
+  <string name="TabGifs">GIF</string>
+  <string name="TabDocs">玉石</string>
+  <string name="TabLinks">傳送器</string>
+  <string name="TabAudio">音訊</string>
+  <string name="TabSharedGroups">圈圈</string>
+  <string name="TabAdmins">祭司</string>
+  <string name="TabBlacklist">魔障屏蔽名單</string>
+  <string name="TabRestricted">受限名單</string>
+  <string name="TabMembers">魔法師</string>
+  <string name="TabMessages">水晶玉</string>
+  <string name="MoreMessageOptions">更多</string>
+  <string name="MessagePin">置頂</string>
+  <string name="MessageUnpin">取消置頂</string>
+  <string name="MessageReport">檢舉水晶玉</string>
+  <string name="ErrorUserDeleted">無法執行此操作，因為魔法師靈魂已停用。</string>
+  <string name="GroupUpgradedFrom">此圈圈已升級為超級圈圈。點擊此處查看舊聊天紀錄。</string>
+  <string name="GroupUpgradedTo">此圈圈已升級為超級圈圈。</string>
+  <string name="MembersDetailRestricted">被限制ㄉ魔法師</string>
+  <string name="MembersDetailAdmins">祭司</string>
+  <string name="MembersDetailBanned">魔障屏蔽名單</string>
+  <string name="ChatSuggestionsDisabled">已停用使魔建議。\n可在「設定」&gt;「隱私和安全」中重新開啟。</string>
+  <string name="ChatLinkView">查看聊天室</string>
+  <string name="ChatLinkRemove">炸毀傳送器</string>
+  <string name="ChatLinkRemoveAlert">等等！尼確定要讓「%1$s」變成私人圈圈並釋出其永久傳送器？雖然那是尼ㄉ自由，但這永久傳送器可能會被任何其他魔法師拿去使用。</string>
+  <string name="HoldMediaTutorial">長按以查看此媒體</string>
+  <string name="SecretPasscodeInfo">當設定ㄌ額外ㄉ密語，每次尼進入此聊天都需要施展魔法密語。在聊天清單上ㄉ水晶玉預覽將被隱藏。\n\n注意：如果忘記ㄌ密語，尼將會失去此聊天ㄉ內容。\n\n如果尼需要鎖定整個 App，請使用「設定」&gt;「隱私和安全」&gt;「密語鎖」。</string>
+  <string name="ChatContentProtected">內容已鎖定</string>
+  <string name="DragChatsHint">拖動聊天室以重新排序</string>
+  <string name="OpenMap">在地圖中開啟</string>
+  <string name="MapPreviewProvider">地圖預覽提供者</string>
+  <string name="MapPreviewProviderCloud">雲端聊天中ㄉ地圖預覽提供者</string>
+  <string name="MapPreviewProviderInfo">當尼收到地圖或即時位置時，為ㄌ顯示地圖預覽，必須由所選提供者生成。\n\n這需要練成帶有接收位置座標ㄉ匿名請求。</string>
+  <string name="MapPreviewProviderHint">選擇用於隱形聊天中顯示地圖預覽ㄉ提供者。\n\n這需要將收到ㄉ位置座標匿名請求練成給選定ㄉ提供者。</string>
+  <string name="MapPreviewProviderNone">無</string>
+  <string name="MapPreviewProviderUnset">未設定</string>
+  <string name="MapPreviewProviderGoogle">Google 地圖</string>
+  <string name="MapPreviewProviderTelegram">Telegram</string>
+  <string name="InvalidLocalisation">無效ㄉ魔法化玉石</string>
+  <string name="LanguageInfo">尼確定要套用此魔法化玉石？\n\n語言：%1$s (%2$s)\n地區：%3$s, %4$s\n已翻譯： %5$d%% (%6$s)</string>
+  
+  <string name="TranslationsMissing_other">%1$s 條未翻譯</string>
+  <string name="LanguageInstall">套用魔法化玉石</string>
+  <string name="LanguageWarning">警告：鼻要從不受信任ㄉ來源安裝魔法化玉石。</string>
+  <string name="LocalisationApplied">魔法化已成功套用</string>
+  <string name="LanguageSectionOfficial">正式支援</string>
+  <string name="LanguageSectionInstalled">已安裝</string>
+  <string name="LanguageSectionRaw">測試版</string>
+  <string name="TranslationMoreTitle">找不到尼ㄉ語言嗎？</string>
+  <string name="TranslationMoreDone">明白ㄌ</string>
+  <string name="TranslationMoreCreate">建立</string>
+  <string name="TranslationMoreText">可用語言清單，透過[翻譯平台](https://translations.telegram.org)管理。\n\n尼ㄉ語言在翻譯網站上成熟可用時，尼可以直接在程式中找到尼ㄉ語言並進行切換。\n\n在尚未好惹翻譯ㄉ等待過程中，尼可以安裝網友提供ㄉ魔法化玉石、參與[翻譯過程](https://translations.telegram.org/en/android_x/)，或建立[尼自己ㄉ](https://t.me/tgx_android_translate/)魔法化玉石。</string>
+  <string name="OK">確定</string>
+  <string name="DeleteLanguageConfirm">尼確定要炸毀此魔法化玉石？\n\n%1$s / %2$s 將不再顯示於已安裝語言清單中。</string>
+  <string name="RemoveLanguage">炸毀魔法化玉石</string>
+  <string name="LanguageEmpty">魔法化玉石是空ㄉ</string>
+  <string name="LocalisationShare">以 XML 格式分享</string>
+  <string name="format_languageStatus">%1$s (%2$d%%)</string>
+  <string name="FileName">玉石名稱</string>
+  <string name="LocalizationCreateTitle">建立魔法化</string>
+  <string name="LocalizationCreateDone">建立</string>
+  <string name="LocalizationEdit">編輯魔法化玉石</string>
+  <string name="LocalizationView">查看字串</string>
+  <string name="LocalizationEditConfirmPrompt">目前字串 (%1$s) 已被修改。尼想要儲存變更嗎？</string>
+  <string name="LocalizationEditConfirmSave">儲存變更</string>
+  <string name="LocalizationEditConfirmDiscard">放棄變更</string>
+  <string name="LocalizationTranslation">翻譯</string>
+  <string name="LocalizationExit">儲存並離開</string>
+  <string name="LocalizationCopy">複製原文</string>
+  <string name="LocalizationPaste">貼上原文</string>
+  <string name="LocalizationFileNamePlaceholder">尼ㄉ玉石名稱</string>
+  <string name="url_faq">https://telegram.org/faq#general-questions</string>
+  <string name="url_translationsPrefix">https://translations.telegram.org/zh-hant/android_x/unsorted/</string>
+  
+  <string name="xSecondsShort_other">%1$s 剎那</string>
+  
+  <string name="xMinutesShort_other">%1$s 分鐘</string>
+  
+  <string name="xHoursShort_other">%1$s 小時</string>
+  
+  <string name="xDaysShort_other">%1$s 天</string>
+  
+  <string name="xWeeksShort_other">%1$s週</string>
+
+  
+  <string name="ErrorPinnedChatsLimit_other">抱歉，尼最多同時只能置頂 %1$s 個聊天和 %1$s 個隱形聊天。</string>
+
+  <string name="ToolsCopyString">複製字串</string>
+  <string name="ToolsShowToast">顯示浮動啄木鳥</string>
+  <string name="ToolsUntranslatedTitle">未翻譯</string>
+  <string name="ToolsAllTitle">字串</string>
+  <string name="ToolsOpenOnPlatform">翻譯平台</string>
+  <string name="ToolsLocalePlaceholder">區域。例如：**zh-HK**, **zh-CN**, **zh-CHT**</string>
+  <string name="ToolsExportText">%1$s / %2$s\n\n匯出自 %3$s</string>
+
+  <string name="ToolsStringSectionMain">主要</string>
+  <string name="ToolsStringSectionJson">JSON 資料</string>
+  <string name="ToolsStringSectionUrl">網址</string>
+  <string name="ToolsStringSectionFormat">格式</string>
+  <string name="ToolsStringSectionRelativeDate">相關日期</string>
+  <string name="ToolsStringSectionPlural">複數</string>
+  <string name="ToolsStringSectionSimpleFormatted">格式化字串</string>
+  <string name="ToolsStringSectionSimple">簡單ㄉ字串</string>
+
+  <string name="TdlibLogClearEmpty">沒什麼可清除ㄉ。</string>
+  <string name="TdlibLogClearOk">好惹。已釋放 %1$s。</string>
+  <string name="TdlibLogClearFail">失敗。</string>
+
+  
+  <string name="xFolders_other">%1$s 個資料夾</string>
+  <string name="RootDirectory">根目錄</string>
+  <string name="ApplicationFolder">魔法器玉石資料夾</string>
+  <string name="ApplicationFolderExternal">魔法器媒體資料夾</string>
+  <string name="ApplicationFolderWarning">**警告！**\n\n尼要存取ㄉ資料夾包含尼ㄉ私人 Telegram 數據。\n\n除非尼知道自己在做什麼，否則請勿將此資料夾中ㄉ玉石練成給任何人。</string>
+  <string name="ApplicationFolderWarningConfirm">繼續</string>
+
+  <string name="SaveOutgoingPhotos">將編輯過ㄉ照片儲存到相簿</string>
+  <string name="RememberAlbumSetting">記住媒體分組設定</string>
+
+  <string name="ProcessingMedia">正在處理 %1$s</string>
+  <string name="format_uploadStatus">%1$d%% %2$s</string>
+
+  <string name="json_1_name">萊因哈特</string>
+  <string name="json_1_audioTitle">真正ㄉ倖存者</string>
+  <string name="json_1_audioPerformer">大衛·赫索霍夫</string>
+  <string name="json_1_text1">來吧！窩為此而**活**！</string>
+  <string name="json_1_text2">萊因哈特，窩們需要找一些新ㄉ歌曲 &#127926;。</string>
+  <string name="json_1_text3">啊，你們現在ㄉ小孩都只愛聽電音舞曲！你應該聽聽看一些經典歌曲，像是赫索霍夫所演唱ㄉ！</string>
+  <string name="json_1_text4">看來窩們之間對音樂ㄉ愛好真ㄉ差異很多 &#128517;</string>
+
+  <string name="json_2_name1">丹妮莉絲</string>
+  <string name="json_2_name2">安吉拉默克爾</string>
+  <string name="json_2_name3">朱利安阿桑奇</string>
+  <string name="json_2_name4">皮埃爾</string>
+  <string name="json_2_title">週末計劃</string>
+  <string name="json_2_text1">你確定這裡安全嗎？</string>
+  <string name="json_2_text2">是ㄉ，當然，鼻要擔心。</string>
+  <string name="json_2_text3">大家好！美國陣營安全局正在讀這個嗎？&#128516;</string>
+  <string name="json_2_text4">對不起，窩必須在網上發布這個對話。</string>
+  <string name="json_2_text5">等等，窩們本可以賺到這麼多錢！</string>
+
+  <string name="json_3_name">艾琳洛克哈德</string>
+  <string name="json_3_text1">那麼，為什麼 Telegram 很酷？</string>
+  <string name="json_3_text2">好吧，看。Telegram 速度非常快，尼可以同時在所有魔法器上使用它 - 魔法器、平板，甚至桌上型電腦。</string>
+  <string name="json_3_text3">&#128564;</string>
+  <string name="json_3_text4">而且它有端到端高速粒子加密ㄉ隱形聊天，就像這個！</string>
+  <string name="json_3_text5">端高速粒子加密到什麼端呀？</string>
+  <string name="json_3_text6">好吧！當窩沒說過。另外，尼可以設定「閱後即焚炸彈」，並練成水晶玉。然後水晶玉將在時間用完時以小精靈選擇消失。真是太神奇ㄌ！</string>
+  <string name="json_3_text7">&#128561;&#128584;&#128077;</string>
+
+  <string name="json_4_name">宇宙浪子</string>
+  <string name="json_4_text1">你看到此聊天預覽，因為你是**翻譯者**。有關如何製作自己場景ㄉ指導，請參閱 @tgx_android_translate。</string>
+  <string name="json_4_text2">窩明白！請鼻要再說ㄌ…</string>
+
+  <string name="json_ChatDemo">0</string>
+
+  <string name="ChangeLogText">Telegram X 已更新到版本 %1$s\n\n新功能簡要敘述：\n%2$s</string>
+
+  <string name="LoginErrorOffline">尼目前處於離線狀態。請連線到魔力以開始傳水晶玉。</string>
+  <string name="LoginErrorAirplane">尼目前啟用ㄌ飛航模式，請關閉它或連線到 Wi-Fi 以開始傳水晶玉。</string>
+  <string name="LoginErrorLongConnecting">Telegram X 無法快速與魔法圖書館建立連線。\n\n請檢查尼ㄉ魔力連接或等到此彈出視窗以小精靈選擇消失。\n\n如果尼所在ㄉ地區無法連線，Proxy 魔法圖書館可能有助於存取 Telegram。</string>
+
+  <string name="HelpEmailError">請練成一封電子郵件到 %1$s 並告訴窩們關於尼遇到ㄉ問題。</string>
+
+  
+  
+
+  <string name="email_LoginTooLong_subject">Telegram X 連線問題</string>
+  <string name="email_LoginTooLong_text">窩ㄉ魔力服務供應商 (ISP) 是：(請施展魔法名稱)\n\n窩剛剛安裝ㄌ魔法器並試著開始練成水晶玉，但 Telegram X 無法連線到魔法圖書館。請幫助窩解決問題。\n\n程式版本：%1$s\n語言：%2$s\n等待時間：%3$s\n魔法器語言：%4$s\n魔法器版本：%5$s</string>
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <string name="SignOutAlt">替代選項</string>
+  <string name="SignOutAltAddAccount">新增其他靈魂</string>
+  <string name="SignOutAltAddAccountHint">設定多個靈魂並輕鬆在它們之間切換。</string>
+  <string name="SignOutAltPasscode">設定密語</string>
+  <string name="SignOutAltPasscodeHint">使用密語鎖定魔法器，讓其他人無法開啟。</string>
+  <string name="SignOutAltClearCache">清除快取</string>
+  <string name="SignOutAltClearCacheHint">釋放魔法器上ㄉ磁碟空間；尼ㄉ媒體將留在雲端。</string>
+  <string name="SignOutAltChangeNumber">變更魔法器號碼</string>
+  <string name="SignOutAltChangeNumberHint">將尼ㄉ靈魂、聊天室和媒體移動到新號碼。</string>
+  <string name="SignOutAltHelp">聯絡支援</string>
+  <string name="SignOutAltHelpHint">告訴窩們任何問題；登出通常沒有幫助。</string>
+  <string name="SignOutAltHint2">提醒尼，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。已下載ㄉ媒體將從此魔法器中炸毀。</string>
+
+  <string name="TdlibLogs">TDLib 日誌</string>
+  <string name="TdlibLogsWarning">**警告：** TDLib 日誌可能含有**私人資料**。\n\n請勿將它們分享給任何人，除非尼知道尼正在做什麼。</string>
+  <string name="TdlibLogsWarningConfirm">繼續</string>
+
+  <string name="NoEmailApp">找不到電子郵件魔法器</string>
+
+  <string name="RtlLayout">從右到左布局</string>
+
+  <string name="ThemeCreate">創建新主題玉石</string>
+  <string name="ThemeCreateInfo">新主題玉石將以%1$s主題玉石為基礎。</string>
+  <string name="ThemeEditInfo">%1$s 主題玉石</string>
+  <string name="ThemeCopy">建立副本</string>
+  <string name="ThemeCreateConfirm">創建</string>
+  <string name="ThemeCreateTitle">新主題玉石</string>
+  <string name="ThemeName">名稱</string>
+  
+  <string name="ThemeEdit">編輯</string>
+  <string name="ThemeRemove">炸毀</string>
+  <string name="ThemeRemoveConfirm">炸毀主題玉石</string>
+  <string name="ThemeRemoveInfo">尼確定要炸毀此主題玉石嗎？此操作無法撤銷。</string>
+  <string name="ThemeMinimize">最小化</string>
+  <string name="ThemeClose">關閉</string>
+
+  <string name="ThemeCategoryAccent">強調</string>
+  <string name="ThemeCategoryAccent_info">此清單包含魔法器ㄉ強調色。\n想做細微調節，請參閱其他類別。</string>
+  <string name="ThemeCategoryContent">內容</string>
+  <string name="ThemeCategoryNavigation">標題</string>
+  <string name="ThemeCategoryControls">控制</string>
+  <string name="ThemeCategoryChats">聊天</string>
+  <string name="ThemeCategoryBubbles">氣泡</string>
+  <string name="ThemeCategoryColors">媒體</string>
+  <string name="ThemeCategoryIV">即時瀏覽</string>
+  <string name="ThemeCategoryOther">其他</string>
+  <string name="ThemeCategoryInternal">服務</string>
+
+  <string name="ThemeSectionText">文字</string>
+  <string name="ThemeSectionPlayer">音樂播放器</string>
+  <string name="ThemeSectionIcons">Icons</string>
+  <string name="ThemeSectionBackground">背景</string>
+  <string name="ThemeSectionRadios_info">這些顏色顯示在「設定」&gt;「主題玉石和聊天室」中。\n確保它們清楚地代表**填充**色ㄉ相應主題玉石。</string>
+  <string name="ThemeSectionWP_info">設定相應ㄉ壁紙時，這些顏色用作透明覆蓋：日期、未讀分隔符、內聯鍵盤等。\n\n除非尼正在尋找更好ㄉ顏色，否則鼻要更改它們。</string>
+  <string name="ThemeSectionUnsorted">未排序</string>
+  <string name="ThemeSectionAttach">附件選單</string>
+  <string name="ThemeSectionMedia">媒體</string>
+
+  <string name="ColorHex">十六進位</string>
+
+  <string name="ColorRed">共產黨</string>
+  <string name="ColorGreen">民進黨</string>
+  <string name="ColorBlue">國民黨</string>
+  <string name="ColorAlpha">Alpha</string>
+
+  <string name="ColorDefault">預設</string>
+  <string name="ColorHue">色相</string>
+  <string name="ColorSaturation">彩度</string>
+  <string name="ColorLightness">亮度</string>
+  <string name="ColorAlphaPercentage">A%</string>
+
+  <string name="ThemeEditName">編輯名稱</string>
+  
+  <string name="ThemeColorFormat">顏色格式</string>
+
+  <string name="ThemeCalcTitle">炸毀透明度</string>
+  <string name="ThemeCalcHint">背景 (顏色或識別碼)</string>
+  <string name="ThemeCalcSave">計算</string>
+
+  
+  <string name="ColorClearAll_other">是否炸毀所有其他 %1$s 個版本ㄉ %2$s？\n\n此操作無法撤銷。</string>
+  
+  <string name="ColorClearDone_other">炸毀 %1$s 個顏色</string>
+  <string name="ColorRemove">是否炸毀目前版本ㄉ %1$s？\n\n此操作無法撤銷。</string>
+  <string name="ColorRemoveDone">炸毀顔色</string>
+
+  <string name="ColorTypeHex">十六進位 (#RRGGBBAA)</string>
+  <string name="ColorTypeRGBA">RGBA (共產黨、民進黨、國民黨、Alpha)</string>
+  <string name="ColorTypeHSLA">HSLA (色相、飽和度、亮度、Alpha)</string>
+
+  <string name="ThemeExport">匯出</string>
+  <string name="ThemeExportDone">匯出</string>
+  <string name="ThemeExportInfo">如果尼指定作者ㄉ魔法識別ID，則會在魔法師安裝主題玉石之前向其顯示該魔法識別ID。</string>
+  <!--
+  <string name="ThemeExportInfo">%1$s theme\n\nIncluding default values is useful for later access in text editor, but will increase theme file size.</string>
+  <string name="ThemeExportNeedDefault">Include default values</string>
+  <string name="ThemeExportAddAuthor">Include author</string>
+  -->
+  <string name="ThemeExportAddAuthorTitle">主題玉石作者</string>
+  <string name="ThemeExportAddAuthorInfo">魔法識別ID或傳送器</string>
+
+  <string name="FileNameCopy">%1$s (副本)</string>
+  <string name="FileNameDuplicate">%1$s #%2$d</string>
+
+  <string name="ThemeInstall">要套用 %1$s 主題玉石？</string>
+  <string name="ThemeInstallAuthor">要套用由 %2$s 所製作ㄉ %1$s 主題玉石嗎？</string>
+  <string name="ThemeInstallHint">尼可以在「設定」&gt;「主題玉石和聊天室」中切換已安裝ㄉ主題玉石。</string>
+  <string name="ThemeInstallDone">套用主題玉石</string>
+
+  
+  <string name="xColors_other">%1$s 種顏色</string>
+
+  
+  <string name="xProperty_other">%1$s 個屬性</string>
+
+  
+  <string name="xItem_other">%1$s 個項目</string>
+
+  <string name="ValueReset">預設</string>
+
+  <string name="ThemeAdvanced">屬性</string>
+  <string name="ThemeAdvancedEdit">編輯屬性</string>
+
+  <string name="ThemeFile">主題玉石，%1$s</string>
+  <string name="Demo">展示</string>
+
+  <string name="c_fillingPressed">保持按著 **fillingPressed** 就會看到它在運行。只用於 **Android 4.x only**。</string>
+  <string name="c_placeholder">載入圖片時使用ㄉ預留位置顏色。</string>
+  <string name="c_previewBackground">貼圖、媒體和聊天ㄉ預覽之透明背景。</string>
+  <string name="c_overlayFilling">三點選單、貼圖建議、小圓圈按鈕等。</string>
+  <string name="c_fillingNegative">在操作中滑動以查看 **fillingNegative**。</string>
+  <string name="c_fillingPositive">分享選單中練成按鈕ㄉ背景。</string>
+  <string name="c_textSearchQueryHighlight">找找聊天、同伴等時，突顯目前ㄉ查詢。</string>
+  <string name="c_textSelectionHighlight">選定文字ㄉ背景。</string>
+  <string name="c_textLinkPressHighlight">按下傳送器背景。必須是不透明ㄉ。</string>
+  <string name="c_textNeutral">具有中性效果ㄉ按鈕：儲存、好惹、取消…等。</string>
+  <string name="c_textNegative">具有負面影響ㄉ按鈕：炸毀、炸毀、清除…等。</string>
+  <string name="c_drawer">選單標題ㄉ顏色疊加。為空時，使用 **header** 顏色。</string>
+  <string name="c_drawerText">選單標題ㄉ文字顏色。為空時，使用 **headerText** 顏色。</string>
+  <string name="c_fileGreen">APK 玉石</string>
+  <string name="c_fileYellow">壓縮檔：.zip、.rar、.7z</string>
+  <string name="c_fileRed">PDF 玉石</string>
+  <string name="c_headerLightBackground">淺色標題用於被選取ㄉ媒體、水晶玉…等。</string>
+  <string name="c_bubble_chatBackground">未設定壁紙時，使用ㄉ素色聊天室背景。\n\n當空白時，使用 **background** ㄉ顏色代替。</string>
+  <string name="c_seekEmpty">玉石尚未下載ㄉ部分。</string>
+  <string name="c_seekReady">玉石已下載ㄉ部分。</string>
+  <string name="c_seekDone">玉石播放進度。</string>
+  <string name="c_promo">新ㄉ熱門貼圖包。</string>
+  <string name="c_statusBarLegacy">用於 **Android 5.x** 及更舊版本。</string>
+
+  <string name="p_parentTheme">未明確設定顏色或屬性時，將從此主題玉石繼承預設值。</string>
+  <string name="p_replaceShadowsWithSeparators">用薄固體分隔符替換水平陰影。</string>
+  <string name="p_shadowDepth">所有陰影ㄉ深度。值越高意味著陰影越暗。預設值：淺色主題玉石 - 0.5，深色主題玉石 - 1.0</string>
+  <string name="p_imageCorner">圖片角半徑。通常在氣泡模式下被忽略。</string>
+  <string name="p_bubbleCorner">氣泡角半徑。</string>
+  <string name="p_bubbleCornerMerged">與另一個氣泡合併時ㄉ氣泡角半徑。</string>
+  <string name="p_bubbleCornerLegacy">氣泡角半徑 **Android 4.x** 。最大值：**6**。</string>
+  <string name="p_bubbleOutline">啟用氣泡ㄉ素色輪廓。尼可以使用 **bubbleOut_outline** 或 **bubbleIn_outline** 來配置其顏色。\n\n如果尼變更 **bubbleCorner** 值，則啟用此屬性。</string>
+  <string name="p_bubbleOutlineSize">氣泡輪廓ㄉ寬度。**bubbleOutline** 啟用時使用。</string>
+  <string name="p_subtitleAlpha">頁籤導航、標題字幕…等之中 **headerText** 或 **headerLightText** ㄉ透明度。</string>
+  <string name="p_wallpaperId">預設壁紙識別符。 0 表示預設情況下停用壁紙。在設定中保留壁紙縮圖以ㄌ解其識別符。想用單色背景，請設置為0編輯 **bubble_chatBackground** 顏色。</string>
+  <string name="p_wallpaperUsageId">一個神奇ㄉ屬性，允許在相似主題玉石之間共享壁紙設定。**0** – 淺色，**1** – 深色，**2** – 獨有主題玉石。\n\n設為 **2**，如果尼ㄉ調色盤與 **parentTheme** 顯著不同，或者尼在建立淺色主題玉石時停用預設壁紙。</string>
+  <string name="p_dark">確定主題玉石是否為深色，應在晚上使用。\n\n最好變更 ** parentTheme ** 而不是覆蓋此屬性。</string>
+  <string name="p_bubbleDateCorner">氣泡模式中日期ㄉ背景角半徑。</string>
+  <string name="p_dateCorner">普通模式中日期背景ㄉ角半徑。</string>
+  <string name="p_bubbleUnreadShadow">在氣泡模式下向未讀水晶玉分隔符加入陰影。</string>
+  <string name="p_lightStatusBar">啟用後，狀態列圖示將使用深色。用於 **Android 6.x** 及更新版本。</string>
+
+  <string name="g_noWallpaper">壁紙被停用或尚未載入時，將使用這些顏色。\n\n如果尼ㄉ主題玉石不允許停用壁紙，則可以忽略它們。</string>
+
+  <string name="format_mediaIndexAndTime">%1$s, %2$s</string>
+
+  <string name="ShareTextPost">查看 %2$s ㄉ貼文：%1$s</string>
+  <string name="ShareTextMessage">查看 %2$s ㄉ水晶玉：%1$s</string>
+
+  <string name="ShareTextProfile">%1$s ㄉ大頭貼</string>
+  <string name="ShareTextChat">«%1$s»ㄉ聊天室照片</string>
+  <string name="ShareTextChannel">「%1$s」ㄉ照片</string>
+
+  <string name="ShareTextLink">查看 %1$s：%2$s</string>
+  <string name="ShareTextProfileLink">聯絡 Telegram 上ㄉ %1$s：%2$s</string>
+  <string name="ShareTextProfileLink2">聯絡 %1$s：%2$s</string>
+  <string name="ShareTextBotLink">使用 Telegram 上ㄉ %1$s：%2$s</string>
+  <string name="ShareTextChatLink">加入在 Telegram 上ㄉ «%1$s»：%2$s</string>
+  <string name="ShareTextChannelLink">訂閱 Telegram 上ㄉ %1$s：%2$s</string>
+  <string name="ShareTextProxyLink">Telegram 代理：%1$s。如果尼所在ㄉ地區無法連線 Telegram 魔法圖書館，此傳送器可能有助於尼存取它。</string>
+  <string name="ShareTextProxyLink2">%1$s\n\n此傳送器在言論受審查ㄉ區域中可能有助於存取 Telegram。</string>
+  <string name="ShareTextStickerLink">查看給 Telegram 使用ㄉ «%1$s» 貼圖包：%2$s</string>
+  <string name="ShareTextStickerLink2">查看 «%1$s» 貼圖包：%2$s</string>
+  <string name="ShareTextLanguageLink">試看看 Telegram ㄉ%1$s翻譯：%2$s</string>
+
+  <string name="ShareTitleText">分享到…</string>
+
+  <string name="format_ShareAuthorMessage">%1$s：%2$s</string>
+  <string name="format_ShareAuthorLink">%1$s（%2$s）</string>
+  <string name="format_ShareTextSignature">%1$s\n\n%2$s</string>
+
+  <string name="ShareTextPhoto">來自 %1$s ㄉ照片</string>
+  <string name="ShareTitleImage">分享照片給…</string>
+  
+  <string name="ShareTitleImageX_other">分享 %1$s 張照片到…</string>
+
+  <string name="ShareTextVideo">來自 %1$s ㄉ影片</string>
+  <string name="ShareTitleVideo">分享影片給…</string>
+  
+  <string name="ShareTitleVideoX_other">分享 %1$s 個影片到…</string>
+
+  <string name="ShareTextGif">來自 %1$s ㄉ GIF</string>
+  <string name="ShareTitleGif">分享 GIF 動圖給…</string>
+  
+  <string name="ShareTitleGifX_other">分享 %1$s 張動圖到…</string>
+
+  <string name="ShareTextMusic">來自 %1$s ㄉ音樂檔</string>
+  <string name="ShareTitleAudio">分享音訊檔給…</string>
+  
+  <string name="ShareTitleAudioX_other">分享 %1$s 個音訊檔給…</string>
+
+  <string name="ShareTextFile">來自 %1$s ㄉ玉石</string>
+  <string name="ShareTitleFile">分享玉石給…</string>
+  
+  <string name="ShareTitleFileX_other">分享 %1$s 個玉石給…</string>
+
+  <string name="ShareTextMedia">來自 %1$s ㄉ媒體</string>
+  <string name="ShareTitleMedia">分享媒體給…</string>
+  
+  <string name="ShareTitleMediaX_other">分享 %1$s 個媒體給…</string>
+
+  <string name="ShareTitleContact">分享聯絡魔法書到…</string>
+
+  <string name="ShareTextPlain">來自 %1$s ㄉ水晶玉</string>
+
+  <string name="ShareTextSharedMedia">與 %1$s 聊天</string>
+
+  <string name="ShareBtnLink">分享傳送器</string>
+  <string name="ShareBtnPost">分享傳送器</string>
+  <string name="ShareBtnMessage">分享傳送器</string>
+  <string name="ShareBtnBot">分享使魔</string>
+  <string name="ShareBtnProxy">分享 Proxy</string>
+  <string name="ShareBtnLanguage">分享語言</string>
+  <string name="ShareBtnStickerSet">分享貼圖包</string>
+
+  <string name="ShareContact">分享聯絡魔法書</string>
+  <string name="DoneSave">已儲存</string>
+
+  <string name="CancelAccountReset">取消靈魂重置</string>
+  <string name="CancelAccountResetInfo">有存取尼魔法器號碼 **%1$s** ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書練成到尼魔法器號碼ㄉ驗證碼。</string>
+
+  
+  <string name="mentionCount_other">%1$s 次提及</string>
+  <string name="format_edited">[已編輯]：%1$s</string>
+  <string name="format_editedVisible">%1$s</string>
+
+  <string name="ActionMute">關閉啄木鳥</string>
+  <string name="ActionMutePerson">將 %1$s 關閉啄木鳥</string>
+  <string name="ActionMuteEveryone">全部關閉啄木鳥</string>
+
+  
+  
+  
+  
+  <string name="NotificationRead">標示為已讀</string>
+  <string name="NotificationReadMentions">標記提及為已讀</string>
+
+  <!--<string name="ActionMuteHours_one">Mute for %1$sh</string>
+  <string name="ActionMuteHours_other">Mute for %1$sh</string>
+
+  <string name="ActionMutePersonHours_one">Mute %2$s for %1$sh</string>
+  <string name="ActionMutePersonHours_other">Mute %2$s for %1$sh</string>
+
+  <string name="ActionMuteAll_one">Mute all for %1$sh</string>
+  <string name="ActionMuteAll_other">Mute all for %1$sh</string>-->
+
+  <string name="MessagePreviewDefault">預設</string>
+  <string name="MessagePreviewEnabled">已啟用</string>
+  <string name="MessagePreviewDisabled">已停用</string>
+
+  <string name="NotificationLockedTitle">內容隱藏</string>
+  <string name="NotificationLocked">尼有一則新水晶玉</string>
+
+  <string name="OpenCloudChat">開啟雲端聊天</string>
+
+  <string name="SystemNotificationSettings">魔法器啄木鳥設定</string>
+  <string name="BadgeCounter">未讀數量標記</string>
+  <string name="BadgeCounterMuted">包括已關閉啄木鳥ㄉ聊天</string>
+  <string name="BadgeCounterMessages">計算未讀水晶玉</string>
+  <string name="BadgeCounterMessagesOn">開啟以顯示未讀水晶玉ㄉ數量而不是聊天室數量。</string>
+  <string name="BadgeCounterMessagesOff">關閉以顯示未讀聊天室ㄉ數量而不是水晶玉數。</string>
+  <string name="NotificationsPrivateInfo">尼可以在特定魔法師ㄉ魔法書頁面上為其設定自訂啄木鳥。</string>
+  <string name="NotificationsGroupInfo">尼可以在特定圈圈ㄉ魔法書頁面上為其設定自訂啄木鳥。</string>
+  <string name="NotificationsChannelInfo">尼可以在特定大聲公ㄉ魔法書頁面上為其設定自訂啄木鳥。</string>
+  <string name="AppBadgeHint">在魔法器圖示上顯示未讀數量標記。這可能不適用於某些魔法器。\n\n無論這些設定為何，尼ㄉ魔法器可能會在播放音樂或進行精靈耳時顯示額外ㄉ標記。</string>
+  <string name="IncludeDismissed">包括先前不予理會ㄉ水晶玉</string>
+  <string name="IncludeDismissedHintOn">當從聊天室中收到新啄木鳥時，開啟以包括先前不予理會ㄉ未讀水晶玉。</string>
+  <string name="IncludeDismissedHintOff">當從聊天室中收到新啄木鳥時，關閉以排除先前不予理會ㄉ未讀水晶玉。</string>
+  <string name="Groups">圈圈</string>
+  <string name="Channels">大聲公</string>
+
+  <string name="Mentions">提及和回覆</string>
+
+  <string name="Prioritize">個人啄木鳥</string>
+
+  <string name="PinnedMessagesOff">有人置頂水晶玉時，關閉以套用圈圈啄木鳥設定。如果圈圈被靜音，尼將不會收到啄木鳥。</string>
+  
+
+  <string name="MentionsOff">關閉以將圈圈啄木鳥設定套用到提及和回覆。如果圈圈設定為靜音，尼將不會收到任何啄木鳥。</string>
+  <string name="MentionsOn">開啟以將私人啄木鳥設定套用到提及和回覆。如果水晶玉作者設定為靜音，尼將不會收到任何啄木鳥。</string>
+
+  <string name="NotificationMerge">合併啄木鳥類別</string>
+  <string name="NotificationMergeOn">開啟以在單一啄木鳥中顯示來自私聊、圈圈和大聲公ㄉ啄木鳥。</string>
+  <string name="NotificationMergeOff">關閉以分別顯示來自私聊、圈圈和大聲公ㄉ啄木鳥。</string>
+
+  <string name="MentionsDefault">預設</string>
+  <string name="MentionsEnabled">啟用</string>
+  <string name="MentionsDisabled">停用</string>
+
+  <string name="PinnedDefault">預設</string>
+  <string name="PinnedEnabled">啟用</string>
+  <string name="PinnedDisabled">停用</string>
+
+  <string name="CategoryPrivate">私人</string>
+  <string name="CategorySecret">隱形</string>
+  <string name="CategoryGroup">圈圈</string>
+  <string name="CategoryChannels">大聲公</string>
+  <string name="CategoryBots">使魔</string>
+  <string name="CategoryUnread">未讀</string>
+  
+  
+
+  <string name="format_accountAndCategory">%1$s ⚡️ %2$s</string>
+
+  <string name="NotificationAdvanced">進階</string>
+
+  <string name="format_pinned">置頂：%1$s</string>
+  <string name="format_notificationTitlePinned">%1$s (置頂水晶玉)</string>
+
+  <string name="error_USER_NOT_MUTUAL_CONTACT">抱歉，如果某個人不再是某個圈圈ㄉ魔法師，則尼必須是他ㄉ Telegram 同伴才能將他加回來。\n\n請注意，只要他不在「被炸毀ㄉ魔法師」名單中，他仍可以透過圈圈ㄉ傳送器加入。</string>
+  
+  <string name="error_LANG_CODE_NOT_SUPPORTED">抱歉，此語言包不存在</string>
+  
+
+  <string name="AllAccounts">水晶玉</string>
+
+  <string name="NotificationImportance">啄木鳥方式</string>
+  <string name="NotificationImportanceHigh">聲音和彈出</string>
+  <string name="NotificationImportanceHighNoSound">震動和彈出</string>
+  <string name="NotificationImportanceHighMuted">在螢幕上彈出</string>
+  <string name="NotificationImportanceDefault">聲音</string>
+  <string name="NotificationImportanceDefaultNoSound">震動</string>
+  <string name="NotificationImportanceDefaultMuted">靜音</string>
+  <string name="NotificationImportanceLow">靜音</string>
+  <string name="NotificationImportanceLowMuted">靜音（低優先級）</string>
+  <string name="NotificationImportanceMin">靜音和最小化</string>
+  <string name="NotificationImportanceNone">已停用</string>
+
+  
+  <string name="xExceptions_other">%1$s 例外</string>
+
+  <string name="NotificationsBlockedAll">所有來自 Telegram ㄉ啄木鳥都被魔法器魔障屏蔽。</string>
+  <string name="EventNewContact2">新增同伴啄木鳥</string>
+
+  <string name="NotificationsSetting">啄木鳥</string>
+  <string name="NotificationsSettingOn">預設情況下開啟啄木鳥。尼可以從聊天清單中關閉特定聊天ㄉ啄木鳥。（提示：透過輕按及移動手指）</string>
+  <string name="NotificationsSettingBlocked">預設情況下關閉啄木鳥。尼可以變更它。</string>
+  <string name="NotificationsSettingOff">預設情況下關閉啄木鳥。尼可以從聊天清單中開啟特定聊天ㄉ啄木鳥。（提示：透過輕按及移動手指）</string>
+
+  <string name="ShowSecret">在鎖定螢幕狀態下ㄉ隱形聊天</string>
+  <string name="ShowSecretOn">關閉以在魔法器鎖定時隱藏隱形聊天啄木鳥。如果魔法器沒有靜音，尼仍會收到聲音。</string>
+  <string name="ShowSecretOff">開啟以在魔法器鎖定時顯示隱形聊天啄木鳥。這不會洩露水晶玉ㄉ內容。</string>
+
+  <string name="HideSecret">在鎖定螢幕ㄉ狀態下隱藏</string>
+  <string name="HideSecretOn">關閉以在魔法器鎖定時顯示隱形聊天啄木鳥。這樣不會洩露水晶玉ㄉ內容。</string>
+  <string name="HideSecretOff">開啟以在魔法器鎖定時隱藏隱形聊天啄木鳥。如果魔法器沒有靜音，尼仍會收到聲音。</string>
+
+  <string name="ResetNotificationsConfirm">尼要撤銷尼對所有私聊、圈圈和大聲公ㄉ自訂啄木鳥設定嗎？</string>
+
+  <string name="NotificationsGuideBlockedApp">來自 Telegram ㄉ啄木鳥在魔法器設定中已被魔障屏蔽。請進入魔法器ㄉ「設定」&gt;「魔法器」&gt;「Telegram X」中，並取消啄木鳥ㄉ魔障屏蔽。</string>
+  
+  
+  
+  
+  
+  <string name="TurnSyncOnApp">開啟數據同步</string>
+  <string name="TurnSyncOnSystem">開啟數據同步</string>
+  
+
+  <string name="LanguageSame">尼已經在使用這個 (**%1$s**) 語言包ㄌ。尼可以隨時在「設定」中變更語言。</string>
+  <string name="LanguageAlert">尼即將套用語言包 (**%1$s**)，其中翻譯已好惹 %2$d%%。\n\n這將改變整個程式介面ㄉ顯示語言。尼可以透過[翻譯平台](%3$s)對翻譯提出修正建議。\n\n尼也可以隨時在「設定」中恢復尼原本ㄉ語言。</string>
+  <string name="LanguageCustomAlert">尼即將套用自訂語言包 (**%1$s**)，其中翻譯已好惹 %2$d%%。\n\n這將改變整個程式介面ㄉ顯示語言。尼可以透過[翻譯平台](%3$s)對翻譯提出修正建議。\n\n尼也可以隨時在「設定」中恢復尼原本ㄉ語言。</string>
+  <string name="LanguageChange">變更語言</string>
+  <string name="LanguageChangeSuccess">語言成功變更</string>
+  <string name="LanguageDelete">炸毀語言</string>
+  <string name="LanguageDeleteConfirm">尼確定要炸毀此語言？\n\n%1$s / %2$s 將不再列於語言清單中。\n\n尼可以稍後透過以下傳送器讓它恢復：\n%3$s</string>
+
+  <string name="RecoveryEmailSent">窩們已傳給尼一封電子郵件以確認尼ㄉ地址。</string>
+  <string name="ResendRecoveryEmailCode">重傳驗證碼</string>
+  <string name="AbortPasswordConfirm">尼確定要中止兩步驟驗證設定嗎？</string>
+  
+  <string name="CheckYourVerificationEmail2">要好惹備援電子信箱ㄉ設定，請檢查 %1$s（鼻要忘記垃圾郵件夾）並施展魔法窩們剛練成給尼ㄉ驗證碼。</string>
+  <string name="CheckYourVerificationEmail3">要好惹備援電子信箱ㄉ變更，請檢查 %1$s（鼻要忘記垃圾郵件資料夾）並施展魔法窩們剛練成給尼ㄉ驗證碼。</string>
+  <string name="AbortRecoveryEmail">中止備援電子信箱設定</string>
+  <string name="AbortRecoveryEmailChange">中止備援電子信箱變更</string>
+
+  <string name="TestMode">測試工具</string>
+  <string name="TestModeWarn">**警告**：測試工具**只能**用於**測試**和**除錯**目ㄉ。但不保證可以正常運作。\n\n除非尼知道自己在做什麼，否則鼻要使用它們。</string>
+  <string name="CopyVersion">複製版本</string>
+
+  <string name="LogFiles">記錄檔</string>
+  <string name="AppLogs">魔法器日誌</string>
+  <string name="AppLogsDisable">關閉所有記錄檔</string>
+  <string name="AppLogsClear">尼要炸毀程式ㄉ所有記錄檔嗎？</string>
+
+  <string name="CreatePoll">發起黑箱作業</string>
+  <string name="RetractVote">收回選票</string>
+  <string name="StopPoll">關閉黑箱作業</string>
+
+  <string name="SecretChatForwardError">此水晶玉無法轉傳到隱形聊天。</string>
+
+  <string name="StopPollWarn">如果尼現在關閉ㄌ這項黑箱作業活動，任何人都不能再黑箱作業。\n\n這個操作無法復原。</string>
+
+  
+  <string name="PollPreview">黑箱作業：%1$s</string>
+  <string name="PollQuestion">問題</string>
+  <string name="PollQuestionEmpty">請提出一個問題</string>
+  <string name="PollOption">選項</string>
+  <string name="PollOptions">黑箱作業選項</string>
+  <string name="PollDiscard">放棄黑箱作業活動</string>
+  <string name="PollDiscardPrompt">尼確定要放棄這項黑箱作業活動？</string>
+  <string name="PollOptionsAdd">新增選項…</string>
+  
+  <string name="PollOptionsLimit_other">尼可以加入 %1$s 更多ㄉ選項</string>
+  <string name="PollOptionsMax">尼加入ㄉ選項已達數量上限。</string>
+
+  <string name="PollAnonymous">不記名黑箱作業</string>
+  <string name="PollResults">黑箱作業結果</string>
+
+  
+  <string name="xVotes_other">%1$s 人黑箱作業</string>
+  <string name="NoVotes">沒人黑箱作業</string>
+
+  <string name="NotificationSyncOffWarn">**想要收到新水晶玉ㄉ啄木鳥嗎？**\n\n在程式關閉時啟用魔法器以小精靈選擇同步以獲取啄木鳥。</string>
+  <string name="NeverShowAgain">永不再顯示</string>
+  <string name="NotificationSyncAccept">開啟</string>
+  <string name="NotificationSyncDecline">不用ㄌ，謝謝</string>
+
+  
+  <string name="LaunchApp">啟動 App</string>
+  <string name="LaunchAppShareError">分享錯誤詳情</string>
+  <string name="LaunchAppViewError">查看錯誤詳情</string>
+
+  <string name="LaunchSubtitleDiskFull">磁碟儲存已滿</string>
+  
+
+  <string name="LaunchSubtitleDatabaseBroken">資料庫毀損</string>
+  
+
+  <string name="LaunchSubtitleExternalError">外部錯誤</string>
+  
+
+  <string name="LaunchSubtitleTdlibIssue">TDLib 致命錯誤。版本：%1$s</string>
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  <string name="Optimizing">正在最佳化資料庫</string>
+  <string name="OptimizingInfo">Telegram 在更新後，會執行最佳化資料庫。請耐心等待。此操作可能需要花費一些時間。</string>
+
+  
+
+  <string name="SessionLogInDate">登入時間：%1$s</string>
+  <string name="SessionLastActiveDate">最後活躍時間：%1$s</string>
+
+  <string name="EraseDatabase">炸毀所有數據</string>
+  <string name="EraseDatabaseDone">所有數據都已成功炸毀。</string>
+  <string name="EraseDatabaseProgress">炸毀所有資料中…請稍候，此操作可能需要花費一些時間。請鼻要關閉魔法器。</string>
+  
+  
+  <string name="EraseDatabaseMultiUser">此操作不會影響其他靈魂。</string>
+  
+
+  
+  
+  
+  
+
+  
+  <string name="LinkStateKnowsNumber">%1$s 可以看到尼ㄉ魔法器號碼。</string>
+  
+  <string name="LinkStateKnowsNumberMutual">%1$s 和尼可以看到彼此ㄉ魔法器號碼。</string>
+  
+  <string name="LinkStateContactMutual">%1$s 和尼在同伴名單中有彼此ㄉ魔法器號碼。</string>
+
+  <string name="PhoneNumberUnknown">未知</string>
+
+  
+
+  <string name="Stats">統計</string>
+  <string name="ViewStats">查看統計資料</string>
+
+  
+  <string name="LanguageDatabase">魔法化玉石</string>
+  <string name="SettingsAndThemes">設定和主題玉石</string>
+
+  
+  <string name="PaintsInfo">Telegram X 會記住尼透過魔法器內ㄉ圖片編輯器製作ㄉ向量圖，以備將來使用。\n\n尼想讓 Telegram X 看不見它們嗎？</string>
+
+  
+  
+
+  <string name="format_approx">%1$s（大約）</string>
+
+  
+
+  <string name="UseSystemFonts">使用魔法器字型</string>
+  <string name="UseSystemFontsHint">**警告！**\n\nTelegram X 不保證正確呈現魔法器字型。</string>
+
+  <string name="RestartEffect">重新啟動魔法器以使其生效。</string>
+
+  <string name="format_usageAndLogsSize">%1$s + %2$s</string>
+
+  <string name="EmojiLoaded">已下載</string>
+  <string name="EmojiInstalling">安裝中…</string>
+  <string name="Emoji">表情符號包</string>
+  <string name="EmojiCurrent">目前ㄉ表情符號包</string>
+  <string name="EmojiBuiltIn">預設</string>
+  <string name="EmojiPreview">&#128512;&#128521;\n&#128532;&#128552;</string>
+  <string name="EmojiInfo">這只會影響尼看到ㄉ表情符號外觀。其他人看到ㄉ則是根據他們ㄉ喜好。</string>
+  <string name="EmojiSets">表情符號包</string>
+  <string name="EmojiSetsInfo">尼確定要清除未使用ㄉ表情符號包嗎？</string>
+  <string name="BigEmoji">大表情符號</string>
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  <string name="ChatDisabledStickers">只有祭司可以在此圈圈中練成貼圖</string>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <string name="AppUpdateRestart">重新啟動</string>
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="ActionDone">隱藏</string>
+  <string name="ActionMuteAll_other">關閉所有聊天啄木鳥 %1$s 小時</string>
+  <string name="ActionMuteHours_other">關閉啄木鳥 %1$s 小時</string>
+  <string name="ActionMutePersonHours_other">關閉 %2$s 啄木鳥 %1$s 小時</string>
+  <string name="AppBadge">未讀數量標記</string>
+  <string name="AppBadgeAll">所有聊天</string>
+  <string name="AppBadgeDisabled">停用</string>
+  <string name="AppBadgeType">標記ㄉ內容類型</string>
+  <string name="AppBadgeTypeChats">聊天室數量</string>
+  <string name="AppBadgeTypeMessages">水晶玉數量</string>
+  <string name="AppBadgeUnmuted">未關啄木鳥ㄉ聊天</string>
+  <string name="AreYouSureNotifyReset">尼確定要將所有尼ㄉ私聊及圈圈之自訂啄木鳥設定重置嗎？</string>
+  <string name="BadgeCounterSetting">魔法器圖示標記</string>
+  <string name="ChannelMessageAudio">%1$s 發布ㄌ一則語音水晶玉</string>
+  <string name="ChannelMessageDocument">%1$s 發布ㄌ一個玉石</string>
+  <string name="ChannelMessageGIF">%1$s 發布ㄌ一張 GIF 動圖</string>
+  <string name="ChannelMessageNoText">%1$s 發布ㄌ一則水晶玉</string>
+  <string name="ChannelMessagePhoto">%1$s 發布ㄌ一張照片</string>
+  <string name="ChannelMessageRoundVideo">%1$s 發布ㄌ一則視訊水晶玉</string>
+  <string name="ChannelMessageVideo">%1$s 發布ㄌ一個影片</string>
+  <string name="ChannelType">大聲公類型</string>
+  <string name="ChatPhoto">聊天照片</string>
+  <string name="ContactJoined">魔法器同伴加入ㄌ Telegram</string>
+  <string name="ConvertGroup">轉換為超級圈圈</string>
+  <string name="GroupConvertHint">**魔法師數量已達到上限。**\n\n要超越 **%1$s** 位魔法師ㄉ限制，尼可以將圈圈轉換為**超級圈圈**。在超級圈圈中：\n\n⚡️ 魔法師限制是 **%2$s** 位魔法師\n⚡️ 新魔法師可能會看到整個聊天紀錄\n⚡️ 祭司可以炸毀每個人ㄉ水晶玉\n⚡️ 啄木鳥預設是關閉ㄉ</string>
+  <string name="GroupType">圈圈類型</string>
+  <string name="Importance">重要程度</string>
+  <string name="InAppNotifications">應用內啄木鳥</string>
+  <string name="NotificationMessageDocument">%1$s 傳ㄌ一個玉石給尼</string>
+  <string name="NotificationMessageGif">%1$s 傳ㄌ一張 GIF 動圖給尼</string>
+  <string name="NotificationMessageNoText">%1$s 傳ㄌ一則水晶玉給尼</string>
+  <string name="NotificationMessagePhoto">%1$s 傳ㄌ一張照片給尼</string>
+  <string name="NotificationMessageRoundVideo">%1$s 傳ㄌ一則視訊水晶玉給尼</string>
+  <string name="NotificationMessageVideo">%1$s 傳ㄌ一個影片給尼</string>
+  <string name="NotificationMessageVoice">%1$s 傳ㄌ一則語音水晶玉給尼</string>
+  <string name="RemoveAccountHint">尼確定要登出 %1$s？所有該靈魂ㄉ隱形聊天將會流失。</string>
+  <string name="ShareTitleMessage">分享水晶玉給…</string>
+  <string name="SignOutAltHint">提醒尼，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。</string>
+  <string name="SignOutHint">尼確定要登出 %1$s 這個靈魂？\n\n尼可以無縫地在所有魔法器上同時使用 Telegram。\n\n但是，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。</string>
+  <string name="WhoCanAddMembersAllMembers">所有魔法師</string>
+  <string name="format_notificationTitle">%1$s (%2$s)</string>
+</resources>
