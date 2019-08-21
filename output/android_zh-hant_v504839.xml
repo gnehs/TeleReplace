@@ -23,22 +23,22 @@
     <string name="SyncContactsAdded">此魔法器中ㄉ聯絡魔法書已加入到尼ㄉ靈魂中。</string>
     <!--code enter view-->
     <string name="YourCode">魔法器驗證</string>
-    <string name="SentSmsCode">窩們已練成一則包含驗證碼ㄉ飛鴿傳書到尼ㄉ魔法器 **%1$s**</string>
-    <string name="SentAppCode">窩們已經練成驗證碼到尼其它魔法器上ㄉ **Telegram** 魔法器。</string>
+    <string name="SentSmsCode">窩們已練成一則包含精靈密語ㄉ飛鴿傳書到尼ㄉ魔法器 **%1$s**</string>
+    <string name="SentAppCode">窩們已經練成精靈密語到尼其它魔法器上ㄉ **Telegram** 魔法器。</string>
     <string name="SentAppCodeTitle">檢查尼ㄉ Telegram 水晶玉</string>
-    <string name="SentSmsCodeTitle">施展魔法驗證碼</string>
+    <string name="SentSmsCodeTitle">施展魔法精靈密語</string>
     <string name="SentCallCode">窩們正在打精靈耳到尼ㄉ魔法器 **%1$s**。\n\n請鼻要接精靈耳，Telegram 會以小精靈選擇處理所有事情。</string>
-    <string name="SentCallOnly">正在打精靈耳到尼ㄉ魔法器 **%1$s** ，並利用語音播報驗證碼。</string>
-    <string name="CallText">窩們會在 %1$d:%2$02d 後改用精靈耳語音報驗證碼</string>
+    <string name="SentCallOnly">正在打精靈耳到尼ㄉ魔法器 **%1$s** ，並利用語音播報精靈密語。</string>
+    <string name="CallText">窩們會在 %1$d:%2$02d 後改用精靈耳語音報精靈密語</string>
     <string name="SmsText">在 %1$d:%2$02d 之內會傳給尼一則飛鴿傳書</string>
     <string name="Calling">正在打精靈耳給尼…</string>
     <string name="SendingSms">正在練成飛鴿傳書…</string>
-    <string name="Code">驗證碼</string>
+    <string name="Code">精靈密語</string>
     <string name="WrongNumber">號碼不對嗎？</string>
-    <string name="DidNotGetTheCode">仍未收到驗證碼？</string>
-    <string name="DidNotGetTheCodeSms">以飛鴿傳書方式練成驗證碼</string>
+    <string name="DidNotGetTheCode">仍未收到精靈密語？</string>
+    <string name="DidNotGetTheCodeSms">以飛鴿傳書方式練成精靈密語</string>
     <string name="CancelAccountReset">取消靈魂重置</string>
-    <string name="CancelAccountResetInfo">有存取尼魔法器號碼 **%1$s** ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書練成到尼魔法器號碼ㄉ驗證碼。</string>
+    <string name="CancelAccountResetInfo">有存取尼魔法器號碼 **%1$s** ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書練成到尼魔法器號碼ㄉ精靈密語。</string>
     <string name="ResetAccount">重置靈魂</string>
     <string name="ResetAccountInfo">由於靈魂 **%1$s** 是活躍並且受密語保護ㄉ，為ㄌ安全起見，窩們將在 1 週內炸毀它。\n\n尼可以隨時取消這一過程。</string>
     <string name="ResetAccountStatus">尼可以在以下時間後重置尼ㄉ靈魂：</string>
@@ -217,7 +217,7 @@
     <string name="ArchiveHintText3">尼可以將無限數量ㄉ已封存聊天置頂。</string>
     <!--channels-->
     <string name="SetAsAdmin">晉升為祭司</string>
-    <string name="EditAdminRights">編輯祭司權限</string>
+    <string name="EditAdminRights">竄改祭司權限</string>
     <string name="NoBlockedUsers">沒有被炸毀ㄉ魔法師</string>
     <string name="DeleteMega">炸毀圈圈</string>
     <string name="LeaveMegaMenu">退出圈圈</string>
@@ -324,7 +324,7 @@
     <string name="ChannelLeaveAlert">尼確定要退出大聲公？</string>
     <string name="ChannelLeaveAlertWithName">尼確定要退出「**%1$s**」大聲公？</string>
     <string name="ChannelDeleteInfo">尼將失去所有此大聲公ㄉ水晶玉。</string>
-    <string name="ChannelEdit">編輯</string>
+    <string name="ChannelEdit">竄改</string>
     <string name="ChannelPublicEmptyUsername">請為尼ㄉ公開大聲公設定公開傳送器，以供人們找找與分享給其他人。\n\n若尼對此不感興趣，建議尼建立私人大聲公。</string>
     <string name="ActionCreateChannel">大聲公已建立</string>
     <string name="ActionChannelChangedPhoto">大聲公照片已變更</string>
@@ -342,7 +342,7 @@
     <string name="UnbanText">長按魔法師可以解除魔障屏蔽。</string>
     <string name="ChannelInviteViaLink">透過傳送器來邀請</string>
     <string name="ChannelRemoveUserAdmin">解除祭司身分</string>
-    <string name="ChannelEditPermissions">編輯權限</string>
+    <string name="ChannelEditPermissions">竄改權限</string>
     <string name="ChannelMembersInfo">只有大聲公祭司可以看到這個清單。</string>
     <string name="ChannelLinkInfo">任何已安裝 Telegram ㄉ人都可以透過此傳送器加入尼ㄉ大聲公。</string>
     <string name="ChannelAdminsInfo">"尼可以透過新增祭司來協助尼管理大聲公，長按可以炸毀該名祭司。 "</string>
@@ -394,7 +394,7 @@
     <string name="EditAdminChangeChannelInfo">變更大聲公魔法書</string>
     <string name="EditAdminChangeGroupInfo">變更圈圈魔法書</string>
     <string name="EditAdminPostMessages">發布水晶玉</string>
-    <string name="EditAdminEditMessages">編輯別人ㄉ水晶玉</string>
+    <string name="EditAdminEditMessages">竄改別人ㄉ水晶玉</string>
     <string name="EditAdminDeleteMessages">炸毀別人ㄉ水晶玉</string>
     <string name="EditAdminGroupDeleteMessages">炸毀水晶玉</string>
     <string name="EditAdminAddAdmins">新增祭司</string>
@@ -417,8 +417,8 @@
     <string name="EditAdminAddUsersViaLink">透過傳送器邀請魔法師</string>
     <string name="EditAdminPinMessages">置頂水晶玉</string>
     <string name="EditAdminPromotedBy">由 %1$s 任命</string>
-    <string name="EditAdminCantEdit">尼無法編輯此祭司ㄉ權限。</string>
-    <string name="EditCantEditPermissions">尼無法編輯此權限。</string>
+    <string name="EditAdminCantEdit">尼無法竄改此祭司ㄉ權限。</string>
+    <string name="EditCantEditPermissions">尼無法竄改此權限。</string>
     <string name="EditCantEditPermissionsPublic">公開圈圈不提供此權限。</string>
     <string name="UserRemovedBy">被 %1$s 炸毀</string>
     <string name="UserRestrictions">魔法師權限</string>
@@ -569,10 +569,10 @@
     <string name="EventLogEditedChannelPhoto">un1 設定ㄌ新ㄉ大聲公照片</string>
     <string name="EventLogRemovedWGroupPhoto">un1 炸毀ㄌ圈圈照片</string>
     <string name="EventLogRemovedChannelPhoto">un1 炸毀ㄌ大聲公照片</string>
-    <string name="EventLogEditedMessages">un1 編輯ㄌ這則水晶玉：</string>
-    <string name="EventLogEditedCaption">un1 編輯ㄌ說明文字：</string>
-    <string name="EventLogEditedMedia">un1 編輯ㄌ媒體：</string>
-    <string name="EventLogEditedMediaCaption">un1 編輯ㄌ媒體和說明：</string>
+    <string name="EventLogEditedMessages">un1 竄改ㄌ這則水晶玉：</string>
+    <string name="EventLogEditedCaption">un1 竄改ㄌ說明文字：</string>
+    <string name="EventLogEditedMedia">un1 竄改ㄌ媒體：</string>
+    <string name="EventLogEditedMediaCaption">un1 竄改ㄌ媒體和說明：</string>
     <string name="EventLogOriginalMessages">原始水晶玉</string>
     <string name="EventLogOriginalCaption">原始說明文字</string>
     <string name="EventLogOriginalCaptionEmpty">空ㄉ</string>
@@ -594,8 +594,8 @@
     <string name="EventLogRemovedGroupLink">un1 炸毀ㄌ圈圈傳送器</string>
     <string name="EventLogRemovedChannelLink">un1 炸毀ㄌ大聲公傳送器</string>
     <string name="EventLogPreviousLink">原本ㄉ傳送器</string>
-    <string name="EventLogEditedGroupDescription">un1 編輯ㄌ圈圈魔法書：</string>
-    <string name="EventLogEditedChannelDescription">" un1 編輯ㄌ大聲公魔法書："</string>
+    <string name="EventLogEditedGroupDescription">un1 竄改ㄌ圈圈魔法書：</string>
+    <string name="EventLogEditedChannelDescription">" un1 竄改ㄌ大聲公魔法書："</string>
     <string name="EventLogPreviousGroupDescription">原本ㄉ魔法書</string>
     <string name="EventLogToggledInvitesHistoryOn">un1 使新魔法師可以看到加入前ㄉ舊水晶玉。</string>
     <string name="EventLogToggledInvitesHistoryOff">un1 對新魔法師隱藏ㄌ加入前ㄉ舊水晶玉</string>
@@ -618,7 +618,7 @@
     <string name="EventLogPromotedChangeChannelInfo">變更大聲公魔法書</string>
     <string name="EventLogPromotedChangeGroupInfo">變更圈圈魔法書</string>
     <string name="EventLogPromotedPostMessages">發布水晶玉</string>
-    <string name="EventLogPromotedEditMessages">編輯水晶玉</string>
+    <string name="EventLogPromotedEditMessages">竄改水晶玉</string>
     <string name="EventLogPromotedDeleteMessages">炸毀水晶玉</string>
     <string name="EventLogPromotedAddAdmins">新增祭司</string>
     <string name="EventLogPromotedBanUsers">魔障屏蔽魔法師</string>
@@ -630,10 +630,10 @@
     <string name="EventLogFilterNewRestrictions">新增例外</string>
     <string name="EventLogFilterNewAdmins">新增祭司</string>
     <string name="EventLogFilterNewMembers">新增魔法師</string>
-    <string name="EventLogFilterGroupInfo">編輯圈圈魔法書</string>
+    <string name="EventLogFilterGroupInfo">竄改圈圈魔法書</string>
     <string name="EventLogFilterChannelInfo">大聲公魔法書</string>
     <string name="EventLogFilterDeletedMessages">炸毀水晶玉</string>
-    <string name="EventLogFilterEditedMessages">編輯水晶玉</string>
+    <string name="EventLogFilterEditedMessages">竄改水晶玉</string>
     <string name="EventLogFilterPinnedMessages">置頂水晶玉</string>
     <string name="EventLogFilterLeavingMembers">魔法師退出</string>
     <string name="EventLogToggledSlowmodeOn">un1 將回憶模式設定為 %1$s</string>
@@ -810,13 +810,13 @@
     <string name="ReportChatDescription">魔法書</string>
     <string name="PinnedMessage">置頂水晶玉</string>
     <string name="PinnedPoll">置頂黑箱作業</string>
-    <string name="EditedMessage">已編輯</string>
-    <string name="EditMessage">編輯水晶玉</string>
-    <string name="EditCaption">編輯說明文字</string>
-    <string name="EditMessageMedia">點擊以編輯媒體</string>
+    <string name="EditedMessage">已竄改</string>
+    <string name="EditMessage">竄改水晶玉</string>
+    <string name="EditCaption">竄改說明文字</string>
+    <string name="EditMessageMedia">點擊以竄改媒體</string>
     <string name="AttachBotsHelp">向下捲動以選擇使魔</string>
     <string name="TimeToEdit">%1$s</string>
-    <string name="TimeToEditExpired">抱歉，編輯時間已逾期。</string>
+    <string name="TimeToEditExpired">抱歉，竄改時間已逾期。</string>
     <string name="AddShortcut">加到主畫面</string>
     <string name="SearchMembers">找找魔法師</string>
     <string name="ChatYourSelf">與自己聊天</string>
@@ -1074,7 +1074,7 @@
     <string name="BlockUser">魔障屏蔽魔法師</string>
     <string name="UserBlocked">已魔障屏蔽該魔法師</string>
     <string name="UserUnblocked">已解除魔障屏蔽該魔法師</string>
-    <string name="EditContact">編輯同伴名稱</string>
+    <string name="EditContact">竄改同伴名稱</string>
     <string name="DeleteContact">炸毀同伴</string>
     <string name="PhoneHome">住家</string>
     <string name="PhoneMobile">精靈耳</string>
@@ -1117,16 +1117,16 @@
     <string name="SharedLinks">傳送器</string>
     <string name="SharedAudioFiles">音訊檔</string>
     <!--usernames-->
-    <string name="Username">魔法識別ID</string>
-    <string name="UsernamePlaceholder">尼ㄉ魔法識別ID</string>
-    <string name="UsernameInUse">抱歉，此魔法識別ID已被佔用。</string>
-    <string name="UsernameInvalid">抱歉，此魔法識別ID無效。</string>
-    <string name="UsernameInvalidShort">魔法識別ID必須至少有 5 個字元。</string>
-    <string name="UsernameInvalidLong">魔法識別ID不能超過32個字元。</string>
-    <string name="UsernameInvalidStartNumber">很抱歉，魔法識別ID不能以數字開頭。</string>
-    <string name="UsernameHelp">尼可以在 **Telegram** 上設定一個魔法識別ID。如果尼這樣做，別人就可以藉由此魔法識別ID找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 **a-z**、**0-9** 及底線。最小長度是 **5** 個字元。</string>
+    <string name="Username">魔法識別編號</string>
+    <string name="UsernamePlaceholder">尼ㄉ魔法識別編號</string>
+    <string name="UsernameInUse">抱歉，此魔法識別編號已被佔用。</string>
+    <string name="UsernameInvalid">抱歉，此魔法識別編號無效。</string>
+    <string name="UsernameInvalidShort">魔法識別編號必須至少有 5 個字元。</string>
+    <string name="UsernameInvalidLong">魔法識別編號不能超過32個字元。</string>
+    <string name="UsernameInvalidStartNumber">很抱歉，魔法識別編號不能以數字開頭。</string>
+    <string name="UsernameHelp">尼可以在 **Telegram** 上設定一個魔法識別編號。如果尼這樣做，別人就可以藉由此魔法識別編號找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 **a-z**、**0-9** 及底線。最小長度是 **5** 個字元。</string>
     <string name="UsernameHelpLink">此傳送器開啟與尼ㄉ聊天：\n%1$s</string>
-    <string name="UsernameChecking">正在檢查魔法識別ID…</string>
+    <string name="UsernameChecking">正在檢查魔法識別編號…</string>
     <string name="UsernameAvailable">「%1$s 」可以使用。</string>
     <string name="UsernameEmpty">無</string>
     <string name="ErrorOccurred">發生錯誤。</string>
@@ -1164,7 +1164,7 @@
     <string name="EmojiSuggestionsInfo">**Telegram** 讓尼可以透過成千上萬ㄉ關鍵字找到表情符號，但總有一些東西漏掉。如果尼想建議新ㄉ表情符號替換，尼可以前往：</string>
     <string name="EmojiSuggestionsUrl">https://translations.telegram.org/%1$s/emoji</string>
     <string name="Masks">面具</string>
-    <string name="MasksInfo">尼可以將面具加入到尼要練成ㄉ照片中，若要這麼做，請在練成前開啟照片編輯器。</string>
+    <string name="MasksInfo">尼可以將面具加入到尼要練成ㄉ照片中，若要這麼做，請在練成前開啟照片竄改器。</string>
     <string name="FeaturedStickers">熱門貼圖</string>
     <string name="SuggestStickers">透過表情符號推薦貼圖</string>
     <string name="SuggestStickersAll">所有貼圖</string>
@@ -1206,7 +1206,7 @@
     <string name="DeleteThemeAlert">尼確定要炸毀此主題玉石嗎？</string>
     <string name="IncorrectTheme">不正確ㄉ主題玉石玉石</string>
     <string name="EnterThemeName">施展魔法主題玉石名稱</string>
-    <string name="CloseEditor">關閉編輯器</string>
+    <string name="CloseEditor">關閉竄改器</string>
     <string name="SaveTheme">儲存主題玉石</string>
     <string name="NewTheme">新ㄉ顏色主題玉石</string>
     <string name="ColorTheme">顏色主題玉石</string>
@@ -1222,7 +1222,7 @@
     <string name="ColorThemes">顏色主題玉石</string>
     <string name="ShowAllThemes">顯示所有主題玉石</string>
     <string name="CreateNewThemeMenu">創建新主題玉石</string>
-    <string name="CreateNewThemeHelp">點選調色盤圖示可檢視與編輯每個畫面上組成元素ㄉ清單。</string>
+    <string name="CreateNewThemeHelp">點選調色盤圖示可檢視與竄改每個畫面上組成元素ㄉ清單。</string>
     <string name="CreateNewThemeAlert">尼可以透過變更程式內ㄉ顏色來創建自己ㄉ主題玉石。\n\n尼也可以隨時切換回預設主題玉石。</string>
     <!--settings view-->
     <string name="ResetNotificationsText">所有啄木鳥設定重置為預設值</string>
@@ -1360,7 +1360,7 @@
     <string name="PrivacyPolicy">隱私權政策</string>
     <string name="TermsOfService">服務條款</string>
     <string name="TermsOfServiceLogin">透過註冊，\n代表尼同意*服務條款*。</string>
-    <string name="PrivacyPolicyUrl">https://t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>
+    <string name="PrivacyPolicyUrl">https://telegram.org/privacy</string>
     <string name="DeleteLocalization">炸毀魔法化玉石？</string>
     <string name="IncorrectLocalization">不正確ㄉ魔法化玉石</string>
     <string name="NotificationsService">背景常駐服務</string>
@@ -1436,7 +1436,7 @@
     <string name="AutoplayMedia">以小精靈選擇播放媒體</string>
     <string name="RaiseToSpeak">魔法器貼近臉頰說話</string>
     <string name="SaveToGallerySettings">儲存到相簿</string>
-    <string name="EditName">編輯同伴名稱</string>
+    <string name="EditName">竄改同伴名稱</string>
     <string name="NotificationsCustomize">自訂</string>
     <string name="NotificationsCustom">自訂</string>
     <string name="NotificationsEnableCustom">啟用自訂啄木鳥</string>
@@ -1453,7 +1453,7 @@
     <string name="PhoneNumberChange2">變更號碼</string>
     <string name="PhoneNumberChangeTitle">變更號碼</string>
     <string name="ChangePhoneNewNumber">新號碼</string>
-    <string name="ChangePhoneHelp">窩們將練成一則包含驗證碼ㄉ飛鴿傳書到尼ㄉ新魔法器號碼。</string>
+    <string name="ChangePhoneHelp">窩們將練成一則包含精靈密語ㄉ飛鴿傳書到尼ㄉ新魔法器號碼。</string>
     <string name="ChangePhoneNumberOccupied">號碼 %1$s 已綁定某個 Telegram 靈魂。遷移到新號碼之前，請炸毀該靈魂。</string>
     <string name="NotificationsOther">其他</string>
     <string name="VibrationDisabled">停用</string>
@@ -1652,13 +1652,13 @@
     <string name="PassportPhoneUseSameInfo">使用與 Telegram 相同ㄉ魔法器號碼。</string>
     <string name="PassportPhoneUseSameEmailInfo">使用與在 Telegram 上相同ㄉ電子郵件地址。</string>
     <string name="PassportPhoneUseOther">或施展魔法新ㄉ魔法器號碼</string>
-    <string name="PassportPhoneUploadInfo">注意：尼將在尼提供ㄉ魔法器號碼上收到驗證碼。</string>
+    <string name="PassportPhoneUploadInfo">注意：尼將在尼提供ㄉ魔法器號碼上收到精靈密語。</string>
     <string name="PassportEmail">電子信箱</string>
     <string name="PassportDeleteEmailAlert">要炸毀電子郵件地址嗎？</string>
     <string name="PassportEmailInfo">施展魔法尼ㄉ電子郵件地址</string>
-    <string name="PassportEmailUploadInfo">注意：尼將在尼提供ㄉ電子信箱上收到驗證碼。</string>
-    <string name="PassportEmailCode">驗證碼</string>
-    <string name="PassportEmailVerifyInfo">請施展魔法窩們剛練成到 %1$s ㄉ驗證碼</string>
+    <string name="PassportEmailUploadInfo">注意：尼將在尼提供ㄉ電子信箱上收到精靈密語。</string>
+    <string name="PassportEmailCode">精靈密語</string>
+    <string name="PassportEmailVerifyInfo">請施展魔法窩們剛練成到 %1$s ㄉ精靈密語</string>
     <string name="PassportSelfRequest">請施展魔法尼ㄉ密語以存取尼ㄉ個人資料。</string>
     <string name="PassportRequest">**%1$s** 要求存取尼ㄉ個人資料以便尼註冊其服務。</string>
     <string name="PassportRequestPasswordInfo">請施展魔法尼ㄉ Telegram 密語以解密尼ㄉ數據。</string>
@@ -1813,7 +1813,7 @@
     <string name="AreYouSureWebSessions">尼確定要斷開尼使用 Telegram 靈魂登入ㄉ所有網站嗎？</string>
     <string name="ClearOtherWebSessionsHelp">尼可以登入支援使用 Telegram 靈魂登入ㄉ網站。</string>
     <string name="LoginAttempts">未好惹ㄉ登入嘗試</string>
-    <string name="LoginAttemptsInfo">上述魔法器無法存取尼ㄉ水晶玉。驗證碼施展魔法正確，但沒有提供正確ㄉ密語。</string>
+    <string name="LoginAttemptsInfo">上述魔法器無法存取尼ㄉ水晶玉。精靈密語施展魔法正確，但沒有提供正確ㄉ密語。</string>
     <!--passcode view-->
     <string name="Passcode">密語鎖</string>
     <string name="ChangePasscode">變更密語</string>
@@ -1987,7 +1987,7 @@
     <string name="GifCaption">GIF 說明文字</string>
     <string name="Caption">說明文字</string>
     <string name="PaintDelete">炸毀</string>
-    <string name="PaintEdit">編輯</string>
+    <string name="PaintEdit">竄改</string>
     <string name="PaintDuplicate">複製</string>
     <string name="PaintOutlined">輪廓</string>
     <string name="PaintRegular">正常</string>
@@ -2002,7 +2002,7 @@
     <string name="TwoStepVerification">兩步驟驗證</string>
     <string name="TwoStepVerificationTitle">兩步驟驗證</string>
     <string name="SetAdditionalPassword">設定額外ㄉ密語</string>
-    <string name="SetAdditionalPasswordInfo">尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ驗證碼外，另外要施展魔法ㄉ密語。</string>
+    <string name="SetAdditionalPasswordInfo">尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ精靈密語外，另外要施展魔法ㄉ密語。</string>
     <string name="YourPassword">尼ㄉ密語</string>
     <string name="PleaseEnterCurrentPassword">施展魔法尼ㄉ密語</string>
     <string name="PleaseEnterCurrentPasswordTransfer">請施展魔法尼ㄉ密語以好惹轉讓。</string>
@@ -2011,8 +2011,8 @@
     <string name="PleaseReEnterPassword">再施展魔法一次尼ㄉ密語</string>
     <string name="RecoveryEmail">備援電子信箱</string>
     <string name="YourEmail">尼ㄉ電子信箱</string>
-    <string name="YourEmailCode">尼ㄉ電子信箱驗證碼</string>
-    <string name="YourEmailCodeInfo">請施展魔法尼剛才在 %1$s 收到ㄉ驗證碼，以確認尼ㄉ電子郵件地址。</string>
+    <string name="YourEmailCode">尼ㄉ電子信箱精靈密語</string>
+    <string name="YourEmailCodeInfo">請施展魔法尼剛才在 %1$s 收到ㄉ精靈密語，以確認尼ㄉ電子郵件地址。</string>
     <string name="YourEmailInfo">請加入尼ㄉ有效電子信箱。 這是恢復被忘記密語唯一ㄉ方法。</string>
     <string name="YourEmailSkip">跳過</string>
     <string name="YourEmailSkipWarning">警告</string>
@@ -2035,15 +2035,15 @@
     <string name="PasswordDoNotMatch">密語不一致</string>
     <string name="AbortPassword">中止兩步驟驗證設定</string>
     <string name="AbortEmail">中止備援電子信箱設定</string>
-    <string name="EmailPasswordConfirmText2">要好惹兩步驟驗證設定，請檢查尼ㄉ電子郵件（鼻要忘記垃圾郵件夾）並施展魔法窩們剛剛練成給尼ㄉ驗證碼。</string>
-    <string name="EmailPasswordConfirmText3">要好惹備援電子信箱ㄉ設定，請檢查 %1$s（鼻要忘記垃圾郵件夾）並施展魔法窩們剛練成給尼ㄉ驗證碼。</string>
+    <string name="EmailPasswordConfirmText2">要好惹兩步驟驗證設定，請檢查尼ㄉ電子郵件（鼻要忘記垃圾郵件夾）並施展魔法窩們剛剛練成給尼ㄉ精靈密語。</string>
+    <string name="EmailPasswordConfirmText3">要好惹備援電子信箱ㄉ設定，請檢查 %1$s（鼻要忘記垃圾郵件夾）並施展魔法窩們剛練成給尼ㄉ精靈密語。</string>
     <string name="PasswordAsHintError">密語提示必須跟尼ㄉ密語不同</string>
     <string name="PasswordEmailInvalid">無效ㄉ電子信箱</string>
     <string name="RestorePasswordNoEmailTitle">抱歉</string>
     <string name="RestorePasswordNoEmailText">由於尼在設定密語時沒有提供備援電子信箱，尼剩下ㄉ選項就只有想起尼ㄉ密語或重置尼ㄉ靈魂ㄌ。</string>
     <string name="RestorePasswordResetAccount">重置靈魂</string>
     <string name="RestoreEmailSent">窩們已經練成一組救援密語到尼所提供ㄉ電子信箱：\n\n%1$s</string>
-    <string name="RestoreEmailSentInfo">請檢查尼ㄉ電子郵件，並施展魔法窩們在這裡練成ㄉ 6 位數驗證碼。</string>
+    <string name="RestoreEmailSentInfo">請檢查尼ㄉ電子郵件，並施展魔法窩們在這裡練成ㄉ 6 位數精靈密語。</string>
     <string name="RestoreEmailTrouble">無法存取尼ㄉ電子信箱 %1$s？</string>
     <string name="RestoreEmailTroubleText">如果尼無法存取尼ㄉ電子信箱，尼剩下ㄉ選項就只有想起尼ㄉ密語或重置尼ㄉ靈魂ㄌ。</string>
     <string name="ResetMyAccount">重置窩ㄉ靈魂</string>
@@ -2055,10 +2055,10 @@
     <string name="LoginPasswordText">尼已啟用兩步驟驗證，因此尼ㄉ靈魂受到額外密語ㄉ保護。</string>
     <string name="ForgotPassword">忘記密語ㄌ嗎？</string>
     <string name="PasswordRecovery">密語復原</string>
-    <string name="PasswordCode">驗證碼</string>
+    <string name="PasswordCode">精靈密語</string>
     <string name="PasswordReset">密語已被停用</string>
-    <string name="ResendCode">重傳驗證碼</string>
-    <string name="ResendCodeInfo">驗證碼已練成到尼ㄉ電子信箱。</string>
+    <string name="ResendCode">重傳精靈密語</string>
+    <string name="ResendCodeInfo">精靈密語已練成到尼ㄉ電子信箱。</string>
     <string name="EnabledPasswordText">尼已啟用兩步驟驗證。\n尼需要此處設定ㄉ密語以登入尼ㄉ Telegram 靈魂。</string>
     <!--data settings-->
     <string name="DataSettings">數據和儲存</string>
@@ -2189,7 +2189,7 @@
     <string name="Close">關閉</string>
     <string name="Change">變更</string>
     <string name="Add">新增</string>
-    <string name="Edit">編輯</string>
+    <string name="Edit">竄改</string>
     <string name="Send">練成</string>
     <string name="Call">精靈耳</string>
     <string name="Copy">複製</string>
@@ -2289,10 +2289,10 @@
     <string name="InvalidPhoneNumber">無效ㄉ魔法器號碼。請檢查號碼，然後再試一次。</string>
     <string name="PleaseLoginPassport">請登入尼ㄉ Telegram 靈魂以使用 Telegram Passport。</string>
     <string name="BannedPhoneNumber">這個魔法器號碼被魔障屏蔽ㄌ。</string>
-    <string name="CodeExpired">驗證碼已過期，請重新登入</string>
+    <string name="CodeExpired">精靈密語已過期，請重新登入</string>
     <string name="FloodWait">嘗試太多次ㄌ，請稍後再試</string>
     <string name="FloodWaitTime">嘗試太多次ㄌ，請於 %1$s後再試</string>
-    <string name="InvalidCode">驗證碼無效</string>
+    <string name="InvalidCode">精靈密語無效</string>
     <string name="PhoneNumberFlood">很抱歉，尼最近炸毀並重新建立靈魂ㄉ次數過多。請等待幾天，再重新註冊。</string>
     <string name="InvalidFirstName">無效ㄉ名字</string>
     <string name="InvalidLastName">很抱歉，這個姓氏不能使用</string>
@@ -2367,20 +2367,20 @@
     <string name="SendMessagesToGroup">練成水晶玉給 %1$s？</string>
     <string name="SendGameToGroup">分享遊戲到 %1$s？</string>
     <string name="SendContactToGroup">練成聯絡魔法書給 %1$s 嗎？</string>
-    <string name="NoUsernameFound">沒有 Telegram 靈魂使用這個魔法識別ID。</string>
+    <string name="NoUsernameFound">沒有 Telegram 靈魂使用這個魔法識別編號。</string>
     <string name="BotCantJoinGroups">這個使魔無法加入圈圈。</string>
     <string name="SecretLinkPreviewAlert">尼想要在隱形聊天中啟用傳送器預覽功能嗎？請注意，傳送器預覽是在 Telegram 魔法圖書館上產生ㄉ。</string>
     <string name="SecretChatContextBotAlert">請注意，內聯使魔是由第三方開發者所提供ㄉ。為ㄌ使使魔工作，尼在使魔名稱後施展魔法ㄉ符號會被練成給各自ㄉ開發者。</string>
-    <string name="EditMessageError">抱歉，尼無法編輯這個水晶玉。</string>
-    <string name="AllowReadCall">請允許 Telegram 接聽精靈耳，這樣窩們就可以以小精靈選擇幫尼施展魔法驗證碼。</string>
-    <string name="AllowReadCallAndLog">請允許 Telegram 接聽精靈耳並閱讀精靈耳記錄，以便窩們以小精靈選擇為尼施展魔法驗證碼。</string>
-    <string name="AllowReadCallLog">請允許 Telegram 讀取精靈耳記錄，以便窩們以小精靈選擇為尼施展魔法驗證碼。</string>
+    <string name="EditMessageError">抱歉，尼無法竄改這個水晶玉。</string>
+    <string name="AllowReadCall">請允許 Telegram 接聽精靈耳，這樣窩們就可以以小精靈選擇幫尼施展魔法精靈密語。</string>
+    <string name="AllowReadCallAndLog">請允許 Telegram 接聽精靈耳並閱讀精靈耳記錄，以便窩們以小精靈選擇為尼施展魔法精靈密語。</string>
+    <string name="AllowReadCallLog">請允許 Telegram 讀取精靈耳記錄，以便窩們以小精靈選擇為尼施展魔法精靈密語。</string>
     <string name="AllowFillNumber">請允許 Telegram 接聽精靈耳，以便窩們可以以小精靈選擇確認尼ㄉ魔法器號碼。</string>
     <string name="UserRestricted">抱歉，尼不能這樣做。</string>
     <string name="YouBlockedUser">抱歉，尼無法將此魔法師或使魔加入到圈圈，因為尼已經魔障屏蔽他們ㄌ。請解除魔障屏蔽以繼續。</string>
     <string name="JoinGroup">加入圈圈</string>
     <string name="AddAdminErrorNotAMember">抱歉，尼不能將此魔法師任命為祭司，因為他不是此圈圈ㄉ魔法師，且尼不被允許邀請他。</string>
-    <string name="AddAdminErrorBlacklisted">抱歉，尼無法將此魔法師新增為祭司，因為他在被炸毀ㄉ魔法識別ID單中，而尼無法取消魔障屏蔽。</string>
+    <string name="AddAdminErrorBlacklisted">抱歉，尼無法將此魔法師新增為祭司，因為他在被炸毀ㄉ魔法識別編號單中，而尼無法取消魔障屏蔽。</string>
     <string name="AddBannedErrorAdmin">抱歉，尼不能魔障屏蔽此魔法師，因為他是此圈圈中ㄉ祭司，尼不能將他降級。</string>
     <string name="ErrorSendRestrictedStickers">抱歉，這個圈圈ㄉ祭司已禁止尼在這裡練成貼圖。</string>
     <string name="ErrorSendRestrictedMedia">抱歉，這個圈圈ㄉ祭司已禁止尼在這裡練成媒體。</string>
@@ -2894,10 +2894,10 @@
 	<string name="AccDescrGoToMessage">跳轉到水晶玉</string>
     <string name="AccDescrCancelReply">取消回覆</string>
     <string name="AccDescrCancelForward">取消轉傳</string>
-    <string name="AccDescrCancelEdit">取消編輯</string>
+    <string name="AccDescrCancelEdit">取消竄改</string>
     <string name="AccDescrReplying">回覆</string>
     <string name="AccDescrForwarding">轉傳自</string>
-    <string name="AccDescrEditing">編輯中</string>
+    <string name="AccDescrEditing">竄改中</string>
     <string name="AccDescrPasscodeLock">鎖定魔法器</string>
     <string name="AccDescrPasscodeUnlock">解鎖魔法器</string>
     <string name="AccDescrBackspace">倒退鍵</string>
@@ -2921,7 +2921,7 @@
     <string name="AccDescrCollapsePanel">折疊面板</string>
     <string name="AccDescrUserOptions">魔法師選項</string>
 	<string name="AccDescrRotate">旋轉</string>
-    <string name="AccDescrPhotoEditor">照片編輯器</string>
+    <string name="AccDescrPhotoEditor">照片竄改器</string>
     <string name="AccDescrPhotoAdjust">調整</string>
     <string name="AccDescrPhotoViewer">照片瀏覽器</string>
     <string name="AccDescrPageDown">跳轉到底部</string>
@@ -2964,7 +2964,7 @@
   <!-- new from translations.telegram.org -->
 
   <string name="AllowReadCallAndSms">請允許 Telegram 接聽精靈耳，以便窩們可以以小精靈選擇確認尼ㄉ魔法器號碼。</string>
-  <string name="AllowReadSms">請允許 Telegram 接收飛鴿傳書，這樣窩們就可以以小精靈選擇幫尼施展魔法驗證碼。</string>
+  <string name="AllowReadSms">請允許 Telegram 接收飛鴿傳書，這樣窩們就可以以小精靈選擇幫尼施展魔法精靈密語。</string>
   <string name="AlwaysAllowPlaceholder">總是允許…</string>
   <string name="AlwaysShareWithPlaceholder">總是與魔法師分享…</string>
   <string name="AreYouSureBlockContact">尼確定要魔障屏蔽此同伴？</string>
@@ -3018,8 +3018,8 @@
   <string name="RegisterText">設定尼ㄉ姓名</string>
   <string name="RoamingUsage">漫遊數據用量</string>
   <string name="SetAdminsAll">所有魔法師都是祭司</string>
-  <string name="SetAdminsAllInfo">所有魔法師可以加入新魔法師、置頂水晶玉、編輯圈圈名稱和照片。</string>
-  <string name="SetAdminsNotAllInfo">只有祭司可以新增及炸毀魔法師、置頂水晶玉、編輯圈圈名稱及照片。</string>
+  <string name="SetAdminsAllInfo">所有魔法師可以加入新魔法師、置頂水晶玉、竄改圈圈名稱和照片。</string>
+  <string name="SetAdminsNotAllInfo">只有祭司可以新增及炸毀魔法師、置頂水晶玉、竄改圈圈名稱及照片。</string>
   <string name="SetAdminsTitle">聊天室祭司</string>
   <string name="SharedMediaTitle">共享ㄉ媒體</string>
   <string name="TextSize">水晶玉文字大小</string>

@@ -12,7 +12,7 @@
 "SearchField.Search" = "找找";
 "Contacts.ContacsSeparator" = "同伴";
 "Navigation.back" = "返回";
-"Navigation.Edit" = "編輯";
+"Navigation.Edit" = "竄改";
 "Navigation.Done" = "好惹";
 "Navigation.Close" = "關閉";
 "Navigation.Cancel" = "取消";
@@ -82,7 +82,7 @@
 "PeerInfo.Notifications" = "啄木鳥";
 "PeerInfo.BlockUser" = "魔障屏蔽魔法師";
 "PeerInfo.UnblockUser" = "解除魔障屏蔽魔法師";
-"PeerInfo.username" = "魔法識別ID";
+"PeerInfo.username" = "魔法識別編號";
 "PeerInfo.about" = "關於";
 "PeerInfo.bio" = "魔法師簽名";
 "PeerInfo.scam" = "詐騙";
@@ -265,7 +265,7 @@
 "Message.Context.Forward" = "轉傳";
 "Message.Context.Delete" = "炸毀";
 "Message.Context.Select" = "選取\n";
-"Message.Context.Edit" = "編輯";
+"Message.Context.Edit" = "竄改";
 "Message.Context.Goto" = "顯示水晶玉";
 "Message.Context.Pin" = "置頂";
 
@@ -286,7 +286,7 @@
 "AccountSettings.Proxy.Disabled" = "已停用";
 "AccountSettings.Stickers" = "貼圖";
 "AccountSettings.Notifications" = "啄木鳥";
-"AccountSettings.Username" = "魔法識別ID";
+"AccountSettings.Username" = "魔法識別編號";
 "AccountSettings.Language" = "語言";
 "AccountSettings.PrivacyAndSecurity" = "隱私和安全";
 
@@ -325,8 +325,8 @@
 "Gallery.WaitDownload.Photo" = "請等待照片完全下載。";
 "Gallery.WaitDownload.Video" = "請等待影片完全下載。";
 
-"Chat.Input.Accessory.EditMessage" = "編輯水晶玉";
-"Chat.Message.edited" = "已編輯";
+"Chat.Input.Accessory.EditMessage" = "竄改水晶玉";
+"Chat.Message.edited" = "已竄改";
 
 "PeerMedia.Popover.SharedMedia" = "共享ㄉ媒體";
 "PeerMedia.Popover.SharedFiles" = "共享ㄉ玉石";
@@ -355,13 +355,13 @@
 "Login.Next" = "下一步";
 
 "Login.InvalidCountryCode" = "無效ㄉ陣營";
-"Login.codePlaceholder" = "驗證碼";
+"Login.codePlaceholder" = "精靈密語";
 
 
-"Login.EnterCodeFromApp" = "請施展魔法尼剛才在其它魔法器上ㄉ Telegram 中收到ㄉ驗證碼。";
-"Login.SendSmsIfNotReceivedAppCode" = "仍未收到驗證碼？";
-"Login.JustSentSms" = "窩們已經透過飛鴿傳書向尼練成驗證碼。請在上面施展魔法它。";
-"Login.PhoneCalledCode" = "窩們剛撥打ㄌ尼ㄉ魔法器。請在上方施展魔法該驗證碼。";
+"Login.EnterCodeFromApp" = "請施展魔法尼剛才在其它魔法器上ㄉ Telegram 中收到ㄉ精靈密語。";
+"Login.SendSmsIfNotReceivedAppCode" = "仍未收到精靈密語？";
+"Login.JustSentSms" = "窩們已經透過飛鴿傳書向尼練成精靈密語。請在上面施展魔法它。";
+"Login.PhoneCalledCode" = "窩們剛撥打ㄌ尼ㄉ魔法器。請在上方施展魔法該精靈密語。";
 "Login.PhoneDialed" = "Telegram 撥打ㄌ尼ㄉ魔法器號碼";
 "Login.willCall" = "Telegram 會於 %d:%@ 打精靈耳給尼";
 "Login.willSendSms" = "在 %d:%@ 之內會練成給尼一則飛鴿傳書";
@@ -380,8 +380,8 @@
 
 "PHONE_NUMBER_INVALID" = "無效ㄉ魔法器號碼";
 "Login.FloodWait" = "嘗試次數過多，請稍後再試。";
-"PHONE_CODE_INVALID" = "驗證碼無效";
-"PHONE_CODE_EXPIRED" = "驗證碼過期ㄌ";
+"PHONE_CODE_INVALID" = "精靈密語無效";
+"PHONE_CODE_EXPIRED" = "精靈密語過期ㄌ";
 "PASSWORD_HASH_INVALID" = "密語不正確";
 
 
@@ -453,17 +453,17 @@
 "Chat.List.Map" = "位置";
 "Chat.List.Contact" = "聯絡魔法書";
 
-"UsernameSettings.ChangeDescription" = "尼可以在 Telegram 上設定一個魔法識別ID。如果尼這樣做，別人就可以藉由此魔法識別ID找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 a-z、0-9 及底線。最小長度是 5 個字元。";
-"UsernameSettings.InputPlaceholder" = "施展魔法尼ㄉ魔法識別ID";
-"Telegram.UsernameSettingsViewController" = "魔法識別ID";
+"UsernameSettings.ChangeDescription" = "尼可以在 Telegram 上設定一個魔法識別編號。如果尼這樣做，別人就可以藉由此魔法識別編號找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 a-z、0-9 及底線。最小長度是 5 個字元。";
+"UsernameSettings.InputPlaceholder" = "施展魔法尼ㄉ魔法識別編號";
+"Telegram.UsernameSettingsViewController" = "魔法識別編號";
 "UsernameSettings.available" = "%@ 是可用ㄉ。";
 
-"Error.Username.UnderscopeStart" = "魔法識別ID不能以底線開頭。";
-"Error.Username.UnderscopeEnd" = "魔法識別ID不能以底線結束。";
-"Error.Username.NumberStart" = "魔法識別ID不能以數字開頭。";
-"Error.Username.Invalid" = "此魔法識別ID無效。";
-"Error.Username.MinimumLength" = "魔法識別ID必須至少有 5 個字元。";
-"Error.Username.AlreadyTaken" = "抱歉，此魔法識別ID已被佔用。";
+"Error.Username.UnderscopeStart" = "魔法識別編號不能以底線開頭。";
+"Error.Username.UnderscopeEnd" = "魔法識別編號不能以底線結束。";
+"Error.Username.NumberStart" = "魔法識別編號不能以數字開頭。";
+"Error.Username.Invalid" = "此魔法識別編號無效。";
+"Error.Username.MinimumLength" = "魔法識別編號必須至少有 5 個字元。";
+"Error.Username.AlreadyTaken" = "抱歉，此魔法識別編號已被佔用。";
 "UsernameSettings.Done" = "好惹";
 
 "Search.Separator.ChatsAndContacts" = "同伴與聊天";
@@ -952,7 +952,7 @@
 "RecentSessions.Error.FreshReset" = "出於安全考慮，尼無法在剛登入不久ㄉ魔法器上將登入較久ㄉ魔法器登出。請改用較早登入ㄉ魔法器，或等待幾小時。";
 
 "RecentSessions.IncompleteAttemptHeader" = "未好惹ㄉ登入嘗試";
-"RecentSessions.IncompleteAttemptDesc" = "上述魔法器無法存取尼ㄉ水晶玉。驗證碼施展魔法正確，但沒有提供正確ㄉ密語。";
+"RecentSessions.IncompleteAttemptDesc" = "上述魔法器無法存取尼ㄉ水晶玉。精靈密語施展魔法正確，但沒有提供正確ㄉ密語。";
 
 "Legacy.Intro.Description1" = "歡迎使用超快速而穩定ㄉ新版 macOS Telegram，完全重新用 Swift 3.0 程式語言所寫。";
 "Legacy.Intro.Description2" = "請注意，尼現有ㄉ隱形聊天將以唯讀模式提供。 當然，尼可以建立新ㄉ繼續聊天。";
@@ -967,11 +967,11 @@
 "PeerInfo.AddUserToContact" = "將 %@ 加為同伴";
 "Telegram.GroupAdminsController" = "祭司";
 "GroupAdmins.AllMembersAdmins" = "所有魔法師都是祭司";
-"GroupAdmins.Desc.AdminInvites" = "只有祭司可以新增及炸毀魔法師，編輯此圈圈名稱和照片。";
-"GroupAdmins.Desc.AllInvites" = "圈圈魔法師可以加入新魔法師，編輯此圈圈名稱和照片。";
+"GroupAdmins.Desc.AdminInvites" = "只有祭司可以新增及炸毀魔法師，竄改此圈圈名稱和照片。";
+"GroupAdmins.Desc.AllInvites" = "圈圈魔法師可以加入新魔法師，竄改此圈圈名稱和照片。";
 "Login.PhoneNumberNotRegistred" = "魔法器號碼未註冊。 如果尼還沒有 Telegram 靈魂，請使用尼ㄉ行動魔法器註冊。";
 "Login.YourPhoneLabel" = "尼ㄉ精靈耳";
-"Login.YourCodeLabel" = "尼ㄉ驗證碼";
+"Login.YourCodeLabel" = "尼ㄉ精靈密語";
 "Login.YourPasswordLabel" = "尼ㄉ密語";
 
 "PeerInfo.EncryptionKey" = "高速粒子加密金鑰";
@@ -1009,7 +1009,7 @@
 
 "InAppLinks.Confirm.OpenExternal" = "開啟 %@？";
 
-"Login.Header.Code" = "施展魔法驗證碼";
+"Login.Header.Code" = "施展魔法精靈密語";
 "Login.Header.Password" = "施展魔法密語";
 "Login.Header.SignUp" = "註冊";
 
@@ -1154,7 +1154,7 @@
 "QuickSwitcher.Popular" = "常用";
 "QuickSwitcher.Description" = "按 **Tab** 或 **↑ ↓** 以移動，按 **⮐** 以選取，按 **Esc** 以退出";
 
-"Chat.Context.Edit1" = "編輯";
+"Chat.Context.Edit1" = "竄改";
 "Chat.Context.EditHelp" = "點擊日期";
 "Chat.Context.EnableNotifications" = "關閉水晶玉啄木鳥";
 "Chat.Context.DisableNotifications" = "恢復水晶玉啄木鳥";
@@ -1180,7 +1180,7 @@
 
 "4J7-dP-txa.title" = "進入全螢幕";
 "4sb-4s-VLi.title" = "結束 Telegram";
-"5QF-Oa-p0T.title" = "編輯";
+"5QF-Oa-p0T.title" = "竄改";
 
 
 "5kV-Vb-QxS.title" = "關於 Telegram";
@@ -1208,7 +1208,7 @@
 
 "UEZ-Bs-lqG.title" = "大寫";
 "Vdr-fp-XzO.title" = "隱藏其他";
-"W48-6f-4Dl.title" = "編輯";
+"W48-6f-4Dl.title" = "竄改";
 "WeT-3V-zwk.title" = "貼上和匹配樣式";
 "aUF-d1-5bR.title" = "視窗";
 
@@ -1251,7 +1251,7 @@
 "Channel.EditAdmin.Permission.PinMessages" = "置頂水晶玉";
 "Channel.EditAdmin.Permission.AddNewAdmins" = "新增祭司";
 "Channel.EditAdmin.Permission.PostMessages" = "發布水晶玉";
-"Channel.EditAdmin.Permission.EditMessages" = "編輯水晶玉";
+"Channel.EditAdmin.Permission.EditMessages" = "竄改水晶玉";
 "Channel.EditAdmin.PermissionInviteSubscribers" = "新增訂閱者";
 "Channel.EditAdmin.PermissionInviteMembers" = "新增魔法師";
 "Channel.EditAdmin.PermissionInviteViaLink" = "透過傳送器邀請魔法師";
@@ -1301,7 +1301,7 @@
 
 
 
-"Channel.Admin.CantEdit" = "尼無權編輯此祭司ㄉ權限。";
+"Channel.Admin.CantEdit" = "尼無權竄改此祭司ㄉ權限。";
 
 "Channel.Admin.WhatCanAdminDo" = "這個祭司可以做什麼？";
 
@@ -1310,13 +1310,13 @@
 "Channel.EventLog.Alert.Info" = "這是魔法師和祭司在過去48小時內所有操作ㄉ紀錄。";
 
 
-"Group.EventLog.Service.TitleUpdated" = "%@ 編輯ㄌ圈圈標題：";
-"Group.EventLog.Service.LinkUpdated" = "%@ 編輯ㄌ圈圈傳送器：";
-"Group.EventLog.Service.AboutUpdated" = "%@ 編輯ㄌ圈圈魔法書：";
+"Group.EventLog.Service.TitleUpdated" = "%@ 竄改ㄌ圈圈標題：";
+"Group.EventLog.Service.LinkUpdated" = "%@ 竄改ㄌ圈圈傳送器：";
+"Group.EventLog.Service.AboutUpdated" = "%@ 竄改ㄌ圈圈魔法書：";
 
-"Channel.EventLog.Service.TitleUpdated" = "%@ 編輯ㄌ大聲公標題：";
-"Channel.EventLog.Service.LinkUpdated" = "%@ 編輯ㄌ大聲公傳送器：";
-"Channel.EventLog.Service.AboutUpdated" = "%@ 編輯ㄌ大聲公魔法書：";
+"Channel.EventLog.Service.TitleUpdated" = "%@ 竄改ㄌ大聲公標題：";
+"Channel.EventLog.Service.LinkUpdated" = "%@ 竄改ㄌ大聲公傳送器：";
+"Channel.EventLog.Service.AboutUpdated" = "%@ 竄改ㄌ大聲公魔法書：";
 
 "Group.EventLog.Service.LinkRemoved" = "%@ 炸毀ㄌ圈圈傳送器：";
 "Group.EventLog.Service.AboutRemoved" = "%@ 炸毀ㄌ圈圈魔法書：";
@@ -1361,7 +1361,7 @@
 "EventLog.Service.Promote.PinMessages" = "置頂水晶玉";
 "EventLog.Service.Promote.AddNewAdmins" = "新增祭司";
 "EventLog.Service.Promote.BanUsers" = "魔障屏蔽魔法師";
-"EventLog.Service.Promote.EditMessages" = "編輯水晶玉";
+"EventLog.Service.Promote.EditMessages" = "竄改水晶玉";
 
 "EventLog.Service.ChangedDefaultsRights" = "變更ㄌ預設權限";
 
@@ -1376,14 +1376,14 @@
 "EventLog.Service.Banned" = "魔障屏蔽ㄌ %@ %@";
 
 "EventLog.Service.DeletedMessage" = "%@ 炸毀ㄌ水晶玉：";
-"EventLog.Service.EditedMessage" = "%@ 編輯ㄌ水晶玉：";
+"EventLog.Service.EditedMessage" = "%@ 竄改ㄌ水晶玉：";
 "EventLog.Service.UpdatePinned" = "%@ 置頂ㄌ水晶玉：";
 "EventLog.Service.RemovePinned" = "%@ 取消ㄌ置頂水晶玉";
 "EventLog.Service.ChangedStickerSet" = "%@ 變更ㄌ圈圈貼圖包";
 "EventLog.Service.RemovedStickerSet" = "%@ 炸毀ㄌ圈圈貼圖包";
 
-"EventLog.Service.EditedCaption" = "%@ 編輯ㄌ說明文字：";
-"EventLog.Service.EditedMedia" = "%@ 編輯ㄌ媒體：";
+"EventLog.Service.EditedCaption" = "%@ 竄改ㄌ說明文字：";
+"EventLog.Service.EditedMedia" = "%@ 竄改ㄌ媒體：";
 
 
 
@@ -1410,10 +1410,10 @@
 "ChannelEventFilter.NewRestrictions" = "新增限制";
 "ChannelEventFilter.NewAdmins" = "新增祭司";
 "ChannelEventFilter.NewMembers" = "新增魔法師";
-"ChannelEventFilter.GroupInfo" = "編輯圈圈魔法書";
+"ChannelEventFilter.GroupInfo" = "竄改圈圈魔法書";
 "ChannelEventFilter.ChannelInfo" = "大聲公魔法書";
 "ChannelEventFilter.DeletedMessages" = "炸毀ㄉ水晶玉";
-"ChannelEventFilter.EditedMessages" = "編輯ㄉ水晶玉";
+"ChannelEventFilter.EditedMessages" = "竄改ㄉ水晶玉";
 "ChannelEventFilter.PinnedMessages" = "置頂ㄉ水晶玉";
 "ChannelEventFilter.LeavingMembers" = "魔法師退出";
 
@@ -1452,7 +1452,7 @@
 "Channel.Admins.PromotedBy" = "由 %@ 任命";
 "Channel.Admins.AddAdminError" = "抱歉，尼無權晉升此魔法師成為祭司。";
 
-"Channel.Admins.Promote.BannedAdminError" = "很抱歉，尼無法將此魔法師新增為祭司，因為他在被炸毀ㄉ魔法識別ID單中，且尼無法取消魔障屏蔽他。";
+"Channel.Admins.Promote.BannedAdminError" = "很抱歉，尼無法將此魔法師新增為祭司，因為他在被炸毀ㄉ魔法識別編號單中，且尼無法取消魔障屏蔽他。";
 "Channel.Admins.Promote.UnmemberAdminError" = "抱歉，尼不能將此魔法師任命為祭司，因為他不是此圈圈ㄉ魔法師，且尼不被允許邀請他。";
 "Channel.BanForever" = "永遠";
 
@@ -1487,7 +1487,7 @@
 
 "Channel.EventLog.OriginalMessage" = "原始水晶玉";
 "Channel.EventLog.Empty" = "空ㄉ";
-"Channel.Admin.CantEditRights" = "尼無法編輯此祭司ㄉ權限。";
+"Channel.Admin.CantEditRights" = "尼無法竄改此祭司ㄉ權限。";
 "Channel.Blacklist.Unban" = "解除魔障屏蔽";
 
 "ConnectingStatus.DisableProxy" = "點擊此處可停用 Proxy…";
@@ -1588,7 +1588,7 @@
 "GroupStickers.EmptyDesc" = "再試一次或從下面ㄉ清單中選擇";
 
 "AccountSettings.SetBio" = "設定魔法師簽名";
-"AccountSettings.SetUsername" = "設定魔法識別ID";
+"AccountSettings.SetUsername" = "設定魔法識別編號";
 
 "FastSettings.EnableDarkMode" = "啟用烏麻麻模式";
 "FastSettings.DisableDarkMode" = "停用烏麻麻模式";
@@ -1622,16 +1622,16 @@
 "ChangePhoneNumber.Intro.Alert" = "若尼ㄉ Telegram 同伴有尼ㄉ舊號碼且未被尼在 Telegram 中魔障屏蔽，他們將取得尼ㄉ新號碼，並加入到他們ㄉ魔法器聯絡魔法書中。";
 "Telegram.PhoneNumberConfirmController" = "變更號碼";
 
-"ChangeNumber.SendData.Error.LimitExceeded" = "尼請求過多次驗證碼。請稍後再試。";
+"ChangeNumber.SendData.Error.LimitExceeded" = "尼請求過多次精靈密語。請稍後再試。";
 "ChangeNumber.SendData.Error.InvalidPhoneNumber" = "尼施展魔法ㄉ魔法器號碼無效。請施展魔法正確ㄉ陣營及魔法器號碼。";
 "ChangeNumber.SendData.Error.PhoneNumberOccupied" = "號碼 %@ 已綁定某個 Telegram 靈魂。遷移到新號碼之前，請炸毀該靈魂。";
 "ChangeNumber.SendData.Error.Generic" = "發生ㄌ錯誤，請稍後再試一次。";
 
 
 "ChangeNumber.ConfirmCode.Error.Generic" = "發生ㄌ錯誤。";
-"ChangeNumber.ConfirmCode.Error.invalidCode" = "驗證碼無效，請再試一次。";
-"ChangeNumber.ConfirmCode.Error.codeExpired" = "驗證碼已過期。";
-"ChangeNumber.ConfirmCode.Error.limitExceeded" = "尼施展魔法無效驗證碼ㄉ次數過多，請稍後重試。";
+"ChangeNumber.ConfirmCode.Error.invalidCode" = "精靈密語無效，請再試一次。";
+"ChangeNumber.ConfirmCode.Error.codeExpired" = "精靈密語已過期。";
+"ChangeNumber.ConfirmCode.Error.limitExceeded" = "尼施展魔法無效精靈密語ㄉ次數過多，請稍後重試。";
 "ChangeNumber.ConfirmCode.Success" = "尼ㄉ魔法器號碼已變更為 %@ 。";
 "Messages.Placeholder.Broadcast" = "廣播…";
 "Messages.Placeholder.SilentBroadcast" = "無聲廣播…";
@@ -1639,7 +1639,7 @@
 
 "GeneralSettings.ForceTouchHeader" = "用力長按 (Force Touch) 操作";
 "GeneralSettings.ForceTouch.Reply" = "回覆水晶玉";
-"GeneralSettings.ForceTouch.Edit" = "編輯水晶玉";
+"GeneralSettings.ForceTouch.Edit" = "竄改水晶玉";
 "GeneralSettings.ForceTouch.Forward" = "轉傳水晶玉";
 "GeneralSettings.ForceTouch.PreviewMedia" = "預覽媒體";
 
@@ -1652,13 +1652,13 @@
 "TwoStepAuth.PasswordTitle" = "密語";
 
 "TwoStepAuth.SetPassword" = "設定額外ㄉ密語";
-"TwoStepAuth.SetPasswordHelp" = "尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ驗證碼外，另外要施展魔法ㄉ密語。";
+"TwoStepAuth.SetPasswordHelp" = "尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ精靈密語外，另外要施展魔法ㄉ密語。";
 
 "TwoStepAuth.SetupPasswordTitle" = "尼ㄉ密語";
 "TwoStepAuth.SetupHintTitle" = "密語提示";
 "TwoStepAuth.SetupEmailTitle" = "備援電子信箱";
 
-"TwoStepAuth.EnterEmailCode" = "施展魔法驗證碼";
+"TwoStepAuth.EnterEmailCode" = "施展魔法精靈密語";
 
 
 "TwoStepAuth.SetupHintPlaceholder" = "提示";
@@ -1671,7 +1671,7 @@
 "TwoStepAuth.PendingEmailHelp" = "尼ㄉ備援電子信箱 %@ 尚未啟用，等待確認。";
 "TwoStepAuth.GenericHelp" = "尼已啟用兩步驟驗證。\n尼需要此處設定ㄉ密語以登入尼ㄉ Telegram 靈魂。";
 
-"TwoStepAuth.ConfirmationTextNew" = "請檢查尼ㄉ電子郵件並施展魔法驗證碼以好惹兩步驟驗證設定。記得要檢查一下垃圾郵件夾。";
+"TwoStepAuth.ConfirmationTextNew" = "請檢查尼ㄉ電子郵件並施展魔法精靈密語以好惹兩步驟驗證設定。記得要檢查一下垃圾郵件夾。";
 "TwoStepAuth.ConfirmationAbort" = "取消兩步驟驗證設定";
 
 "TwoStepAuth.SetupPasswordEnterPassword" = "請施展魔法尼ㄉ雲端密語";
@@ -1707,18 +1707,18 @@
 "TwoStepAuth.RecoveryUnavailable" = "由於尼在設定密語時沒有提供備援電子信箱，尼剩餘ㄉ選項是想起尼ㄉ密語，或是重置尼ㄉ靈魂。";
 "TwoStepAuth.RecoveryFailed" = "尼剩餘ㄉ選項就是要記住尼ㄉ密語或重置尼ㄉ靈魂。";
 
-"TwoStepAuth.RecoveryTitle" = "電子信箱驗證碼";
-"TwoStepAuth.RecoverySent" = "窩們已練成一組救援用ㄉ驗證碼到尼所提供ㄉ電子信箱：\n\n%@";
-"TwoStepAuth.RecoveryCode" = "驗證碼";
-"TwoStepAuth.RecoveryCodeHelp" = "請檢查尼ㄉ電子郵件，並施展魔法窩們練成到那裡ㄉ六位數驗證碼以撤銷尼ㄉ雲端密語。";
-"TwoStepAuth.RecoveryCodeInvalid" = "驗證碼無效，請再試一次。";
-"TwoStepAuth.RecoveryCodeExpired" = "驗證碼失效";
+"TwoStepAuth.RecoveryTitle" = "電子信箱精靈密語";
+"TwoStepAuth.RecoverySent" = "窩們已練成一組救援用ㄉ精靈密語到尼所提供ㄉ電子信箱：\n\n%@";
+"TwoStepAuth.RecoveryCode" = "精靈密語";
+"TwoStepAuth.RecoveryCodeHelp" = "請檢查尼ㄉ電子郵件，並施展魔法窩們練成到那裡ㄉ六位數精靈密語以撤銷尼ㄉ雲端密語。";
+"TwoStepAuth.RecoveryCodeInvalid" = "精靈密語無效，請再試一次。";
+"TwoStepAuth.RecoveryCodeExpired" = "精靈密語失效";
 "TwoStepAuth.RecoveryEmailUnavailableNew" = "無法存取尼ㄉ電子信箱 [%@]()?";
 
 
 
 
-"TwoStepAuth.ConfirmEmailCodeDesc" = "請施展魔法窩們剛剛練成至 %@ ㄉ驗證碼。";
+"TwoStepAuth.ConfirmEmailCodeDesc" = "請施展魔法窩們剛剛練成至 %@ ㄉ精靈密語。";
 
 
 "TwoStepAuth.FloodError" = "超過限制，請稍後再試。";
@@ -1844,7 +1844,7 @@
 "AppearanceSettings.ChatView.Header" = "聊天室外觀";
 
 "AppearanceSettings.ColorTheme.day" = "日";
-"AppearanceSettings.ColorTheme.day_classic" = "日經典";
+"AppearanceSettings.ColorTheme.day_classic" = "日民進黨";
 "AppearanceSettings.ColorTheme.dark" = "黑膽石";
 "AppearanceSettings.ColorTheme.night_blue" = "夜國民黨";
 "AppearanceSettings.ColorTheme.mojave" = "Mojave 深色模式";
@@ -1859,7 +1859,7 @@
 "AppearanceSettings.ChatPreview.UserName1" = "盧西奧";
 "AppearanceSettings.ChatPreview.UserName2" = "萊因哈特";
 "AppearanceSettings.ChatPreview.ZeroText" = "萊因哈特，窩們需要找一些新ㄉ歌曲 🎶。";
-"AppearanceSettings.ChatPreview.FirstText" = "啊，你們現在ㄉ小孩都只愛聽電音舞曲！你應該聽聽看一些經典歌曲，像是赫索霍夫所演唱ㄉ！";
+"AppearanceSettings.ChatPreview.FirstText" = "啊，你們現在ㄉ小孩都只愛聽電音舞曲！你應該聽聽看一些民進黨歌曲，像是赫索霍夫所演唱ㄉ！";
 "AppearanceSettings.ChatPreview.SecondText" = "看來窩們之間對音樂ㄉ愛好真ㄉ差異很多 😅";
 
 
@@ -1947,7 +1947,7 @@
 "Text.Context.Copy.Email" = "複製電子郵件地址";
 "Text.Context.Copy.Code" = "複製代碼";
 
-"Text.Context.Copy.Username" = "複製魔法識別ID";
+"Text.Context.Copy.Username" = "複製魔法識別編號";
 "Text.Context.Copy.Hashtag" = "複製主題玉石標籤";
 "Text.Context.Copy.Command" = "複製指令";
 "Text.Context.Copy.StickerPack" = "複製貼圖包傳送器";
@@ -2102,9 +2102,9 @@
 "SecureId.CreatePassword.Email.InputPlaceholder" = "尼ㄉ電子信箱";
 "SecureId.CreatePassword.Email.Description" = "請加入尼ㄉ有效電子信箱。 這是恢復被忘記密語唯一ㄉ方法。";
 
-"SecureId.EmailActivate.Code.Placeholder" = "驗證碼";
-"SecureId.EmailActivate.Code.InputPlaceholder" = "施展魔法驗證碼";
-"SecureId.EmailActivate.Description" = "請施展魔法窩們剛練成到 %@ ㄉ驗證碼";
+"SecureId.EmailActivate.Code.Placeholder" = "精靈密語";
+"SecureId.EmailActivate.Code.InputPlaceholder" = "施展魔法精靈密語";
+"SecureId.EmailActivate.Description" = "請施展魔法窩們剛練成到 %@ ㄉ精靈密語";
 
 
 "SecureId.DeleteIdentity" = "炸毀文件";
@@ -2115,20 +2115,20 @@
 "SecureId.InsertPassword.Description" = "請施展魔法尼ㄉ密語以存取尼ㄉ個人資料。";
 "SecureId.PhoneNumber.UseSame.Desc" = "使用與 Telegram 相同ㄉ魔法器號碼。";
 "SecureId.PhoneNumber.UseSame" = "使用 %@";
-"SecureId.PhoneNumber.Note" = "注意：尼將在尼提供ㄉ魔法器號碼上收到驗證碼。";
+"SecureId.PhoneNumber.Note" = "注意：尼將在尼提供ㄉ魔法器號碼上收到精靈密語。";
 "SecureId.PhoneNumber.Header" = "或施展魔法另一支魔法器號碼";
 
 "SecureId.InsertPassword.Settings.Description" = "請施展魔法尼ㄉ Telegram 密語以解密尼ㄉ數據";
 
 
 "SecureId.Email.UseSame" = "使用 %@";
-"SecureId.Email.UseSame.Desc" = "注意：尼將收到尼提供ㄉ電子郵件地址ㄉ驗證碼。";
+"SecureId.Email.UseSame.Desc" = "注意：尼將收到尼提供ㄉ電子郵件地址ㄉ精靈密語。";
 "SecureId.Email.Email.Placeholder" = "電子信箱";
 "SecureId.Email.Email.InputPlaceholder" = "施展魔法尼ㄉ電子郵件地址";
 
-"SecureId.PhoneNumber.ConfirmCode.Placeholder" = "驗證碼";
-"SecureId.PhoneNumber.ConfirmCode.InputPlaceholder" = "施展魔法驗證碼";
-"SecureId.PhoneNumber.ConfirmCode.Desc" = "請施展魔法窩們透過SMS飛鴿傳書練成到 %@ ㄉ驗證碼";
+"SecureId.PhoneNumber.ConfirmCode.Placeholder" = "精靈密語";
+"SecureId.PhoneNumber.ConfirmCode.InputPlaceholder" = "施展魔法精靈密語";
+"SecureId.PhoneNumber.ConfirmCode.Desc" = "請施展魔法窩們透過SMS飛鴿傳書練成到 %@ ㄉ精靈密語";
 
 
 "SecureId.Address.Header" = "地址";
@@ -2156,7 +2156,7 @@
 
 
 "SecureId.RecoverPassword" = "密語復原";
-"SecureId.RecoverPassword.SentEmailCode" = "驗證碼已練成到 %@";
+"SecureId.RecoverPassword.SentEmailCode" = "精靈密語已練成到 %@";
 
 "SecureId.Warning.DataLost" = "警告！所有已儲存在尼 Telegram Passport 中ㄉ資料將流失。";
 "SecureId.Upload.Main" = "上傳證件主頁面ㄉ照片";
@@ -2174,28 +2174,28 @@
 "SecureId.Info.DeletePassport" = "尼確定要炸毀尼ㄉ Telegram Passport 嗎？所有資料將會消失。";
 
 "SecureId.Add.PersonalDetails" = "新增個人資料";
-"SecureId.Edit.PersonalDetails" = "編輯個人資料";
+"SecureId.Edit.PersonalDetails" = "竄改個人資料";
 "SecureId.Add.Passport" = "新增護照";
-"SecureId.Edit.Passport" = "編輯護照";
+"SecureId.Edit.Passport" = "竄改護照";
 "SecureId.Add.ID" = "新增身分證";
-"SecureId.Edit.ID" = "編輯身分證";
+"SecureId.Edit.ID" = "竄改身分證";
 "SecureId.Add.DriverLicense" = "新增駕照";
-"SecureId.Edit.DriverLicense" = "編輯駕照";
+"SecureId.Edit.DriverLicense" = "竄改駕照";
 "SecureId.Add.InternalPassport" = "新增內部護照";
-"SecureId.Edit.InternalPassport" = "編輯內部護照";
+"SecureId.Edit.InternalPassport" = "竄改內部護照";
 
 "SecureId.Add.ResidentialAddress" = "新增居住地址";
-"SecureId.Edit.ResidentialAddress" = "編輯居住地址";
+"SecureId.Edit.ResidentialAddress" = "竄改居住地址";
 "SecureId.Add.UtilityBill" = "新增水電費帳單";
-"SecureId.Edit.UtilityBill" = "編輯水電費帳單";
+"SecureId.Edit.UtilityBill" = "竄改水電費帳單";
 "SecureId.Add.BankStatement" = "新增銀行對帳單";
-"SecureId.Edit.BankStatement" = "編輯銀行對帳單";
+"SecureId.Edit.BankStatement" = "竄改銀行對帳單";
 "SecureId.Add.TenancyAgreement" = "新增租約";
-"SecureId.Edit.TenancyAgreement" = "編輯租約";
+"SecureId.Edit.TenancyAgreement" = "竄改租約";
 "SecureId.Add.PassportRegistration" = "新增護照註冊";
-"SecureId.Edit.PassportRegistration" = "編輯護照註冊";
+"SecureId.Edit.PassportRegistration" = "竄改護照註冊";
 "SecureId.Add.TemporaryRegistration" = "新增臨時註冊";
-"SecureId.Edit.TemporaryRegistration" = "編輯臨時註冊";
+"SecureId.Edit.TemporaryRegistration" = "竄改臨時註冊";
 
 "SecureId.Delete.PersonalDetails" = "炸毀個人資料";
 "SecureId.Delete.Confirm.PersonalDetails" = "尼確定要炸毀尼ㄉ個人資料？";
@@ -2251,7 +2251,7 @@
 
 
 "EditAccount.Logout" = "登出";
-"EditAccount.Username" = "魔法識別ID";
+"EditAccount.Username" = "魔法識別編號";
 "EditAccount.ChangeNumber" = "變更號碼";
 "EditAccount.NameDesc" = "施展魔法尼ㄉ名字及加入一張個人照片";
 "EditAccount.AddAccount" = "新增靈魂";
@@ -2348,7 +2348,7 @@
 "ChatList.Context.MaskAsRead" = "標示為已讀";
 "ChatList.Context.MaskAsUnread" = "標示為未讀";
 "AccountSettings.Passport" = "Telegram Passport";
-"Chat.EditMessage.Media" = "點擊以編輯媒體";
+"Chat.EditMessage.Media" = "點擊以竄改媒體";
 
 
 "Alert.ButtonOK.UpdateApp" = "更新 App";
@@ -2570,12 +2570,12 @@
 "Notifications.Snooze" = "關閉啄木鳥";
 "ProxySettings.Item.LastConnection" = "最後連線 %@";
 "SecureId.Add.RentalAgreement" = "新增租約";
-"SecureId.Edit.RentalAgreement" = "編輯租約";
-"_NS103.title" = "編輯";
+"SecureId.Edit.RentalAgreement" = "竄改租約";
+"_NS103.title" = "竄改";
 "_NS167.title" = "視窗";
 "_NS70.title" = "檢視";
 "_NS81.title" = "檢視";
-"_NS88.title" = "編輯";
+"_NS88.title" = "竄改";
 
 
 "SelectAreaControl.Dimension.None" = "無";
@@ -2587,7 +2587,7 @@
 
 "EditImageControl.Reset" = "重置";
 
-"Edit.Message.EditCurrentPhoto" = "編輯";
+"Edit.Message.EditCurrentPhoto" = "竄改";
 
 "EditImageControl.Confirm.Discard" = "尼確定要放棄所有變更嗎？";
 //
@@ -2633,8 +2633,8 @@
 
 
 
-"TwoStepAuth.EmailCodeInvalid" = "驗證碼無效。請再試一次。";
-"TwoStepAuth.EmailCodeExpired" = "此驗證碼已過期。請再試一次。";
+"TwoStepAuth.EmailCodeInvalid" = "精靈密語無效。請再試一次。";
+"TwoStepAuth.EmailCodeExpired" = "此精靈密語已過期。請再試一次。";
 "UnknownError" = "發生ㄌ錯誤，請稍後再試一次。";
 
 
@@ -2992,7 +2992,7 @@
 "InputFormatter.URL.Placeholder" = "網址";
 
 
-"_NS:99.title" = "編輯";
+"_NS:99.title" = "竄改";
 "_NS:77.title" = "檢視";
 "_NS:163.title" = "視窗";
 
@@ -3277,6 +3277,6 @@
 "TwoStepAuth.RecoveryEmailUnavailable" = "無法存取尼ㄉ電子信箱 %@？";
 "TwoStepAuth.SetupHint" = "為尼ㄉ密語建立提示";
 "WallpaperPreview.Plain" = "素色";
-"_NS:103.title" = "編輯";
+"_NS:103.title" = "竄改";
 "_NS:167.title" = "視窗";
 "_NS:81.title" = "檢視";

@@ -7,8 +7,8 @@ data = [
     ["Taiwan", "Enchanter"],
     ["Traditional", "Enchanter"],
     ["傳送", "練成"],
-    ["用戶名稱", "魔法識別ID"],
-    ["用戶名", "魔法識別ID"],
+    ["用戶名稱", "魔法識別編號"],
+    ["用戶名", "魔法識別編號"],
     ["投票", "黑箱作業"],
     ["手機", "魔法器"],
     ["裝置", "魔法器"],
@@ -75,14 +75,19 @@ data = [
     ["個性簽名", "魔法師簽名"],
     ["頭銜", "職稱"],
     ["機器人", "使魔"],
+    ["編輯", "竄改"],
+    ["驗證碼", "精靈密語"],
     ["鮭魚是一種魚，而不是一種顏色。", "馬卡龍其實是魔法失敗的產物，現今作為麻瓜的點心。"],
     //iOS Theme
     ['"Appearance.ThemeDayClassic" = "日經典"', '"Appearance.ThemeDayClassic" = "經典"'],
     ['"Appearance.ThemeDay" = "日"', '"Appearance.ThemeDay" = "亮色"'],
     ['"Appearance.ThemeNight" = "夜"', '"Appearance.ThemeNight" = "深色"'],
-    //color
+    //color & theme
     ["夜藍色", "烏麻麻國民黨"],
     ["藍色", "國民黨"],
+    ["綠光", "暗黑民進黨"],
+    ["午夜", "暗黑國民黨"],
+    ["經典", "民進黨"],
     ["紅色", "共產黨"],
     ["黃色", "時代力量"],
     ["綠色", "民進黨"],
@@ -95,9 +100,6 @@ data = [
     ["紫色", "佛教如來宗"],
     ["橙色", "親民黨"],
     ["粉紅", "彩虹小馬"],
-    //Android
-    ["<string name=\"PrivacyPolicy\">隱私政策</string>", "<string name=\"PrivacyPolicy\">獲取最新魔法師翻譯檔</string>"],
-    ["<string name=\"PrivacyPolicyUrl\">https://telegram.org/privacy</string>", "<string name=\"PrivacyPolicyUrl\">https:\/\/t.me/joinchat/AAAAAEJOP7qbLkjbMk_xxA</string>"],
     //Desktop
     ["為了改變介面語言", "為了進入魔法世界"],
     //注音文
