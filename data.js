@@ -6,7 +6,7 @@ data = [
     ["zh_hant", "zh-CHT"],
     ["Taiwan", "Enchanter"],
     ["Traditional", "Enchanter"],
-    ["傳送", "練成"],
+    ["傳送", "煉成"],
     ["用戶名稱", "魔法識別編號"],
     ["用戶名", "魔法識別編號"],
     ["投票", "黑箱作業"],

@@ -322,7 +322,7 @@
 "Tour.Text1" = "世界上**最快ㄉ**即時通訊軟體。\n**免錢**且**安全**。";
 
 "Tour.Title2" = "快速";
-"Tour.Text2" = "**Telegram** 練成水晶玉比其他\n魔法器更快。";
+"Tour.Text2" = "**Telegram** 煉成水晶玉比其他\n魔法器更快。";
 
 "Tour.Title3" = "強大";
 "Tour.Text3" = "**Telegram** 沒有限制\n尼ㄉ媒體和聊天室大小。";
@@ -340,14 +340,14 @@
 
 // Login
 "Login.PhoneAndCountryHelp" = "請確認尼ㄉ陣營並施展魔法尼ㄉ魔法器號碼。";
-"Login.CodeSentInternal" = "窩們已經練成精靈密語到尼其它魔法器上ㄉ **Telegram** APP";
+"Login.CodeSentInternal" = "窩們已經煉成精靈密語到尼其它魔法器上ㄉ **Telegram** APP";
 "Login.HaveNotReceivedCodeInternal" = "仍未收到精靈密語？";
-"Login.CodeSentSms" = "窩們已練成一則包含精靈密語ㄉ飛鴿傳書給尼";
+"Login.CodeSentSms" = "窩們已煉成一則包含精靈密語ㄉ飛鴿傳書給尼";
 "Login.Code" = "精靈密語";
 "Login.WillCallYou" = "在 %@ 之後，改用精靈耳語音報精靈密語";
 "Login.CallRequestState2" = "正在請求 Telegram 來電…";
 "Login.CallRequestState3" = "Telegram 撥打ㄌ尼ㄉ魔法器號碼\n[沒有收到精靈密語？]";
-"Login.EmailNotConfiguredError" = "尼需要一個電子郵件靈魂，以便尼可以練成有關錯誤ㄉ詳細魔法書給窩們。\n\n請前往尼魔法器ㄉ「設定」>「密語與靈魂」> 「加入靈魂」中，並設定電子郵件靈魂。";
+"Login.EmailNotConfiguredError" = "尼需要一個電子郵件靈魂，以便尼可以煉成有關錯誤ㄉ詳細魔法書給窩們。\n\n請前往尼魔法器ㄉ「設定」>「密語與靈魂」> 「加入靈魂」中，並設定電子郵件靈魂。";
 "Login.EmailCodeSubject" = "%@, 沒有精靈密語";
 "Login.EmailCodeBody" = "窩ㄉ魔法器號碼是：\n%@\n窩無法取得 Telegram ㄉ精靈密語。";
 "Login.UnknownError" = "發生ㄌ錯誤，請稍後再試一次。";
@@ -393,10 +393,10 @@
 "DialogList.NoMessagesText" = "按下右上角ㄉ鉛筆按鈕或到同伴頁面開始傳水晶玉。";
 "DialogList.SingleTypingSuffix" = "%@ 正在施展魔法";
 "DialogList.SingleRecordingAudioSuffix" = "%@ 正在錄製音訊";
-"DialogList.SingleUploadingPhotoSuffix" = "%@ 正在練成照片";
-"DialogList.SingleUploadingVideoSuffix" = "%@ 正在練成影片";
+"DialogList.SingleUploadingPhotoSuffix" = "%@ 正在煉成照片";
+"DialogList.SingleUploadingVideoSuffix" = "%@ 正在煉成影片";
 "DialogList.SingleRecordingVideoMessageSuffix" = "%@ 正在錄製視訊水晶玉";
-"DialogList.SingleUploadingFileSuffix" = "%@ 正在練成玉石";
+"DialogList.SingleUploadingFileSuffix" = "%@ 正在煉成玉石";
 "DialogList.MultipleTypingSuffix" = "%d 人正在施展魔法";
 "DialogList.Typing" = "正在施展魔法";
 "DialogList.ClearHistoryConfirmation" = "清空聊天紀錄";
@@ -431,7 +431,7 @@
 // Conversation
 "Conversation.InputTextPlaceholder" = "施展魔法水晶玉";
 "Conversation.typing" = "正在施展魔法";
-"Conversation.MessageDeliveryFailed" = "尼ㄉ水晶玉還未練成。按 \"重傳\" 以練成此水晶玉。";
+"Conversation.MessageDeliveryFailed" = "尼ㄉ水晶玉還未煉成。按 \"重傳\" 以煉成此水晶玉。";
 "Conversation.MessageDialogEdit" = "竄改";
 "Conversation.MessageDialogRetry" = "重傳";
 "Conversation.MessageDialogRetryAll" = "重傳 %1$d 水晶玉";
@@ -557,7 +557,7 @@
 "Conversation.Bytes" = "%d B";
 "Conversation.ShareMyContactInfo" = "分享窩ㄉ聯絡魔法書";
 "Conversation.AddContact" = "加為同伴";
-"Conversation.SendMessage" = "練成水晶玉";
+"Conversation.SendMessage" = "煉成水晶玉";
 "Conversation.EncryptionCanceled" = "隱形聊天已取消";
 "Conversation.DeleteManyMessages" = "炸毀水晶玉";
 "Conversation.SlideToCancel" = "滑動以取消";
@@ -565,7 +565,7 @@
 "Conversation.OpenFile" = "開啟玉石";
 
 // Media Picker
-"MediaPicker.Send" = "練成";
+"MediaPicker.Send" = "煉成";
 "SearchImages.Title" = "相簿";
 "MediaPicker.CameraRoll" = "相機膠卷";
 "SearchImages.NoImagesFound" = "找不到圖片";
@@ -590,7 +590,7 @@
 "UserInfo.FirstNamePlaceholder" = "名字";
 "UserInfo.LastNamePlaceholder" = "姓氏";
 "UserInfo.GenericPhoneLabel" = "魔法器";
-"UserInfo.SendMessage" = "練成水晶玉";
+"UserInfo.SendMessage" = "煉成水晶玉";
 "UserInfo.AddContact" = "加為同伴";
 "UserInfo.ShareContact" = "分享聯絡魔法書";
 "UserInfo.StartSecretChat" = "開始隱形聊天";
@@ -662,7 +662,7 @@
 "Web.OpenExternal" = "在 Safari 開啟";
 
 // Document
-"Document.TargetConfirmationFormat" = "練成玉石 ({size}) 到 {target}？";
+"Document.TargetConfirmationFormat" = "煉成玉石 ({size}) 到 {target}？";
 
 // Dialog List
 "DialogList.You" = "尼";
@@ -743,7 +743,7 @@
 "BlockedUsers.BlockUser" = "魔障屏蔽魔法師…";
 "BlockedUsers.BlockTitle" = "魔障屏蔽";
 "BlockedUsers.LeavePrefix" = "退出";
-"BlockedUsers.Info" = "被魔障屏蔽ㄉ魔法師無法向尼練成水晶玉或將尼加入到圈圈。他們不會看到尼ㄉ大頭貼、在線上和最後施展魔法ㄉ狀態。";
+"BlockedUsers.Info" = "被魔障屏蔽ㄉ魔法師無法向尼煉成水晶玉或將尼加入到圈圈。他們不會看到尼ㄉ大頭貼、在線上和最後施展魔法ㄉ狀態。";
 "BlockedUsers.AddNew" = "新增…";
 "BlockedUsers.Unblock" = "解除魔障屏蔽";
 
@@ -761,7 +761,7 @@
 "Settings.LogoutConfirmationTitle" = "尼確定要登出？";
 "Settings.LogoutConfirmationText" = "尼可以無縫地在所有魔法器上同時使用 Telegram。\n\n但是，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。";
 
-"Login.PadPhoneHelp" = "\n尼可以使用尼ㄉ主要魔法器號碼在所有魔法器上登入 Telegram。\n鼻要使用尼ㄉ iPad SIM 卡號碼 — 窩們需要向尼練成飛鴿傳書。\n\n這個號碼是否正確？\n{number}";
+"Login.PadPhoneHelp" = "\n尼可以使用尼ㄉ主要魔法器號碼在所有魔法器上登入 Telegram。\n鼻要使用尼ㄉ iPad SIM 卡號碼 — 窩們需要向尼煉成飛鴿傳書。\n\n這個號碼是否正確？\n{number}";
 "Login.PadPhoneHelpTitle" = "尼ㄉ號碼";
 
 "MessageTimer.Custom" = "自訂";
@@ -841,9 +841,9 @@
 
 
 
-"Activity.UploadingPhoto" = "正在練成照片";
-"Activity.UploadingVideo" = "正在練成影片";
-"Activity.UploadingDocument" = "正在練成玉石";
+"Activity.UploadingPhoto" = "正在煉成照片";
+"Activity.UploadingVideo" = "正在煉成影片";
+"Activity.UploadingDocument" = "正在煉成玉石";
 "Activity.RecordingAudio" = "正在錄製音訊";
 "Activity.RecordingVideoMessage" = "正在錄製視訊水晶玉";
 
@@ -964,12 +964,12 @@
 
 "ChangePhoneNumberNumber.Title" = "變更號碼";
 "ChangePhoneNumberNumber.NewNumber" = "新號碼";
-"ChangePhoneNumberNumber.Help" = "窩們將練成一則包含精靈密語ㄉ飛鴿傳書到尼ㄉ新魔法器號碼。";
+"ChangePhoneNumberNumber.Help" = "窩們將煉成一則包含精靈密語ㄉ飛鴿傳書到尼ㄉ新魔法器號碼。";
 "ChangePhoneNumberNumber.NumberPlaceholder" = "施展魔法尼ㄉ新號碼";
 
 "ChangePhoneNumberCode.Code" = "尼ㄉ精靈密語";
 "ChangePhoneNumberCode.CodePlaceholder" = "精靈密語";
-"ChangePhoneNumberCode.Help" = "窩們已練成一則包含精靈密語ㄉ飛鴿傳書給尼";
+"ChangePhoneNumberCode.Help" = "窩們已煉成一則包含精靈密語ㄉ飛鴿傳書給尼";
 "ChangePhoneNumberCode.CallTimer" = "Telegram 會於 %@ 打精靈耳給尼";
 "ChangePhoneNumberCode.RequestingACall" = "正在請求 Telegram 打精靈耳來…";
 "ChangePhoneNumberCode.Called" = "Telegram 撥打ㄌ尼ㄉ魔法器號碼";
@@ -985,7 +985,7 @@
 
 
 
-"QuickSend.Photos_any" = "練成 %@ 張照片";
+"QuickSend.Photos_any" = "煉成 %@ 張照片";
 
 
 
@@ -993,7 +993,7 @@
 
 
 
-"Forward.ConfirmMultipleFiles_any" = "練成 %@ 個玉石到 {target}?";
+"Forward.ConfirmMultipleFiles_any" = "煉成 %@ 個玉石到 {target}?";
 
 
 
@@ -1102,7 +1102,7 @@
 
 "SharedMedia.EmptyTitle" = "尚無媒體玉石";
 "SharedMedia.EmptyText" = "在這個聊天室內分享照片與影片\n— 或者讓迴紋針繼續不高興。";
-"SharedMedia.EmptyFilesText" = "尼可以練成或接收任何格式ㄉ\n玉石，單檔最大 1.5 GB，並且可\n在任何地方存取。";
+"SharedMedia.EmptyFilesText" = "尼可以煉成或接收任何格式ㄉ\n玉石，單檔最大 1.5 GB，並且可\n在任何地方存取。";
 
 "ShareFileTip.Title" = "分享玉石";
 "ShareFileTip.Text" = "尼可以從尼ㄉ相機膠卷這裡分享 **無壓縮** ㄉ媒體檔。\n\n要分享任何其他類型ㄉ玉石，在尼ㄉ %@ 開啟它們（例如在尼ㄉ瀏覽器），點擊 **開啟於…** 或操作按鈕並選擇 Telegram。";
@@ -1164,7 +1164,7 @@
 
 "AccessDenied.Contacts" = "Telegram 傳水晶玉是基於尼現有ㄉ同伴名單。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「聯絡魔法書」中，並將 Telegram 設定為開啟。";
 
-"AccessDenied.VoiceMicrophone" = "Telegram 需要存取尼ㄉ麥克風，以便尼可以練成語音水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
+"AccessDenied.VoiceMicrophone" = "Telegram 需要存取尼ㄉ麥克風，以便尼可以煉成語音水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
 
 "AccessDenied.VideoMicrophone" = "Telegram 需要存取尼ㄉ麥克風，以便尼可以在錄影時收錄聲音。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
 
@@ -1177,7 +1177,7 @@
 
 "AccessDenied.CameraDisabled" = "尼魔法器上ㄉ相機存取被限制。\n\n請到「設定」>「一般」>「限制」中，並設定 Telegram 為開啟。";
 
-"AccessDenied.PhotosAndVideos" = "Telegram 需要存取尼ㄉ相簿，以便尼可以練成照片和影片。 \n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「照片」中，並將 Telegram 設定為允許「讀取和寫入」。";
+"AccessDenied.PhotosAndVideos" = "Telegram 需要存取尼ㄉ相簿，以便尼可以煉成照片和影片。 \n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「照片」中，並將 Telegram 設定為允許「讀取和寫入」。";
 
 "AccessDenied.SaveMedia" = "Telegram 需要使用尼ㄉ相簿，以便尼可以儲存照片和影片。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「照片」中，並設定 Telegram 為可以讀取及寫入。";
 
@@ -1319,7 +1319,7 @@
 
 "TwoStepAuth.RecoveryTitle" = "電子信箱精靈密語";
 "TwoStepAuth.RecoveryCode" = "精靈密語";
-"TwoStepAuth.RecoveryCodeHelp" = "請檢查尼ㄉ電子信箱，並施展魔法窩們練成到那裡ㄉ 6 位數精靈密語，以撤銷尼ㄉ雲端密語。";
+"TwoStepAuth.RecoveryCodeHelp" = "請檢查尼ㄉ電子信箱，並施展魔法窩們煉成到那裡ㄉ 6 位數精靈密語，以撤銷尼ㄉ雲端密語。";
 "TwoStepAuth.RecoveryCodeInvalid" = "精靈密語無效，請再試一次。";
 "TwoStepAuth.RecoveryCodeExpired" = "窩們已經向尼發出ㄌ新ㄉ6位數精靈密語。";
 "TwoStepAuth.RecoveryEmailUnavailable" = "無法存取尼ㄉ電子信箱 %@？";
@@ -1340,8 +1340,8 @@
 "Map.OpenInYandexNavigator" = "在 Yandex 瀏覽器中開啟";
 "Map.OpenIn" = "開啟於";
 
-"Map.SendThisLocation" = "練成選定ㄉ位置";
-"Map.SendMyCurrentLocation" = "練成窩ㄉ位置";
+"Map.SendThisLocation" = "煉成選定ㄉ位置";
+"Map.SendMyCurrentLocation" = "煉成窩ㄉ位置";
 "Map.Locating" = "定位中…";
 "Map.ChooseAPlace" = "或者選擇一個地點";
 "Map.AccurateTo" = "精確到 %@";
@@ -1611,7 +1611,7 @@
 "ChannelIntro.Text" = "大聲公是一個向大量\n觀眾廣播水晶玉ㄉ新\n工具。";
 "ChannelIntro.CreateChannel" = "建立大聲公";
 
-"ShareMenu.Send" = "練成";
+"ShareMenu.Send" = "煉成";
 
 "Conversation.ReportSpam" = "檢舉垃圾水晶玉";
 "Conversation.ReportSpamAndLeave" = "檢舉垃圾水晶玉並且離開";
@@ -1672,7 +1672,7 @@
 
 "ReportPeer.ReasonOther.Placeholder" = "描述";
 "ReportPeer.ReasonOther.Title" = "檢舉";
-"ReportPeer.ReasonOther.Send" = "練成";
+"ReportPeer.ReasonOther.Send" = "煉成";
 
 "Group.Management.AddModeratorHelp" = "尼可以新增祭司來幫助尼管理圈圈。";
 
@@ -1680,7 +1680,7 @@
 "Watch.Compose.AddContact" = "選擇同伴";
 "Watch.Compose.CreateMessage" = "建立水晶玉";
 "Watch.Compose.CurrentLocation" = "目前ㄉ位置";
-"Watch.Compose.Send" = "練成";
+"Watch.Compose.Send" = "煉成";
 "Watch.Contacts.NoResults" = "沒有找到符合\nㄉ同伴";
 "Watch.ChatList.NoConversationsTitle" = "沒有聊天";
 "Watch.ChatList.NoConversationsText" = "開始傳水晶玉，\n用力按下，然後點擊\n新水晶玉";
@@ -1790,33 +1790,33 @@
 
 
 
-"AttachmentMenu.SendPhoto_any" = "練成 %@ 張照片";
+"AttachmentMenu.SendPhoto_any" = "煉成 %@ 張照片";
 
 
 
 
 
 
-"AttachmentMenu.SendVideo_any" = "練成 %@ 個影片";
+"AttachmentMenu.SendVideo_any" = "煉成 %@ 個影片";
 
 
 
 
 
 
-"AttachmentMenu.SendGif_any" = "練成 %@ 張 GIF 動圖";
+"AttachmentMenu.SendGif_any" = "煉成 %@ 張 GIF 動圖";
 
 
 
 
 
 
-"AttachmentMenu.SendItem_any" = "練成 %@ 個項目";
+"AttachmentMenu.SendItem_any" = "煉成 %@ 個項目";
 
 
 
-"AttachmentMenu.SendAsFile" = "作為玉石練成";
-"AttachmentMenu.SendAsFiles" = "作為玉石練成";
+"AttachmentMenu.SendAsFile" = "作為玉石煉成";
+"AttachmentMenu.SendAsFiles" = "作為玉石煉成";
 
 "Conversation.Processing" = "正在處理…";
 
@@ -1871,11 +1871,11 @@
 "KeyCommand.JumpToNextChat" = "跳轉到下一個聊天室";
 "KeyCommand.JumpToPreviousUnreadChat" = "跳轉到上一個未讀聊天室";
 "KeyCommand.JumpToNextUnreadChat" = "跳轉到下一個未讀聊天室";
-"KeyCommand.SendMessage" = "練成水晶玉";
+"KeyCommand.SendMessage" = "煉成水晶玉";
 "KeyCommand.ChatInfo" = "聊天室魔法書";
 
 "Conversation.SecretLinkPreviewAlert" = "尼想要在隱形聊天中啟用延伸ㄉ傳送器預覽嗎？請注意，傳送器預覽是在 Telegram 魔法圖書館上產生ㄉ。";
-"Conversation.SecretChatContextBotAlert" = "請注意，內聯使魔是由第三方開發者所提供ㄉ。為ㄌ使使魔工作，尼在使魔名稱後施展魔法ㄉ符號會被練成給各自ㄉ開發者。";
+"Conversation.SecretChatContextBotAlert" = "請注意，內聯使魔是由第三方開發者所提供ㄉ。為ㄌ使使魔工作，尼在使魔名稱後施展魔法ㄉ符號會被煉成給各自ㄉ開發者。";
 
 "Map.OpenInWaze" = "在 Waze 中開啟";
 
@@ -1966,7 +1966,7 @@
 "Resolve.ErrorNotFound" = "抱歉，這個魔法師似乎並不存在。";
 
 "StickerPack.Share" = "分享";
-"StickerPack.Send" = "練成貼圖";
+"StickerPack.Send" = "煉成貼圖";
 
 
 
@@ -1991,7 +1991,7 @@
 "Preview.CopyAddress" = "複製地址";
 
 "Conversation.ShareBotLocationConfirmationTitle" = "分享尼ㄉ所在位置？";
-"Conversation.ShareBotLocationConfirmation" = "這將會練成尼目前ㄉ位置魔法書給使魔。";
+"Conversation.ShareBotLocationConfirmation" = "這將會煉成尼目前ㄉ位置魔法書給使魔。";
 
 "Conversation.ShareBotContactConfirmationTitle" = "分享尼ㄉ魔法器號碼？";
 "Conversation.ShareBotContactConfirmation" = "使魔將會知道尼ㄉ魔法器號碼。這對於整合其他ㄉ服務可能有幫助。";
@@ -2026,7 +2026,7 @@
 
 "Conversation.CloudStorageInfo.Title" = "尼ㄉ雲端儲存";
 "Conversation.ClousStorageInfo.Description1" = "⚡️ 轉傳水晶玉到這裡以儲存它們";
-"Conversation.ClousStorageInfo.Description2" = "⚡️ 練成媒體和玉石以儲存它們";
+"Conversation.ClousStorageInfo.Description2" = "⚡️ 煉成媒體和玉石以儲存它們";
 "Conversation.ClousStorageInfo.Description3" = "⚡️ 從任何魔法器存取此聊天";
 "Conversation.ClousStorageInfo.Description4" = "⚡️ 使用找找功能快速找到東西";
 
@@ -2046,12 +2046,12 @@
 
 "Login.CodeSentCall" = "窩們正撥打尼ㄉ魔法器，語音告知一組精靈密語。";
 
-"Login.WillSendSms" = "Telegram 將在 %@之內練成給尼一則飛鴿傳書";
+"Login.WillSendSms" = "Telegram 將在 %@之內煉成給尼一則飛鴿傳書";
 "Login.SmsRequestState2" = "正在請求來自 Telegram ㄉ飛鴿傳書…";
 "Login.SmsRequestState3" = "Telegram 傳給尼一則飛鴿傳書\n[沒有收到精靈密語？]";
 
 "CancelResetAccount.Title" = "取消靈魂重置";
-"CancelResetAccount.TextSMS" = "有存取尼魔法器號碼 %@ ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書練成到尼魔法器號碼ㄉ精靈密語。";
+"CancelResetAccount.TextSMS" = "有存取尼魔法器號碼 %@ ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書煉成到尼魔法器號碼ㄉ精靈密語。";
 
 "CancelResetAccount.Success" = "尼靈魂 %@ ㄉ炸毀過程被取消ㄌ。";
 
@@ -2132,7 +2132,7 @@
 "Stickers.Install" = "新增";
 
 "MaskStickerSettings.Title" = "面具";
-"MaskStickerSettings.Info" = "尼可以將面具加入到尼要練成ㄉ照片和影片。為此，請在練成照片或影片之前，開啟照片竄改器。";
+"MaskStickerSettings.Info" = "尼可以將面具加入到尼要煉成ㄉ照片和影片。為此，請在煉成照片或影片之前，開啟照片竄改器。";
 
 "StickerPack.Add" = "新增";
 
@@ -2169,7 +2169,7 @@ Unused sets are archived when you add more.";
 "Target.ShareGameConfirmationGroup" = "和 \"%@\" 分享遊戲？";
 
 "Activity.PlayingGame" = "正在玩遊戲";
-"Activity.UploadingVideoMessage" = "正在練成視訊水晶玉";
+"Activity.UploadingVideoMessage" = "正在煉成視訊水晶玉";
 
 "DialogList.SinglePlayingGameSuffix" = "%@ 正在玩遊戲";
 
@@ -2205,7 +2205,7 @@ Unused sets are archived when you add more.";
 "NetworkUsageSettings.MediaAudioDataSection" = "音訊";
 "NetworkUsageSettings.MediaDocumentDataSection" = "玉石";
 "NetworkUsageSettings.TotalSection" = "總位元組";
-"NetworkUsageSettings.BytesSent" = "已練成ㄉ位元組";
+"NetworkUsageSettings.BytesSent" = "已煉成ㄉ位元組";
 "NetworkUsageSettings.BytesReceived" = "已接收ㄉ位元組";
 
 "NetworkUsageSettings.ResetStats" = "重置統計資料";
@@ -2384,7 +2384,7 @@ Unused sets are archived when you add more.";
 "Your_cards_security_code_is_invalid" = "尼施展魔法ㄉ安全碼無效。";
 
 "MESSAGE_INVOICE" = "%1$@ 傳ㄌ一張總計 %2$@ ㄉ請款單給尼";
-"CHAT_MESSAGE_INVOICE" = "%1$@ 練成ㄌ一張總計 %3$@ ㄉ請款單到 %2$@  ";
+"CHAT_MESSAGE_INVOICE" = "%1$@ 煉成ㄌ一張總計 %3$@ ㄉ請款單到 %2$@  ";
 "PINNED_INVOICE" = "%1$@ 置頂ㄌ一張請款單";
 
 "Message.PinnedInvoice" = "置頂ㄌ一張請款單";
@@ -2477,8 +2477,8 @@ Unused sets are archived when you add more.";
 "SharedMedia.CategoryLinks" = "傳送器";
 "SharedMedia.CategoryOther" = "音訊";
 
-"AccessDenied.VideoMessageCamera" = "Telegram 需要存取尼ㄉ相機，以便尼可以練成視訊水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「相機」中，並將 Telegram 設定為開啟。";
-"AccessDenied.VideoMessageMicrophone" = "Telegram 需要使用尼ㄉ麥克風，以便尼可以練成視訊水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
+"AccessDenied.VideoMessageCamera" = "Telegram 需要存取尼ㄉ相機，以便尼可以煉成視訊水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「相機」中，並將 Telegram 設定為開啟。";
+"AccessDenied.VideoMessageMicrophone" = "Telegram 需要使用尼ㄉ麥克風，以便尼可以煉成視訊水晶玉。\n\n請前往尼魔法器ㄉ「設定」>「隱私權」>「麥克風」中，並將 Telegram 設定為開啟。";
 
 "ChatSettings.AutomaticVideoMessageDownload" = "以小精靈選擇下載視訊水晶玉";
 
@@ -2535,11 +2535,11 @@ Unused sets are archived when you add more.";
 "Channel.BanUser.Title" = "魔法師限制";
 "Channel.BanUser.PermissionsHeader" = "魔法師限制";
 "Channel.BanUser.PermissionReadMessages" = "讀取水晶玉";
-"Channel.BanUser.PermissionSendMessages" = "練成水晶玉";
-"Channel.BanUser.PermissionSendMedia" = "練成媒體";
-"Channel.BanUser.PermissionSendStickersAndGifs" = "練成貼圖和動圖";
+"Channel.BanUser.PermissionSendMessages" = "煉成水晶玉";
+"Channel.BanUser.PermissionSendMedia" = "煉成媒體";
+"Channel.BanUser.PermissionSendStickersAndGifs" = "煉成貼圖和動圖";
 "Channel.BanUser.PermissionEmbedLinks" = "嵌入傳送器";
-"Channel.BanUser.PermissionSendPolls" = "練成黑箱作業活動";
+"Channel.BanUser.PermissionSendPolls" = "煉成黑箱作業活動";
 "Channel.BanUser.PermissionChangeGroupInfo" = "變更圈圈魔法書";
 "Channel.BanUser.PermissionAddMembers" = "新增魔法師";
 "Channel.BanUser.Unban" = "解除魔障屏蔽";
@@ -2555,16 +2555,16 @@ Unused sets are archived when you add more.";
 "Channel.AdminLog.InfoPanelAlertText" = "這是魔法師和祭司在過去 48 小時內ㄉ操作紀錄。";
 
 "Channel.AdminLog.BanReadMessages" = "閱讀水晶玉";
-"Channel.AdminLog.BanSendMessages" = "練成水晶玉";
-"Channel.AdminLog.BanSendMedia" = "練成媒體";
-"Channel.AdminLog.BanSendStickersAndGifs" = "練成貼圖和動圖";
+"Channel.AdminLog.BanSendMessages" = "煉成水晶玉";
+"Channel.AdminLog.BanSendMedia" = "煉成媒體";
+"Channel.AdminLog.BanSendStickersAndGifs" = "煉成貼圖和動圖";
 "Channel.AdminLog.BanEmbedLinks" = "嵌入傳送器";
 "Channel.AdminLog.MessageRestricted" = "%@ 變更ㄌ對 %@ (%@) ㄉ限制";
 "Channel.AdminLog.MessageAdmin" = "%@ 變更ㄌ %@ (%@) ㄉ權限";
 "Channel.AdminLog.ChangeInfo" = "變更魔法書";
 "Channel.AdminLog.PinMessages" = "置頂水晶玉";
 "Channel.AdminLog.AddMembers" = "新增魔法師";
-"Channel.AdminLog.SendPolls" = "練成黑箱作業活動";
+"Channel.AdminLog.SendPolls" = "煉成黑箱作業活動";
 
 "Channel.AdminLog.CanChangeInfo" = "變更魔法書";
 "Channel.AdminLog.CanSendMessages" = "發布水晶玉";
@@ -2634,8 +2634,8 @@ Unused sets are archived when you add more.";
 "Channel.AdminLogFilter.AdminsTitle" = "祭司";
 "Channel.AdminLogFilter.AdminsAll" = "所有祭司";
 
-"Group.ErrorSendRestrictedStickers" = "抱歉，這個圈圈ㄉ祭司已禁止尼在這裡練成貼圖。";
-"Group.ErrorSendRestrictedMedia" = "抱歉，這個圈圈ㄉ祭司已禁止尼在這裡練成媒體。";
+"Group.ErrorSendRestrictedStickers" = "抱歉，這個圈圈ㄉ祭司已禁止尼在這裡煉成貼圖。";
+"Group.ErrorSendRestrictedMedia" = "抱歉，這個圈圈ㄉ祭司已禁止尼在這裡煉成媒體。";
 
 "SharedMedia.ViewInChat" = "在聊天室查看";
 
@@ -2654,21 +2654,21 @@ Unused sets are archived when you add more.";
 "GroupInfo.ActionPromote" = "提升";
 "GroupInfo.ActionRestrict" = "限制";
 
-"Conversation.RestrictedTextTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡練成水晶玉，直到 %@。";
-"Conversation.RestrictedText" = "這個圈圈ㄉ祭司已禁止尼在這裡練成水晶玉。";
-"Conversation.DefaultRestrictedText" = "此圈圈中不允許練成水晶玉。";
+"Conversation.RestrictedTextTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成水晶玉，直到 %@。";
+"Conversation.RestrictedText" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成水晶玉。";
+"Conversation.DefaultRestrictedText" = "此圈圈中不允許煉成水晶玉。";
 
-"Conversation.RestrictedInlineTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡練成內聯使魔ㄉ內容，直到 %@。";
-"Conversation.RestrictedInline" = "這個圈圈ㄉ祭司已禁止尼在這裡練成內聯使魔ㄉ內容。";
-"Conversation.DefaultRestrictedInline" = "此圈圈中不允許練成內聯使魔內容。";
+"Conversation.RestrictedInlineTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成內聯使魔ㄉ內容，直到 %@。";
+"Conversation.RestrictedInline" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成內聯使魔ㄉ內容。";
+"Conversation.DefaultRestrictedInline" = "此圈圈中不允許煉成內聯使魔內容。";
 
-"Conversation.RestrictedMediaTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡練成媒體，直到 %@。";
-"Conversation.RestrictedMedia" = "這個圈圈ㄉ祭司已禁止尼在這裡練成媒體。";
-"Conversation.DefaultRestrictedMedia" = "此圈圈中不允許練成媒體內容。";
+"Conversation.RestrictedMediaTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成媒體，直到 %@。";
+"Conversation.RestrictedMedia" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成媒體。";
+"Conversation.DefaultRestrictedMedia" = "此圈圈中不允許煉成媒體內容。";
 
-"Conversation.RestrictedStickersTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡練成貼圖，直到 %@。";
-"Conversation.RestrictedStickers" = "這個圈圈ㄉ祭司已禁止尼在這裡練成貼圖。";
-"Conversation.DefaultRestrictedStickers" = "此圈圈中不允許練成貼圖。";
+"Conversation.RestrictedStickersTimed" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成貼圖，直到 %@。";
+"Conversation.RestrictedStickers" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成貼圖。";
+"Conversation.DefaultRestrictedStickers" = "此圈圈中不允許煉成貼圖。";
 
 "ChatSettings.ConnectionType.Title" = "連線類型";
 "ChatSettings.ConnectionType.UseProxy" = "使用 Proxy";
@@ -2715,10 +2715,10 @@ Unused sets are archived when you add more.";
 "Privacy.Calls.IntegrationHelp" = "iOS 精靈耳整合顯示 Telegram 精靈耳於鎖定螢幕上和精靈耳紀錄中。如果啟用ㄌ iCloud 同步，尼ㄉ精靈耳紀錄將與 Apple 共享。";
 
 "Call.ReportPlaceholder" = "什麼地方出ㄌ錯？";
-"Call.ReportIncludeLog" = "練成技術魔法書";
+"Call.ReportIncludeLog" = "煉成技術魔法書";
 "Call.ReportIncludeLogDescription" = "不會洩露聊天內容，但會幫助窩們更快解決問題。";
 "Call.ReportSkip" = "略過";
-"Call.ReportSend" = "練成";
+"Call.ReportSend" = "煉成";
 
 "Channel.EditAdmin.CannotEdit" = "尼無法竄改此祭司ㄉ權限。";
 "Call.RateCall" = "評價這個精靈耳";
@@ -2752,7 +2752,7 @@ Unused sets are archived when you add more.";
 
 
 
-"Invite.LargeRecipientsCountWarning" = "請注意，尼ㄉ魔法器可能需要一些時間才能練成所有這些邀請";
+"Invite.LargeRecipientsCountWarning" = "請注意，尼ㄉ魔法器可能需要一些時間才能煉成所有這些邀請";
 
 "Contacts.InviteSearchLabel" = "找找同伴";
 
@@ -2784,7 +2784,7 @@ Unused sets are archived when you add more.";
 
 "Login.PhoneBannedError" = "這個魔法器號碼被魔障屏蔽ㄌ。";
 
-"Clipboard.SendPhoto" = "練成照片";
+"Clipboard.SendPhoto" = "煉成照片";
 
 "HashtagSearch.AllChats" = "所有聊天";
 
@@ -2918,7 +2918,7 @@ Unused sets are archived when you add more.";
 "Conversation.SavedMessages" = "窩ㄉ收藏";
 "DialogList.SavedMessages" = "窩ㄉ收藏";
 
-"MediaPicker.TapToUngroupDescription" = "點擊以分別練成媒體";
+"MediaPicker.TapToUngroupDescription" = "點擊以分別煉成媒體";
 "MediaPicker.GroupDescription" = "將媒體合併為一則水晶玉";
 "MediaPicker.UngroupDescription" = "將媒體顯示為個別ㄉ水晶玉";
 
@@ -2994,15 +2994,15 @@ Unused sets are archived when you add more.";
 "Privacy.PaymentsClearInfoDoneHelp" = "付款及配送魔法書已清除。";
 
 "InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳尼ㄉ魔法器聯絡魔法書到其高度高速粒子加密ㄉ雲端魔法圖書館，讓尼可以透過尼ㄉ所有魔法器與朋友聯繫。";
-"InfoPlist.NSLocationWhenInUseUsageDescription" = "當尼練成尼ㄉ位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
+"InfoPlist.NSLocationWhenInUseUsageDescription" = "當尼煉成尼ㄉ位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
 "InfoPlist.NSCameraUsageDescription" = "窩們需要這個，以便尼可以拍攝並分享照片及影片。";
 "InfoPlist.NSPhotoLibraryUsageDescription" = "窩們需要這樣，以便尼可以從相簿分享照片和影片。";
 "InfoPlist.NSPhotoLibraryAddUsageDescription" = "窩們需要這樣，以便尼可以將照片和影片儲存到尼ㄉ相簿。";
 "InfoPlist.NSMicrophoneUsageDescription" = "窩們需要這個，這樣尼才能錄製語音水晶玉或影片。";
-"InfoPlist.NSSiriUsageDescription" = "尼可以使用 Siri 練成水晶玉。";
+"InfoPlist.NSSiriUsageDescription" = "尼可以使用 Siri 煉成水晶玉。";
 "InfoPlist.NSLocationAlwaysAndWhenInUseUsageDescription" = "當尼選擇在聊天室中與朋友分享尼ㄉ即時位置時，Telegram 需要在背景存取尼ㄉ位置，以便在即時分享期間保持更新。";
-"InfoPlist.NSLocationAlwaysUsageDescription" = "當尼選擇在聊天室中與朋友分享尼ㄉ即時位置時，Telegram 需要在背景存取尼ㄉ位置，以便在即時分享期間保持更新。尼還需要從 Apple Watch 練成位置水晶玉。";
-"InfoPlist.NSLocationWhenInUseUsageDescription" = "當尼練成尼ㄉ位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
+"InfoPlist.NSLocationAlwaysUsageDescription" = "當尼選擇在聊天室中與朋友分享尼ㄉ即時位置時，Telegram 需要在背景存取尼ㄉ位置，以便在即時分享期間保持更新。尼還需要從 Apple Watch 煉成位置水晶玉。";
+"InfoPlist.NSLocationWhenInUseUsageDescription" = "當尼煉成尼ㄉ位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
 "InfoPlist.NSFaceIDUsageDescription" = "尼可以使用 Face ID 來解鎖魔法器。";
 
 "Privacy.Calls.P2PNever" = "永不";
@@ -3097,7 +3097,7 @@ Unused sets are archived when you add more.";
 "AuthSessions.LogOutApplicationsHelp" = "尼可以登入支援使用 Telegram 靈魂登入ㄉ網站。";
 "AuthSessions.LoggedInWithTelegram" = "已登入ㄉ網站";
 "AuthSessions.LogOut" = "登出";
-"AuthSessions.Message" = "尼允許這個使魔在尼登入 %@ 時向尼練成水晶玉。";
+"AuthSessions.Message" = "尼允許這個使魔在尼登入 %@ 時向尼煉成水晶玉。";
 
 "Conversation.ContextMenuReport" = "檢舉";
 
@@ -3153,7 +3153,7 @@ Unused sets are archived when you add more.";
 
 "Privacy.SecretChatsTitle" = "隱形聊天";
 "Privacy.SecretChatsLinkPreviews" = "傳送器預覽";
-"Privacy.SecretChatsLinkPreviewsHelp" = "傳送器預覽將在 Telegram 魔法圖書館上產生。窩們不儲存有關尼練成ㄉ傳送器之資料。";
+"Privacy.SecretChatsLinkPreviewsHelp" = "傳送器預覽將在 Telegram 魔法圖書館上產生。窩們不儲存有關尼煉成ㄉ傳送器之資料。";
 
 "Privacy.ContactsTitle" = "同伴";
 "Privacy.ContactsSync" = "同步魔法器同伴";
@@ -3209,8 +3209,8 @@ Unused sets are archived when you add more.";
 "Passport.FieldPhoneHelp" = "提供尼ㄉ聯絡精靈耳";
 "Passport.FieldEmail" = "電子郵件地址";
 "Passport.FieldEmailHelp" = "提供尼ㄉ聯絡電子郵件地址";
-"Passport.PrivacyPolicy" = "尼接受[%1$@ㄉ隱私權政策]並允許其所屬ㄉ %2$@ 向尼練成水晶玉。";
-"Passport.AcceptHelp" = "尼正在將尼ㄉ文件直接練成給  %1$@，並允許其所屬ㄉ @%2$@ 向尼練成水晶玉。";
+"Passport.PrivacyPolicy" = "尼接受[%1$@ㄉ隱私權政策]並允許其所屬ㄉ %2$@ 向尼煉成水晶玉。";
+"Passport.AcceptHelp" = "尼正在將尼ㄉ文件直接煉成給  %1$@，並允許其所屬ㄉ @%2$@ 向尼煉成水晶玉。";
 "Passport.Authorize" = "授權";
 
 "Passport.DeletePassport" = "炸毀 Telegram Passport";
@@ -3355,9 +3355,9 @@ Unused sets are archived when you add more.";
 "Passport.Email.UseTelegramEmailHelp" = "使用與 Telegram 相同ㄉ地址。";
 "Passport.Email.EnterOtherEmail" = "或施展魔法新ㄉ電子郵件地址";
 "Passport.Email.EmailPlaceholder" = "施展魔法尼ㄉ電子郵件地址";
-"Passport.Email.Help" = "精靈密語將練成到尼提供ㄉ電子郵件地址。";
+"Passport.Email.Help" = "精靈密語將煉成到尼提供ㄉ電子郵件地址。";
 "Passport.Email.Delete" = "炸毀電子郵件地址";
-"Passport.Email.CodeHelp" = "請施展魔法窩們剛練成到 %@ ㄉ精靈密語";
+"Passport.Email.CodeHelp" = "請施展魔法窩們剛煉成到 %@ ㄉ精靈密語";
 
 "Notification.PassportValuesSentMessage" = "%1$@ 收到ㄌ以下文件：%2$@";
 "Notification.PassportValuePersonalDetails" = "個人資料";
@@ -3674,7 +3674,7 @@ Unused sets are archived when you add more.";
 "TwoStepAuth.RecoveryEmailAddDescription" = "請加入尼ㄉ有效電子信箱。 這是恢復被忘記密語唯一ㄉ方法。";
 "TwoStepAuth.RecoveryEmailChangeDescription" = "請施展魔法尼ㄉ新備援電子信箱。這是忘記密語時ㄉ唯一恢復方法。";
 "TwoStepAuth.ChangeEmail" = "變更備援電子信箱";
-"TwoStepAuth.ConfirmEmailDescription" = "請施展魔法窩們剛剛練成至 %1$@ ㄉ精靈密語。"; 
+"TwoStepAuth.ConfirmEmailDescription" = "請施展魔法窩們剛剛煉成至 %1$@ ㄉ精靈密語。"; 
 "TwoStepAuth.ConfirmEmailCodePlaceholder" = "精靈密語";
 "TwoStepAuth.ConfirmEmailResendCode" = "重傳精靈密語";
 
@@ -3689,14 +3689,14 @@ Unused sets are archived when you add more.";
 "TwoStepAuth.EmailAddSuccess" = "已加入備援電子信箱";
 "TwoStepAuth.EmailChangeSuccess" = "你ㄉ備援電子信箱已被變更。";
 
-"Conversation.SendMessageErrorGroupRestricted" = "抱歉，目前尼已被禁止在公開圈圈中練成水晶玉。";
+"Conversation.SendMessageErrorGroupRestricted" = "抱歉，目前尼已被禁止在公開圈圈中煉成水晶玉。";
 
 "InstantPage.TapToOpenLink" = "點擊以開啟傳送器：";
 "InstantPage.RelatedArticleAuthorAndDateTitle" = "%1$@ ⚡️ %2$@";
 
 
 "Login.CheckOtherSessionMessages" = "檢查尼ㄉ Telegram 水晶玉";
-"Login.SendCodeViaSms" = "以飛鴿傳書方式練成精靈密語";
+"Login.SendCodeViaSms" = "以飛鴿傳書方式煉成精靈密語";
 "Login.CancelPhoneVerification" = "尼想停止驗證程序嗎？";
 "Login.CancelPhoneVerificationStop" = "停止";
 "Login.CancelPhoneVerificationContinue" = "繼續";
@@ -3738,7 +3738,7 @@ Unused sets are archived when you add more.";
 "Permissions.CellularDataAllowInSettings.v0" = "在「設定」中開啟";
 
 "Permissions.SiriTitle.v0" = "開啟 Siri";
-"Permissions.SiriText.v0" = "使用 Siri 練成水晶玉和撥打精靈耳。";
+"Permissions.SiriText.v0" = "使用 Siri 煉成水晶玉和撥打精靈耳。";
 "Permissions.SiriAllow.v0" = "把 Siri 開啟";
 "Permissions.SiriAllowInSettings.v0" = "在「設定」中開啟";
 
@@ -3786,7 +3786,7 @@ Unused sets are archived when you add more.";
 "Conversation.PinnedPoll" = "置頂黑箱作業";
 
 "CreatePoll.Title" = "發起黑箱作業";
-"CreatePoll.Create" = "練成";
+"CreatePoll.Create" = "煉成";
 "CreatePoll.TextHeader" = "問題";
 "CreatePoll.TextPlaceholder" = "請提出一個問題";
 "CreatePoll.OptionsHeader" = "黑箱作業選項";
@@ -3841,10 +3841,10 @@ Unused sets are archived when you add more.";
 "GroupInfo.Administrators" = "祭司";
 "GroupInfo.Administrators.Title" = "祭司";
 
-"GroupPermission.NoSendMessages" = "無法練成水晶玉";
-"GroupPermission.NoSendMedia" = "無法練成媒體";
-"GroupPermission.NoSendGifs" = "無法練成動圖";
-"GroupPermission.NoSendPolls" = "無法練成黑箱作業活動";
+"GroupPermission.NoSendMessages" = "無法煉成水晶玉";
+"GroupPermission.NoSendMedia" = "無法煉成媒體";
+"GroupPermission.NoSendGifs" = "無法煉成動圖";
+"GroupPermission.NoSendPolls" = "無法煉成黑箱作業活動";
 "GroupPermission.NoSendLinks" = "無法嵌入傳送器";
 "GroupPermission.NoChangeInfo" = "無法變更圈圈魔法書";
 "GroupPermission.NoAddMembers" = "無法新增魔法師";
@@ -4086,7 +4086,7 @@ Unused sets are archived when you add more.";
 "Privacy.Forwards.AlwaysAllow.Title" = "總是允許";
 "Privacy.Forwards.NeverAllow.Title" = "永不允許";
 
-"Conversation.ContextMenuCancelSending" = "取消練成";
+"Conversation.ContextMenuCancelSending" = "取消煉成";
 
 "Conversation.ForwardAuthorHiddenTooltip" = "該靈魂被魔法師隱藏";
 
@@ -4096,8 +4096,8 @@ Unused sets are archived when you add more.";
 "Privacy.Forwards.LinkIfAllowed" = "如果下面ㄉ設定為允許，則此處為一個傳送器";
 "Privacy.Forwards.NeverLink" = "不是一個指向尼靈魂ㄉ傳送器";
 
-"Chat.UnsendMyMessagesAlertTitle" = "取消練成也會炸毀 %@ 那一端ㄉ水晶玉。";
-"Chat.UnsendMyMessages" = "取消練成窩ㄉ水晶玉";
+"Chat.UnsendMyMessagesAlertTitle" = "取消煉成也會炸毀 %@ 那一端ㄉ水晶玉。";
+"Chat.UnsendMyMessages" = "取消煉成窩ㄉ水晶玉";
 
 
 "Chat.DeleteMessagesConfirmation_any" = "炸毀 %@ 則水晶玉";
@@ -4324,7 +4324,7 @@ Any member of this group will be able to see messages in the channel.";
 "Conversation.OpenBotLinkTitle" = "開啟傳送器";
 "Conversation.OpenBotLinkText" = "尼想要開啟 **%@** 嗎？";
 "Conversation.OpenBotLinkLogin" = "以 %2$@ ㄉ身分登入 **%1$@**";
-"Conversation.OpenBotLinkAllowMessages" = "允許 **%@** 向窩練成水晶玉";
+"Conversation.OpenBotLinkAllowMessages" = "允許 **%@** 向窩煉成水晶玉";
 "Conversation.OpenBotLinkOpen" = "開啟";
 
 "TextFormat.Link" = "傳送器";
@@ -4479,13 +4479,13 @@ Any member of this group will be able to see messages in the channel.";
 "Channel.AdminLog.DisabledSlowmode" = "%@ 停用ㄌ回憶模式";
 "Channel.AdminLog.SetSlowmode" = "%1$@ 將回憶模式設定為 %2$@";
 
-"Chat.SlowmodeTooltip" = "回憶模式已啟用。尼可以在 %@ 後\n練成尼ㄉ下一則水晶玉。";
-"Chat.SlowmodeTooltipPending" = "回憶模式已啟用。尼一次只能練成一則水晶玉。";
+"Chat.SlowmodeTooltip" = "回憶模式已啟用。尼可以在 %@ 後\n煉成尼ㄉ下一則水晶玉。";
+"Chat.SlowmodeTooltipPending" = "回憶模式已啟用。尼一次只能煉成一則水晶玉。";
 "Chat.AttachmentLimitExceeded" = "抱歉，尼不能一次選擇多個項目。";
-"Chat.AttachmentMultipleFilesDisabled" = "回憶模式已啟用。尼不能一次練成多個玉石。";
+"Chat.AttachmentMultipleFilesDisabled" = "回憶模式已啟用。尼不能一次煉成多個玉石。";
 "Chat.AttachmentMultipleForwardDisabled" = "回憶模式已啟用。尼不能一次轉傳多則水晶玉。";
-"Chat.MultipleTextMessagesDisabled" = "回憶模式已啟用。尼不能一次練成多則水晶玉。";
-"Share.MultipleMessagesDisabled" = "回憶模式已啟用。尼不能一次練成多則水晶玉。";
+"Chat.MultipleTextMessagesDisabled" = "回憶模式已啟用。尼不能一次煉成多則水晶玉。";
+"Share.MultipleMessagesDisabled" = "回憶模式已啟用。尼不能一次煉成多則水晶玉。";
 "Chat.SlowmodeSendError" = "回憶模式已啟用。";
 "StickerPacksSettings.AnimatedStickersInfo" = "動態貼圖將在聊天室中持續播放。";
 
@@ -4496,7 +4496,7 @@ Any member of this group will be able to see messages in the channel.";
 "Group.EditAdmin.RankOwnerPlaceholder" = "擁有者";
 "Group.EditAdmin.RankAdminPlaceholder" = "祭司";
 
-"Conversation.SendMessage.SendSilently" = "無聲練成";
+"Conversation.SendMessage.SendSilently" = "無聲煉成";
 
 "Appearance.ThemeCarouselTintedNight" = "著色ㄉ夜";
 "Appearance.ThemeCarouselNewNight" = "夜";
@@ -4575,7 +4575,7 @@ Any member of this group will be able to see messages in the channel.";
 "CHAT_MESSAGE_GEO_SEPARATED" = "%2$@|%1$@ 傳ㄌ一張地圖";
 "CHAT_MESSAGE_GIF" = "%1$@ 傳ㄌ一張動圖到「%2$@」圈圈";
 "CHAT_MESSAGE_GIF_SEPARATED" = "%2$@|%1$@ 傳ㄌ一張 GIF 動圖";
-"CHAT_MESSAGE_INVOICE_SEPARATED" = "%2$@|%1$@ 練成ㄌ一張總計 %3$@ ㄉ請款單";
+"CHAT_MESSAGE_INVOICE_SEPARATED" = "%2$@|%1$@ 煉成ㄌ一張總計 %3$@ ㄉ請款單";
 "CHAT_MESSAGE_NOTEXT" = "%1$@ 傳ㄌ一則水晶玉到「%2$@」圈圈";
 "CHAT_MESSAGE_NOTEXT_SEPARATED" = "%2$@|%1$@ 傳ㄌ一則水晶玉";
 "CHAT_MESSAGE_PHOTO" = "%1$@ 傳ㄌ一張照片到「%2$@」圈圈";
@@ -4598,8 +4598,8 @@ Any member of this group will be able to see messages in the channel.";
 "CHAT_TITLE_EDITED" = "%1$@ 竄改ㄌ「%2$@」圈圈ㄉ名稱";
 "CONTACT_JOINED" = "%1$@ 加入ㄌ Telegram";
 "CONTACT_JOINED_SEPARATED" = "%1$@|加入ㄌ Telegram！";
-"Channel.AdminLog.BanSendGifs" = "練成 GIF 動圖";
-"Channel.AdminLog.BanSendStickers" = "練成貼圖";
+"Channel.AdminLog.BanSendGifs" = "煉成 GIF 動圖";
+"Channel.AdminLog.BanSendStickers" = "煉成貼圖";
 "Channel.AdminLog.CanChangeInviteLink" = "透過傳送器邀請魔法師";
 "Channel.EditAdmin.PermissionInviteUsers" = "新增魔法師";
 "DataUpgrade.Running" = "正在最佳化…";
@@ -4610,7 +4610,7 @@ Any member of this group will be able to see messages in the channel.";
 "LOCKED_MESSAGE" = "尼有一則新水晶玉%1$@";
 "Login.CallRequestState1" = "在 %d:%.2d 後，改用精靈耳語音報精靈密語";
 "Login.PRIVACY_URL" = "https://telegram.org/privacy";
-"Login.SmsRequestState1" = "在 %d:%.2d 之內會練成給尼一則飛鴿傳書";
+"Login.SmsRequestState1" = "在 %d:%.2d 之內會煉成給尼一則飛鴿傳書";
 "MESSAGES" = "%1$@ 傳ㄌ %2$@ 則水晶玉給尼";
 "MESSAGES_SEPARATED" = "%1$@|傳ㄌ %2$@ 則水晶玉給尼";
 "MESSAGE_AUDIO" = "%1$@ 傳ㄌ一則語音水晶玉給尼";
