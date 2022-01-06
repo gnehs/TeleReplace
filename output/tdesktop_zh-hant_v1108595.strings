@@ -6,22 +6,24 @@ For license and copyright information please follow this link:
 https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 */
 "lng_language_name" = "魔法師中文";
-"lng_switch_to_this" = "切換為魔法師中文";
+"lng_switch_to_this" = "改為魔法師中文介面";
 
 "lng_menu_contacts" = "同伴";
-"lng_menu_calls" = "精靈耳記錄";
+"lng_menu_calls" = "精靈耳";
 "lng_menu_settings" = "設定";
 "lng_menu_about" = "關於";
 "lng_menu_update" = "更新";
 "lng_menu_back" = "返回";
 "lng_menu_night_mode" = "烏麻麻模式";
+"lng_menu_add_account" = "新增靈魂";
+"lng_menu_activate" = "使用此靈魂";
 
 "lng_disable_notifications_from_tray" = "關閉啄木鳥";
 "lng_enable_notifications_from_tray" = "開啟啄木鳥";
 "lng_open_from_tray" = "開啟 Telegram";
 "lng_minimize_to_tray" = "最小化至魔法器匣";
 "lng_quit_from_tray" = "結束 Telegram";
-"lng_tray_icon_text" = "Telegram 仍在此處執行，尼可以在設定頁面取消。若魔法器匣中看不見該圖示，尼可以從隱藏ㄉ圖示中拖曳至此。";
+"lng_tray_icon_text" = "Telegram 仍然在這裡運行，\n尼可以在「設定」中取消。\n若魔法器匣中看不見該圖示，\n尼可以從隱藏ㄉ圖示中拖曳至此。";
 
 // For lng_month_year or plain month name.
 "lng_month1" = "1月";
@@ -76,8 +78,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_month_day_year" = "{year}年{month}{day}日";
 "lng_month_year" = "{year}年{month}";
 
+"lng_calendar_select_days" = "選擇日期";
+"lng_calendar_start_tip" = "長按以回到最初ㄉ起點。";
+"lng_calendar_end_tip" = "長按以跳到最後。";
+
+"lng_calendar_days#other" = "{count} 天";
+
 "lng_box_ok" = "確定";
 "lng_box_done" = "好惹";
+"lng_box_yes" = "是";
+"lng_box_no" = "否";
 
 "lng_cancel" = "取消";
 "lng_continue" = "繼續";
@@ -117,31 +127,38 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chat_status_online#other" = "{count} 人在線上";
 "lng_chat_status_members_online" = "{members_count}, {online_count}";
 
+"lng_chat_status_subscribers#other" = "{count} 位訂閱者";
+
 "lng_channel_status" = "大聲公";
 "lng_group_status" = "圈圈";
 "lng_scam_badge" = "詐騙";
+"lng_fake_badge" = "假冒";
 
 "lng_flood_error" = "嘗試次數過多。請稍後再試。";
-"lng_gif_error" = "讀取 GIF 動圖時發生錯誤 :(";
-"lng_edit_error" = "尼無法竄改此水晶玉";
+"lng_gif_error" = "讀取GIF時發生錯誤";
+"lng_edit_error" = "尼無法竄改此水晶玉。";
 "lng_join_channel_error" = "抱歉，尼已經加入ㄌ太多大聲公及超級圈圈。在加入這個之前，請退出一些。";
 "lng_migrate_error" = "這個操作會將圈圈轉換為超級圈圈。不幸ㄉ是，尼已經加入太多超級圈圈和大聲公ㄌ。請在繼續轉換之前，退出一些不需要ㄉ大聲公或圈圈。";
-"lng_error_phone_flood" = "很抱歉，尼最近炸毀並重新建立靈魂ㄉ次數過多。請等待幾天，再重新註冊。";
+"lng_error_phone_flood" = "抱歉，尼最近炸毀並重新建立靈魂ㄉ次數過多。請等待幾天，再重新註冊。";
 "lng_error_start_minimized_passcoded" = "尼已設置本機密語，因此 Telegram Desktop 無法啟動最小化；它會要求尼施展魔法密語才能開始操作。";
 
-"lng_error_pinned_max#other" = "抱歉，尼只能置頂 {count} 個聊天。如果尼希望更多，請封存一些聊天 - 在「已封存ㄉ聊天」中允許無限置頂。";
+"lng_error_pinned_max#other" = "抱歉，尼只能置頂 {count} 個聊天。";
 "lng_error_public_groups_denied" = "很遺憾，尼被禁止參與公開圈圈ㄌ。\n{more_info}";
 "lng_error_cant_add_member" = "抱歉，尼不能將使魔加入到此圈圈。尼必須請祭司來做這件事。";
 "lng_error_cant_add_bot" = "抱歉，此使魔無法被加入圈圈。";
-"lng_error_cant_add_admin_invite" = "抱歉，尼不能將此魔法師任命為祭司，因為他不是此圈圈ㄉ魔法師，且尼不被允許邀請他。";
-"lng_error_cant_add_admin_unban" = "抱歉，尼不能將此魔法師任命為祭司，因為該魔法師在被炸毀ㄉ魔法識別編號單中，而尼無法將其解除魔障屏蔽。";
+"lng_error_cant_add_admin_invite" = "抱歉，尼不能將此魔法師設為祭司，因為他不是此圈圈ㄉ魔法師，且尼不被允許邀請他。";
+"lng_error_cant_add_admin_unban" = "抱歉，尼不能將此魔法師設為祭司，因為該魔法師在已炸毀ㄉ魔法識別編號單中，而尼無法將其解除魔障屏蔽。";
 "lng_error_cant_ban_admin" = "抱歉，尼不能魔障屏蔽此魔法師，因為他是此圈圈中ㄉ祭司，尼不能將他降級。";
 "lng_error_admin_limit" = "抱歉，此圈圈ㄉ祭司人數已達上限。";
 "lng_error_admin_limit_channel" = "抱歉，此大聲公ㄉ祭司人數已達上限。";
 "lng_error_post_link_invalid" = "很不幸地，尼無法存取這則水晶玉。尼並非水晶玉所在聊天室ㄉ魔法師。";
+"lng_error_noforwards_group" = "抱歉，祭司已禁止轉傳此圈圈之内容。";
+"lng_error_noforwards_channel" = "抱歉，祭司已禁止轉傳此大聲公之内容。";
+"lng_error_nocopy_group" = "抱歉，此圈圈內容已被祭司禁止複製。";
+"lng_error_nocopy_channel" = "抱歉，此大聲公內容已被祭司禁止複製。";
 "lng_sure_add_admin_invite" = "此魔法師不是本圈圈魔法師。是否將其加入並設定為祭司？";
-"lng_sure_add_admin_invite_channel" = "此魔法師不是本大聲公訂閱者。是否將其加入並設定為祭司？";
-"lng_sure_add_admin_unremove" = "此魔法師目前受到限制或已被炸毀。尼確定要晉升他？";
+"lng_sure_add_admin_invite_channel" = "此魔法師不是本大聲公訂閱者。是否將其加入並設為祭司？";
+"lng_sure_add_admin_unremove" = "此魔法師目前受到限制或已被炸毀。尼確定要將他設為祭司？";
 "lng_sure_ban_admin" = "此魔法師是祭司。尼確定要繼續並限制他？";
 "lng_sure_enable_socks" = "尼確定要啟用此代理魔法圖書館？\n\n魔法圖書館：{server}\n連接埠：{port}\n\n尼可以稍後在「設定」>「進階」>「連線類型」中變更代理魔法圖書館。";
 "lng_sure_enable" = "啟用";
@@ -155,15 +172,31 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_deleted" = "已炸毀ㄉ靈魂";
 "lng_deleted_message" = "已炸毀ㄉ水晶玉";
 "lng_pinned_message" = "置頂水晶玉";
+"lng_pinned_previous" = "置頂水晶玉";
 "lng_pinned_poll" = "置頂黑箱作業";
+"lng_pinned_quiz" = "置頂測驗";
 "lng_pinned_unpin_sure" = "尼想要取消置頂這則水晶玉嗎？";
 "lng_pinned_pin_sure" = "尼想要置頂這則水晶玉嗎？";
+"lng_pinned_pin_sure_group" = "尼想要在圈圈中置頂這則水晶玉嗎？";
+"lng_pinned_pin_old_sure" = "尼是否要置頂較舊ㄉ水晶玉，儘管有一則或一則以上ㄉ較新水晶玉已置頂？";
 "lng_pinned_pin" = "置頂";
 "lng_pinned_unpin" = "取消置頂";
 "lng_pinned_notify" = "啄木鳥所有魔法師";
+"lng_pinned_also_for_other" = "也為 {user} 置頂";
+
+"lng_pinned_messages_title#other" = "{count} 則置頂水晶玉";
+"lng_pinned_hide_all" = "不顯示置頂水晶玉";
+
+"lng_pinned_unpin_all#other" = "取消所有置頂水晶玉，共計有 {count} 則";
+"lng_pinned_unpin_all_sure" = "尼想要取消所有置頂水晶玉嗎？";
+"lng_pinned_hide_all_sure" = "尼要隱藏置頂水晶玉欄嗎？在置頂新水晶玉之前，它將保持隱藏狀態。";
+"lng_pinned_hide_all_hide" = "隱藏";
 
 "lng_edit_media_album_error" = "這個玉石不能存入相簿中。";
 "lng_edit_media_invalid_file" = "抱歉，此玉石無法使用。";
+"lng_edit_photo_editor_hint" = "在圖片上點擊滑鼠左鍵以竄改。";
+"lng_edit_caption_attach" = "抱歉，尼在竄改水晶玉時無法附加新ㄉ媒體。";
+"lng_edit_caption_voice" = "抱歉，語音水晶玉未煉成前，尼無法竄改水晶玉。";
 
 "lng_intro_about" = "歡迎使用 Telegram 官方版桌面魔法器。\n快速又安全。";
 "lng_start_msgs" = "開始傳水晶玉";
@@ -175,8 +208,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_photo_caption" = "說明文字";
 "lng_photos_comment" = "評論";
 
+"lng_intro_qr_title" = "從行動版 Telegram 掃描";
+"lng_intro_qr_step1" = "在尼ㄉ魔法器上開啟 Telegram";
+"lng_intro_qr_step2" = "前往「設定」>「魔法器」>「連接桌面魔法器」";
+"lng_intro_qr_step3" = "掃描此圖片以登入";
+"lng_intro_qr_skip" = "或使用尼ㄉ魔法器號碼登入";
+
 "lng_phone_title" = "尼ㄉ魔法器號碼";
 "lng_phone_desc" = "請確認尼ㄉ陣營並施展魔法尼ㄉ魔法器號碼。";
+"lng_phone_to_qr" = "使用 QR Code 快速登入";
 "lng_country_code" = "陣營";
 "lng_bad_country_code" = "無效ㄉ陣營";
 "lng_country_ph" = "找找";
@@ -185,8 +225,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_code_ph" = "精靈密語";
 "lng_code_desc" = "窩們已將精靈密語傳到尼ㄉ精靈耳中。\n請在下方施展魔法。";
-"lng_code_from_telegram" = "請施展魔法尼剛才在其他已登入ㄉ** Telegram **中\n收到ㄉ精靈密語。";
+"lng_code_from_telegram" = "**透過 Telegram** 煉成ㄌ一組精靈密語給尼ㄉ其他\n魔法器（如果尼有任何已連接ㄉ）。";
 "lng_code_no_telegram" = "透過飛鴿傳書煉成精靈密語";
+"lng_code_register_phone" = "如果尼已註冊 Telegram，請施展魔法煉成到尼 Telegram App ㄉ精靈密語。\n\n如果尼尚未註冊，請先透過魔法器或平板註冊。";
 "lng_code_call" = "Telegram 會在 {minutes}:{seconds} 後打精靈耳給尼";
 "lng_code_calling" = "正在請求 Telegram 打精靈耳來…";
 "lng_code_called" = "Telegram 撥打ㄌ尼ㄉ魔法器號碼";
@@ -202,8 +243,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_signin_recover_desc" = "請施展魔法電子郵件中ㄉ精靈密語\n{email}";
 "lng_signin_password" = "尼ㄉ雲端密語";
 "lng_signin_code" = "電子郵件中ㄉ精靈密語";
-"lng_signin_recover" = "忘記密語ㄌ嗎？";
-"lng_signin_recover_title" = "重設密語";
+"lng_signin_recover" = "忘記密語？";
+"lng_signin_recover_title" = "密語重置";
 "lng_signin_hint" = "提示：{password_hint}";
 "lng_signin_recover_hint" = "窩們向 {recover_email} 煉成ㄌ一組精靈密語";
 "lng_signin_bad_password" = "尼施展魔法ㄌ錯誤ㄉ密語。";
@@ -217,11 +258,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_signin_reset" = "重置";
 "lng_signin_reset_wait" = "由於靈魂 {phone_number} 是活躍並且受密語保護ㄉ，為ㄌ安全起見，窩們將在 1 週後炸毀它。尼可以隨時取消這一過程。\n\n\n在以下時間後，尼將能重置尼ㄉ靈魂：\n{when}";
 
-"lng_signin_reset_days#other" = "{count} 天";
+"lng_signin_reset_days#other" = "{count}天";
 
-"lng_signin_reset_hours#other" = "{count} 小時";
+"lng_signin_reset_hours#other" = "{count}小時";
 
-"lng_signin_reset_minutes#other" = "{count} 分鐘";
+"lng_signin_reset_minutes#other" = "{count}分鐘";
 "lng_signin_reset_in_days" = "{days_count} {hours_count} {minutes_count}";
 "lng_signin_reset_in_hours" = "{hours_count} {minutes_count}";
 "lng_signin_reset_cancelled" = "尼最近重置此靈魂ㄉ嘗試已被其活躍魔法師取消。請在 7 天後，再試一次。";
@@ -239,6 +280,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_dlg_new_channel_name" = "大聲公名稱";
 "lng_no_contacts" = "尼沒有同伴";
 "lng_no_chats" = "尼ㄉ聊天將在這裡";
+"lng_no_chats_filter" = "目前沒有聊天屬於此資料夾。";
 "lng_contacts_loading" = "載入中…";
 "lng_contacts_not_found" = "找不到同伴";
 "lng_dlg_search_for_messages" = "找找水晶玉";
@@ -248,34 +290,37 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_settings_save" = "儲存";
 "lng_settings_upload" = "設定大頭貼";
-"lng_settings_crop_profile" = "選取大頭貼範圍";
+"lng_settings_crop_profile" = "選擇尼所要ㄉ照片範圍";
 "lng_settings_uploading_photo" = "上傳照片中…";
 "lng_settings_edit" = "竄改";
 "lng_settings_drop_area_subtitle" = "以設定為尼ㄉ大頭貼";
 
 "lng_username_title" = "魔法識別編號";
-"lng_username_about" = "尼可以在 Telegram 上設定一個魔法識別編號。如果尼這樣做，別人就可以藉由此魔法識別編號找到尼，及不需要知道尼ㄉ魔法器號碼就能聯絡尼。\n\n尼可以使用 a-z、0-9 及底線。\n最小長度是 5 個字元。";
+"lng_username_about" = "尼可以在 Telegram 上選擇一個魔法識別編號。\n如果尼這樣做，別人就可以透過此魔法識別編號找到\n尼，而且不需要尼ㄉ魔法器號碼就可以與尼聯絡。\n\n尼可以使用 a-z、0-9 及底線。\n最小長度是 5 個字元。";
 "lng_username_choose" = "選擇尼ㄉ魔法識別編號。";
 "lng_username_invalid" = "此魔法識別編號無效。";
 "lng_username_occupied" = "抱歉，此魔法識別編號已被佔用。";
 "lng_username_too_short" = "此魔法識別編號太短ㄌ。";
-"lng_username_bad_symbols" = "僅 a-z、0-9，及下畫線被允許。";
+"lng_username_bad_symbols" = "僅允許 a–z、0–9 和底線。";
 "lng_username_available" = "此魔法識別編號可以使用";
 "lng_username_not_found" = "找不到魔法識別編號為 @{user} ㄉ。";
 "lng_username_link_willbe" = "此傳送器會開啟與尼ㄉ聊天";
 "lng_username_link" = "此傳送器開啟與尼ㄉ聊天：";
 "lng_username_copied" = "傳送器已複製到剪貼簿。";
 
-"lng_bio_title" = "竄改尼ㄉ魔法師簽名";
-"lng_bio_placeholder" = "魔法師簽名";
-"lng_bio_about" = "尼可以加入幾行關於尼自己ㄉ描述。任何打開尼個人魔法書頁ㄉ人會看到這段文字。";
+"lng_bio_title" = "竄改尼ㄉ個人魔法書";
+"lng_bio_placeholder" = "個人魔法書";
+"lng_bio_about" = "尼可以加入幾行關於尼自己ㄉ描述。任何開啟尼個人魔法書頁ㄉ人會看到這段文字。";
 
-"lng_settings_section_info" = "個人魔法書";
+"lng_settings_section_info" = "魔法書";
 "lng_settings_username" = "魔法識別編號：";
 "lng_settings_choose_username" = "選擇魔法識別編號";
 "lng_settings_empty_bio" = "無";
 
 "lng_settings_section_notify" = "啄木鳥";
+"lng_settings_show_from" = "顯示哪些靈魂ㄉ啄木鳥？";
+"lng_settings_notify_all" = "所有靈魂";
+"lng_settings_notify_all_about" = "如果尼只想收到目前靈魂ㄉ啄木鳥，請關閉此功能。";
 "lng_settings_notify_title" = "聊天啄木鳥";
 "lng_settings_desktop_notify" = "桌面啄木鳥";
 "lng_settings_show_name" = "顯示煉成者名稱";
@@ -286,17 +331,22 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_notifications_position" = "在螢幕上ㄉ位置";
 "lng_settings_notifications_count" = "啄木鳥數量";
 "lng_settings_sound_notify" = "播放音效";
+"lng_settings_alert_windows" = "閃爍工作列圖示";
+"lng_settings_alert_mac" = "彈跳 Dock 圖示";
+"lng_settings_alert_linux" = "引起對視窗ㄉ注意";
 "lng_settings_badge_title" = "未讀數量標記";
 "lng_settings_include_muted" = "未讀計數包括已關閉啄木鳥ㄉ聊天";
 "lng_settings_count_unread" = "計算未讀水晶玉";
 "lng_settings_events_title" = "事件";
 "lng_settings_events_joined" = "魔法器同伴加入ㄌ Telegram";
 "lng_settings_events_pinned" = "置頂水晶玉";
+"lng_settings_notifications_calls_title" = "精靈耳";
 
 "lng_notification_preview" = "尼有一則新水晶玉";
 "lng_notification_reply" = "回覆";
 "lng_notification_hide_all" = "隱藏所有";
 "lng_notification_sample" = "這是一個啄木鳥範例";
+"lng_notification_reminder" = "提醒";
 
 "lng_settings_section_general" = "一般";
 "lng_settings_change_lang" = "變更語言";
@@ -315,33 +365,43 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_update_fail" = "檢查更新失敗 :(";
 "lng_settings_workmode_tray" = "顯示魔法器匣圖示";
 "lng_settings_workmode_window" = "顯示工作列圖示";
+"lng_settings_close_to_taskbar" = "關閉到工作列";
+"lng_settings_native_frame" = "使用魔法器視窗邊框";
 "lng_settings_auto_start" = "開機時啟動 Telegram";
 "lng_settings_start_min" = "啟動後最小化";
+"lng_settings_auto_start_disabled_uwp" = "在 Windows 設定中，已關閉隨魔法器啟動。\n\n請在「啟動魔法器」設定中開啟 Telegram Desktop。";
+"lng_settings_open_system_settings" = "開啟「設定」";
 "lng_settings_add_sendto" = "在「煉成至」選單中顯示 Telegram 選項";
 "lng_settings_section_scale" = "介面縮放";
 "lng_settings_scale_auto" = "以小精靈選擇 ({cur})";
 
-"lng_settings_section_chat_settings" = "聊天設定";
-"lng_settings_replace_emojis" = "取代表情符號";
-"lng_settings_suggest_emoji" = "建議表情符號替換";
+"lng_settings_section_chat_settings" = "聊天室設定";
+"lng_settings_replace_emojis" = "以小精靈選擇替換表情符號";
+"lng_settings_suggest_emoji" = "推薦表情符號替換";
 "lng_settings_suggest_by_emoji" = "透過表情符號推薦貼圖";
-"lng_settings_loop_stickers" = "動態貼圖循環播放";
+"lng_settings_loop_stickers" = "循環播放動態貼圖";
 "lng_settings_large_emoji" = "大表情符號";
-"lng_settings_view_emojis" = "檢視清單　";
+"lng_settings_view_emojis" = "查看列表";
 "lng_settings_send_enter" = "按下 Enter 鍵就送出水晶玉";
 "lng_settings_send_ctrlenter" = "按下 Ctrl+Enter 鍵才送出水晶玉";
 "lng_settings_send_cmdenter" = "按下 Cmd+Enter 鍵才送出水晶玉";
+
+"lng_settings_section_filters" = "聊天室分類";
 
 "lng_settings_section_background" = "聊天室背景";
 "lng_settings_bg_use_default" = "使用預設主題玉石";
 "lng_settings_bg_from_gallery" = "從圖庫中選取";
 "lng_settings_bg_from_file" = "從玉石中選取";
-"lng_settings_bg_edit_theme" = "開啟主題玉石竄改器";
+"lng_settings_bg_theme_edit" = "竄改主題玉石";
+"lng_settings_bg_theme_create" = "建立新主題玉石";
+"lng_settings_bg_cloud_themes" = "自訂主題玉石";
+"lng_settings_bg_show_all" = "顯示所有主題玉石";
 "lng_settings_bg_tile" = "平鋪背景";
-"lng_settings_adaptive_wide" = "根據視窗寬度以小精靈選擇調整對話氣泡ㄉ位置";
+"lng_settings_adaptive_wide" = "視窗較寬ㄉ情況下，對話內容向左靠";
 
 "lng_settings_section_call_settings" = "精靈耳設定";
-"lng_settings_call_section_output" = "喇叭和耳機";
+"lng_settings_call_camera" = "攝影機";
+"lng_settings_call_section_output" = "揚聲器和耳機";
 "lng_settings_call_section_input" = "麥克風";
 "lng_settings_call_input_device" = "施展魔法魔法器";
 "lng_settings_call_output_device" = "輸出魔法器";
@@ -351,6 +411,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_call_stop_mic_test" = "停止測試";
 "lng_settings_call_section_other" = "其他設定";
 "lng_settings_call_open_system_prefs" = "開啟魔法器聲音偏好設定";
+"lng_settings_call_accept_calls" = "在此魔法器上接聽精靈耳";
 "lng_settings_call_device_default" = "預設";
 "lng_settings_call_audio_ducking" = "精靈耳期間將其他聲音關閉";
 
@@ -360,7 +421,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_downloading_update" = "正在下載更新 {progress}…";
 "lng_settings_privacy_title" = "隱私";
 "lng_settings_last_seen" = "最後施展魔法 & 在線上";
-"lng_settings_calls" = "語音精靈耳";
+"lng_settings_calls" = "精靈耳";
 "lng_settings_calls_peer_to_peer_title" = "蹦比蹦傳輸";
 "lng_settings_calls_peer_to_peer_button" = "與誰精靈耳使用蹦比蹦傳輸？";
 "lng_settings_groups_invite" = "圈圈和大聲公";
@@ -372,35 +433,74 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_passcode_disable" = "停用密語鎖";
 "lng_settings_password_disable" = "停用雲端密語";
 "lng_settings_password_abort" = "中止兩步驟驗證設定";
-"lng_settings_password_reenter_email" = "再施展魔法一次備援電子信箱";
-"lng_settings_about_bio" = "尼可以加入幾行關於尼自己ㄉ描述。\n任何打開尼個人魔法書頁ㄉ人會看到這段文字。";
+"lng_settings_password_reenter_email" = "再次施展魔法備援電子信箱";
+"lng_settings_about_bio" = "尼可以加入幾行關於尼自己ㄉ描述。\n任何開啟尼個人魔法書頁ㄉ人會看到這段文字。";
 "lng_settings_name_label" = "名稱";
 "lng_settings_username_label" = "魔法識別編號";
 "lng_settings_phone_label" = "魔法器號碼";
 "lng_settings_username_add" = "新增魔法識別編號";
 "lng_settings_close_sure" = "尼確定要關閉此頁面嗎？尼尚未儲存尼ㄉ變更。";
-//"lng_settings_peer_to_peer" = "Peer-to-Peer";
-"lng_settings_peer_to_peer_about" = "停用蹦比蹦傳輸 ( peer-to-peer ) 將改由 Telegram 魔法圖書館傳遞所有精靈耳，可避免洩露尼ㄉ IP 位址，但會稍微降低精靈耳品質。";
+"lng_settings_peer_to_peer_about" = "停用蹦比蹦傳輸 ( peer-to-peer ) 將改為透過 Telegram 魔法圖書館傳遞所有精靈耳，可避免洩露尼ㄉ IP 位址，但可能會降低語音及視訊品質。";
 "lng_settings_advanced" = "進階";
-"lng_settings_stickers_emoji" = "貼圖與表情符號";
+"lng_settings_stickers_emoji" = "貼圖和表情符號";
 "lng_settings_messages" = "水晶玉";
 "lng_settings_themes" = "主題玉石";
-"lng_settings_theme_blue" = "國民黨";
+"lng_settings_theme_day" = "日";
 "lng_settings_theme_classic" = "民進黨";
-"lng_settings_theme_midnight" = "暗黑國民黨";
-"lng_settings_theme_matrix" = "暗黑民進黨";
+"lng_settings_theme_tinted" = "深色";
+"lng_settings_theme_night" = "夜";
+"lng_settings_theme_accent_title" = "選擇強調色";
 "lng_settings_data_storage" = "數據和儲存";
-"lng_settings_information" = "竄改個人魔法書";
+"lng_settings_information" = "竄改個人資料";
 "lng_settings_passcode_title" = "本機密語";
 "lng_settings_password_title" = "兩步驟驗證";
 "lng_settings_sessions_title" = "已登入ㄉ魔法器";
+"lng_settings_new_unknown" = "未知魔法師ㄉ新聊天";
+"lng_settings_auto_archive" = "封存和關閉啄木鳥";
+"lng_settings_auto_archive_about" = "以小精靈選擇將來自非同伴ㄉ新私聊、圈圈和大聲公進行封存和關閉啄木鳥。";
 "lng_settings_destroy_title" = "靈魂保留期限";
 "lng_settings_network_proxy" = "魔力與 Proxy";
 "lng_settings_version_info" = "版本與更新";
 "lng_settings_system_integration" = "魔法器整合";
 "lng_settings_performance" = "性能";
 "lng_settings_enable_animations" = "啟用魔法效果";
-"lng_settings_autoplay_gifs" = "以小精靈選擇播放 GIF 動圖";
+"lng_settings_enable_opengl" = "為媒體啟用 OpenGL 渲染";
+"lng_settings_angle_backend" = "ANGLE 圖形後端";
+"lng_settings_angle_backend_auto" = "以小精靈選擇";
+"lng_settings_angle_backend_d3d9" = "Direct3D 9";
+"lng_settings_angle_backend_d3d11" = "Direct3D 11";
+"lng_settings_angle_backend_d3d11on12" = "D3D11on12";
+"lng_settings_angle_backend_opengl" = "OpenGL";
+"lng_settings_angle_backend_disabled" = "停用";
+"lng_settings_sensitive_title" = "敏感內容";
+"lng_settings_sensitive_disable_filtering" = "停用過濾";
+"lng_settings_sensitive_about" = "在所有尼ㄉ Telegram 魔法器上顯示公開大聲公中ㄉ敏感媒體內容。";
+"lng_settings_security_bots" = "使魔和網站";
+"lng_settings_clear_payment_info" = "清除付款及配送魔法書";
+
+"lng_clear_payment_info_title" = "清除付款魔法書";
+"lng_clear_payment_info_sure" = "尼確定要清除尼ㄉ付款和配送魔法書嗎？";
+"lng_clear_payment_info_shipping" = "配送魔法書";
+"lng_clear_payment_info_payment" = "付款魔法書";
+"lng_clear_payment_info_clear" = "清除";
+"lng_clear_payment_info_confirm" = "要炸毀尼ㄉ配送魔法書，並指示所有支付服務供應商炸毀尼已儲存ㄉ信用卡魔法書？請注意，Telegram 從不儲存尼ㄉ信用卡資料。";
+
+"lng_settings_auto_night_mode" = "以小精靈選擇烏麻麻模式";
+"lng_settings_auto_night_enabled" = "與魔法器設定相配";
+"lng_settings_auto_night_warning" = "尼已經開啟ㄌ以小精靈選擇烏麻麻模式。如果要變更深色主題玉石設定，尼必須先將它關閉。";
+"lng_settings_auto_night_disable" = "關閉";
+
+"lng_suggest_hide_new_title" = "隱藏新聊天？";
+"lng_suggest_hide_new_about" = "尼持續收到ㄌ許多非同伴ㄉ新聊天。\n\n尼是否想要**以小精靈選擇關閉啄木鳥**並**封存**這類型ㄉ聊天？";
+"lng_suggest_hide_new_to_settings" = "前往設定";
+
+"lng_settings_spellchecker" = "拼字檢查";
+"lng_settings_system_spellchecker" = "使用魔法器拼字檢查";
+"lng_settings_custom_spellchecker" = "使用拼字檢查器";
+"lng_settings_auto_download_dictionaries" = "以小精靈選擇下載字典";
+"lng_settings_manage_dictionaries" = "管理字典";
+"lng_settings_manage_enabled_dictionary" = "字典已啟用";
+"lng_settings_manage_remove_dictionary" = "炸毀字典";
 
 "lng_backgrounds_header" = "選擇新ㄉ聊天室背景";
 "lng_theme_sure_keep" = "保留該主題玉石嗎？";
@@ -408,10 +508,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_reverting#other" = "在 {count} 剎那內恢復為舊ㄉ主題玉石。";
 "lng_theme_keep_changes" = "保留變更";
 "lng_theme_revert" = "恢復";
+"lng_theme_no_desktop" = "抱歉，此主題玉石不包含 Telegram Desktop ㄉ版本。";
+"lng_theme_share" = "分享";
+"lng_theme_edit" = "竄改";
+"lng_theme_delete" = "炸毀";
+"lng_theme_delete_sure" = "尼確定要炸毀此主題玉石嗎？";
 "lng_background_header" = "背景預覽";
 "lng_background_text1" = "啊，你們現在ㄉ小孩都只愛聽電音舞曲！你應該聽聽看一些民進黨歌曲，像是赫索霍夫所演唱ㄉ！";
 "lng_background_text2" = "看來窩們之間對音樂ㄉ愛好真ㄉ差異很多 😅";
-"lng_background_bad_link" = "此背景傳送器似乎無效。";
+"lng_background_bad_link" = "無效ㄉ背景傳送器。";
+"lng_background_gradient_unsupported" = "Telegram Desktop 尚不支援漸層背景。";
 "lng_background_apply" = "套用";
 "lng_background_share" = "分享";
 "lng_background_link_copied" = "傳送器已複製到剪貼簿";
@@ -422,7 +528,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_download_path" = "下載路徑";
 "lng_download_path_temp" = "暫存資料夾";
 "lng_download_path_default" = "預設資料夾";
-"lng_download_path_clear" = "清除所有";
+"lng_download_path_clear" = "全部清除";
 "lng_download_path_header" = "選擇下載路徑";
 "lng_download_path_default_radio" = "魔法器 «下載» 中ㄉ Telegram 資料夾";
 "lng_download_path_temp_radio" = "暫存資料夾，在登出或解除安裝時清除";
@@ -448,7 +554,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_local_storage_round#other" = "{count} 個視訊水晶玉";
 
-"lng_local_storage_animation#other" = "{count} 張 GIF 動圖";
+"lng_local_storage_animation#other" = "{count} 張GIF";
 "lng_local_storage_media" = "媒體快取";
 "lng_local_storage_size_limit" = "總大小限制：{size}";
 "lng_local_storage_media_limit" = "媒體快取限制：{size}";
@@ -460,7 +566,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_local_storage_limit_never" = "永不";
 "lng_local_storage_summary" = "總計";
 "lng_local_storage_clear_some" = "清除";
-"lng_local_storage_clear" = "清除所有";
+"lng_local_storage_clear" = "全部清除";
 "lng_local_storage_clearing" = "清除中…";
 
 "lng_settings_section_advanced_settings" = "進階設定";
@@ -481,11 +587,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passcode_autolock_minutes#other" = "{count} 分鐘";
 
 "lng_passcode_autolock_hours#other" = "{count} 小時";
+"lng_passcode_autolock_hours_minutes" = "{hours_count}時 {minutes_count}分";
 "lng_passcode_enter_old" = "施展魔法目前ㄉ密語";
 "lng_passcode_enter_first" = "施展魔法密語";
 "lng_passcode_enter_new" = "施展魔法新密語";
-"lng_passcode_confirm_new" = "再施展魔法一次新密語";
-"lng_passcode_about" = "設定本機密語後，鎖形圖示會顯示在聊天清單ㄉ頂端。點擊它以鎖定 Telegram Desktop。\n\n注意：如果尼忘記ㄌ本機密語，則尼需要登出 Telegram Desktop，然後重新登入。";
+"lng_passcode_confirm_new" = "再次施展魔法新密語";
+"lng_passcode_about" = "設定本機密語後，鎖形圖示會顯示在聊天列表ㄉ頂端。點擊它以鎖定 Telegram Desktop。\n\n注意：如果尼忘記ㄌ本機密語，則尼需要登出 Telegram Desktop，然後重新登入。";
 "lng_passcode_differ" = "密語不一致";
 "lng_passcode_wrong" = "密語錯誤";
 "lng_passcode_is_same" = "新舊密語不能相同";
@@ -502,10 +609,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_remove" = "炸毀雲端密語";
 "lng_cloud_password_set" = "啟用兩步驟驗證";
 "lng_cloud_password_edit" = "變更雲端密語";
+"lng_cloud_password_reset_in" = "多久後重置密語";
+"lng_cloud_password_reset_ready" = "重置密語";
+"lng_cloud_password_reset_cancel" = "取消密語重置";
 "lng_cloud_password_enter_old" = "施展魔法目前ㄉ密語";
 "lng_cloud_password_enter_first" = "施展魔法密語";
 "lng_cloud_password_enter_new" = "施展魔法新密語";
-"lng_cloud_password_confirm_new" = "再施展魔法一次新密語";
+"lng_cloud_password_confirm_new" = "再次施展魔法新密語";
 "lng_cloud_password_hint" = "新增密語提示";
 "lng_cloud_password_change_hint" = "施展魔法新密語提示";
 "lng_cloud_password_bad" = "密語和提示不可以一樣。";
@@ -514,7 +624,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_about" = "當尼在新魔法器要登入時，除ㄌ飛鴿傳書精靈密語之外，這組密語將被要求施展魔法。";
 "lng_cloud_password_about_recover" = "警告！尼確定不想加入備援電子信箱？\n\n如果忘記ㄌ密語，尼將無法存取尼ㄉ Telegram 靈魂。";
 "lng_cloud_password_skip_email" = "略過電子信箱";
-"lng_cloud_password_almost" = "確認傳送器已煉成至\n尼提供ㄉ電子郵件地址。打開該傳送器後，魔法器會立即為尼ㄉ靈魂啟用兩步驟驗證。";
+"lng_cloud_password_almost" = "確認傳送器已煉成至\n尼提供ㄉ電子郵件地址。開啟該傳送器後，魔法器會立即為尼ㄉ靈魂啟用兩步驟驗證。";
 "lng_cloud_password_was_set" = "兩步驟驗證已啟用。";
 "lng_cloud_password_updated" = "尼ㄉ雲端密語更新ㄌ。";
 "lng_cloud_password_removed" = "已停用兩步驟驗證。";
@@ -524,6 +634,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_passport_losing" = "警告！所有已儲存在尼 Telegram Passport 中ㄉ資料將流失。";
 "lng_cloud_password_resend" = "重傳精靈密語";
 "lng_cloud_password_resent" = "精靈密語已重新煉成。";
+"lng_cloud_password_reset_title" = "重置密語";
+"lng_cloud_password_reset_no_email" = "由於尼在設定密語時沒有提供備援電子信箱，尼剩下ㄉ選擇是記住密語或等待 7 天直到密語被重置。";
+"lng_cloud_password_reset_with_email" = "如果尼無權存取備援電子信箱，剩下ㄉ選擇是記住密語或等待 7 天直到密語重置。";
+"lng_cloud_password_reset_ok" = "重置";
+"lng_cloud_password_reset_cancel_title" = "取消重置";
+"lng_cloud_password_reset_cancel_sure" = "取消密語重置過程？如果尼稍後要求一個新ㄉ重置，它將花費另外ㄉ 7 天。";
+"lng_cloud_password_reset_later" = "尼最近密語重置ㄉ請求已被取消。請在發出新請求之前等待 {duration}。";
 
 "lng_connection_auto_connecting" = "預設（魔力連接中…）";
 "lng_connection_auto" = "預設 (使用{transport} )";
@@ -562,10 +679,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_address_label" = "連線";
 "lng_proxy_credentials_optional" = "認證（選填）";
 "lng_proxy_credentials" = "認證";
-"lng_proxy_description" = "此處會顯示尼已儲存ㄉ Proxy 清單。";
+"lng_proxy_description" = "此處會顯示尼已儲存ㄉ Proxy 列表。";
 "lng_proxy_sponsor" = "Proxy 贊助商";
-"lng_proxy_sponsor_about" = "此大聲公是由尼使用ㄉ Proxy 所顯示。要從聊天清單中炸毀此大聲公，請在「設定」中停用該 Proxy。";
-"lng_proxy_sponsor_warning" = "此 Proxy 可能會在尼ㄉ聊天清單中顯示贊助商ㄉ大聲公。這不會洩露任何尼ㄉ Telegram 通訊內容。";
+"lng_proxy_sponsor_about" = "此大聲公是由尼使用ㄉ Proxy 所附加ㄉ。要從聊天列表中炸毀它，尼必須在「設定」中停用該 Proxy。";
+"lng_proxy_sponsor_warning" = "此 Proxy 可能會在尼ㄉ聊天列表中顯示贊助商ㄉ大聲公。這不會洩露任何尼ㄉ Telegram 通訊內容。";
+"lng_badge_psa_default" = "PSA";
+"lng_about_psa_default" = "此水晶玉為尼提供一個公共服務公告。要將它從聊天列表中炸毀，請用右鍵點擊它，然後選擇**隱藏**。";
+"lng_tooltip_psa_default" = "此水晶玉為尼提供一個公共服務公告。";
 
 "lng_settings_blocked_users" = "魔障屏蔽名單";
 "lng_settings_no_blocked_users" = "無";
@@ -574,10 +694,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_destroy_if" = "保留";
 "lng_settings_change_phone" = "變更魔法器號碼";
 
+"lng_settings_terminate_title" = "以小精靈選擇登出舊魔法器";
+"lng_settings_terminate_if" = "如果閒置達…";
 "lng_settings_reset" = "登出其他ㄉ魔法器";
 "lng_settings_reset_sure" = "尼確定要將其他魔法器登出？";
 "lng_settings_reset_one_sure" = "尼想要登出這個魔法器嗎？";
 "lng_settings_reset_button" = "登出";
+"lng_settings_rename_device" = "改變名稱";
+"lng_settings_device_name" = "魔法器名稱";
+"lng_settings_rename_device_title" = "改變此魔法器名稱";
 "lng_settings_manage_local_storage" = "管理本機儲存";
 "lng_settings_ask_question" = "窩有問題";
 "lng_settings_ask_sure" = "請注意，Telegram ㄉ技術支援是由魔法圖書館提供。窩們會試著盡快回覆，但還是需要一點時間。\n\n請看看「常見問題」：其中有重要ㄉ疑難排解提示，並且回答ㄌ大多數問題。";
@@ -590,13 +715,21 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_need_restart" = "尼需要重啟本魔法器以套用新設定。現在就重新啟動嗎？";
 "lng_settings_restart_now" = "重新啟動";
 
-"lng_sessions_header" = "目前使用ㄉ魔法器";
+"lng_sessions_header" = "此魔法器";
 "lng_sessions_other_header" = "已登入ㄉ魔法器";
 "lng_sessions_other_desc" = "尼可以使用相同ㄉ魔法器號碼，從其它魔法器、平板電腦和桌面電腦登入 Telegram 。尼ㄉ所有資料將立即同步。";
 "lng_sessions_terminate_all" = "登出其他ㄉ魔法器";
 "lng_sessions_terminate_all_about" = "將其他魔法器登出，只保留目前使用ㄉ。";
 "lng_sessions_incomplete" = "未好惹ㄉ登入嘗試";
 "lng_sessions_incomplete_about" = "上述魔法器無法存取尼ㄉ水晶玉。精靈密語施展魔法正確，但沒有提供正確ㄉ密語。";
+"lng_sessions_info" = "魔法書";
+"lng_sessions_terminate" = "登出";
+"lng_sessions_application" = "魔法器";
+"lng_sessions_system" = "魔法器版本";
+"lng_sessions_ip" = "IP 位址";
+"lng_sessions_location" = "位置";
+"lng_sessions_location_about" = "此位置僅基於 IP 位址，可能並不準確。";
+"lng_sessions_about_apps" = " 官方版 Telegram 魔法器適用於 iPhone、iPad、Android、macOS、Windows 和 Linux。";
 
 "lng_blocked_list_title" = "魔障屏蔽名單";
 "lng_blocked_list_unknown_phone" = "沒有魔法識別編號";
@@ -611,7 +744,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_blocked_list_confirm_clear" = "炸毀此聊天";
 "lng_blocked_list_confirm_ok" = "魔障屏蔽";
 
-"lng_edit_privacy_everyone" = "所有人";
+"lng_edit_privacy_everyone" = "每個人";
 "lng_edit_privacy_contacts" = "窩ㄉ同伴";
 "lng_edit_privacy_nobody" = "沒有人";
 "lng_edit_privacy_exceptions" = "新增例外";
@@ -622,16 +755,19 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_edit_privacy_phone_number_title" = "魔法器號碼";
 "lng_edit_privacy_phone_number_header" = "誰可以看見窩ㄉ魔法器號碼？";
-"lng_edit_privacy_phone_number_warning" = "已將尼ㄉ魔法器號碼存在其魔法器聯絡魔法書中ㄉ魔法師也將在 Telegram 上看到該號碼。";
+"lng_edit_privacy_phone_number_warning" = "將尼ㄉ號碼加入到魔法器聯絡魔法書ㄉ魔法師也將在 Telegram 上看到它。";
 "lng_edit_privacy_phone_number_always_empty" = "總是與誰分享";
 "lng_edit_privacy_phone_number_never_empty" = "永不與誰分享";
 "lng_edit_privacy_phone_number_exceptions" = "這些設定將覆蓋上述值。";
 "lng_edit_privacy_phone_number_always_title" = "總是與誰分享";
 "lng_edit_privacy_phone_number_never_title" = "永不與誰分享";
 
+"lng_edit_privacy_phone_number_find" = " 誰可以透過窩ㄉ魔法器號碼找到窩？";
+"lng_edit_privacy_phone_number_contacts" = "將尼ㄉ號碼加入到魔法器聯絡魔法書ㄉ魔法師只有在他們是尼ㄉ同伴時，才會在 Telegram 上看到它。";
+
 "lng_edit_privacy_lastseen_title" = "最後施展魔法 & 在線上";
-"lng_edit_privacy_lastseen_header" = "誰可以看見窩最後施展魔法時間及目前在線上ㄉ狀態？";
-"lng_edit_privacy_lastseen_warning" = "尼不分享尼最後施展魔法時間及在線上ㄉ對象，他們ㄉ精確狀態尼也無法看見。取而代之ㄉ是，大概ㄉ最後施展魔法時間（不久前，一週內，一個月內）。";
+"lng_edit_privacy_lastseen_header" = "誰可以看見窩ㄉ最後施展魔法時間？";
+"lng_edit_privacy_lastseen_warning" = "尼不分享尼最後施展魔法時間及在線上狀態ㄉ對象，他們ㄉ尼也無法看見。取而代之ㄉ是，大概ㄉ時間（不久前，一週內，一個月內）。";
 "lng_edit_privacy_lastseen_always_empty" = "總是與誰分享";
 "lng_edit_privacy_lastseen_never_empty" = "永不與誰分享";
 "lng_edit_privacy_lastseen_exceptions" = "尼可以將個別魔法師或整個圈圈新增為例外，以覆蓋上面ㄉ設定。";
@@ -646,7 +782,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_groups_always_title" = "總是允許";
 "lng_edit_privacy_groups_never_title" = "永不允許";
 
-"lng_edit_privacy_calls_title" = "語音精靈耳";
+"lng_edit_privacy_calls_title" = "精靈耳";
 "lng_edit_privacy_calls_header" = "誰可以打精靈耳給窩？";
 "lng_edit_privacy_calls_always_empty" = "總是允許";
 "lng_edit_privacy_calls_never_empty" = "永不允許";
@@ -658,17 +794,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_calls_p2p_header" = "與誰精靈耳使用蹦比蹦傳輸？";
 "lng_edit_privacy_calls_p2p_always_empty" = "總是允許";
 "lng_edit_privacy_calls_p2p_never_empty" = "永不允許";
-"lng_edit_privacy_calls_p2p_exceptions" = "無論上述設定如何，蹦比蹦ㄉ精靈耳都將會或不會與這些魔法師一起使用。";
+"lng_edit_privacy_calls_p2p_exceptions" = "無論上述設定如何，與這些魔法師在精靈耳中都將使用或不使用蹦比蹦傳輸。";
 "lng_edit_privacy_calls_p2p_always_title" = "總是允許";
 "lng_edit_privacy_calls_p2p_never_title" = "永不允許";
 
-"lng_edit_privacy_calls_p2p_everyone" = "所有人";
+"lng_edit_privacy_calls_p2p_everyone" = "每個人";
 "lng_edit_privacy_calls_p2p_contacts" = "窩ㄉ同伴";
 "lng_edit_privacy_calls_p2p_nobody" = "沒有人";
 
 "lng_edit_privacy_forwards_title" = "轉傳水晶玉";
-"lng_edit_privacy_forwards_header" = "誰可以在轉傳窩ㄉ水晶玉時加入窩ㄉ靈魂傳送器？";
-"lng_edit_privacy_forwards_warning" = "尼傳ㄉ水晶玉被其他魔法師轉傳時不會傳送器回尼ㄉ靈魂。";
+"lng_edit_privacy_forwards_header" = "誰可以在轉傳窩ㄉ水晶玉時附加窩ㄉ靈魂傳送器？";
+"lng_edit_privacy_forwards_warning" = "尼可以選擇所傳ㄉ水晶玉被其他魔法師轉傳時，是否可以傳送器回尼ㄉ靈魂。";
 "lng_edit_privacy_forwards_always_empty" = "總是允許";
 "lng_edit_privacy_forwards_never_empty" = "永不允許";
 "lng_edit_privacy_forwards_exceptions" = "這些設定將覆蓋上述值。";
@@ -688,7 +824,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_profile_photo_never_title" = "永不允許";
 
 "lng_self_destruct_title" = "靈魂保留期限";
-"lng_self_destruct_description" = "尼在這段期間內至少要施展魔法一次，否則尼ㄉ靈魂將被炸毀，尼也將失去所有ㄉ圈圈、水晶玉及同伴。";
+"lng_self_destruct_description" = "尼在這段時間內至少要施展魔法一次，否則尼ㄉ靈魂將被炸毀，尼也將失去所有聊天紀錄和同伴。";
+"lng_self_destruct_sessions_title" = "閒置時間";
+"lng_self_destruct_sessions_description" = "如果尼在這段時間都沒有從特定魔法器中施展魔法至少一次，那麼該魔法器將被登出。";
+
+"lng_self_destruct_weeks#other" = "{count} 週";
 
 "lng_self_destruct_months#other" = "{count} 個月";
 
@@ -696,7 +836,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_change_phone_title" = "變更魔法器號碼";
 "lng_change_phone_about" = "尼可以在此處變更尼ㄉ Telegram 所綁定ㄉ魔法器號碼。尼ㄉ靈魂和所有雲端資料 - 水晶玉、媒體、同伴魔法書等將被移動到新ㄉ號碼。";
-"lng_change_phone_warning" = "若尼ㄉ Telegram 同伴有尼ㄉ舊號碼且未被尼在 Telegram 中魔障屏蔽，他們將取得尼ㄉ新號碼，並加入到他們ㄉ魔法器聯絡魔法書中。";
+"lng_change_phone_warning" = "如果魔法師魔法器同伴中有尼ㄉ新號碼，或者尼ㄉ隱私設定允許他們看到，則魔法師將看到尼ㄉ新號碼。尼可以在「設定」>「隱私和安全」>「魔法器號碼」中進行修改。";
 "lng_change_phone_occupied" = "號碼 {phone} 已綁定某個 Telegram 靈魂。遷移到新號碼之前，請炸毀該靈魂。";
 "lng_change_phone_button" = "變更號碼";
 "lng_change_phone_new_title" = "施展魔法新號碼";
@@ -721,19 +861,20 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_bot_help" = "使魔說明";
 "lng_profile_bot_privacy" = "Bot 隱私權政策";
 "lng_profile_invite_link_section" = "傳送器";
-"lng_profile_create_public_link" = "建立永久傳送器";
-"lng_profile_edit_public_link" = "竄改永久傳送器";
+"lng_profile_create_public_link" = "建立公開傳送器";
+"lng_profile_edit_public_link" = "竄改公開傳送器";
 "lng_profile_search_members" = "找找魔法師";
 
 "lng_profile_common_groups#other" = "{count} 個共同ㄉ圈圈";
 "lng_profile_participants_section" = "魔法師";
+"lng_profile_subscribers_section" = "訂閱者";
 "lng_profile_mobile_number" = "魔法器號碼：";
 "lng_profile_username" = "魔法識別編號：";
 "lng_profile_link" = "傳送器：";
-"lng_profile_bio" = "魔法師簽名：";
-"lng_profile_add_contact" = "新增同伴";
+"lng_profile_bio" = "個人魔法書：";
+"lng_profile_add_contact" = "加為同伴";
 "lng_profile_edit_contact" = "竄改";
-"lng_profile_clear_and_exit" = "退出圈圈";
+"lng_profile_clear_and_exit" = "炸毀並退出";
 "lng_profile_leave_channel" = "退出大聲公";
 "lng_profile_delete_channel" = "炸毀大聲公";
 "lng_profile_leave_group" = "退出圈圈";
@@ -746,7 +887,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_delete_contact" = "炸毀";
 "lng_profile_set_group_photo" = "設定照片";
 "lng_profile_add_participant" = "新增魔法師";
+"lng_profile_add_via_link" = "透過傳送器來邀請";
 "lng_profile_view_channel" = "查看大聲公";
+"lng_profile_view_discussion" = "瀏覽討論群";
 "lng_profile_join_channel" = "加入大聲公";
 "lng_profile_join_group" = "加入圈圈";
 "lng_profile_delete_and_exit" = "退出";
@@ -760,6 +903,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_photos#other" = "{count} 張照片";
 "lng_profile_photos_header" = "照片";
 
+"lng_profile_gifs#other" = "{count} 張GIF";
+"lng_profile_gifs_header" = "GIF";
+
 "lng_profile_videos#other" = "{count} 個影片";
 "lng_profile_videos_header" = "影片";
 
@@ -770,17 +916,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_files_header" = "玉石";
 
 "lng_profile_audios#other" = "{count} 則語音水晶玉";
-//"lng_profile_rounds#one" = "{count} video message";
-//"lng_profile_rounds#other" = "{count} video messages";
 "lng_profile_audios_header" = "語音水晶玉";
 
 "lng_profile_shared_links#other" = "{count} 個傳送器";
 "lng_profile_shared_links_header" = "共享ㄉ傳送器";
 "lng_profile_copy_phone" = "複製魔法器號碼";
 "lng_profile_copy_fullname" = "複製名稱";
-"lng_profile_drop_area_title" = "將尼ㄉ圖片拖放至此處";
-"lng_profile_drop_area_subtitle" = "以設定為圈圈照片";
-"lng_profile_drop_area_subtitle_channel" = "以設定為大聲公照片";
+"lng_profile_drop_area_title" = "將尼ㄉ圖片拖放到這裡";
+"lng_profile_drop_area_subtitle" = "以設定為圈圈大頭貼";
+"lng_profile_drop_area_subtitle_channel" = "以設定為大聲公大頭貼";
 "lng_profile_top_bar_share_contact" = "分享";
 
 "lng_profile_info_section" = "魔法書";
@@ -788,7 +932,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_info_mobile_label" = "魔法器號碼";
 "lng_info_mobile_hidden" = "隱藏";
 "lng_info_username_label" = "魔法識別編號";
-"lng_info_bio_label" = "魔法師簽名";
+"lng_info_bio_label" = "個人魔法書";
 "lng_info_link_label" = "傳送器";
 "lng_info_location_label" = "位置";
 "lng_info_about_label" = "魔法書";
@@ -801,6 +945,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_info_add_as_contact" = "加為同伴";
 "lng_profile_shared_media" = "共享ㄉ媒體";
 "lng_media_type_photos" = "照片";
+"lng_media_type_gifs" = "GIF";
 "lng_media_type_videos" = "影片";
 "lng_media_type_songs" = "音訊檔";
 "lng_media_type_files" = "玉石";
@@ -808,11 +953,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_media_type_links" = "共享ㄉ傳送器";
 "lng_media_type_rounds" = "視訊水晶玉";
 "lng_profile_common_groups_section" = "共同ㄉ圈圈";
-"lng_profile_share_contact" = "分享聯絡魔法書";
+"lng_profile_share_contact" = "分享同伴";
 "lng_info_edit_contact" = "竄改同伴名稱";
 "lng_info_delete_contact" = "炸毀同伴";
-"lng_info_share_contact" = "分享聯絡魔法書";
-"lng_profile_clear_history" = "清空聊天紀錄";
+"lng_info_share_contact" = "分享此同伴";
+"lng_profile_clear_history" = "清除聊天紀錄";
 "lng_profile_delete_conversation" = "炸毀聊天";
 "lng_profile_block_user" = "魔障屏蔽魔法師";
 "lng_profile_unblock_user" = "解除魔障屏蔽魔法師";
@@ -821,6 +966,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_media_selected_photo#other" = "{count} 張照片";
 
+"lng_media_selected_gif#other" = "{count} 張GIF";
+
 "lng_media_selected_video#other" = "{count} 個影片";
 
 "lng_media_selected_song#other" = "{count} 個音訊檔";
@@ -828,11 +975,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_media_selected_file#other" = "{count} 個玉石";
 
 "lng_media_selected_audio#other" = "{count} 則語音水晶玉";
-//"lng_media_selected_round#one" = "{count} Video message";
-//"lng_media_selected_round#other" = "{count} Video messages";
 
 "lng_media_selected_link#other" = "{count} 個共享傳送器";
 "lng_media_photo_empty" = "這裡還沒有照片";
+"lng_media_gif_empty" = "這裡還沒有GIF";
 "lng_media_video_empty" = "這裡還沒有影片";
 "lng_media_song_empty" = "這裡還沒有音樂檔";
 "lng_media_file_empty" = "這裡還沒有玉石";
@@ -848,60 +994,101 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_manage_channel_info" = "大聲公魔法書";
 "lng_manage_peer_recent_actions" = "魔法日誌";
 "lng_manage_peer_members" = "魔法師";
+"lng_manage_peer_subscribers" = "訂閱者";
 "lng_manage_peer_administrators" = "祭司";
 "lng_manage_peer_exceptions" = "例外";
-"lng_manage_peer_removed_users" = "被炸毀ㄉ魔法師";
+"lng_manage_peer_removed_users" = "已炸毀ㄉ魔法師";
 "lng_manage_peer_permissions" = "權限";
+"lng_manage_peer_invite_links" = "傳送器";
+"lng_manage_peer_reactions" = "表情符號反應";
+"lng_manage_peer_reactions_off" = "關閉";
+"lng_manage_peer_requests" = "加入申請";
+"lng_manage_peer_requests_channel" = "加入申請";
+
+"lng_manage_peer_reactions_enable" = "啟用表情符號反應";
+"lng_manage_peer_reactions_about" = "允許魔法師對圈圈水晶玉做出反應。";
+"lng_manage_peer_reactions_about_channel" = "允許訂閱者對大聲公貼文做出反應。";
+"lng_manage_peer_reactions_available" = "可用ㄉ反應";
 
 "lng_manage_peer_group_type" = "圈圈類型";
 "lng_manage_peer_channel_type" = "大聲公類型";
 "lng_manage_peer_link_type" = "傳送器類型";
 "lng_manage_peer_link_permanent" = "永久傳送器";
 "lng_manage_peer_link_invite" = "傳送器";
+"lng_manage_peer_link_expired" = "過期ㄉ傳送器";
 "lng_manage_private_group_title" = "私人";
 "lng_manage_public_group_title" = "公開";
 "lng_manage_private_peer_title" = "私人";
 "lng_manage_public_peer_title" = "公開";
+"lng_manage_peer_no_forwards_title" = "儲存內容";
+"lng_manage_peer_no_forwards" = "限制儲存內容";
+"lng_manage_peer_no_forwards_about" = "若開啟此選項，魔法師將無法從此圈圈複製、儲存和轉傳內容。";
+"lng_manage_peer_no_forwards_about_channel" = "若開啟此選項，訂閱者將無法從此大聲公複製、儲存和轉傳內容。";
 
-"lng_manage_discussion_group" = "討論群";
-"lng_manage_discussion_group_add" = "新增圈圈";
-"lng_manage_linked_channel" = "已傳送器ㄉ大聲公";
-"lng_manage_linked_channel_restore" = "恢復已傳送器ㄉ大聲公";
-"lng_manage_discussion_group_about" = "選擇一個用於討論ㄉ圈圈，它將會顯示在尼ㄉ大聲公中。";
-"lng_manage_discussion_group_about_chosen" = "所有訂閱者會在大聲公底部看到一個指向「{group}」ㄉ傳送器。";
+"lng_manage_discussion_group" = "討論";
+"lng_manage_discussion_group_add" = "新增";
+"lng_manage_linked_channel" = "綁定ㄉ大聲公";
+"lng_manage_linked_channel_restore" = "恢復綁定ㄉ大聲公";
+"lng_manage_discussion_group_about" = "選擇要在尼大聲公中顯示ㄉ討論群。";
+"lng_manage_discussion_group_about_chosen" = "所有人可以經由大聲公魔法書頁進入「{group}」討論群。";
 "lng_manage_discussion_group_create" = "建立新圈圈";
-"lng_manage_discussion_group_unlink" = "取消傳送器圈圈";
+"lng_manage_discussion_group_unlink" = "取消圈圈綁定";
 "lng_manage_discussion_group_posted" = "尼在大聲公中發布ㄉ所有內容都將被轉傳到此圈圈。";
-"lng_manage_discussion_group_sure" = "尼想讓「{group}」成為「{channel}」大聲公ㄉ討論區嗎？";
-"lng_manage_linked_channel_private" = "該圈圈ㄉ任何魔法師都可以查看大聲公中ㄉ水晶玉。";
-"lng_manage_discussion_group_private" = "來自大聲公ㄉ任何人都可以查看此圈圈中ㄉ水晶玉。";
-"lng_manage_discussion_group_link" = "傳送器圈圈";
+"lng_manage_discussion_group_sure" = "尼想讓「{group}」成為大聲公「{channel}」ㄉ討論區嗎？";
+"lng_manage_linked_channel_private" = "此圈圈ㄉ任何魔法師將能夠看到大聲公中ㄉ所有水晶玉。";
+"lng_manage_discussion_group_private" = "來自大聲公ㄉ任何人都可以看到此圈圈中ㄉ水晶玉。";
+"lng_manage_discussion_group_link" = "綁定圈圈";
 "lng_manage_linked_channel_private_status" = "私人大聲公";
 "lng_manage_discussion_group_private_status" = "私人圈圈";
-"lng_manage_linked_channel_about" = "「{channel}」傳送器本圈圈以作為它ㄉ討論區。";
-"lng_manage_linked_channel_unlink" = "取消傳送器大聲公";
+"lng_manage_linked_channel_about" = "「{channel}」綁定ㄌ本圈圈以作為它ㄉ討論區。";
+"lng_manage_linked_channel_unlink" = "取消大聲公綁定";
 "lng_manage_linked_channel_posted" = "此大聲公中發布ㄉ所有新水晶玉都將轉傳到圈圈。";
-"lng_manage_discussion_group_warning" = "\"新魔法師加入前ㄉ舊水晶玉\" 將切換為 \"{visible}\"。";
+"lng_manage_discussion_group_warning" = "「新魔法師加入前ㄉ舊水晶玉」將切換為**顯示**。";
 
 "lng_manage_history_visibility_title" = "新魔法師加入前ㄉ舊水晶玉";
 "lng_manage_history_visibility_shown" = "顯示";
-"lng_manage_history_visibility_shown_about" = "新魔法師可以看到加入前ㄉ水晶玉。";
+"lng_manage_history_visibility_shown_about" = "新魔法師可以看到加入前ㄉ舊水晶玉。";
 "lng_manage_history_visibility_hidden" = "隱藏";
 "lng_manage_history_visibility_hidden_about" = "新魔法師無法看到加入前ㄉ舊水晶玉。";
 "lng_manage_history_visibility_hidden_legacy" = "新魔法師不會看到超過 100 則加入前ㄉ水晶玉。";
+
+"lng_manage_messages_ttl_title" = "以小精靈選擇炸毀水晶玉";
+"lng_manage_messages_ttl_never" = "關閉";
+"lng_manage_messages_ttl_after1" = "1天";
+"lng_manage_messages_ttl_after2" = "1週";
+"lng_manage_messages_ttl_after3" = "1個月";
+
+"lng_ttl_edit_about" = "新水晶玉將在指定時間後以小精靈選擇為尼和 {user} 炸毀。";
+"lng_ttl_edit_about_group" = "每則新水晶玉在一段時間後會被以小精靈選擇炸毀。";
+"lng_ttl_edit_about_channel" = "每則新水晶玉在一段時間後會被以小精靈選擇炸毀。";
+"lng_ttl_edit_save" = "確認";
+"lng_ttl_about_tooltip" = "此聊天中ㄉ新水晶玉將在{duration}之後以小精靈選擇炸毀。";
+"lng_ttl_about_tooltip_channel" = "此聊天中ㄉ新水晶玉將在{duration}之後以小精靈選擇炸毀。";
+"lng_ttl_about_tooltip_off" = "以小精靈選擇炸毀現在已停用。";
+"lng_ttl_about_duration1" = "1天";
+"lng_ttl_about_duration2" = "1週";
+"lng_ttl_about_duration3" = "1個月";
 
 "lng_report_title" = "檢舉大聲公";
 "lng_report_group_title" = "檢舉圈圈";
 "lng_report_bot_title" = "檢舉使魔";
 "lng_report_message_title" = "檢舉水晶玉";
+"lng_report_please_select_messages" = "請選擇要檢舉ㄉ水晶玉。";
+"lng_report_select_messages" = "選擇水晶玉";
+"lng_report_messages_none" = "選擇水晶玉";
+
+"lng_report_messages_count#other" = "檢舉 {count} 則水晶玉";
+"lng_report_details_about" = "請施展魔法與尼ㄉ檢舉相關ㄉ其他詳細魔法書。";
+"lng_report_details" = "其他詳細魔法書";
 "lng_report_reason_spam" = "垃圾水晶玉";
+"lng_report_reason_fake" = "假靈魂";
 "lng_report_reason_violence" = "暴力";
 "lng_report_reason_child_abuse" = "危害兒童";
 "lng_report_reason_pornography" = "色情";
 "lng_report_reason_other" = "其他";
 "lng_report_reason_description" = "描述";
 "lng_report_button" = "檢舉";
-"lng_report_thanks" = "感謝尼！尼ㄉ檢舉將很快被窩們ㄉ團隊進行審查。";
+"lng_report_thanks" = "感謝！尼ㄉ檢舉將由窩們ㄉ小組進行審查。";
 
 "lng_channel_add_members" = "新增魔法師";
 "lng_channel_add_users" = "新增魔法師";
@@ -909,7 +1096,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_add_exception" = "新增例外";
 "lng_channel_admins" = "祭司";
 "lng_channel_add_admin" = "新增祭司";
-"lng_channel_admin_status_creator" = "創立者";
+"lng_channel_admin_status_creator" = "擁有者";
 "lng_channel_admin_status_promoted_by" = "由 {user} 任命";
 "lng_channel_admin_status_not_admin" = "不是祭司";
 "lng_channel_banned_status_restricted_by" = "被 {user} 限制";
@@ -923,14 +1110,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chat_about_admins" = "圈圈祭司可以新增及炸毀魔法師，竄改圈圈名稱和照片。";
 
 "lng_participant_filter" = "找找";
-"lng_participant_invite" = "邀請";
+"lng_participant_invite" = "新增";
 
-"lng_participant_invite_sorry#other" = "抱歉，尼個人只能在魔法師未滿 {count} 人前，可以手動將新魔法師加入大聲公。\n\n從現在開始，人們將需要透過尼ㄉ傳送器加入。";
+"lng_participant_invite_sorry#other" = "抱歉，大聲公ㄉ前 {count} 位訂閱者尼可以使用手動ㄉ方式將其加入，更多則不行。但是，透過大聲公ㄉ傳送器，則沒有限制可加入ㄉ人數。";
 "lng_create_group_back" = "返回";
 "lng_create_group_next" = "下一步";
 "lng_create_group_create" = "建立";
-"lng_create_group_title" = "新建圈圈";
-"lng_create_channel_title" = "新建大聲公";
+"lng_create_group_title" = "建立圈圈";
+"lng_create_channel_title" = "建立大聲公";
 "lng_create_public_channel_title" = "公開大聲公";
 "lng_create_public_channel_about" = "任何人都可以透過找找加入大聲公";
 "lng_create_private_channel_title" = "私人大聲公";
@@ -938,10 +1125,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_create_public_group_title" = "公開圈圈";
 "lng_create_public_group_about" = "任何人都可以透過找找找到這個圈圈並且加入，而聊天紀錄每個人都看得見";
 "lng_create_private_group_title" = "私人圈圈";
-"lng_create_private_group_about" = "只有獲得傳送器或被邀請ㄉ人，才可以加入";
+"lng_create_private_group_about" = "只有獲得傳送器或被邀請ㄉ人可以加入";
 "lng_create_permanent_link_title" = "永久傳送器";
 "lng_create_invite_link_title" = "傳送器";
-"lng_create_invite_link_about" = "人們可以加入，如果被邀請、有傳送器或透過「附近ㄉ圈圈」";
+"lng_create_invite_link_about" = "人們可以被加入，也可以透過傳送器或是「附近ㄉ圈圈」來加入";
 
 "lng_create_group_skip" = "略過";
 
@@ -954,25 +1141,31 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_create_channel_link_available" = "這個傳送器可以使用";
 "lng_create_channel_link_copied" = "傳送器已複製到剪貼簿";
 
-"lng_create_group_crop" = "選擇圈圈照片ㄉ範圍";
-"lng_create_channel_crop" = "選擇大聲公照片ㄉ範圍";
+"lng_create_group_crop" = "選擇圈圈大頭貼照ㄉ範圍";
+"lng_create_channel_crop" = "選擇大聲公大頭貼照ㄉ範圍";
 
 "lng_failed_add_participant" = "無法新增魔法師，請稍後再試。";
-"lng_failed_add_not_mutual" = "抱歉，如果某個人不再是某個圈圈ㄉ魔法師，則尼必須是他ㄉ Telegram 同伴才能將他加回來。\n\n請注意，只要他不在「被炸毀ㄉ魔法師」名單中，他仍可以透過圈圈ㄉ傳送器加入。";
-"lng_failed_add_not_mutual_channel" = "抱歉，如果有人退出ㄌ大聲公，尼必須是他ㄉ同伴才能夠把他加回來。";
+"lng_failed_add_not_mutual" = "抱歉，如果某人不再屬於某圈圈，你們彼此必須是同伴才能將其加回。\n\n請注意，只要他不在「已炸毀ㄉ魔法師」名單中，他仍然可以透過圈圈ㄉ傳送器加入。";
+"lng_failed_add_not_mutual_channel" = "抱歉，如果某人退出ㄌ大聲公，尼必須是他ㄉ Telegram 同伴才能將其加回。";
 
 "lng_sure_delete_contact" = "尼確定要從同伴名單中炸毀「{contact}」嗎？";
-"lng_sure_delete_history" = "尼確定要清空與 {contact} ㄉ所有聊天紀錄？\n\n這個操作無法撤銷。";
-"lng_sure_delete_group_history" = "尼確定要清空 «{group}» 圈圈中ㄉ所有聊天紀錄？\n\n這個操作無法撤銷。";
-"lng_sure_delete_and_exit" = "尼確定要退出這個名為 «{group}» ㄉ圈圈嗎？退出後，尼就看不到它原有ㄉ聊天紀錄ㄌ。\n\n這個操作無法撤銷。";
+"lng_sure_delete_history" = "尼確定要清空與 {contact} ㄉ所有聊天紀錄？\n\n此操作無法復原。";
+"lng_sure_delete_group_history" = "尼確定要清空 «{group}» 圈圈中ㄉ所有聊天紀錄？\n\n此操作無法復原。";
+"lng_sure_delete_and_exit" = "尼確定要退出這個名為 «{group}» ㄉ圈圈嗎？退出後，尼就看不到它原有ㄉ聊天紀錄ㄌ。\n\n此操作無法復原。";
 "lng_sure_leave_channel" = "尼確定要退出這個大聲公？";
-"lng_sure_delete_channel" = "尼確定要炸毀此大聲公？所有魔法師將被炸毀，而所有水晶玉將被炸毀。";
+"lng_sure_delete_channel" = "尼確定要炸毀此大聲公？所有訂閱者將被炸毀，而尼也將失去大聲公中ㄉ所有水晶玉。";
 "lng_sure_leave_group" = "尼確定要退出此圈圈嗎？";
 "lng_sure_delete_group" = "尼確定要炸毀這個圈圈？所有魔法師將被炸毀，並且所有水晶玉會被清空。";
-"lng_sure_delete_saved_messages" = "尼確定想要炸毀所有已儲存ㄉ水晶玉？\n\n這個操作無法撤銷。";
+"lng_sure_delete_saved_messages" = "尼確定想要炸毀所有已儲存ㄉ水晶玉？\n\n這個操作無法復原。";
+"lng_no_clear_history_channel" = "在大聲公中，尼可以啟用以小精靈選擇炸毀水晶玉功能。";
+"lng_no_clear_history_group" = "在公開圈圈中，尼可以啟用以小精靈選擇炸毀水晶玉功能。";
+"lng_sure_delete_by_date_one" = "尼確定要炸毀**{date}**ㄉ全部水晶玉嗎？";
+"lng_sure_delete_by_date_many" = "尼確定要炸毀**{days}**ㄉ全部水晶玉嗎？\n\n此操作無法撤銷。";
+
+"lng_sure_delete_selected_days#other" = "所選 {count} 天";
 
 "lng_message_empty" = "空水晶玉";
-"lng_message_unsupported" = "尼ㄉ Telegram Desktop 版本無法查看此水晶玉。\n請在「設定」中更新至最新版本，或是從這裡下載安裝：{link}";
+"lng_message_unsupported" = "尼ㄉ Telegram 版本不支援此水晶玉。請在「設定」>「進階」中更新為最新版本，或透過 {link} 安裝";
 
 
 "lng_duration_seconds#other" = "{count} 剎那";
@@ -982,6 +1175,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_duration_minsec_seconds#other" = "{count} 剎那";
 "lng_duration_minutes_seconds" = "{minutes_count} {seconds_count}";
 
+"lng_action_invite_user" = "{from} 邀請ㄌ {user} 加入{chat}";
+"lng_action_invite_users_many" = "{from} 邀請ㄌ {users} 加入{chat}";
+"lng_action_invite_user_chat" = "視訊聊天";
+"lng_action_invite_users_and_one" = "{accumulated}, {user}";
+"lng_action_invite_users_and_last" = "{accumulated} 和 {user}";
+"lng_action_group_call_started_group" = "{from} 發起ㄌ視訊聊天";
+"lng_action_group_call_started_channel" = "直播開始";
+"lng_action_group_call_scheduled_group" = "{from} 預約{date}視訊聊天";
+"lng_action_group_call_scheduled_channel" = "預定{date}進行直播";
+"lng_action_group_call_finished" = "直播結束 ({duration})";
+"lng_action_group_call_finished_group" = "{from} 結束ㄌ視訊聊天 ({duration})";
 "lng_action_add_user" = "{from} 邀請ㄌ {user}";
 "lng_action_add_users_many" = "{from} 邀請ㄌ {users}";
 "lng_action_add_users_and_one" = "{accumulated}、{user}";
@@ -993,14 +1197,23 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_user_left" = "{from} 退出ㄌ圈圈";
 "lng_action_user_joined" = "{from} 加入ㄌ圈圈";
 "lng_action_user_joined_by_link" = "{from} 透過傳送器加入ㄌ圈圈";
+"lng_action_user_joined_by_request" = "{from} 已獲准加入圈圈";
+"lng_action_you_joined_by_request" = "尼加入圈圈ㄉ申請已獲批准";
+"lng_action_you_joined_by_request_channel" = "尼加入大聲公ㄉ申請已獲批准";
 "lng_action_user_registered" = "{from} 加入ㄌ Telegram";
-"lng_action_removed_photo" = "{from} 炸毀ㄌ圈圈照片";
-"lng_action_removed_photo_channel" = "大聲公照片已炸毀";
-"lng_action_changed_photo" = "{from} 更新ㄌ圈圈照片";
-"lng_action_changed_photo_channel" = "大聲公照片已更新";
+"lng_action_removed_photo" = "{from} 炸毀ㄌ圈圈大頭貼";
+"lng_action_removed_photo_channel" = "大聲公大頭貼已炸毀";
+"lng_action_changed_photo" = "{from} 更新ㄌ圈圈大頭貼";
+"lng_action_changed_photo_channel" = "大聲公大頭貼已更新";
 "lng_action_changed_title" = "{from} 將圈圈名稱變更為 «{title}»";
 "lng_action_changed_title_channel" = "大聲公名稱變更為 «{title}»";
 "lng_action_created_chat" = "{from} 建立ㄌ «{title}» 圈圈";
+"lng_action_ttl_changed" = "{from} 設定新水晶玉在 {duration}後以小精靈選擇炸毀";
+"lng_action_ttl_changed_you" = "尼設定新水晶玉在{duration}後以小精靈選擇炸毀";
+"lng_action_ttl_changed_channel" = "新水晶玉將在{duration}後以小精靈選擇炸毀";
+"lng_action_ttl_removed" = "{from} 停用ㄌ以小精靈選擇炸毀炸彈";
+"lng_action_ttl_removed_you" = "尼停用ㄌ以小精靈選擇炸毀炸彈";
+"lng_action_ttl_removed_channel" = "新水晶玉將不再以小精靈選擇炸毀";
 "lng_action_created_channel" = "大聲公已建立";
 "lng_action_pinned_message" = "{from} 置頂ㄌ «{text}»";
 "lng_action_pinned_media" = "{from} 置頂ㄌ {media}";
@@ -1010,7 +1223,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_pinned_media_voice" = "一則語音水晶玉";
 "lng_action_pinned_media_video_message" = "一則視訊水晶玉";
 "lng_action_pinned_media_file" = "一個玉石";
-"lng_action_pinned_media_gif" = "一張動圖";
+"lng_action_pinned_media_gif" = "一張GIF";
 "lng_action_pinned_media_contact" = "一則聯絡魔法書";
 "lng_action_pinned_media_location" = "一個位置標記";
 "lng_action_pinned_media_sticker" = "一張貼圖";
@@ -1024,8 +1237,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_game_score_no_game#other" = "{from} 得到ㄌ {count} 分";
 
 "lng_action_game_you_scored_no_game#other" = "尼得到ㄌ {count} 分";
-"lng_action_payment_done" = "尼剛剛成功轉帳 {amount} 給 {user}";
-"lng_action_payment_done_for" = "尼已經成功為ㄌ {invoice} 將 {amount} 轉帳給 {user}";
+"lng_action_payment_done" = "尼成功地將 {amount} 轉給 {user}";
+"lng_action_payment_done_for" = "尼成功地為 {invoice} 將 {amount} 轉給 {user}";
 "lng_action_took_screenshot" = "{from} 擷取ㄌ螢幕畫面！";
 "lng_action_you_took_screenshot" = "尼擷取ㄌ螢幕畫面！";
 "lng_action_bot_allowed_from_domain" = "尼允許這個使魔在尼登入 {domain} 時向尼煉成水晶玉。";
@@ -1036,6 +1249,19 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_secure_proof_of_address" = "地址證明";
 "lng_action_secure_phone" = "魔法器號碼";
 "lng_action_secure_email" = "電子郵件地址";
+"lng_action_proximity_reached" = "{from} 現在距離 {user} 約 {distance}之內";
+"lng_action_proximity_reached_you" = "{from} 現在距離尼約 {distance}之內";
+"lng_action_you_proximity_reached" = "尼現在距離 {user} 約 {distance}之內";
+"lng_action_you_theme_changed" = "尼將聊天室主題玉石變更為 {emoji}";
+"lng_action_theme_changed" = "{from} 將聊天室主題玉石變更為 {emoji}";
+
+"lng_action_you_theme_disabled" = "尼停用ㄌ聊天室主題玉石";
+"lng_action_theme_disabled" = "{from} 停用ㄌ聊天室主題玉石";
+
+
+"lng_action_proximity_distance_m#other" = "{count} 公尺";
+
+"lng_action_proximity_distance_km#other" = "{count} 公里";
 
 "lng_ttl_photo_received" = "{from} 煉成ㄌ一張閱後即焚照片給尼。請在尼ㄉ魔法器上查看。";
 "lng_ttl_photo_sent" = "尼煉成ㄌ一張閱後即焚照片。";
@@ -1045,28 +1271,21 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_ttl_video_expired" = "影片已過期";
 
 
-"lng_profile_migrate_reached#other" = "達到ㄌ {count} 個魔法師限制";
+"lng_profile_migrate_reached#other" = "已達 {count} 位魔法師人數上限";
 "lng_profile_migrate_body" = "要加入更多魔法師，尼可以將尼ㄉ圈圈升級為超級圈圈。";
 "lng_profile_migrate_learn_more" = "ㄌ解更多 »";
 "lng_profile_migrate_button" = "轉換為超級圈圈";
-"lng_profile_convert_title" = "轉換為超級圈圈";
-"lng_profile_convert_feature1" = "— 可選擇是否讓新魔法師看到加入前ㄉ水晶玉紀錄";
-"lng_profile_convert_feature2" = "— 炸毀ㄉ水晶玉可從所有魔法師ㄉ魔法器中消失";
-"lng_profile_convert_feature3" = "— 祭司可以加一個魔法書到圈圈";
-"lng_profile_convert_feature4" = "— 擁有者可以為圈圈設定永久傳送器";
-"lng_profile_convert_warning" = "{bold_start}注意：{bold_end}這個操作無法撤銷";
-"lng_profile_convert_confirm" = "轉換";
-"lng_profile_add_more_after_create" = "尼建立圈圈後將可以新增更多魔法師。";
+"lng_profile_add_more_after_create" = "建立圈圈後，尼將可以加入更多魔法師。";
 
 "lng_channel_not_accessible" = "抱歉，此大聲公已無法存取。";
 "lng_group_not_accessible" = "抱歉，此圈圈已無法存取。";
 "lng_group_full" = "抱歉，此圈圈魔法師名額已滿。";
 
-"lng_channels_too_much_public_about" = "抱歉，尼已經建立ㄌ太多公開ㄉ傳送器。尼可以撤銷其中一個舊圈圈或大聲公ㄉ公開傳送器。";
-"lng_channels_too_much_public_revoke_confirm_group" = "尼確定要撤換傳送器 {link}？\n\n圈圈 «{group}» 將變成私人ㄉ。";
-"lng_channels_too_much_public_revoke_confirm_channel" = "尼確定要撤換傳送器 {link}？\n\n大聲公 «{group}» 將變成私人ㄉ。";
+"lng_channels_too_much_public_about" = "尼擁有太多公開ㄉ傳送器。試著撤掉一個舊圈圈或大聲公ㄉ公開傳送器，或者改為建立私人圈圈或大聲公。";
+"lng_channels_too_much_public_revoke_confirm_group" = "尼確定要撤銷傳送器 {link}？\n\n圈圈 «{group}» 將變成私人ㄉ。";
+"lng_channels_too_much_public_revoke_confirm_channel" = "尼確定要撤銷傳送器 {link}？\n\n大聲公 «{group}» 將變成私人ㄉ。";
 "lng_channels_too_much_public_revoke" = "撤銷";
-"lng_channels_too_much_public_other" = "抱歉，目標魔法師已經有太多ㄉ公開圈圈或大聲公。請先要求他們將現有ㄉ圈圈或大聲公之一改為私有。";
+"lng_channels_too_much_public_other" = "抱歉，目標魔法師已經有太多ㄉ公開圈圈或大聲公。請先要求對方將其現有ㄉ圈圈或大聲公之一改為私人ㄉ。";
 "lng_channels_too_much_located_other" = "抱歉，目標魔法師已經有太多基於位置ㄉ圈圈ㄌ。請先要求他們炸毀現有ㄉ一個。";
 
 "lng_group_invite_bad_link" = "此傳送器無效或已過期。";
@@ -1074,29 +1293,125 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 
 "lng_group_invite_members#other" = "{count} 位魔法師，其中包括：";
+"lng_channel_invite_private" = "這是私人大聲公。\n加入它才可以瀏覽內容。";
 
 "lng_group_invite_create" = "建立傳送器";
-"lng_group_invite_about" = "Telegram 魔法師可以透過此傳送器加入尼ㄉ圈圈。";
-"lng_group_invite_about_channel" = "Telegram 魔法師可以透過此傳送器加入尼ㄉ大聲公。";
-"lng_group_invite_create_new" = "撤換傳送器";
 "lng_group_invite_about_new" = "尼原本ㄉ傳送器將被停用，窩們會產生一個新ㄉ傳送器給尼。";
 "lng_group_invite_copied" = "傳送器已複製到剪貼簿。";
 "lng_group_invite_no_room" = "圈圈人數過多，無法加入。";
 
+"lng_group_invite_permanent" = "永久傳送器";
+"lng_group_invite_copy" = "複製傳送器";
+"lng_group_invite_share" = "分享傳送器";
+"lng_group_invite_revoke" = "撤銷傳送器";
+"lng_group_invite_reactivate" = "重新使用傳送器";
+"lng_group_invite_delete" = "炸毀傳送器";
+"lng_group_invite_no_joined" = "還沒有人加入";
+
+"lng_group_invite_joined#other" = "{count} 人已加入";
+
+"lng_group_invite_remaining#other" = "剩 {count} 個名額";
+
+"lng_group_invite_requested#other" = "{count} 人申請加入";
+
+"lng_group_invite_requested_full#other" = "{count} 人申請加入";
+
+"lng_group_invite_can_join#other" = "{count} 人可加入";
+
+"lng_group_invite_days_left#other" = "{count} 天後過期";
+"lng_group_invite_about_permanent_group" = "任何安裝ㄌ Telegram ㄉ人都可以透過點擊此傳送器加入尼ㄉ圈圈。";
+"lng_group_invite_about_permanent_channel" = "Telegram 上ㄉ任何人都可以透過點擊此傳送器加入尼ㄉ大聲公。";
+"lng_group_invite_manage" = "管理傳送器";
+"lng_group_invite_manage_about" = "尼可以建立有限制時間或使用次數ㄉ附加傳送器。";
+"lng_group_invite_title" = "傳送器";
+"lng_group_invite_add" = "建立一個新傳送器 ";
+"lng_group_invite_add_about" = "尼可以產生傳送器，這些傳送器在使用後將失效。";
+"lng_group_invite_expires_at" = "此傳送器有效日期為{when}。";
+"lng_group_invite_created_by" = "傳送器建立者";
+
+"lng_group_invite_links_count#other" = "{count} 個傳送器";
+"lng_group_invite_context_copy" = "複製";
+"lng_group_invite_context_share" = "分享";
+"lng_group_invite_context_edit" = "竄改";
+"lng_group_invite_context_qr" = "獲取 QR Code";
+"lng_group_invite_context_revoke" = "撤銷";
+"lng_group_invite_context_delete" = "炸毀";
+"lng_group_invite_context_delete_all" = "全部炸毀";
+"lng_group_invite_delete_sure" = "尼確定要炸毀該已撤銷ㄉ傳送器嗎？";
+"lng_group_invite_delete_all_sure" = "尼確定要炸毀所有已撤銷ㄉ傳送器嗎？此操作無法復原。";
+"lng_group_invite_revoked_title" = "已撤銷ㄉ傳送器";
+"lng_group_invite_revoke_about" = "尼確定要撤銷該傳送器？";
+"lng_group_invite_link_expired" = "已過期";
+"lng_group_invite_edit_title" = "竄改傳送器";
+"lng_group_invite_new_title" = "新傳送器";
+"lng_group_invite_label_header" = "傳送器名稱（可選）";
+"lng_group_invite_label_about" = "只有祭司會看到此名稱。";
+"lng_group_invite_expire_title" = "時間限制";
+"lng_group_invite_expire_about" = "尼可以讓傳送器在一段時間後失效。";
+"lng_group_invite_expire_never" = "無限制";
+"lng_group_invite_expire_custom" = "自訂";
+"lng_group_invite_usage_title" = " 人數限制";
+"lng_group_invite_usage_about" = "尼可以讓傳送器在使用一定次數後失效。";
+"lng_group_invite_expire_after" = "在以下條件之後失效";
+"lng_group_invite_custom_limit" = "施展魔法自訂次數";
+"lng_group_invite_usage_any" = "無限制";
+"lng_group_invite_usage_custom" = "自訂";
+"lng_group_invite_other_title" = "其他祭司建立ㄉ傳送器";
+
+"lng_group_invite_other_count#other" = "{count} 個傳送器";
+"lng_group_invite_permanent_other" = "此祭司ㄉ永久傳送器";
+"lng_group_invite_other_list" = "由此祭司建立ㄉ傳送器";
+"lng_group_invite_expired_about" = "此傳送器ㄉ時間限制已過期。";
+"lng_group_invite_used_about" = "此傳送器已達到它ㄉ使用限制。";
+
+"lng_group_invite_can_join_via_link#other" = "{count} 人可透過此傳送器加入。";
+"lng_group_invite_qr_title" = "透過 QR Code 邀請";
+"lng_group_invite_qr_about" = "Telegram 上ㄉ每個人都可以掃描此 QR Code 來加入尼ㄉ圈圈。";
+"lng_group_invite_qr_copied" = "QR Code 已復製到剪貼簿。";
+"lng_group_invite_request_approve" = "審核新魔法師";
+"lng_group_invite_about_approve" = "如果尼希望魔法師僅在獲得祭司批准後加入，請開啟此選項。";
+"lng_group_invite_about_no_approve" = "如果尼希望魔法師僅在獲得祭司批准後加入，請開啟此選項。";
+"lng_group_invite_about_approve_channel" = "如果尼希望魔法師僅在獲得祭司批准後加入，請開啟此選項。";
+"lng_group_invite_about_no_approve_channel" = "如果尼希望魔法師僅在獲得祭司批准後加入，請開啟此選項。";
+
+"lng_group_request_to_join" = "申請加入";
+"lng_group_request_about" = "此圈圈僅在其祭司批准後才接受新魔法師。";
+"lng_group_request_about_channel" = "此大聲公僅在祭司批准後才接受新訂閱者。";
+"lng_group_request_sent" = "一旦其祭司批准尼ㄉ申請，尼就會被加入到該圈圈中。";
+"lng_group_request_sent_channel" = "一旦其祭司批准尼ㄉ申請，尼就會被加入到該大聲公中。";
+
+"lng_group_requests_pending#other" = "{count} 人申請加入";
+"lng_group_requests_pending_user" = "{user} 申請加入";
+"lng_group_requests_status_today" = "申請加入（今天 {time}）";
+"lng_group_requests_status_yesterday" = "申請加入（昨天 {time}）";
+"lng_group_requests_status_date_time" = "申請加入（{date} ㄉ {time}）";
+"lng_group_requests_add" = "新增至圈圈";
+"lng_group_requests_add_channel" = "新增至大聲公";
+"lng_group_requests_dismiss" = "不同意";
+"lng_group_requests_was_added" = "{user} 已加入到圈圈中。";
+"lng_group_requests_was_added_channel" = "{user} 已加入到大聲公中。";
+"lng_group_requests_none" = "沒有待處理ㄉ入群申請。";
+"lng_group_requests_none_channel" = "沒有待處理ㄉ加入大聲公申請。";
+
 "lng_channel_public_link_copied" = "傳送器已複製到剪貼簿。";
-"lng_context_about_private_link" = "該傳送器只對此聊天室ㄉ魔法師有效。";
+"lng_context_about_private_link" = "此傳送器只對聊天室魔法師有效。";
 
 "lng_forwarded" = "轉傳自 {user}";
 "lng_forwarded_date" = "原始水晶玉：{date}";
 "lng_forwarded_channel" = "轉傳自 {channel}";
+"lng_forwarded_psa_default" = "轉傳自 {channel}";
 "lng_forwarded_via" = "轉傳自 {user} 透過 {inline_bot}";
 "lng_forwarded_channel_via" = "轉傳自 {channel} 透過 {inline_bot}";
 "lng_forwarded_signed" = "{channel} ({user})";
 "lng_forwarded_hidden" = "該靈魂被魔法師隱藏";
+
 "lng_signed_author" = "作者：{user}";
 "lng_in_reply_to" = "回覆";
+"lng_sponsored" = "贊助商水晶玉";
 "lng_edited" = "已竄改";
 "lng_edited_date" = "已竄改：{date}";
+"lng_sent_date" = "已煉成：{date}";
+
 "lng_admin_badge" = "祭司";
 "lng_owner_badge" = "擁有者";
 "lng_channel_badge" = "大聲公";
@@ -1124,16 +1439,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_media_auto_in_groups" = "在圈圈中";
 "lng_media_auto_in_channels" = "在大聲公中";
 "lng_media_auto_title" = "以小精靈選擇下載";
+"lng_media_auto_play" = "以小精靈選擇播放";
 "lng_media_photo_title" = "照片";
-"lng_media_video_title" = "影片檔";
-"lng_media_audio_title" = "語音水晶玉";
+"lng_media_video_title" = "影片";
 "lng_media_video_messages_title" = "圓形視訊水晶玉";
 "lng_media_file_title" = "玉石";
-"lng_media_music_title" = "音樂";
-"lng_media_animation_title" = "動圖";
+"lng_media_animation_title" = "GIF";
 "lng_media_size_limit" = "按大小限制";
 "lng_media_size_up_to" = "最多 {size}";
 "lng_media_chat_background" = "聊天室背景";
+"lng_media_color_theme" = "顏色主題玉石";
 
 "lng_emoji_category1" = "表情符號與人物";
 "lng_emoji_category2" = "動物與自然";
@@ -1152,6 +1467,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_recent_stickers" = "最近使用過";
 "lng_faved_stickers_add" = "加入到「最愛」";
 "lng_faved_stickers_remove" = "從「最愛」中炸毀";
+"lng_recent_stickers_remove" = "從「最近使用過」炸毀";
 "lng_group_stickers" = "圈圈貼圖";
 "lng_group_stickers_description" = "尼可以選擇一套貼圖包來給魔法師在聊天時使用。";
 "lng_group_stickers_add" = "選擇貼圖包";
@@ -1160,36 +1476,41 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_about_text" = "圈圈可以有：";
 "lng_group_about1" = "最多 200,000 個魔法師";
 "lng_group_about2" = "永久ㄉ聊天紀錄";
-"lng_group_about3" = "永久傳送器，例如：t.me/title";
+"lng_group_about3" = "公開傳送器，例如：t.me/title";
 "lng_group_about4" = "具有不同權限ㄉ祭司";
 
 "lng_switch_stickers" = "貼圖";
 "lng_switch_emoji" = "表情符號";
 "lng_switch_gifs" = "GIF";
+"lng_switch_masks" = "面具";
 "lng_stickers_featured_add" = "新增";
-"lng_gifs_search" = "找找動圖";
-"lng_gifs_no_saved" = "尼尚未儲存任何動圖。";
+"lng_gifs_search" = "找找GIF";
+"lng_gifs_no_saved" = "尼尚未儲存任何GIF。";
 
-"lng_inline_bot_no_results" = "查無結果。";
+"lng_inline_bot_no_results" = "沒有結果。";
 "lng_inline_bot_via" = "透過 {inline_bot}";
 
 "lng_box_remove" = "炸毀";
 
 "lng_stickers_installed_tab" = "貼圖";
+"lng_stickers_masks_tab" = "面具";
 "lng_stickers_featured_tab" = "熱門";
 "lng_stickers_archived_tab" = "已封存";
 "lng_stickers_remove_pack" = "炸毀 «{sticker_pack}»？";
 "lng_stickers_add_pack" = "新增貼圖";
+"lng_stickers_add_masks" = "新增面具";
 "lng_stickers_share_pack" = "分享貼圖包";
+"lng_stickers_share_masks" = "分享封存";
 "lng_stickers_not_found" = "找不到貼圖包。";
 "lng_stickers_packs_archived" = "一些未使用ㄉ貼圖包已被封存起來，以騰出空間給尼較常使用ㄉ。";
-"lng_stickers_copied" = "貼圖包傳送器已複製到剪貼簿。";
+"lng_stickers_copied" = "傳送器已複製到剪貼簿。";
 "lng_stickers_default_set" = "偉人";
 "lng_stickers_you_have" = "管理貼圖包";
 "lng_stickers_return" = "復原";
 
 "lng_stickers_count#other" = "{count} 張貼圖";
-"lng_stickers_masks_pack" = "這是一套面具貼圖。尼可以在窩們行動版魔法器ㄉ照片竄改器內使用它們。";
+
+"lng_masks_count#other" = "{count} 個面具";
 "lng_stickers_attached_sets" = "附加貼圖包";
 "lng_stickers_group_set" = "圈圈貼圖";
 "lng_stickers_remove_group_set" = "尼要炸毀圈圈貼圖包嗎？";
@@ -1198,6 +1519,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_stickers_search_sets" = "找找貼圖包";
 "lng_stickers_nothing_found" = "找不到貼圖";
 "lng_stickers_remove_pack_confirm" = "炸毀";
+"lng_stickers_archive_pack" = "封存貼圖";
+"lng_stickers_has_been_archived" = "貼圖包已被封存。";
+"lng_masks_archive_pack" = "封存面具";
+"lng_masks_has_been_archived" = "面具包已被封存。";
+"lng_masks_installed" = "面具包已被安裝。";
 
 "lng_in_dlg_photo" = "照片";
 "lng_in_dlg_album" = "相簿";
@@ -1215,37 +1541,57 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_delete_all_from" = "炸毀所有來自此魔法師ㄉ水晶玉";
 "lng_report_spam" = "檢舉垃圾水晶玉";
 "lng_report_spam_and_leave" = "檢舉垃圾水晶玉並且離開";
-"lng_report_spam_done" = "感謝尼ㄉ回報。";
+"lng_report_spam_done" = "感謝尼ㄉ回報";
 "lng_report_spam_sure_group" = "尼確定要檢舉此圈圈中ㄉ垃圾水晶玉嗎？";
 "lng_report_spam_sure_channel" = "尼確定要檢舉此大聲公中ㄉ垃圾水晶玉嗎？";
 "lng_report_spam_ok" = "檢舉";
 "lng_new_contact_block" = "魔障屏蔽魔法師";
-"lng_new_contact_block_done" = "{user} 現在已被魔障屏蔽。";
+"lng_new_contact_block_done" = "{user} 現在已被魔障屏蔽";
 "lng_new_contact_add" = "加為同伴";
 "lng_new_contact_share" = "分享窩ㄉ魔法器號碼";
 "lng_new_contact_share_sure" = "尼確定要分享尼ㄉ魔法器號碼 {phone} 給 {user}？";
 "lng_new_contact_share_done" = "{user} 現在可以看到尼ㄉ魔法器號碼。";
 "lng_new_contact_add_name" = "將 {user} 加為同伴";
 "lng_new_contact_add_done" = "{user} 現在已經在尼ㄉ同伴名單中。";
+"lng_new_contact_unarchive" = "取消封存";
+"lng_new_contact_from_request_channel" = "{user} 是尼申請加入ㄉ大聲公「{name}」ㄉ祭司。";
+"lng_new_contact_from_request_group" = "{user} 是尼申請加入ㄉ圈圈「{name}」ㄉ祭司。";
+"lng_from_request_title_channel" = "回應尼ㄉ加入申請";
+"lng_from_request_title_group" = "回應尼ㄉ加入申請";
+"lng_from_request_body" = "尼收到此水晶玉是因為尼在{date}申請加入「{name}」。";
+"lng_from_request_understand" = "窩明白";
 "lng_cant_send_to_not_contact" = "抱歉，目前尼只能傳水晶玉給互為同伴ㄉ魔法師。\n{more_info}";
 "lng_cant_invite_not_contact" = "抱歉，目前尼只能將互為同伴ㄉ魔法師加入到圈圈。\n{more_info}";
 "lng_cant_more_info" = "更多魔法書 »";
 "lng_cant_invite_banned" = "抱歉，只有祭司可以加入此魔法師。";
 "lng_cant_invite_privacy" = "抱歉，因為魔法師ㄉ隱私設定，尼無法將其加入到圈圈中。";
 "lng_cant_invite_privacy_channel" = "抱歉，因為魔法師ㄉ隱私設定，尼無法將其加入到大聲公中。";
-"lng_cant_invite_bot_to_channel" = "抱歉，使魔只能被加入到大聲公當祭司。";
+"lng_cant_invite_bot_to_channel" = "使魔只能以祭司身分被加入到大聲公中。";
 "lng_cant_do_this" = "抱歉，尼無法執行此操作。";
 "lng_cant_invite_offer_admin" = "使魔只能被加入到大聲公當祭司。";
 "lng_cant_invite_make_admin" = "設為祭司";
 
 "lng_send_button" = "煉成";
+"lng_schedule_button" = "確定";
 "lng_send_silent_message" = "無聲煉成";
+"lng_schedule_message" = "預約傳訊";
+"lng_reminder_message" = "設定提醒";
+"lng_schedule_title" = "煉成此水晶玉於…";
+"lng_remind_title" = "提醒時間為…";
+"lng_schedule_at" = "";
 "lng_message_ph" = "施展魔法水晶玉…";
-"lng_broadcast_ph" = "廣播…";
+"lng_broadcast_ph" = "廣播水晶玉…";
 "lng_broadcast_silent_ph" = "無聲廣播…";
+"lng_send_anonymous_ph" = "匿名煉成";
+"lng_send_as_title" = "以哪個身分煉成水晶玉…";
+"lng_send_as_anonymous_admin" = "匿名祭司";
 "lng_record_cancel" = "在施展魔法欄位外釋放以取消";
-"lng_will_be_notified" = "魔法師將在尼發布時收到啄木鳥";
-"lng_wont_be_notified" = "魔法師將收到無聲啄木鳥";
+"lng_record_lock_cancel_sure" = "尼確定要停止錄製並放棄語音水晶玉嗎？";
+"lng_record_listen_cancel_sure" = "尼確定要放棄已錄製ㄉ語音水晶玉嗎？";
+"lng_record_lock_discard" = "放棄";
+"lng_record_hold_tip" = "請按住滑鼠按鈕來錄製語音水晶玉。";
+"lng_will_be_notified" = "發布時訂閱者會收到啄木鳥";
+"lng_wont_be_notified" = "訂閱者會收到無聲啄木鳥";
 "lng_willbe_history" = "請選擇聊天對象，開始傳水晶玉";
 "lng_from_you" = "尼";
 "lng_from_draft" = "草稿";
@@ -1254,15 +1600,41 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_restart_button" = "重新啟動";
 "lng_channel_mute" = "關閉啄木鳥";
 "lng_channel_unmute" = "開啟啄木鳥";
-"lng_channel_discuss" = "討論";
 "lng_saved_messages" = "窩ㄉ收藏";
 "lng_saved_short" = "儲存";
-"lng_saved_forward_here" = "轉傳水晶玉到這裡以便快速存取";
+"lng_saved_forward_here" = "轉傳到這裡以便快速取用";
+
+"lng_scheduled_messages" = "預約ㄉ水晶玉";
+"lng_scheduled_messages_empty" = "這裡還沒有預約ㄉ水晶玉…";
+"lng_reminder_messages" = "提醒事項";
+"lng_scheduled_date" = "{date}ㄉ預約";
+"lng_scheduled_date_until_online" = "預約對方施展魔法時";
+"lng_scheduled_send_until_online" = "施展魔法時煉成";
+"lng_scheduled_send_now" = "現在煉成水晶玉？";
+
+"lng_scheduled_send_now_many#other" = "現在煉成 {count} 則水晶玉？";
+
+
+"lng_replies_view#other" = "查看 {count} 則回覆";
+"lng_replies_view_thread" = "查看討論串";
+
+"lng_replies_header#other" = "{count} 則回覆";
+"lng_replies_header_none" = "回覆";
+
+"lng_comments_header#other" = "{count} 則留言";
+"lng_comments_header_none" = "留言";
+
+"lng_comments_open_count#other" = "{count} 則留言";
+"lng_comments_open_none" = "發表意見";
+"lng_replies_view_original" = "在聊天室中查看";
+"lng_replies_messages" = "回覆";
+"lng_replies_discussion_started" = "討論已開始";
+"lng_replies_no_comments" = "這裡還沒有留言...";
 
 "lng_archived_name" = "封存ㄉ聊天";
 "lng_archived_add" = "封存聊天";
 "lng_archived_remove" = "取消封存";
-"lng_archived_added" = "關閉啄木鳥ㄉ聊天在收到新水晶玉時仍會待在封存區。";
+"lng_archived_added" = "聊天室已封存。\n已關啄木鳥ㄉ聊天室在收到新水晶玉時仍會待在封存區。";
 "lng_archived_removed" = "聊天已從尼ㄉ封存中恢復。";
 "lng_archived_last_list" = "{accumulated}, {chat}";
 
@@ -1276,6 +1648,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_dialogs_hide_muted_chats" = "隱藏已關閉啄木鳥ㄉ聊天";
 "lng_dialogs_skip_archive_in_search" = "不含已封存聊天ㄉ找找結果";
 "lng_dialogs_show_archive_in_search" = "包含已封存聊天ㄉ找找結果";
+
+"lng_about_random" = "將 {emoji} 表情符號煉成到任何聊天中，以試試尼ㄉ運氣。";
+"lng_about_random_send" = "煉成";
 
 "lng_open_this_link" = "要開啟這個傳送器嗎？";
 "lng_open_link" = "開啟";
@@ -1323,9 +1698,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_user_action_upload_photo" = "{user} 正在煉成一張照片";
 "lng_send_action_upload_file" = "正在煉成玉石";
 "lng_user_action_upload_file" = "{user} 正在煉成一個玉石";
+"lng_send_action_choose_sticker" = "正在選擇貼圖";
+"lng_user_action_choose_sticker" = "{user} 正在選擇貼圖";
+"lng_user_action_watching_animations" = "正在觀看 {emoji}";
 
 "lng_unread_bar#other" = "{count} 則未讀水晶玉";
-//"lng_unread_bar_some" = "Unread messages";
+"lng_unread_bar_some" = "未讀水晶玉";
 
 "lng_maps_point" = "位置";
 "lng_save_photo" = "儲存圖片";
@@ -1342,28 +1720,37 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_choose_files" = "選擇玉石";
 "lng_game_tag" = "遊戲";
 
-"lng_context_view_profile" = "查看個人魔法書";
+"lng_context_view_profile" = "查看資料";
+"lng_context_send_message" = "煉成水晶玉";
 "lng_context_view_group" = "查看圈圈魔法書";
 "lng_context_view_channel" = "查看大聲公魔法書";
-//"lng_context_view_feed_info" = "View feed info";
+"lng_context_hide_psa" = "隱藏此公告";
 "lng_context_pin_to_top" = "置頂";
 "lng_context_unpin_from_top" = "取消置頂";
-"lng_context_mark_unread" = "標示為未讀";
-"lng_context_mark_read" = "標示為已讀";
+"lng_context_mark_unread" = "標記為未讀";
+"lng_context_mark_read" = "標記為已讀";
+"lng_context_mark_read_sure" = "尼確定要將此資料夾中ㄉ所有聊天標記為已讀？";
+"lng_context_mark_read_all" = "標記所有聊天為已讀";
+"lng_context_mark_read_all_sure" = "尼確定要將所有聊天標記為已讀？";
+"lng_context_mark_read_mentions_all" = "將所有提及標記為已讀";
 "lng_context_archive_expand" = "展開";
 "lng_context_archive_collapse" = "摺疊";
 "lng_context_archive_to_menu" = "移動到主選單";
-"lng_context_archive_to_list" = "移動到聊天清單";
-"lng_context_archive_to_menu_info" = "【已封存ㄉ聊天】移動到主選單！\n尼可以透過主選單上其按鈕ㄉ右鍵選單恢復。";
+"lng_context_archive_to_list" = "移動到聊天列表";
+"lng_context_archive_to_menu_info" = "封存ㄉ聊天已移動到主選單！\n尼可以透過封存按鈕上ㄉ右鍵選單讓它返回。";
+
+"lng_context_mute" = "關閉啄木鳥";
+"lng_context_unmute" = "開啟啄木鳥";
 
 "lng_context_promote_admin" = "晉升為祭司";
-"lng_context_edit_permissions" = "竄改權限";
+"lng_context_edit_permissions" = "竄改祭司權限";
 "lng_context_restrict_user" = "限制魔法師";
 "lng_context_remove_from_group" = "從圈圈中炸毀";
 "lng_context_add_to_group" = "新增至圈圈";
 
 "lng_context_copy_link" = "複製傳送器";
-"lng_context_copy_post_link" = "複製貼文傳送器";
+"lng_context_copy_message_link" = "複製水晶玉傳送器";
+"lng_context_copy_post_link" = "複製水晶玉傳送器";
 "lng_context_copy_email" = "複製電子郵件地址";
 "lng_context_copy_hashtag" = "複製主題玉石標籤";
 "lng_context_copy_mention" = "複製魔法識別編號";
@@ -1375,18 +1762,22 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_save_video" = "另存影片為⋯";
 "lng_context_save_audio_file" = "另存語音水晶玉為⋯";
 "lng_context_save_audio" = "另存語音水晶玉為⋯";
-"lng_context_pack_info" = "貼圖包魔法書";
+"lng_context_pack_info" = "查看貼圖包";
 "lng_context_pack_add" = "新增貼圖";
 "lng_context_save_file" = "另存玉石為⋯";
 "lng_context_copy_text" = "複製文字";
-"lng_context_open_gif" = "開啟 GIF 動圖";
-"lng_context_save_gif" = "儲存 GIF 動圖";
+"lng_context_open_gif" = "開啟GIF";
+"lng_context_save_gif" = "儲存GIF";
+"lng_context_delete_gif" = "炸毀GIF";
 "lng_context_attached_stickers" = "附加貼圖";
-"lng_context_to_msg" = "跳轉到水晶玉";
+"lng_context_to_msg" = "在聊天中顯示";
 "lng_context_reply_msg" = "回覆";
 "lng_context_edit_msg" = "竄改";
 "lng_context_forward_msg" = "轉傳水晶玉";
+"lng_context_send_now_msg" = "立即煉成";
+"lng_context_reschedule" = "重新預約";
 "lng_context_delete_msg" = "炸毀水晶玉";
+"lng_context_auto_delete_in" = "在{duration}之後以小精靈選擇炸毀";
 "lng_context_select_msg" = "選取水晶玉";
 "lng_context_report_msg" = "檢舉水晶玉";
 "lng_context_pin_msg" = "置頂水晶玉";
@@ -1395,10 +1786,27 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_copy_selected" = "複製所選文字";
 "lng_context_copy_selected_items" = "複製所選作為文字";
 "lng_context_forward_selected" = "轉傳已選水晶玉";
+"lng_context_send_now_selected" = "現在煉成已選ㄉ";
+"lng_context_reschedule_selected" = "重新安排已選取";
 "lng_context_delete_selected" = "炸毀已選水晶玉";
 "lng_context_clear_selection" = "取消選取";
-"lng_send_image_empty" = "無法煉成一個空ㄉ玉石︰ {name}";
-"lng_send_image_too_large" = "尼ㄉ玉石無法煉成，因為它大於 1.5 GB：{name} \n\n尼可以根據需要煉成任意數量ㄉ玉石，但每個玉石必須小於 1.5 GB。";
+"lng_context_seen_loading" = "載入中...";
+
+"lng_context_seen_text#other" = "{count} 人已讀";
+"lng_context_seen_text_none" = "沒有人已讀";
+
+"lng_context_seen_listened#other" = "{count} 人已聽";
+"lng_context_seen_listened_none" = "沒有人已聽";
+
+"lng_context_seen_watched#other" = "{count} 人已聽";
+"lng_context_seen_watched_none" = "沒有人已聽";
+
+
+
+
+
+"lng_send_image_empty" = "玉石︰{name} 是空ㄉ，無法煉成。";
+"lng_send_image_too_large" = "玉石無法被煉成，因為它大於 2 GB：{name} \n\n尼可以根據需要煉成任意數量ㄉ玉石，但每個玉石必須小於 2 GB。";
 
 "lng_send_images_selected#other" = "已選取 {count} 張圖片";
 
@@ -1409,14 +1817,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_send_files_selected#other" = "已選取 {count} 個玉石";
 
 "lng_send_files#other" = "作為 {count} 個玉石煉成";
-"lng_send_album" = "作為相簿煉成";
-"lng_send_photo" = "作為一張照片煉成";
-"lng_send_file" = "作為一個玉石煉成";
+"lng_send_grouped" = "合併";
+"lng_send_compressed" = "壓縮圖片";
+"lng_send_media_invalid_files" = "抱歉，找不到有效ㄉ玉石。";
 
 "lng_forward_choose" = "選擇接收者…";
 "lng_forward_cant" = "抱歉，無法轉傳到這裡 :(";
-"lng_forward_share_contact" = "分享聯絡魔法書給 {recipient}？";
-"lng_forward_share_cant" = "抱歉，無法在這裡分享聯絡魔法書 :(";
+"lng_forward_share_contact" = "分享同伴給 {recipient}？";
+"lng_forward_share_cant" = "抱歉，無法在這裡分享同伴 :(";
 
 
 "lng_forward_send_files_cant" = "抱歉，無法煉成媒體到這裡 :(";
@@ -1430,11 +1838,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_inline_switch_cant" = "抱歉，尼無法在此煉成水晶玉 :(";
 
 "lng_share_cant" = "抱歉，沒辦法在這裡分享 :(";
-"lng_reply_cant" = "抱歉，無法回覆超級圈圈中ㄉ舊水晶玉 :(";
+"lng_reply_cant" = "尼無法回覆此圈圈升級為超級圈圈之前ㄉ水晶玉。\n\n當圈圈達到 200 位魔法師時，或者當尼開始使用進階功能（例如聊天紀錄權限或細部ㄉ祭司設定）時，圈圈就會以小精靈選擇升級。";
 "lng_reply_cant_forward" = "抱歉，尼無法回覆升級為超級圈圈之前煉成ㄉ水晶玉。尼想要轉傳它，並加入尼ㄉ評論嗎？";
 
 "lng_share_title" = "分享給";
-"lng_share_copy_link" = "複製傳送器";
+"lng_share_copy_link" = "複製分享傳送器";
 "lng_share_confirm" = "煉成";
 "lng_share_wrong_user" = "此遊戲已被另一個魔法師開啟。";
 "lng_share_game_link_copied" = "遊戲傳送器已複製到剪貼簿。";
@@ -1459,7 +1867,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_try_other_contact" = "試試其他人";
 "lng_create_group_link" = "傳送器";
 "lng_create_group_invite_link" = "傳送器";
-"lng_create_group_description" = "魔法書（可選）";
+"lng_create_group_description" = "魔法書（選填）";
 
 "lng_drag_images_here" = "將圖檔拖放到這裡";
 "lng_drag_photos_here" = "將圖檔拖放到這裡";
@@ -1472,8 +1880,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_selected_clear" = "取消";
 "lng_selected_delete" = "炸毀";
 "lng_selected_forward" = "轉傳";
-"lng_selected_cancel_sure_this" = "取消上傳？";
-"lng_selected_upload_stop" = "停止";
+"lng_selected_send_now" = "立即煉成";
+"lng_selected_cancel_sure_this" = "要繼續或取消上傳？";
+"lng_selected_upload_stop" = "取消";
 "lng_selected_delete_sure_this" = "尼想要炸毀這則水晶玉嗎？";
 
 "lng_selected_delete_sure#other" = "尼想要炸毀 {count} 則水晶玉嗎？";
@@ -1484,13 +1893,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_delete_for_me_chat_hint#other" = "這將只為尼炸毀，而其他魔法師ㄉ聊天紀錄則不受影響。";
 
 "lng_delete_for_me_hint#other" = "這將只為尼炸毀。";
+"lng_edit_auto_delete_settings" = "竄改以小精靈選擇炸毀設定";
+"lng_enable_auto_delete" = "啟用以小精靈選擇炸毀";
 "lng_selected_unsend_about_user_one" = "尼可以透過勾選「取消煉成窩ㄉ水晶玉」，一併從{user}ㄉ收件匣中炸毀尼煉成ㄉ水晶玉。";
 
 "lng_selected_unsend_about_user#other" = "尼可以透過勾選「取消煉成窩ㄉ水晶玉」，一併從{user}ㄉ收件匣中炸毀尼煉成ㄉ {count} 則水晶玉。";
 "lng_selected_unsend_about_group_one" = "尼可以透過勾選「取消煉成窩ㄉ水晶玉」，一併從其他圈圈魔法師ㄉ收件匣中炸毀尼煉成ㄉ水晶玉。";
 
 "lng_selected_unsend_about_group#other" = "尼可以透過勾選「取消煉成窩ㄉ水晶玉」，一併從其他圈圈魔法師ㄉ收件匣中炸毀尼煉成ㄉ {count} 則水晶玉。";
-"lng_delete_for_everyone_check" = "也從所有人ㄉ魔法器中炸毀";
+"lng_delete_for_everyone_check" = "從所有人ㄉ魔法器中炸毀";
 "lng_delete_for_other_check" = "也從 {user} ㄉ魔法器中炸毀";
 "lng_delete_for_other_my" = "取消煉成窩ㄉ水晶玉";
 "lng_box_delete" = "炸毀";
@@ -1518,8 +1929,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mediaview_photos_all" = "檢視所有照片";
 "lng_mediaview_files_all" = "查看所有玉石";
 "lng_mediaview_single_photo" = "單張照片";
-"lng_mediaview_group_photo" = "圈圈照片";
-"lng_mediaview_channel_photo" = "大聲公照片";
+"lng_mediaview_group_photo" = "圈圈大頭貼";
+"lng_mediaview_channel_photo" = "大聲公大頭貼";
 "lng_mediaview_profile_photo" = "大頭貼";
 "lng_mediaview_file_n_of_amount" = "{file} 第 {n} 個玉石，共 {amount} 個";
 "lng_mediaview_n_of_amount" = "第 {n} 張照片，共 {amount} 張";
@@ -1531,11 +1942,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mediaview_saved_to" = "圖片已儲存到尼ㄉ {downloads} 資料夾中";
 "lng_mediaview_downloads" = "下載";
 "lng_mediaview_video_loading" = "載入中 - {percent}";
+"lng_mediaview_playback_speed" = "播放速度：{speed}";
+"lng_mediaview_rotate_video" = "旋轉影片";
 
 "lng_theme_preview_title" = "主題玉石預覽";
 "lng_theme_preview_generating" = "正在產生顏色主題玉石預覽…";
 "lng_theme_preview_invalid" = "此主題玉石玉石含有無效資料。";
 "lng_theme_preview_apply" = "套用此主題玉石";
+
+"lng_theme_preview_users#other" = "{count} 人正在使用這個主題玉石";
 
 "lng_new_authorization" = "{name},\n窩們偵測到有新魔法器使用尼ㄉ靈魂登入，時間為 {date} 日 {day} ㄉ {time} \n\n魔法器： {device}\n位置： {location}\n\n如果這不是尼，尼可以到「設定」>「隱私和安全」>「已登入ㄉ魔法器」>「顯示所有魔法器」中，然後登出該魔法器。\n\n如果尼懷疑有人未經尼ㄉ同意登入尼ㄉ靈魂，尼可以到「隱私和安全」ㄉ設定中，啟用「兩步驟驗證」。\n\nTelegram 團隊敬上";
 
@@ -1549,6 +1964,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_menu_formatting_underline" = "底線";
 "lng_menu_formatting_strike_out" = "炸毀線";
 "lng_menu_formatting_monospace" = "等寬字體";
+"lng_menu_formatting_spoiler" = "防劇透";
 "lng_menu_formatting_link_create" = "建立傳送器";
 "lng_menu_formatting_link_edit" = "竄改傳送器";
 "lng_menu_formatting_clear" = "純文字";
@@ -1558,17 +1974,22 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_formatting_link_url" = "網址";
 "lng_formatting_link_create" = "建立";
 
+"lng_spellchecker_submenu" = "拼字";
+"lng_spellchecker_add" = "加入到字典中";
+"lng_spellchecker_remove" = "從字典中炸毀";
+"lng_spellchecker_ignore" = "忽略單字";
+
 "lng_full_name" = "{first_name} {last_name}";
 
 "lng_confirm_phone_link_invalid" = "此傳送器已失效。";
 "lng_confirm_phone_title" = "取消靈魂重置";
-"lng_confirm_phone_about" = "有存取尼魔法器號碼 {phone} ㄉ人請求炸毀尼ㄉ Telegram 靈魂及重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛剛透過飛鴿傳書煉成到尼魔法器號碼ㄉ精靈密語。";
+"lng_confirm_phone_about" = "有人使用尼ㄉ魔法器號碼 {phone} 要求炸毀尼ㄉ Telegram 靈魂和重置尼ㄉ兩步驟驗證密語。\n\n如果這不是尼，請施展魔法窩們剛才透過飛鴿傳書傳給尼ㄉ精靈密語。尼也可以透過**變更魔法器號碼**來取消，而這個號碼是由尼所控制。";
 "lng_confirm_phone_success" = "成功！\n\n尼靈魂 {phone} ㄉ炸毀過程已被取消，現在尼可以關閉此視窗。";
 "lng_confirm_phone_send" = "煉成";
 "lng_confirm_phone_enter_code" = "請施展魔法精靈密語。";
 
 "lng_theme_editor_no_keys" = "目前調色盤中沒有配色項目";
-"lng_theme_editor_cant_change_theme" = "竄改調色盤時是無法套用新主題玉石ㄉ。請先關閉主題玉石竄改器。";
+"lng_theme_editor_cant_change_theme" = "當尼正在竄改調色盤時是無法套用新主題玉石ㄉ。請先關閉主題玉石竄改器。";
 "lng_theme_editor_new_keys" = "尚未在調色盤中";
 "lng_theme_editor_background_image" = "背景圖片";
 "lng_theme_editor_saved_to_jpg" = "以 JPEG 格式儲存，{size}";
@@ -1579,16 +2000,90 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_editor_save_palette" = "儲存調色盤檔";
 "lng_theme_editor_choose_name" = "儲存主題玉石玉石";
 "lng_theme_editor_error" = "竄改器遇到錯誤 :( 詳情請見「log.txt」。";
+"lng_theme_editor_sure_close" = "尼確定要關閉竄改器嗎？尼ㄉ變更將不會被儲存。";
+"lng_theme_editor_need_auth" = "尼需要登入才能儲存主題玉石。";
+"lng_theme_editor_need_unlock" = "尼需要解鎖 Telegram 才能儲存主題玉石。";
 "lng_theme_editor_done" = "主題玉石匯出成功！";
 "lng_theme_editor_title" = "竄改調色盤";
-"lng_theme_editor_export_button" = "匯出主題玉石";
+"lng_theme_editor_save_button" = "儲存主題玉石";
+
+"lng_theme_editor_create_title" = "建立主題玉石";
+"lng_theme_editor_attach_title" = "附加桌面主題玉石";
+"lng_theme_editor_create" = "建立";
+"lng_theme_editor_name" = "主題玉石名稱";
+"lng_theme_editor_create_description" = "新主題玉石將基於尼目前選擇ㄉ顏色和背景圖片。或者，尼可以從玉石匯入現有主題玉石或調色盤。";
+"lng_theme_editor_attach_description" = "尼可以根據目前選定ㄉ顏色和背景圖片建立桌面版ㄉ主題玉石。或者，尼可以從玉石匯入現有主題玉石或調色盤。";
+"lng_theme_editor_import_existing" = "匯入現有主題玉石";
+"lng_theme_editor_save_title" = "儲存主題玉石";
+"lng_theme_editor_link_about" = "每次尼修改主題玉石時，所有使用它ㄉ魔法師都會獲得更新。任何人都可以使用此傳送器安裝它。\n\n主題玉石傳送器必須長於 5 個字元，只允許使用 0-9、a-z 和底線。";
+
+"lng_theme_editor_menu_export" = "匯出主題玉石";
+"lng_theme_editor_menu_import" = "匯入主題玉石";
+"lng_theme_editor_menu_show" = "顯示調色盤檔";
 
 "lng_payments_not_supported" = "抱歉，Telegram Desktop 目前不支援支付功能。請使用窩們ㄉ行動魔法器來執行此操作。";
+"lng_payments_webview_no_card" = "不幸ㄉ是，尼無法使用目前ㄉ魔法器配置加入新卡。";
+"lng_payments_webview_no_use" = "不幸ㄉ是，尼不能在目前ㄉ魔法器配置中使用付款功能。";
+"lng_payments_webview_install_edge" = "請安裝 {link}。";
+"lng_payments_webview_install_webkit" = "請使用尼ㄉ套件管理工具安裝 WebKitGTK 4 (webkit2gtk-4.0)。";
+"lng_payments_webview_switch_mutter" = "Qt ㄉ視窗嵌入在 Mutter 視窗管理器中無法正常運作。請切換到另一款視窗管理器或桌面環境。";
+"lng_payments_webview_switch_wayland" = "無法將 WebView 視窗嵌入 Wayland。請切換到 X11。";
+"lng_payments_sure_close" = "尼確定要關閉此付款表格嗎？尼所做ㄉ變更將丟失。";
 "lng_payments_receipt_label" = "收據";
 "lng_payments_receipt_label_test" = "測試收據";
 "lng_payments_invoice_label" = "請款單";
 "lng_payments_invoice_label_test" = "測試請款單";
 "lng_payments_receipt_button" = "收據";
+"lng_payments_success" = "尼為 {title} 支付ㄌ {amount}。";
+
+"lng_payments_checkout_title" = "結帳";
+"lng_payments_receipt_title" = "收據";
+"lng_payments_total_label" = "總計";
+"lng_payments_date_label" = "已付款";
+"lng_payments_pay_amount" = "支付 {amount}";
+"lng_payments_payment_method" = "付款方式";
+"lng_payments_new_card" = "新卡…";
+"lng_payments_shipping_address" = "收件地址";
+"lng_payments_address_street1" = "地址 1";
+"lng_payments_address_street2" = "地址 2";
+"lng_payments_address_city" = "城市";
+"lng_payments_address_state" = "州";
+"lng_payments_address_country" = "陣營";
+"lng_payments_address_postcode" = "郵遞區號";
+
+"lng_payments_shipping_method" = "配送方式";
+"lng_payments_info_name" = "名稱";
+"lng_payments_info_email" = "電子信箱";
+"lng_payments_info_phone" = "精靈耳";
+"lng_payments_to_provider_phone_email" = "精靈耳和電子郵件地址將被傳遞到 {provider} 作為帳單魔法書。";
+"lng_payments_to_provider_email" = "電子郵件地址將被傳遞到 {provider} 作為帳單魔法書。";
+"lng_payments_to_provider_phone" = "魔法器號碼將被傳遞到 {provider} 作為帳單魔法書。";
+"lng_payments_processed_by" = "透過 {provider} 處理";
+"lng_payments_warning_title" = "警告";
+
+"lng_payments_shipping_address_title" = "配送魔法書";
+"lng_payments_card_title" = "新卡";
+"lng_payments_card_number" = "卡號";
+"lng_payments_card_cvc" = "安全碼";
+"lng_payments_card_expire_date" = "MM / YY";
+"lng_payments_card_holder" = "持卡人姓名";
+"lng_payments_billing_address" = "帳單魔法書";
+"lng_payments_billing_country" = "陣營";
+"lng_payments_billing_zip_code" = "郵遞區號";
+"lng_payments_save_information" = "儲存魔法書以備將來使用 ";
+"lng_payments_need_password" = "尼可以儲存付款魔法書以備將來使用。\n請「開啟兩步驟驗證」來使用此功能。";
+"lng_payments_password_title" = "付款確認";
+"lng_payments_password_description" = "尼ㄉ卡片 {card} 已受保護，若要使用此卡片付款，請施展魔法尼ㄉ兩步驟驗證密語。";
+"lng_payments_password_submit" = "支付";
+"lng_payments_tips_label" = "小費（選擇性ㄉ）";
+"lng_payments_tips_box_title" = "加入小費";
+"lng_payments_tips_max" = "最大可能ㄉ小費金額：{amount}";
+
+"lng_payments_shipping_not_available" = "無法運送到所選陣營/地區。";
+"lng_payments_card_declined" = "尼ㄉ卡遭到拒絕。";
+"lng_payments_payment_failed" = "付款失敗。尼ㄉ卡尚未結帳。";
+"lng_payments_precheckout_failed" = "使魔無法處理尼ㄉ付款。尼ㄉ卡尚未結帳。";
+"lng_payments_already_paid" = "尼已經為此物品付款。";
 
 "lng_call_status_incoming" = "正在撥打精靈耳給尼…";
 "lng_call_status_connecting" = "魔力連接中…";
@@ -1602,42 +2097,260 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_call_status_busy" = "忙線中";
 "lng_call_fingerprint_tooltip" = "如果與 {user} 螢幕上ㄉ表情符號相同，則此精靈耳是 100% 安全ㄉ";
 
-"lng_call_error_not_available" = "抱歉，{user} 不接受精靈耳。";
+"lng_call_error_not_available" = "抱歉，由於 {user} ㄉ隱私設定，尼無法打精靈耳給他（她）。";
 "lng_call_error_outdated" = "{user} ㄉ魔法器不支援精靈耳。他需要更新魔法器，尼才能打精靈耳給他。";
-"lng_call_error_audio_io" = "尼ㄉ音效卡似乎有問題。請確保尼電腦ㄉ喇叭和麥克風可以使用，然後重試。";
+"lng_call_error_no_camera" = "找不到攝影機。請確保尼ㄉ攝影機已連接到電腦。";
+"lng_call_error_camera_not_started" = "一旦尼連接ㄌ，尼可以切換到視訊精靈耳。";
+"lng_call_error_camera_outdated" = "{user} ㄉ程式不支援視訊精靈耳。尼需要請他（她）先更新魔法器。";
+"lng_call_error_audio_io" = "尼ㄉ音效卡似乎有問題。請確保尼電腦ㄉ揚聲器和麥克風可以使用，然後重試。";
 
 "lng_call_bar_hangup" = "結束精靈耳";
+"lng_call_leave_to_other_sure" = "尼要結束精靈耳並加入此視訊聊天嗎？";
+"lng_call_leave_to_other_sure_channel" = "尼想結束目前ㄉ精靈耳並加入此大聲公ㄉ直播嗎？";
 
 "lng_call_box_title" = "精靈耳";
 "lng_call_box_about" = "尼尚未撥打任何 Telegram 精靈耳。";
 "lng_call_box_status_today" = "{time}";
 "lng_call_box_status_yesterday" = "昨天{time}";
 "lng_call_box_status_date" = "{date}{time}";
-"lng_call_box_status_group" = "({count}) {status}";
+"lng_call_box_status_group" = "({amount}) {status}";
+"lng_call_box_clear_all" = "全部清除";
+"lng_call_box_clear_sure" = "尼確定要完全清除精靈耳記錄嗎？";
+"lng_call_box_clear_button" = "清除";
 
 "lng_call_outgoing" = "撥出精靈耳";
+"lng_call_video_outgoing" = "撥出視訊精靈耳";
 "lng_call_incoming" = "撥入精靈耳";
+"lng_call_video_incoming" = "撥入視訊精靈耳";
 "lng_call_missed" = "未接來電";
-"lng_call_cancelled" = "取消精靈耳";
-"lng_call_declined" = "拒接來電";
+"lng_call_video_missed" = "未接視訊來電";
+"lng_call_cancelled" = "已取消ㄉ精靈耳";
+"lng_call_video_cancelled" = "已取消ㄉ視訊精靈耳";
+"lng_call_declined" = "拒絕精靈耳";
+"lng_call_video_declined" = "拒絕視訊精靈耳";
 "lng_call_duration_info" = "{time}，{duration}";
 "lng_call_type_and_duration" = "{type}（{duration}）";
 
-"lng_call_rate_label" = "請尼對這次精靈耳品質做出評價";
-"lng_call_rate_comment" = "可在這裡留下評論";
+"lng_call_rate_label" = "請對尼ㄉ精靈耳品質進行評分";
+"lng_call_rate_comment" = "評論（選填）";
 
-"lng_no_mic_permission" = "Telegram 需要存取尼ㄉ麥克風，讓尼可以精靈耳及錄製語音水晶玉。";
+"lng_call_start_video" = "視訊鏡頭";
+"lng_call_stop_video" = "視訊鏡頭";
+"lng_call_screencast" = "螢幕畫面";
+"lng_call_end_call" = "結束";
+"lng_call_mute_audio" = "關麥克風";
+"lng_call_unmute_audio" = "開麥克風";
+"lng_call_accept" = "接聽";
+"lng_call_decline" = "拒絕";
+"lng_call_redial" = "重撥";
+"lng_call_cancel" = "取消";
+
+"lng_call_microphone_off" = "{user}ㄉ麥克風未開啟";
+
+"lng_group_call_title" = "視訊聊天";
+"lng_group_call_title_channel" = "直播";
+"lng_group_call_active" = "發言";
+"lng_group_call_inactive" = "聆聽";
+"lng_group_call_raised_hand_status" = "想要發言";
+"lng_group_call_settings" = "設定";
+"lng_group_call_share_button" = "分享";
+"lng_group_call_video" = "視訊";
+"lng_group_call_screen_share_start" = "分享螢幕畫面";
+"lng_group_call_screen_share_stop" = "停止分享";
+"lng_group_call_screen_title" = "螢幕畫面 {index}";
+"lng_group_call_screen_share_audio" = "分享魔法器音訊";
+"lng_group_call_unmute_small" = "取消靜音";
+"lng_group_call_more" = "更多";
+"lng_group_call_unmute" = "取消靜音";
+"lng_group_call_unmute_sub" = "按住空白鍵可暫時取消靜音。";
+"lng_group_call_you_are_live" = "尼在線上";
+"lng_group_call_force_muted" = "尼目前只是聽眾";
+"lng_group_call_force_muted_sub" = "尼處於只能聆聽ㄉ模式";
+"lng_group_call_raise_hand_tip" = "點擊，如果尼想發言";
+"lng_group_call_raised_hand" = "尼已舉手請求發言";
+"lng_group_call_raised_hand_sub" = "窩們會讓主持人知道";
+"lng_group_call_connecting" = "魔力連接中…";
+"lng_group_call_leave" = "退出";
+"lng_group_call_leave_title" = "退出視訊聊天";
+"lng_group_call_leave_title_channel" = "退出直播";
+"lng_group_call_leave_sure" = "尼確定要退出此視訊聊天？";
+"lng_group_call_leave_sure_channel" = "尼確定要退出此直播？";
+"lng_group_call_close" = "關閉";
+"lng_group_call_close_sure" = "視訊聊天是預約ㄉ，尚未開始。尼可以中止它或只是關閉面板。";
+"lng_group_call_close_sure_channel" = "直播是預約ㄉ，尚未開始。尼可以中止它或只是關閉面板。";
+"lng_group_call_also_cancel" = "中止視訊聊天";
+"lng_group_call_also_cancel_channel" = "中止直播";
+"lng_group_call_leave_to_other_sure" = "尼要退出目前參與ㄉ視訊聊天，並加入此視訊聊天嗎？";
+"lng_group_call_leave_to_other_sure_channel" = "尼想退出目前ㄉ視訊聊天並加入此大聲公ㄉ直播嗎？";
+"lng_group_call_leave_channel_to_other_sure" = "尼想退出目前ㄉ直播並加入此圈圈ㄉ視訊聊天嗎？";
+"lng_group_call_leave_channel_to_other_sure_channel" = "尼想退出目前ㄉ直播並加入此大聲公ㄉ直播嗎？";
+"lng_group_call_create_sure" = "要在此圈圈中發起視訊聊天？";
+"lng_group_call_create_sure_channel" = "尼確定要在此大聲公中以個人靈魂ㄉ身分發起視訊聊天嗎？";
+"lng_group_call_join_sure_personal" = "尼確定要以個人靈魂身分加入此視訊聊天嗎？";
+"lng_group_call_muted_no_camera" = "當尼被祭司靜音時，尼無法開啟視訊。";
+"lng_group_call_muted_no_screen" = "當尼被祭司靜音時，尼無法分享尼ㄉ螢幕畫面。";
+"lng_group_call_chat_no_camera" = "尼無法在此聊天中開啟視訊。";
+"lng_group_call_chat_no_screen" = "尼無法在此聊天中分享尼ㄉ螢幕畫面。";
+"lng_group_call_failed_screen" = "發生錯誤。螢幕直播已停止。";
+"lng_group_call_failed_camera" = "無法啟用攝影機。其他魔法器可能正在使用它。首先，請試著關閉其他程式。";
+"lng_group_call_tooltip_screen" = "分享螢幕畫面";
+"lng_group_call_tooltip_camera" = "尼ㄉ攝影機是關閉ㄉ。點擊此處以啟用它。";
+"lng_group_call_tooltip_microphone" = "尼處於靜音狀態。點擊這裡以發言。";
+"lng_group_call_tooltip_camera_off" = "停用攝影機";
+"lng_group_call_tooltip_force_muted" = "被祭司靜音。如果尼想發言，請點擊。";
+"lng_group_call_tooltip_raised_hand" = "尼要求發言。窩們會讓主持人知道。";
+"lng_group_call_also_end" = "結束視訊聊天";
+"lng_group_call_also_end_channel" = "結束直播";
+"lng_group_call_settings_title" = "設定";
+"lng_group_call_invite" = "邀請魔法師";
+"lng_group_call_invited_status" = "已邀請";
+"lng_group_call_muted_by_me_status" = "被窩靜音";
+"lng_group_call_invite_title" = "邀請魔法師";
+"lng_group_call_invite_button" = "邀請";
+"lng_group_call_add_to_group_one" = "{user} 還不是 «{group}» ㄉ魔法師。要將其新增至圈圈嗎？";
+"lng_group_call_add_to_group_some" = "這些魔法師ㄉ一部分還不是 «{group}» ㄉ魔法師。要將他們新增至圈圈嗎？";
+"lng_group_call_add_to_group_all" = "這些魔法師還不是 «{group}» ㄉ魔法師。要將他們新增至圈圈嗎？";
+"lng_group_call_invite_members" = "圈圈魔法師";
+"lng_group_call_invite_search_results" = "找找結果";
+"lng_group_call_new_muted" = "將新ㄉ參與者靜音";
+"lng_group_call_speakers" = "揚聲器";
+"lng_group_call_microphone" = "麥克風";
+"lng_group_call_push_to_talk" = "隨按即說快捷鍵";
+"lng_group_call_ptt_shortcut" = "竄改快捷鍵";
+"lng_group_call_ptt_recording" = "停止錄製";
+"lng_group_call_ptt_delay_ms" = "{amount} 毫剎那";
+"lng_group_call_ptt_delay_s" = "{amount} 剎那";
+"lng_group_call_ptt_delay" = "隨按即說釋放延遲：{delay}";
+"lng_group_call_share" = "分享傳送器";
+"lng_group_call_noise_suppression" = "噪音抑制";
+"lng_group_call_video_paused" = "視訊已暫停";
+"lng_group_call_share_speaker" = "有此傳送器ㄉ魔法師可以發言";
+"lng_group_call_copy_speaker_link" = "複製講者傳送器";
+"lng_group_call_copy_listener_link" = "複製聽眾傳送器";
+"lng_group_call_end" = "結束視訊聊天";
+"lng_group_call_end_channel" = "結束直播";
+"lng_group_call_cancel" = "中止視訊聊天";
+"lng_group_call_cancel_channel" = "中止直播";
+"lng_group_call_join" = "加入";
+"lng_group_call_join_confirm" = "加入視訊聊天「 {chat} 」？";
+"lng_group_call_join_confirm_channel" = "尼想加入 {chat} ㄉ直播嗎？";
+"lng_group_call_invite_done_user" = "尼邀請ㄌ {user} 加入視訊聊天。";
+
+"lng_group_call_invite_done_many#other" = "尼邀請ㄌ **{count} 位參與者**加入視訊聊天。";
+"lng_group_call_no_members" = "點擊以加入";
+
+"lng_group_call_members#other" = "{count} 位參與者";
+"lng_group_call_context_mute" = "靜音";
+"lng_group_call_context_unmute" = "允許發言";
+"lng_group_call_context_remove_hand" = "取消發言請求";
+"lng_group_call_context_mute_for_me" = "為窩靜音";
+"lng_group_call_context_unmute_for_me" = "為窩取消靜音";
+"lng_group_call_context_pin_camera" = "置頂視訊";
+"lng_group_call_context_unpin_camera" = "取消置頂視訊";
+"lng_group_call_context_pin_screen" = "置頂螢幕直播";
+"lng_group_call_context_unpin_screen" = "取消置頂螢幕直播";
+"lng_group_call_context_remove" = "炸毀";
+"lng_group_call_remove_channel" = "從視訊聊天中炸毀 {channel} 並將其魔障屏蔽？";
+"lng_group_call_remove_channel_from_channel" = "從直播中炸毀 {channel}？";
+
+"lng_group_call_duration_days#other" = "{count} 天";
+
+"lng_group_call_duration_hours#other" = "{count} 小時";
+
+"lng_group_call_duration_minutes#other" = "{count} 分鐘";
+
+"lng_group_call_duration_seconds#other" = "{count} 剎那";
+"lng_group_call_mac_access" = "Telegram Desktop 無法存取隨按即說（ Push to Talk ）所需ㄉ魔法器範圍鍵盤施展魔法。";
+"lng_group_call_mac_input" = "請在隱私設定中允許 Telegram ㄉ**施展魔法監控**。";
+"lng_group_call_mac_accessibility" = "請在隱私設定中允許 Telegram 具有**可存取性**。\n\n可能需要重新啟動魔法器。";
+"lng_group_call_mac_screencast_access" = "Telegram Desktop 無法使用螢幕共享所需ㄉ螢幕錄製功能。";
+"lng_group_call_mac_recording" = "請在隱私設定中允許 Telegram 有「螢幕錄製」ㄉ權限。";
+"lng_group_call_mac_settings" = "開啟設定";
+
+"lng_group_call_start_as_header" = "以哪個身分發起視訊聊天...";
+"lng_group_call_start_as_header_channel" = "以哪個身分發起直播...";
+"lng_group_call_join_as_header" = "以哪個身分加入視訊聊天...";
+"lng_group_call_join_as_header_channel" = "以哪個身分加入直播...";
+"lng_group_call_display_as_header" = "將窩顯示為...";
+"lng_group_call_join_as_about" = "選擇是要顯示為尼ㄉ個人靈魂還是尼ㄉ大聲公。";
+"lng_group_call_or_schedule" = "尼也可以{link}。";
+"lng_group_call_schedule" = "預約視訊聊天";
+"lng_group_call_schedule_channel" = "預約直播";
+"lng_group_call_schedule_title" = "預約視訊聊天";
+"lng_group_call_schedule_title_channel" = "預約直播";
+"lng_group_call_schedule_notified_group" = "圈圈魔法師將收到啄木鳥，視訊聊天將在 {duration}後開始。";
+"lng_group_call_schedule_notified_channel" = "大聲公訂閱者將收到啄木鳥，直播將在 {duration}後開始。";
+"lng_group_call_scheduled_status" = "預約ㄉ";
+"lng_group_call_scheduled_title" = "預約ㄉ視訊聊天";
+"lng_group_call_scheduled_title_channel" = "預約ㄉ直播";
+"lng_group_call_starts_short" = "{when}開始";
+"lng_group_call_starts" = "視訊聊天開始於{when}";
+"lng_group_call_starts_channel" = "直播{when}開始";
+"lng_group_call_starts_today" = "今天{time}";
+"lng_group_call_starts_tomorrow" = "明天{time}";
+"lng_group_call_starts_date" = "{date}{time}";
+"lng_group_call_starts_in" = "開始於";
+"lng_group_call_late_by" = "延遲ㄌ";
+"lng_group_call_starts_short_today" = "今天{time}";
+"lng_group_call_starts_short_tomorrow" = "明天{time}";
+"lng_group_call_starts_short_date" = "{date}, {time}";
+"lng_group_call_start_now" = "立即開始";
+"lng_group_call_start_now_sure" = "尼確定現在要發起視訊聊天？";
+"lng_group_call_start_now_sure_channel" = "尼確定要立即開始直播嗎？";
+"lng_group_call_set_reminder" = "設定提醒";
+"lng_group_call_cancel_reminder" = "取消提醒";
+"lng_group_call_join_as_personal" = "個人靈魂";
+"lng_group_call_edit_title" = "竄改視訊聊天標題";
+"lng_group_call_edit_title_channel" = "竄改直播標題";
+"lng_group_call_recording_start" = "開始錄製";
+"lng_group_call_recording_stop" = "停止錄製";
+"lng_group_call_recording_started" = "音訊串流ㄉ錄音已開始。";
+"lng_group_call_recording_started_video" = "開始錄製視訊串流。";
+"lng_group_call_recording_started_channel" = "直播錄製開始。";
+"lng_group_call_recording_stopped" = "錄製已停止。";
+"lng_group_call_recording_stopped_channel" = "直播錄製已停止。";
+"lng_group_call_recording_saved" = "音訊串流ㄉ錄音已儲存到「窩ㄉ收藏」。";
+"lng_group_call_recording_saved_video" = "影片已儲存到「窩ㄉ收藏」。";
+"lng_group_call_pinned_camera_me" = "尼ㄉ視訊已置頂。";
+"lng_group_call_pinned_screen_me" = "尼ㄉ螢幕直播已置頂。";
+"lng_group_call_pinned_camera" = "{user} ㄉ視訊已置頂。";
+"lng_group_call_pinned_screen" = "{user} ㄉ螢幕直播已置頂。";
+"lng_group_call_unpinned_camera_me" = "尼ㄉ視訊未置頂。";
+"lng_group_call_unpinned_screen_me" = "尼ㄉ螢幕直播已取消置頂。";
+"lng_group_call_unpinned_camera" = " {user} ㄉ視訊已取消置頂。";
+"lng_group_call_unpinned_screen" = "{user} ㄉ螢幕直播已取消置頂。";
+"lng_group_call_sure_screencast" = "{user} 正在分享螢幕畫面。所有參與者ㄉ螢幕會將它顯示為主要ㄉ視訊畫面。";
+"lng_group_call_recording_start_sure" = "尼要對此聊天進行錄音並將結果儲存到音訊檔嗎？\n\n參與者將看到聊天室錄音中。";
+"lng_group_call_recording_stop_sure" = "尼要停止錄製此視訊聊天嗎？";
+"lng_group_call_recording_start_field" = "錄音標題";
+"lng_group_call_recording_start_button" = "開始";
+"lng_group_call_recording_start_title" = "加入標題";
+"lng_group_call_recording_start_checkbox" = "也錄製影片";
+"lng_group_call_recording_start_audio_subtitle" = "此聊天將被錄製到音訊檔中";
+"lng_group_call_recording_start_video_subtitle" = "選擇影片方向";
+"lng_group_call_is_recorded" = "音訊串流錄製中。";
+"lng_group_call_is_recorded_video" = "視訊串流錄製中。";
+"lng_group_call_is_recorded_channel" = "直播錄製中。";
+"lng_group_call_can_speak_here" = "尼現在可以講話ㄌ。";
+"lng_group_call_can_speak" = "尼現在可以在「{chat}」中講話ㄌ。";
+"lng_group_call_title_changed" = "視訊聊天標題已變更為「 {title} 」";
+"lng_group_call_title_changed_channel" = "直播標題變更為 {title}";
+"lng_group_call_join_as_changed" = "現在，此視訊聊天ㄉ參與者所看到尼是「{name}」";
+"lng_group_call_join_as_changed_channel" = "此直播ㄉ參與者現在會將尼視為 {name}";
+
+"lng_no_mic_permission" = "Telegram 需要麥克風使用權，讓尼可以精靈耳和錄製語音水晶玉。";
 
 "lng_player_message_today" = "今天 {time}";
 "lng_player_message_yesterday" = "昨天 {time}";
 "lng_player_message_date" = "{date} ㄉ {time}";
-//"lng_player_cant_stream" = "This file can't be played before it is fully downloaded.\n\nWould you like to download it?";
-//"lng_player_download" = "Download";
 
-"lng_rights_edit_admin" = "竄改權限";
+"lng_audio_player_reverse" = "顛倒順序";
+"lng_audio_player_shuffle" = "隨機播放";
+
+"lng_rights_edit_admin" = "祭司權限";
 "lng_rights_edit_admin_header" = "這個祭司可以做什麼？";
 "lng_rights_edit_admin_rank_name" = "自訂職稱";
-"lng_rights_edit_admin_rank_about" = "取代原本ㄉ「{title}」，而將顯示ㄉ自訂職稱。";
+"lng_rights_edit_admin_rank_about" = "取代原本ㄉ「{title}」，而將顯示ㄉ職稱。";
 "lng_rights_about_add_admins_yes" = "此祭司將能夠加入具有相同（或較低）權限ㄉ新祭司。";
 "lng_rights_about_add_admins_no" = "此祭司將不能新增祭司。";
 
@@ -1647,10 +2360,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_permission_for_all" = "在圈圈權限中，已設定所有圈圈魔法師都可以做這件事。";
 "lng_rights_permission_unavailable" = "公開圈圈不提供此權限。";
 "lng_rights_permission_cant_edit" = "尼無法竄改此權限。";
-"lng_rights_user_restrictions" = "魔法師限制";
+"lng_rights_user_restrictions" = "魔法師權限";
 "lng_rights_user_restrictions_header" = "這個魔法師可以做什麼？";
 "lng_rights_default_restrictions_header" = "這個圈圈ㄉ魔法師可以做什麼？";
-"lng_rights_slowmode_header" = "回憶模式";
+"lng_rights_slowmode_header" = "慢速模式";
 "lng_rights_slowmode_off" = "關閉";
 
 "lng_rights_slowmode_seconds#other" = "{count}剎那";
@@ -1665,26 +2378,44 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_rights_slowmode_interval_minutes#other" = "每 {count} 分鐘";
 
-"lng_slowmode_enabled" = "回憶模式已啟用。尼可以在 {left} 後煉成尼ㄉ下一則水晶玉。";
-"lng_slowmode_no_many" = "回憶模式已啟用。尼一次只能煉成一則水晶玉。";
-"lng_slowmode_too_long" = "抱歉，此文字內容太長，無法作為一則水晶玉煉成。\n\n回憶模式已啟用。尼不能一次煉成多則水晶玉。";
+"lng_slowmode_enabled" = "慢速模式已啟用。尼可以在 {left}後煉成尼ㄉ下一則水晶玉。";
+"lng_slowmode_no_many" = "慢速模式已啟用。尼一次最多只能煉成一則水晶玉。";
+"lng_slowmode_too_long" = "抱歉，此文字內容太長，無法作為一則水晶玉煉成。\n\n慢速模式已啟用。尼一次最多只能煉成一則水晶玉。";
+
+"lng_rights_gigagroup_title" = "廣播圈圈";
+"lng_rights_gigagroup_convert" = "轉換為廣播圈圈";
+"lng_rights_gigagroup_about" = "廣播圈圈可以有超過 200,000 個魔法師，但是只有祭司可以在其中傳水晶玉。";
+"lng_gigagroup_convert_title" = "廣播圈圈";
+"lng_gigagroup_convert_feature1" = "魔法師數量沒有限制。";
+"lng_gigagroup_convert_feature2" = "只有祭司可以煉成水晶玉。";
+"lng_gigagroup_convert_feature3" = "不能變回普通圈圈。";
+"lng_gigagroup_convert_sure" = "轉換";
+"lng_gigagroup_warning_title" = "尼確定嗎？";
+"lng_gigagroup_warning" = "圈圈ㄉ普通魔法師（非祭司）將**無法撤回地**失去在圈圈中傳水晶玉ㄉ權利。\n\n此操作**無法**復原。";
+"lng_gigagroup_done" = "尼ㄉ圈圈現在可以擁有超過 200,000 個魔法師。";
+"lng_gigagroup_suggest_title" = "已達上限";
+"lng_gigagroup_suggest_text" = "尼ㄉ圈圈已達到 **200,000** 個魔法師ㄉ上限。\n\n尼可以透過將圈圈轉換為只有祭司可以傳水晶玉ㄉ**廣播圈圈**來提高人數上限。感興趣嗎？";
+"lng_gigagroup_suggest_more" = "ㄌ解更多";
 
 "lng_rights_channel_info" = "變更大聲公魔法書";
 "lng_rights_channel_post" = "發布水晶玉";
 "lng_rights_channel_edit" = "竄改他人ㄉ水晶玉";
 "lng_rights_channel_delete" = "炸毀別人ㄉ水晶玉";
+"lng_rights_channel_manage_calls" = "管理直播";
 "lng_rights_group_info" = "變更圈圈魔法書";
 "lng_rights_group_ban" = "魔障屏蔽魔法師";
 "lng_rights_group_invite_link" = "透過傳送器邀請魔法師";
 "lng_rights_group_invite" = "新增魔法師";
 "lng_rights_group_pin" = "置頂水晶玉";
+"lng_rights_group_manage_calls" = "管理視訊聊天";
 "lng_rights_group_delete" = "炸毀水晶玉";
+"lng_rights_group_anonymous" = "保持匿名";
 "lng_rights_add_admins" = "新增祭司";
 "lng_rights_chat_read" = "閱讀水晶玉";
 "lng_rights_chat_send_text" = "煉成水晶玉";
 "lng_rights_chat_send_media" = "煉成媒體";
-"lng_rights_chat_send_stickers" = "煉成貼圖和動圖";
-"lng_rights_chat_send_links" = "嵌入傳送器";
+"lng_rights_chat_send_stickers" = "煉成貼圖和GIF";
+"lng_rights_chat_send_links" = "傳送器預覽";
 "lng_rights_chat_send_polls" = "煉成黑箱作業活動";
 "lng_rights_chat_add_members" = "新增魔法師";
 "lng_rights_chat_banned_until_header" = "受限時間";
@@ -1702,7 +2433,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_transfer_check_about" = "尼必須符合以下條件，才可以轉讓圈圈給 {user}：";
 "lng_rights_transfer_check_password" = "⚡️ 已啟用【兩步驟驗證】超過 **7 天**。";
 "lng_rights_transfer_check_session" = "⚡️ 登入此魔法器超過 **24 小時**。";
-"lng_rights_transfer_check_later" = "請尼時間到ㄌ之後再回來。";
+"lng_rights_transfer_check_later" = "請稍後再回來。";
 "lng_rights_transfer_set_password" = "設定密語";
 "lng_rights_transfer_about" = "這將會把【{group}】ㄉ**完整擁有權**轉讓給 {user}。";
 "lng_rights_transfer_sure" = "變更擁有者";
@@ -1711,22 +2442,35 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_transfer_done_group" = "{user} 現在是圈圈ㄉ擁有者。";
 "lng_rights_transfer_done_channel" = "{user} 現在是大聲公ㄉ擁有者。";
 
-"lng_restricted_send_message" = "圈圈祭司已限制尼傳水晶玉。";
-"lng_restricted_send_media" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成媒體。";
+"lng_bots_password_confirm_check_about" = "尼只有在具備以下條件時才能好惹此操作：";
+"lng_bots_password_confirm_title" = "兩步驟驗證";
+"lng_bots_password_confirm_description" = "請施展魔法密語以確認操作。";
+
+"lng_restricted_send_message" = "祭司已禁止尼在此圈圈煉成水晶玉。";
+"lng_restricted_send_media" = "這個圈圈ㄉ祭司禁止尼在這裡煉成媒體玉石。";
 "lng_restricted_send_stickers" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成貼圖。";
-"lng_restricted_send_gifs" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成動圖。";
-"lng_restricted_send_inline" = "這個圈圈ㄉ祭司已禁止尼在這裡煉成內聯使魔ㄉ內容。";
-"lng_restricted_send_polls" = "這個圈圈ㄉ祭司已禁止尼在這裡發起或轉傳黑箱作業活動。";
+"lng_restricted_send_gifs" = "這個圈圈ㄉ祭司禁止尼在這裡張貼GIF。";
+"lng_restricted_send_inline" = "這個圈圈ㄉ祭司禁止尼在這裡張貼內聯使魔ㄉ內容。";
+"lng_restricted_send_polls" = "這個圈圈ㄉ祭司禁止尼在這裡張貼黑箱作業活動。";
+
+"lng_restricted_send_message_until" = "這個圈圈ㄉ祭司禁止尼在這裡煉成水晶玉，直到 {date} ㄉ {time}。";
+"lng_restricted_send_media_until" = "這個圈圈ㄉ祭司禁止尼在這裡煉成媒體玉石，直到 {date} ㄉ {time}。";
+"lng_restricted_send_stickers_until" = "這個圈圈ㄉ祭司禁止尼在這裡張貼貼圖，直到 {date} ㄉ {time}。";
+"lng_restricted_send_gifs_until" = "這個圈圈ㄉ祭司禁止尼在這裡張貼GIF，直到 {date} ㄉ {time}。";
+"lng_restricted_send_inline_until" = "這個圈圈ㄉ祭司禁止尼在這裡張貼內聯使魔ㄉ內容，直到 {date} ㄉ {time}。";
+"lng_restricted_send_polls_until" = "這個圈圈ㄉ祭司禁止尼在這裡張貼黑箱作業活動，直到 {date} ㄉ {time}。";
 
 "lng_restricted_send_message_all" = "此圈圈中不允許煉成水晶玉。";
 "lng_restricted_send_media_all" = "此圈圈中不允許煉成媒體內容。";
 "lng_restricted_send_stickers_all" = "此圈圈中不允許使用貼圖。";
-"lng_restricted_send_gifs_all" = "此圈圈中不允許煉成動圖。";
+"lng_restricted_send_gifs_all" = "此圈圈中不允許煉成GIF。";
 "lng_restricted_send_inline_all" = "此圈圈中不允許煉成內聯使魔內容。";
 "lng_restricted_send_polls_all" = "抱歉，在這個圈圈中不允許轉傳或發起黑箱作業活動。";
 
+"lng_restricted_send_public_polls" = "抱歉，記名黑箱作業無法被轉傳到大聲公中。";
+
 "lng_exceptions_list_title" = "例外";
-"lng_removed_list_title" = "被炸毀ㄉ魔法師";
+"lng_removed_list_title" = "已炸毀ㄉ魔法師";
 
 
 "lng_admin_log_slow_mode_seconds#other" = "{count} 剎那";
@@ -1739,22 +2483,27 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_filter_title" = "篩選器";
 "lng_admin_log_filter_all_actions" = "所有操作";
 "lng_admin_log_filter_restrictions" = "新增限制";
-"lng_admin_log_filter_admins_new" = "新增祭司";
+"lng_admin_log_filter_admins_new" = "祭司權限";
 "lng_admin_log_filter_members_new" = "新增魔法師";
 "lng_admin_log_filter_info_group" = "竄改圈圈魔法書";
 "lng_admin_log_filter_info_channel" = "大聲公魔法書";
 "lng_admin_log_filter_messages_deleted" = "炸毀水晶玉";
 "lng_admin_log_filter_messages_edited" = "竄改水晶玉";
 "lng_admin_log_filter_messages_pinned" = "置頂水晶玉";
+"lng_admin_log_filter_voice_chats" = "視訊聊天";
+"lng_admin_log_filter_voice_chats_channel" = "直播";
+"lng_admin_log_filter_invite_links" = "傳送器";
 "lng_admin_log_filter_members_removed" = "魔法師退出";
 "lng_admin_log_filter_all_admins" = "所有魔法師和祭司";
 "lng_admin_log_about" = "這是什麼？";
-"lng_admin_log_about_text" = "這是魔法師和祭司在過去 48 小時內ㄉ操作紀錄。";
-"lng_admin_log_no_results_title" = "沒找到任何操作";
-"lng_admin_log_no_results_text" = "找不到符合尼篩選ㄉ操作紀錄。";
+"lng_admin_log_about_text" = "這是魔法師和祭司在過去 48 小時內值得注意ㄉ操作紀錄。";
+"lng_admin_log_about_text_channel" = "這是魔法師和祭司在過去 48 小時內ㄉ操作紀錄。";
+"lng_admin_log_no_results_title" = "找不到記錄";
+"lng_admin_log_no_results_text" = "沒有找到符合尼查詢ㄉ操作。";
 "lng_admin_log_no_results_search_text" = "沒有找到最近有包含「{query}」ㄉ操作。";
 "lng_admin_log_no_events_title" = "還沒有操作紀錄";
-"lng_admin_log_no_events_text" = "過去48小時內，魔法師和祭司沒有任何操作。";
+"lng_admin_log_no_events_text" = "此圈圈ㄉ魔法師和祭司在過去 48 小時內沒有採取任何值得注意ㄉ操作。";
+"lng_admin_log_no_events_text_channel" = "此大聲公ㄉ祭司在過去 48 小時內\n沒有採取任何值得注意ㄉ操作。";
 
 "lng_admin_log_empty_text" = "空白";
 "lng_admin_log_changed_title_group" = "{from} 將圈圈名稱變更為 «{title}»";
@@ -1769,54 +2518,89 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_changed_link_channel" = "{from} 變更ㄌ大聲公傳送器：";
 "lng_admin_log_removed_link_channel" = "{from} 炸毀ㄌ大聲公傳送器";
 "lng_admin_log_previous_link" = "原本ㄉ傳送器";
-"lng_admin_log_changed_photo_group" = "{from} 變更ㄌ圈圈照片";
-"lng_admin_log_changed_photo_channel" = "{from} 變更ㄌ大聲公照片";
-"lng_admin_log_removed_photo_group" = "{from} 炸毀ㄌ圈圈照片";
-"lng_admin_log_removed_photo_channel" = "{from} 炸毀ㄌ大聲公照片";
+"lng_admin_log_changed_photo_group" = "{from} 變更ㄌ圈圈大頭貼";
+"lng_admin_log_changed_photo_channel" = "{from} 變更ㄌ大聲公大頭貼";
+"lng_admin_log_removed_photo_group" = "{from} 炸毀ㄌ圈圈大頭貼";
+"lng_admin_log_removed_photo_channel" = "{from} 炸毀ㄌ大聲公大頭貼";
 "lng_admin_log_invites_enabled" = "{from} 開啟ㄌ圈圈邀請功能";
 "lng_admin_log_invites_disabled" = "{from} 關閉ㄌ圈圈邀請功能";
 "lng_admin_log_signatures_enabled" = "{from} 啟用ㄌ水晶玉簽名";
 "lng_admin_log_signatures_disabled" = "{from} 停用ㄌ水晶玉簽名";
+"lng_admin_log_forwards_enabled" = "{from} 允許ㄌ內容複製";
+"lng_admin_log_forwards_disabled" = "{from} 限制ㄌ內容複製";
 "lng_admin_log_history_made_hidden" = "{from} 對新魔法師隱藏ㄌ加入前ㄉ舊水晶玉";
 "lng_admin_log_history_made_visible" = "{from} 使新魔法師可以看到加入前ㄉ舊水晶玉。";
 "lng_admin_log_pinned_message" = "{from} 置頂ㄌ水晶玉：";
-"lng_admin_log_unpinned_message" = "{from} 取消ㄌ置頂水晶玉";
+"lng_admin_log_unpinned_message" = "{from} 取消ㄌ置頂水晶玉：";
 "lng_admin_log_edited_caption" = "{from} 竄改ㄌ說明文字：";
 "lng_admin_log_removed_caption" = "{from} 炸毀ㄌ說明文字";
 "lng_admin_log_previous_caption" = "原始說明文字";
 "lng_admin_log_edited_message" = "{from} 竄改ㄌ水晶玉：";
 "lng_admin_log_previous_message" = "原始水晶玉";
 "lng_admin_log_deleted_message" = "{from} 炸毀ㄌ水晶玉：";
+"lng_admin_log_sent_message" = "{from} 煉成ㄌ這則水晶玉：";
 "lng_admin_log_participant_joined" = "{from} 加入ㄌ圈圈";
 "lng_admin_log_participant_joined_channel" = "{from} 加入ㄌ大聲公";
+"lng_admin_log_participant_joined_by_link" = "{from} 加入ㄌ圈圈，透過 {link}";
+"lng_admin_log_participant_joined_by_link_channel" = "{from} 加入ㄌ大聲公，透過 {link}";
+"lng_admin_log_participant_approved_by_link" = "{from} 已獲批准透過 {user} 所建傳送器 {link} 加入圈圈";
+"lng_admin_log_participant_approved_by_link_channel" = "{from} 已獲批准透過 {user} 所建傳送器 {link} 加入大聲公";
+"lng_admin_log_revoke_invite_link" = "{from} 撤銷ㄌ傳送器 {link}";
+"lng_admin_log_delete_invite_link" = "{from} 炸毀ㄌ傳送器 {link}";
 "lng_admin_log_participant_left" = "{from} 退出ㄌ圈圈";
 "lng_admin_log_participant_left_channel" = "{from} 退出ㄌ大聲公";
 "lng_admin_log_stopped_poll" = "{from} 關閉ㄌ黑箱作業：";
 "lng_admin_log_invited" = "邀請ㄌ {user}";
 "lng_admin_log_banned" = "魔障屏蔽ㄌ {user}";
+"lng_admin_log_unbanned" = "解除魔障屏蔽 {user}";
 "lng_admin_log_restricted" = "變更ㄌ對 {user} ㄉ限制，{until}";
 "lng_admin_log_promoted" = "變更ㄌ {user} ㄉ權限";
-"lng_admin_log_transferred" = "轉移ㄌ擁有權給 {user}";
+"lng_admin_log_transferred" = "轉讓ㄌ擁有權給 {user}";
 "lng_admin_log_changed_default_permissions" = "變更ㄌ預設權限";
-"lng_admin_log_changed_stickers_group" = "{from} 變更ㄌ圈圈ㄉ{sticker_set}";
+"lng_admin_log_changed_stickers_group" = "{from} 變更ㄌ圈圈{sticker_set}";
 "lng_admin_log_changed_stickers_set" = "貼圖包";
-"lng_admin_log_removed_stickers_group" = "{from} 炸毀ㄌ圈圈ㄉ貼圖包";
+"lng_admin_log_removed_stickers_group" = "{from} 炸毀ㄌ圈圈貼圖包";
 "lng_admin_log_changed_linked_chat" = "{from} 將 «{chat}» 設定為本大聲公ㄉ討論群 ";
 "lng_admin_log_removed_linked_chat" = "{from} 炸毀ㄌ討論群";
 "lng_admin_log_changed_linked_channel" = "{from} 傳送器ㄌ本圈圈與 «{chat}» 大聲公";
 "lng_admin_log_removed_linked_channel" = "{from} 炸毀ㄌ已傳送器ㄉ大聲公";
 "lng_admin_log_changed_location_chat" = "{from} 將圈圈位置變更為 {address}";
 "lng_admin_log_removed_location_chat" = "{from} 炸毀ㄌ圈圈位置";
-"lng_admin_log_changed_slow_mode" = "{from} 將回憶模式設定為 {duration}";
-"lng_admin_log_removed_slow_mode" = "{from} 停用ㄌ回憶模式";
+"lng_admin_log_changed_slow_mode" = "{from} 將慢速模式時間設為 {duration}";
+"lng_admin_log_removed_slow_mode" = "{from} 停用ㄌ慢速模式";
+"lng_admin_log_started_group_call" = "{from} 發起ㄌ視訊聊天";
+"lng_admin_log_started_group_call_channel" = "{from} 發起ㄌ新ㄉ直播";
+"lng_admin_log_discarded_group_call" = "{from} 結束ㄌ視訊聊天";
+"lng_admin_log_discarded_group_call_channel" = "{from} 結束ㄌ直播";
+"lng_admin_log_muted_participant" = "{from} 在視訊聊天中靜音ㄌ {user}";
+"lng_admin_log_muted_participant_channel" = "{from} 在直播中將 {user} 設為靜音";
+"lng_admin_log_unmuted_participant" = "{from} 在視訊聊天中取消ㄌ {user} ㄉ靜音";
+"lng_admin_log_unmuted_participant_channel" = "{from} 在直播中取消靜音 {user}";
+"lng_admin_log_allowed_unmute_self" = "{from} 允許ㄌ新ㄉ視訊聊天參與者發言";
+"lng_admin_log_allowed_unmute_self_channel" = "{from} 允許新ㄉ直播參與者發言";
+"lng_admin_log_disallowed_unmute_self" = "{from} 靜音ㄌ新ㄉ視訊聊天參與者";
+"lng_admin_log_disallowed_unmute_self_channel" = "{from} 將新ㄉ直播參與者設為靜音";
+"lng_admin_log_participant_volume" = "{from} 將 {user} 視訊聊天音量變更為{percent}";
+"lng_admin_log_participant_volume_channel" = "{from} 將 {user} ㄉ直播音量變更為 {percent}";
 "lng_admin_log_user_with_username" = "{name} ({mention})";
+"lng_admin_log_messages_ttl_set" = "{from} 開啟ㄌ新水晶玉在{duration}後以小精靈選擇炸毀";
+"lng_admin_log_messages_ttl_changed" = "{from} 變更ㄌ新水晶玉以小精靈選擇炸毀時間，從{previous}改為{duration}";
+"lng_admin_log_messages_ttl_removed" = "{from} 關閉ㄌ新水晶玉在{duration}後以小精靈選擇炸毀";
+
+
+"lng_admin_log_edited_invite_link" = "竄改ㄌ傳送器 {link}";
+"lng_admin_log_invite_link_expire_date" = "到期日：{previous} → {limit}";
+"lng_admin_log_invite_link_usage_limit" = "使用限制：{previous} → {limit}";
+"lng_admin_log_invite_link_label" = "名稱：{previous} → {limit}";
+"lng_admin_log_invite_link_request_needed" = "現在需要祭司批准才能加入。";
+"lng_admin_log_invite_link_request_not_needed" = "加入不再需要祭司批准。";
 "lng_admin_log_restricted_forever" = "無限期";
 "lng_admin_log_restricted_until" = "直到{date}";
 "lng_admin_log_banned_view_messages" = "閱讀水晶玉";
 "lng_admin_log_banned_send_messages" = "煉成水晶玉";
 "lng_admin_log_banned_send_media" = "煉成媒體";
-"lng_admin_log_banned_send_stickers" = "煉成貼圖和動圖";
-"lng_admin_log_banned_embed_links" = "嵌入傳送器";
+"lng_admin_log_banned_send_stickers" = "煉成貼圖和GIF";
+"lng_admin_log_banned_embed_links" = "傳送器預覽";
 "lng_admin_log_banned_send_polls" = "煉成黑箱作業活動";
 "lng_admin_log_admin_change_info" = "變更魔法書";
 "lng_admin_log_admin_post_messages" = "發布水晶玉";
@@ -1826,35 +2610,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_admin_invite_users" = "新增魔法師";
 "lng_admin_log_admin_invite_link" = "透過傳送器邀請魔法師";
 "lng_admin_log_admin_pin_messages" = "置頂水晶玉";
+"lng_admin_log_admin_manage_calls" = "管理視訊聊天";
+"lng_admin_log_admin_manage_calls_channel" = "管理直播";
 "lng_admin_log_admin_add_admins" = "新增祭司";
-
-// #feed
-//"lng_feed_name" = "Feed";
-//"lng_feed_show_next" = "Show Next";
-
-//"lng_feed_group" = "Group in feed";
-//"lng_feed_ungroup" = "Ungroup from feed";
-//"lng_feed_channel_added" = "Channel added to your feed.";
-//"lng_feed_channel_removed" = "Channel removed from your feed.";
-//"lng_feed_no_messages" = "No messages in this feed yet";
-//"lng_feed_channels#one" = "{count} channel";
-//"lng_feed_channels#other" = "{count} channels";
-//"lng_feed_notifications" = "Feed notifications";
-//"lng_feed_ungroup_all" = "Ungroup all channels";
-//"lng_feed_sure_ungroup_all" = "Are you sure you want to ungroup all channels from this feed?";
-//"lng_feed_ungroup_sure" = "Ungroup";
-//"lng_feed_create_new" = "New feed";
-//"lng_feed_too_few_channels#one" = "You need at least {count} channel to create a feed.";
-//"lng_feed_too_few_channels#other" = "You need at least {count} channels to create a feed.";
-//"lng_feed_select_more_channels#one" = "Select {count} channel or more.";
-//"lng_feed_select_more_channels#other" = "Select {count} channels or more.";
-//"lng_feed_create" = "Create";
-//"lng_feed_edit_title" = "Edit feed";
-//"lng_feed_channels_not_found" = "No channels found";
-
-//"lng_info_feed_title" = "Feed Info";
-//"lng_info_feed_is_default" = "Group new channels";
-//"lng_info_feed_channels" = "Channels";
 
 "lng_terms_signup" = "透過註冊, \n尼同意 {link}。";
 "lng_terms_signup_link" = "服務條款";
@@ -1867,13 +2625,25 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_terms_update_sorry" = "窩們很抱歉，但這意味著窩們必須在這裡和尼說再見！不像其他公司, 窩們不使用尼ㄉ資料來安插個人化廣告或其他商業目ㄉ。Telegram 只儲存它作為一個安全與功能豐富ㄉ雲端服務所需ㄉ魔法書。尼可以在「隱私與安全」設定中調整使用資料ㄉ方式。\n\n但是, 通常如果尼不同意 Telegram 合理ㄉ要求, 窩們就無法為尼提供這項服務。尼現在可以炸毀尼ㄉ靈魂 — 或者再多ㄌ解一些事情, 稍後如果尼對窩們使用尼資料ㄉ方式仍不滿意，再炸毀它。";
 "lng_terms_decline_and_delete" = "拒絕並炸毀";
 "lng_terms_back" = "返回";
-"lng_terms_delete_warning" = "警告，這將不可逆轉地炸毀尼ㄉ Telegram 靈魂，以及尼儲存在 Telegram 雲端中ㄉ所有資料。\n\n重要提示：尼可以在炸毀尼ㄉ靈魂之前先取消執行並匯出資料，而不是全部丟掉。（為此，請開啟最新版本ㄉ Telegram Desktop，並前往「設定」>「進階」>「匯出 Telegram 資料」。）";
+"lng_terms_delete_warning" = "警告，這將不可逆轉地炸毀尼ㄉ Telegram 靈魂，以及尼儲存在 Telegram 雲端中ㄉ所有資料。\n\n重要提示：尼現在可以取消，並匯出資料，就在尼炸毀靈魂之前，而不是失去一切。（為此，請開啟最新版本ㄉ Telegram Desktop，並前往「設定」>「進階」>「匯出 Telegram 資料」。）";
 "lng_terms_delete_now" = "立即炸毀";
 "lng_terms_agree_to_proceed" = "請同意並繼續 {bot}。";
 
 "lng_date_input_day" = "日";
 "lng_date_input_month" = "月";
 "lng_date_input_year" = "年";
+
+"lng_forward_title" = "轉傳水晶玉";
+
+"lng_forward_many_title#other" = "轉傳 {count} 則水晶玉";
+"lng_forward_about" = "尼可以炸毀水晶玉來源魔法書，讓這水晶玉看起來像是由尼所煉成，而非轉傳。";
+"lng_forward_many_about" = "尼可以炸毀水晶玉來源魔法書，讓這些水晶玉看起來像是由尼所煉成，而非轉傳。";
+"lng_forward_show_sender" = "顯示水晶玉來源";
+"lng_forward_show_senders" = "顯示水晶玉來源";
+"lng_forward_show_caption" = "顯示說明文字";
+"lng_forward_show_captions" = "顯示說明文字";
+"lng_forward_change_recipient" = "變更接收者";
+"lng_forward_sender_names_removed" = "水晶玉來源已炸毀";
 
 "lng_passport_title" = "Telegram Passport";
 "lng_passport_request1" = "{bot} 要求存取尼ㄉ個人資料";
@@ -1986,7 +2756,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_new_email_code" = "注意：尼將收到尼提供ㄉ電子郵件地址ㄉ精靈密語。";
 "lng_passport_confirm_phone" = "窩們已向尼 {phone} ㄉ魔法器發送ㄌ一則包含精靈密語ㄉ飛鴿傳書。";
 "lng_passport_confirm_email" = "窩們已向尼ㄉ電子信箱 {email} 煉成ㄌ精靈密語。";
-"lng_passport_sure_cancel" = "如果繼續，尼ㄉ變更將會流失。";
+"lng_passport_sure_cancel" = "尼確定要繼續？尼ㄉ變更將會流失。";
 "lng_passport_scans_limit_reached" = "抱歉，掃描數量已達到單個證件ㄉ上限。";
 "lng_passport_delete_document" = "炸毀文件";
 "lng_passport_delete_document_sure" = "尼確定要炸毀此文件？";
@@ -2035,11 +2805,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_option_voice_messages" = "語音水晶玉";
 "lng_export_option_video_messages" = "視訊水晶玉";
 "lng_export_option_stickers" = "貼圖";
-"lng_export_option_gifs" = "動圖";
+"lng_export_option_gifs" = "GIF";
 "lng_export_option_files" = "玉石";
 "lng_export_option_size_limit" = "大小限制：{size}";
 "lng_export_header_format" = "位置和格式";
 "lng_export_option_location" = "下載路徑：{path}";
+"lng_export_option_format_location" = "格式：{format}，路徑：{path}";
+"lng_export_option_choose_format" = "選擇匯出格式";
 "lng_export_option_html" = "魔法師可讀ㄉ HTML";
 "lng_export_option_json" = "機器可讀ㄉ JSON";
 "lng_export_limits" = "從：{from}，到：{till}";
@@ -2053,6 +2825,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_state_chats_list" = "正在處理聊天…";
 "lng_export_state_chats" = "聊天";
 "lng_export_state_ready_progress" = "{ready} / {total}";
+"lng_export_skip_file" = "略過此玉石";
 "lng_export_progress" = "尼現在可以關閉這個視窗。在資料匯出好惹之前，請鼻要結束 Telegram。";
 "lng_export_stop" = "停止";
 "lng_export_sure_stop" = "確定要停止匯出尼ㄉ資料嗎？\n\n如果尼這麼做，之後尼需要重新開始。";
@@ -2072,34 +2845,43 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_suggest_cancel" = "現在鼻要";
 "lng_export_about_telegram" = "這是尼請求給予ㄉ資料。請記住：Telegram 沒有廣告，它不會將尼ㄉ資料用於安插個人化廣告，也不會將其出售給其他人。Telegram 僅保留其作為安全且功能豐富ㄉ雲端服務所需ㄉ魔法書。\n\n查看 Telegram 行動魔法器中ㄉ「設定」>「隱私和安全性」以ㄌ解相關設定。";
 "lng_export_about_contacts" = "如果尼允許存取，尼ㄉ魔法器同伴魔法書將不斷與 Telegram 同步。多虧ㄌ這一點，尼可以輕鬆切換到 Telegram 並可以立即在尼所有魔法器上與朋友聯繫。窩們使用尼ㄉ同伴魔法書，以便在他們加入 Telegram 時啄木鳥尼，並且以尼在魔法器中為朋友設定ㄉ名稱來顯示他們ㄉ名稱。\n\n尼可以在 Telegram 魔法器魔法器中ㄉ「設定」>「隱私和安全」中停用魔法器同伴ㄉ同步或炸毀同伴名單。";
-"lng_export_about_frequent" = "此評分顯示哪些人可能經常煉成水晶玉。Telegram 使用這些資料填入找找區頂部ㄉ「人們」。該評分也針對內聯使魔計算，以便魔法器可以在附件選單中推薦尼最可能使用到ㄉ使魔（或者當尼使用「@」開始新水晶玉時）。\n\n要炸毀此資料，請前往設定 > 隱私和安全，然後停用「建議常聯絡ㄉ人」（需要 iOS 平台 Telegram 4.8.3 版或 Android 平台 Telegram 4.8.10 版或更新版本）。";
+"lng_export_about_frequent" = "此評分顯示哪些人可能經常煉成水晶玉。Telegram 使用這些資料填入找找區頂部ㄉ「人們」。該評分也針對內聯使魔計算，以便魔法器可以在附件選單中推薦尼最可能使用到ㄉ使魔（或者當尼使用「@」開始新水晶玉時）。\n\n要炸毀此資料，請前往設定 > 隱私和安全，然後停用「推薦常用同伴」（需要 iOS 平台 Telegram 4.8.3 版或 Android 平台 Telegram 4.8.10 版或更新版本）。";
 "lng_export_about_sessions" = "窩們在「設定」>「隱私和安全」>「已登入ㄉ魔法器」中儲存此魔法書以顯示尼已登入ㄉ魔法器。";
 "lng_export_about_web_sessions" = "窩們儲存此魔法書以顯示尼透過使用 Telegram 來驗證身分所登入ㄉ網站。此魔法書顯示在「設定」>「隱私與安全」>「已登入ㄉ魔法器或網站」中。";
 "lng_export_about_chats" = "本頁面列出ㄌ這次匯出ㄉ所有聊天。";
 "lng_export_about_left_chats" = "以下是尼退出或尼被魔障屏蔽ㄉ超級圈圈和大聲公。\n\n請注意，當尼退出尼所創立ㄉ大聲公或超級圈圈時，尼可以選擇炸毀它，或者僅是退出（如果尼之後有可能想重新加入；或者儘管不再是魔法師ㄌ，卻仍希望讓社群保持活著）。";
 
 "lng_language_switch_title" = "要變更語言嗎？";
-
-
+"lng_language_switch_about_official" = "尼即將套用語言包 ({lang_name})，其中翻譯已好惹 {percent}%。\n\n這將改變整個程式介面ㄉ顯示語言。尼可以透過{link}對翻譯提出修正建議。\n\n尼也可以隨時在「設定」中恢復尼原本ㄉ語言。";
+"lng_language_switch_about_unofficial" = "尼即將套用自訂語言包 ({lang_name})，其中翻譯已好惹 {percent}%。\n\n這將改變整個程式介面ㄉ顯示語言。尼可以透過{link}對翻譯提出修正建議。\n\n尼也可以隨時在「設定」中恢復尼原本ㄉ語言。";
 "lng_language_switch_link" = "翻譯平台";
 "lng_language_switch_apply" = "變更";
 "lng_language_not_found" = "抱歉，此語言包不存在。";
-"lng_language_already" = "尼已經在使用這個語言包ㄌ。尼可以隨時在「設定」中變更語言。";
+"lng_language_already" = "尼已經在使用此語言包。尼可以隨時在「設定」中變更語言。";
 "lng_language_not_ready_title" = "數據不足";
 "lng_language_not_ready_about" = "不幸ㄉ是，此自訂語言包（{lang_name}）不包含 Telegram Desktop ㄉ資料。尼可以透過 {link} 為此語言包做出貢獻。";
 "lng_language_not_ready_link" = "翻譯平台";
 
 "lng_launch_exe_warning" = "此玉石ㄉ附檔名為 {extension}。\n它可能會損害尼ㄉ電腦。\n尼確定要執行嗎？";
+"lng_launch_svg_warning" = "預覽此玉石可能會將尼ㄉ IP 位址暴露給其煉成者。要繼續嗎？";
 "lng_launch_exe_sure" = "執行";
 "lng_launch_exe_dont_ask" = "鼻要再問窩ㄌ";
 
-"lng_polls_anonymous" = "不記名黑箱作業";
-"lng_polls_closed" = "黑箱作業結果";
+"lng_polls_anonymous" = "匿名黑箱作業";
+"lng_polls_public" = "記名黑箱作業";
+"lng_polls_anonymous_quiz" = "匿名測驗";
+"lng_polls_public_quiz" = "記名測驗";
+"lng_polls_closed" = "最終結果";
 
 "lng_polls_votes_count#other" = "{count} 人黑箱作業";
 "lng_polls_votes_none" = "沒人黑箱作業";
+
+"lng_polls_answers_count#other" = "{count} 人回答";
+"lng_polls_answers_none" = "沒人回答";
+"lng_polls_submit_votes" = "黑箱作業";
+"lng_polls_view_results" = "檢視結果";
 "lng_polls_retract" = "收回選票";
-"lng_polls_stop" = "關閉黑箱作業";
+"lng_polls_stop" = "停止黑箱作業";
 "lng_polls_stop_warning" = "如果尼現在關閉ㄌ這項黑箱作業活動，任何人都不能再黑箱作業。這個操作無法復原。";
 "lng_polls_stop_sure" = "關閉";
 "lng_polls_create" = "發起黑箱作業";
@@ -2111,11 +2893,117 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_polls_create_limit#other" = "尼可以再新增 {count} 個選項。";
 "lng_polls_create_maximum" = "尼加入ㄉ選項已達數量上限。";
+"lng_polls_create_settings" = "設定";
+"lng_polls_create_anonymous" = "匿名黑箱作業";
+"lng_polls_create_multiple_choice" = "可多選";
+"lng_polls_create_quiz_mode" = "測驗模式";
 "lng_polls_create_button" = "建立";
+"lng_polls_create_one_answer" = "測驗模式下ㄉ黑箱作業只能有一個正確答案。";
+"lng_polls_choose_question" = "請施展魔法一個問題。";
+"lng_polls_choose_answers" = "請施展魔法至少兩個選項。";
+"lng_polls_choose_correct" = "請選擇正確ㄉ答案。";
+"lng_polls_solution_title" = "說明";
+"lng_polls_solution_placeholder" = "寫個評論（選填）";
+"lng_polls_solution_about" = "魔法師選擇ㄌ錯誤ㄉ答案後，會看到這段文字，因此非常適合教育用途。";
+
+"lng_polls_poll_results_title" = "黑箱作業結果";
+"lng_polls_quiz_results_title" = "測驗結果";
+
+"lng_polls_show_more#other" = "顯示更多 ({count})";
+"lng_polls_votes_collapse" = "摺疊";
 
 "lng_outdated_title" = "請更新尼ㄉ作業魔法器。";
+"lng_outdated_title_bits" = "請切換到64位元作業魔法器。";
 "lng_outdated_soon" = "否則，Telegram Desktop 將在 {date} 停止更新。";
 "lng_outdated_now" = "這樣 Telegram Desktop 就可以更新到較新ㄉ版本。";
+
+"lng_filters_all" = "全部";
+"lng_filters_setup" = "竄改";
+"lng_filters_title" = "聊天室分類";
+"lng_filters_subtitle" = "窩ㄉ分類";
+"lng_filters_no_chats" = "沒有聊天";
+
+"lng_filters_chats_count#other" = "{count} 個聊天";
+"lng_filters_create" = "建立新資料夾";
+"lng_filters_about" = "為不同ㄉ聊天室建立資料夾並進行分類，然後在它們之間快速切換。";
+"lng_filters_recommended" = "推薦ㄉ資料夾";
+"lng_filters_recommended_add" = "新增";
+"lng_filters_restore" = "復原";
+"lng_filters_new" = "新資料夾";
+"lng_filters_edit" = "竄改資料夾";
+"lng_filters_new_name" = "資料夾名稱";
+"lng_filters_add_chats" = "新增聊天室";
+"lng_filters_remove_chats" = "新增聊天室";
+"lng_filters_include" = "包含ㄉ聊天室";
+"lng_filters_include_about" = "選擇將出現在此資料夾中ㄉ聊天室和聊天室類型。";
+"lng_filters_exclude" = "排除ㄉ聊天室";
+"lng_filters_exclude_about" = "選擇不會出現在此資料夾中ㄉ聊天室和聊天室類型。";
+"lng_filters_create_button" = "建立";
+"lng_filters_include_title" = "包含ㄉ聊天室";
+"lng_filters_exclude_title" = "排除ㄉ聊天室";
+"lng_filters_edit_types" = "聊天室類型";
+"lng_filters_edit_chats" = "聊天室";
+"lng_filters_include_contacts" = "同伴";
+"lng_filters_include_non_contacts" = "非同伴";
+"lng_filters_include_groups" = "圈圈";
+"lng_filters_include_channels" = "大聲公";
+"lng_filters_include_bots" = "使魔";
+"lng_filters_exclude_muted" = "已關啄木鳥";
+"lng_filters_exclude_read" = "已讀";
+"lng_filters_exclude_archived" = "已封存";
+"lng_filters_name_people" = "人們";
+"lng_filters_name_unread" = "未讀";
+"lng_filters_name_unmuted" = "未關啄木鳥";
+"lng_filters_add" = "好惹";
+"lng_filters_limit" = "抱歉，尼無法建立更多資料夾。";
+"lng_filters_empty" = "請為此資料夾至少選擇一個聊天。";
+"lng_filters_default" = "請為此資料夾至少變更一條規則。";
+"lng_filters_type_contacts" = "同伴";
+"lng_filters_type_non_contacts" = "非同伴";
+"lng_filters_type_groups" = "圈圈";
+"lng_filters_type_channels" = "大聲公";
+"lng_filters_type_bots" = "使魔";
+"lng_filters_type_no_archived" = "已封存";
+"lng_filters_type_no_muted" = "已關啄木鳥";
+"lng_filters_type_no_read" = "已讀";
+"lng_filters_icon_header" = "選擇一個圖示";
+"lng_filters_error_pinned_max" = "抱歉，尼無法再將更多ㄉ聊天置頂。";
+"lng_filters_context_edit" = "竄改資料夾";
+"lng_filters_context_remove" = "炸毀";
+"lng_filters_remove_sure" = "這將炸毀資料夾，但尼ㄉ聊天室不會被炸毀。";
+"lng_filters_remove_yes" = "炸毀";
+
+"lng_chat_theme_change" = "變更顏色";
+"lng_chat_theme_none" = "無主題玉石";
+"lng_chat_theme_apply" = "套用主題玉石";
+"lng_chat_theme_reset" = "重置主題玉石";
+"lng_chat_theme_dont" = "不設置主題玉石";
+"lng_chat_theme_title" = "選擇主題玉石";
+"lng_chat_theme_cant_voice" = "抱歉，當尼有未煉成ㄉ語音水晶玉時，尼無法變更聊天室主題玉石。";
+
+"lng_photo_editor_menu_delete" = "炸毀";
+"lng_photo_editor_menu_flip" = "翻轉";
+"lng_photo_editor_menu_duplicate" = "複製";
+
+"lng_voice_speed_slow" = "慢";
+"lng_voice_speed_normal" = "正常";
+"lng_voice_speed_fast" = "快";
+"lng_voice_speed_very_fast" = "非常快";
+
+"lng_view_button_user" = "查看魔法師";
+"lng_view_button_bot" = "查看使魔";
+"lng_view_button_group" = "查看圈圈";
+"lng_view_button_channel" = "查看大聲公";
+"lng_view_button_background" = "查看背景";
+"lng_view_button_theme" = "查看主題玉石";
+"lng_view_button_message" = "查看水晶玉";
+"lng_view_button_voice_chat" = "視訊聊天";
+"lng_view_button_voice_chat_channel" = "直播";
+"lng_view_button_request_join" = "申請加入";
+
+"lng_sponsored_title" = "什麼是贊助商水晶玉？";
+"lng_sponsored_info_description1" = "與其他魔法器不同，Telegram 從不使用尼ㄉ私人數據來投放廣告。Telegram 上ㄉ贊助商水晶玉完全是基於公開大聲公其所顯示ㄉ主題玉石。這意味著不會挖掘或分析魔法師數據來顯示廣告，並且每個在 Telegram 上瀏覽某大聲公ㄉ魔法師所看到ㄉ贊助商水晶玉都是一樣ㄉ。\n\n與其他魔法器不同，Telegram 不會在尼點擊贊助商水晶玉時追蹤尼，不會根據尼ㄉ活動來描述尼。除此之外，窩們也會避免贊助商水晶玉中有外部傳送器，藉以確保窩們ㄉ魔法師不會被第三方所監視。窩們相信，每個人都擁有隱私權，而科技平台應該重視這點。\n\nTelegram 為數億魔法師提供免錢且無限制ㄉ服務，這涉及大量ㄉ魔法圖書館和流量成本。為ㄌ保持獨立並忠於自己ㄉ價值觀，在考慮魔法師隱私ㄉ情況下，Telegram 開發ㄌ一種付費可宣傳水晶玉ㄉ工具。窩們歡迎可信賴ㄉ廣告刊登者：";
+"lng_sponsored_info_description2" = "贊助商水晶玉目前處於測試模式。一旦完全啟用並使 Telegram 可以支付其基本費用，窩們將開始分享廣告收入給顯示贊助商水晶玉ㄉ公開大聲公擁有者。\n\n線上廣告不應再等同於濫用魔法師隱私。讓窩們一起重新定義一家科技公司應該如何運作。";
 
 // Wnd specific
 
@@ -2128,6 +3016,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_linux_menu_undo" = "復原";
 "lng_linux_menu_redo" = "重做";
+"lng_linux_menu_tools" = "工具";
+"lng_linux_menu_help" = "幫助";
 
 "lng_linux_no_audio_prefs" = "尼沒有安裝任何音訊配置魔法器。";
 
@@ -2140,9 +3030,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_enable_filter" = "顯示：";
 "lng_mac_recommended_apps" = "推薦ㄉ魔法器";
 "lng_mac_all_apps" = "所有魔法器";
-"lng_mac_always_open_with" = "總是用此程式打開";
+"lng_mac_always_open_with" = "總是用此程式開啟";
 "lng_mac_this_app_can_open" = "此魔法器可以開啟「{file}」。";
-"lng_mac_not_known_app" = "還不知道此魔法器是否可以打開「{file}」。";
+"lng_mac_not_known_app" = "還不知道此魔法器是否可以開啟「{file}」。";
 
 "lng_mac_menu_services" = "服務";
 "lng_mac_menu_hide_telegram" = "隱藏 {telegram}";
@@ -2164,9 +3054,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_menu_window" = "視窗";
 "lng_mac_menu_contacts" = "同伴";
 "lng_mac_menu_add_contact" = "加為同伴";
-"lng_mac_menu_new_group" = "新建圈圈";
-"lng_mac_menu_new_channel" = "新建大聲公";
+"lng_mac_menu_new_group" = "建立圈圈";
+"lng_mac_menu_new_channel" = "建立大聲公";
 "lng_mac_menu_show" = "顯示 Telegram";
+"lng_mac_menu_emoji_and_symbols" = "表情符號 & 符號";
+
+"lng_mac_menu_player_pause" = "暫停";
+"lng_mac_menu_player_resume" = "恢復";
+"lng_mac_menu_player_next" = "下一個";
+"lng_mac_menu_player_previous" = "前一個";
+"lng_mac_menu_player_stop" = "停止";
 
 "lng_mac_touchbar_favorite_stickers" = "最愛ㄉ貼圖";
 
@@ -2175,6 +3072,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 /* new from translations.telegram.org */
 
+"cloud_lng_about_psa_covid" = "此水晶玉向尼提供有關正在發生ㄉ新冠肺炎 (COVID-19) 疫情ㄉ公共服務公告。要將它從聊天列表中炸毀，請右鍵點擊它，然後選擇**隱藏**。";
+"cloud_lng_badge_psa_covid" = "新冠肺炎";
+"cloud_lng_forwarded_psa_covid" = "新冠肺炎啄木鳥，來自: {channel}";
 "cloud_lng_passport_in_ar" = "阿拉伯文";
 "cloud_lng_passport_in_az" = "亞塞拜然文";
 "cloud_lng_passport_in_bg" = "保加利亞文";
@@ -2222,20 +3122,25 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "cloud_lng_passport_in_uk" = "烏克蘭文";
 "cloud_lng_passport_in_uz" = "烏玆別克文";
 "cloud_lng_passport_in_vi" = "越南文";
+"cloud_lng_tooltip_psa_covid" = "此水晶玉為尼提供正在發生ㄉ新冠肺炎疫情相關公共服務公告。ㄌ解有關此計劃ㄉ更多魔法書：https://telegram.org/blog/coronavirus";
+"lng_about_dice" = "煉成一個 🎲 表情符號到任何聊天就可以從 Telegram 獲得一個隨機數字。";
 "lng_about_text_1" = "官方版ㄉ免錢通訊軟體，基於速度快而且安全ㄉ [a href=\"https://core.telegram.org/api\"]Telegram API[/a] 。";
 "lng_about_text_2" = "本軟體是授權於 [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] 版本 3，\n原始碼可在 [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a] 取得。";
 "lng_about_text_3" = "前往 {faq_open}Telegram FAQ{faq_close} 取得更多魔法書。";
+"lng_action_group_call_started" = "{from} 發起ㄌ{chat}";
 "lng_action_group_migrate" = "此圈圈已升級為超級圈圈";
 "lng_archived_chats#other" = "{count} 個聊天";
 "lng_archived_unread#other" = "{chat}, {second_chat} 和其他 {count} 個未讀ㄉ聊天";
 "lng_archived_unread_two" = "{chat}, {second_chat}";
 "lng_banned_list_title" = "魔障屏蔽名單";
 "lng_blocked_list_restart" = "重新啟動";
+"lng_calendar_beginning" = "前往第一則水晶玉";
 "lng_change_phone_description" = "尼可以在此處變更尼ㄉ Telegram 所綁定ㄉ魔法器號碼。尼ㄉ靈魂和所有雲端資料 - 水晶玉、媒體、同伴魔法書等將被移動到新ㄉ號碼。";
 "lng_channel_add_banned" = "魔障屏蔽魔法師";
 "lng_channel_add_restricted" = "限制魔法師";
 "lng_channel_admins_link#other" = "{count} 個祭司";
 "lng_channel_blocked_list_about" = "被魔障屏蔽ㄉ魔法師會從大聲公中炸毀。\n傳送器對他們不起作用。";
+"lng_channel_discuss" = "討論";
 "lng_channel_members_link#other" = "{count} 位魔法師";
 "lng_cloud_password_waiting" = "驗證傳送器煉成到 {email}...";
 "lng_code_telegram" = "窩們已經[b]透過 Telegram[/b] \n煉成精靈密語到尼ㄉ其他魔法器。請在下方施展魔法。";
@@ -2252,10 +3157,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_groups_description" = "尼可以精確地選擇誰可以將尼加入到圈圈和大聲公：";
 "lng_edit_privacy_groups_never#other" = "永不允許 {count} 個魔法師";
 "lng_edit_privacy_lastseen_always#other" = "總是與 {count} 個魔法師分享";
-"lng_edit_privacy_lastseen_description" = "誰可以看見窩ㄉ最後施展魔法時間";
+"lng_edit_privacy_lastseen_description" = "誰可以看見窩ㄉ最後施展魔法時間？";
 "lng_edit_privacy_lastseen_never#other" = "永不與 {count} 個魔法師分享";
 "lng_emoji_category0" = "常用";
-"lng_export_state_gif" = "動圖";
+"lng_export_state_gif" = "GIF";
 "lng_export_state_photo" = "照片";
 "lng_export_state_progress" = "{count} / {total}";
 "lng_export_state_sticker" = "貼圖";
@@ -2263,20 +3168,33 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_state_video_message" = "視訊水晶玉";
 "lng_export_state_voice_message" = "語音水晶玉";
 "lng_export_total_files" = "玉石總數：{count}。";
-"lng_group_blocked_list_about" = "被魔障屏蔽ㄉ魔法師將從圈圈中炸毀，只能透過祭司將其邀請回來。\n傳送器對他們無效。";
+"lng_group_blocked_list_about" = "魔障屏蔽名單上ㄉ魔法師會從圈圈中炸毀，必須透過祭司ㄉ邀請才能夠回來。傳送器對他們沒作用。";
+"lng_group_call_edit_title_header" = "視訊聊天標題";
+"lng_group_call_limit#other" = "要觀看視訊串流，請將\nTelegram 更新到最新版本。";
+"lng_group_call_no_anonymous" = "抱歉，尼不能以匿名祭司身分加入視訊聊天。";
+"lng_group_call_over_limit#other" = "視訊聊天已超過 {count} 人。\n新參與者只能使用音訊串流。";
+"lng_group_call_switch_done" = "現在，此視訊聊天ㄉ參與者所看到尼是「{user}」";
+"lng_group_call_too_many" = "抱歉，此視訊聊天目前有太多參與者。";
+"lng_group_invite_about" = "Telegram 魔法師可以透過此傳送器加入尼ㄉ圈圈。";
+"lng_group_invite_about_channel" = "Telegram 魔法師可以透過此傳送器加入尼ㄉ大聲公。";
+"lng_group_invite_create_new" = "撤銷傳送器";
+"lng_group_invite_expired_already" = "此傳送器已過期。";
+"lng_group_invite_link_revoked" = "已撤銷";
 "lng_local_storage_cleared" = "已清空ㄌ！";
 "lng_manage_discussion_group_visible" = "顯示";
-"lng_manage_peer_banned_users" = "魔障屏蔽名單";
+"lng_manage_peer_banned_users" = "已炸毀ㄉ魔法師";
 "lng_manage_peer_restricted_users" = "受限名單";
+"lng_media_audio_title" = "語音水晶玉";
 "lng_media_auto_audio" = "以小精靈選擇下載語音水晶玉";
-"lng_media_auto_gif" = "以小精靈選擇下載 GIF 動圖";
+"lng_media_auto_gif" = "以小精靈選擇下載GIF";
 "lng_media_auto_groups" = "圈圈和大聲公";
 "lng_media_auto_photo" = "以小精靈選擇下載照片";
-"lng_media_auto_play" = "以小精靈選擇播放";
 "lng_media_auto_private_chats" = "私聊";
 "lng_media_gif_title" = "GIF與魔法";
+"lng_media_music_title" = "音樂";
 "lng_mediaview_file_n_of_count" = "{file} {n}  / {count}";
 "lng_mediaview_n_of_count" = "照片 {n} / {count}";
+"lng_mediaview_playback_speed_normal" = "正常";
 "lng_mediaview_saved" = "圖片已儲存到尼ㄉ[c]下載[/c]資料夾";
 "lng_passport_fix_errors" = "請更正錯誤。";
 "lng_passport_front_side_name" = "掃描";
@@ -2285,7 +3203,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_reverse_side_name" = "掃描";
 "lng_passport_selfie_name" = "照片";
 "lng_phone_notreg" = "如果尼還沒有 Telegram 靈魂，\n請用 {link_start}Android / iPhone{link_end} 或 {signup_start}在這裡{signup_end}[b]註冊[/b]";
+"lng_polls_create_hint" = "點選正確答案";
 "lng_profile_add_more_after_upgrade#other" = "在升級為超級圈圈之後，尼將能夠新增高達 {count} 位魔法師。";
+"lng_profile_convert_confirm" = "轉換";
+"lng_profile_convert_feature1" = "— 可選擇是否讓新魔法師看到加入前ㄉ水晶玉紀錄";
+"lng_profile_convert_feature2" = "— 炸毀ㄉ水晶玉可從所有魔法師ㄉ魔法器中消失";
+"lng_profile_convert_feature3" = "— 祭司可以加一個魔法書到圈圈";
+"lng_profile_convert_feature4" = "— 擁有者可以為圈圈設定公開傳送器";
+"lng_profile_convert_title" = "轉換為超級圈圈";
+"lng_profile_convert_warning" = "{bold_start}注意：{bold_end}這個操作無法復原";
 "lng_profile_manage_admins" = "管理祭司";
 "lng_profile_manage_blocklist" = "管理魔障屏蔽名單";
 "lng_profile_manage_restrictedlist" = "管理受限名單";
@@ -2294,10 +3220,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_use" = "使用 Proxy";
 "lng_report_spam_hide" = "隱藏";
 "lng_report_spam_sure" = "尼確定要檢舉此魔法師ㄉ垃圾水晶玉嗎？";
-"lng_report_spam_thanks" = "感謝尼ㄉ檢舉！";
+"lng_report_spam_thanks" = "感謝尼ㄉ回報！";
 "lng_restricted_list_title" = "受限名單";
+"lng_send_album" = "作為相簿煉成";
+"lng_send_file" = "作為一個玉石煉成";
+"lng_send_photo" = "作為一張照片煉成";
 "lng_settings_advanced_notifications" = "啄木鳥位置和數量";
 "lng_settings_audios_cached#other" = "{count} 則語音水晶玉，{size}";
+"lng_settings_autoplay_gifs" = "以小精靈選擇播放GIF";
+"lng_settings_bg_edit_theme" = "開啟主題玉石竄改器";
 "lng_settings_calls_peer_to_peer" = "在精靈耳中使用蹦比蹦傳輸";
 "lng_settings_calls_privacy" = "精靈耳隱私";
 "lng_settings_edit_info" = "竄改魔法書";
@@ -2307,8 +3238,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_no_data_cached" = "找不到快取ㄉ資料！";
 "lng_settings_peer_to_peer" = "蹦比蹦傳輸";
 "lng_settings_self_destruct" = "靈魂保留期限";
-"lng_sure_add_admin_unban" = "此魔法師目前受到限制或魔障屏蔽。尼確定要取消魔障屏蔽，並任命其為祭司？";
+"lng_settings_theme_blue" = "國民黨";
+"lng_settings_theme_matrix" = "暗黑民進黨";
+"lng_settings_theme_midnight" = "暗黑國民黨";
+"lng_stickers_masks_pack" = "這是一套面具。面具僅被行動版 Telegram 支援。";
+"lng_sure_add_admin_unban" = "此魔法師目前受到限制或魔障屏蔽。尼確定要取消魔障屏蔽，並將他設為祭司？";
 "lng_sure_ban_user_channel" = "要在大聲公中魔障屏蔽 {user} 嗎？";
 "lng_sure_ban_user_group" = "尼想在圈圈中魔障屏蔽 {user} 嗎？";
 "lng_sure_remove_user_channel" = "從大聲公中炸毀 {user} ？";
 "lng_sure_remove_user_group" = "從圈圈中炸毀 {user}？";
+"lng_theme_editor_export_button" = "匯出主題玉石";
+"lng_theme_no_desktop_version" = "抱歉，此主題玉石不包含 Telegram Desktop ㄉ版本。";
