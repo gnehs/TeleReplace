@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="AppName">Telegram X</string>
-
   <string name="language_continueInLanguage">改為魔法師中文介面</string>
 
   <string name="Page1Title">Telegram X</string>
@@ -98,6 +96,8 @@
   <string name="login_PhoneNumber">魔法器號碼</string>
   <string name="login_error">錯誤：%1$s. __聯絡窩們__，如果尼需要幫助。</string>
   <string name="login_Code">精靈密語</string>
+  
+  
   <string name="login_Password">密語</string>
   <string name="Country">陣營</string>
   <string name="login_SmsHint">窩們將煉成一則包含精靈密語ㄉ飛鴿傳書給尼。</string>
@@ -201,6 +201,10 @@
   <string name="xVideos_other">%1$s 個影片</string>
   
   <string name="xViews_other">%1$s 人已讀</string>
+  
+  
+  
+  
   
   <string name="xOtherPeopleNames_other">和另外 %1$s 人</string>
   
@@ -328,6 +332,8 @@
   <string name="ChatContentGroupLeft_outgoing">退出ㄌ圈圈</string>
   <string name="ChatContentGroupJoin">透過傳送器加入ㄌ圈圈</string>
   <string name="ChatContentGroupJoin_outgoing">透過傳送器加入ㄌ圈圈</string>
+  
+  
   <string name="ChatContentGroupJoinPublic">加入ㄌ圈圈</string>
   <string name="ChatContentGroupJoinPublic_outgoing">加入ㄌ圈圈</string>
   <string name="ChatContentGroupKickYou">將尼從圈圈中炸毀</string>
@@ -444,7 +450,7 @@
   <string name="PasscodeInvalidPin">無效ㄉ PIN 碼</string>
   <string name="PasscodeInvalidPattern">無效ㄉ圖形</string>
 
-  <string name="ChangePasscodeInfo">當尼設定ㄌ一組額外ㄉ密語，一個鎖形圖示將出現在聊天列表頁面上。點擊它以鎖定和解鎖本魔法器。\n \n注意：如果尼忘記ㄌ密語，尼將需要炸毀並重新安裝本 App。而所有ㄉ隱形聊天都將會消失。</string>
+  <string name="ChangePasscodeInfo">設置密語後，聊天室列表ㄉ頂端會出現一個鎖形圖示。點擊它以鎖定和解鎖尼ㄉ Telegram 魔法器。\n\n注意：如果尼忘記ㄌ密語，尼需要登出或重新安裝魔法器。所有隱形聊天都將丟失。</string>
   <string name="AutoLock">以小精靈選擇鎖定</string>
   <string name="AutoLockDisabled">停用</string>
   <string name="AutoLockInstant">即時</string>
@@ -580,6 +586,8 @@
   <string name="LiveStreamEnded">直播已結束</string>
   <string name="LiveStreamEndedBy">%1$s 結束ㄌ直播</string>
   <string name="LiveStreamEndedYou">尼結束ㄌ直播</string>
+  
+  
 
   <string name="group_create_you">尼建立ㄌ «%1$s» 圈圈</string>
   <string name="group_photo_changed">%1$s 變更ㄌ圈圈大頭貼</string>
@@ -654,6 +662,8 @@
   <string name="XVideoSaved_other">%1$s 個影片已儲存到「相簿」</string>
   <string name="ChannelSignMessages">水晶玉附上簽名</string>
   <string name="RestrictSaving">限制儲存內容</string>
+  
+  
   <string name="RestrictSavingGroupInfo">複製和轉傳受圈圈祭司限制</string>
   <string name="RestrictSavingChannelInfo">複製和轉傳受大聲公祭司限制</string>
   <string name="RestrictSavingGroupHint">魔法師將無法轉傳來自此圈圈ㄉ水晶玉或儲存媒體檔。</string>
@@ -702,7 +712,7 @@
   <string name="Downloading">正在下載 %1$s / %2$s</string>
   <string name="Confirm">確認</string>
   <string name="TooManyPublicChannels">抱歉，尼已經建立ㄌ太多公開ㄉ大聲公。尼可以先建立一個私人大聲公或炸毀尼現有大聲公ㄉ一個。</string>
-  <string name="TooManyPublicLinks">抱歉，尼已經建立太多公開ㄉ傳送器ㄌ。尼可以試著撤銷一些尼原有圈圈或大聲公ㄉ公開傳送器。</string>
+  <string name="TooManyPublicLinks">尼已擁有太多公開ㄉ傳送器。試著撤掉一個舊圈圈或大聲公ㄉ傳送器，或者改為建立私人圈圈或大聲公。</string>
   <string name="XIsAlreadyInChat">%1$s 已經是此聊天ㄉ魔法師</string>
   <string name="XIsAlreadyAdmin">%1$s 已經擁有祭司權限</string>
   <string name="ProfilePhoto">大頭貼</string>
@@ -736,8 +746,6 @@
   
   <string name="SelectedRoundVideoSuffix_other">" 則水晶玉"</string>
 
-
-
   <string name="Locating">定位中…</string>
   <string name="NearbyPlaces">附近ㄉ地點</string>
   <string name="FoundPlaces">找到ㄉ地點</string>
@@ -762,6 +770,7 @@
   
   <string name="game_ActionYouScoredInGame_other">尼在 %2$s 中得到ㄌ %1$s 分</string>
   <string name="NotificationActionPinnedNoTextChannel">%1$s 置頂ㄌ一則水晶玉</string>
+  
   <string name="NotificationGame">邀請ㄌ尼玩 %1$s</string>
   <string name="NotificationGame_outgoing">尼受邀玩 %1$s</string>
   <string name="NotificationGame_group">邀請尼一起玩 %1$s</string>
@@ -906,10 +915,10 @@
   <string name="SetAdditionalPasswordInfo">尼可以設定當尼使用新魔法器登入時，除ㄌ透過飛鴿傳書取得ㄉ精靈密語外，另外要施展魔法ㄉ密語。</string>
   <string name="EnabledPasswordText">尼已啟用兩步驟驗證。\n尼需要此處設定ㄉ密語以登入尼ㄉ Telegram 靈魂。</string>
   <string name="ChangePassword">變更密語</string>
-  <string name="DisablePassword">停用密語</string>
+  <string name="DisablePassword">關閉密語</string>
   <string name="SetRecoveryEmail">設定備援電子信箱</string>
   <string name="ChangeRecoveryEmail">變更備援電子信箱</string>
-  <string name="TurnPasswordOffQuestion">尼確定要停用密語？</string>
+  <string name="TurnPasswordOffQuestion">尼確定要關閉密語？</string>
   <string name="TurnPasswordOffQuestion2">尼確定要停用尼ㄉ密語？\n\n**警告**！所有已儲存在尼 Telegram Passport 中ㄉ資料將流失。</string>
   <string name="YourPassword">尼ㄉ密語</string>
   <string name="EnterAPassword">施展魔法密語</string>
@@ -1186,6 +1195,9 @@
   <string name="SentAppCode">窩們已經煉成精靈密語到尼其它魔法器上ㄉ **Telegram** 魔法器。</string>
   <string name="SentCallOnly">窩們正在打精靈耳到尼ㄉ魔法器 **%1$s**。\n\n請鼻要接精靈耳，Telegram 會以小精靈選擇處理所有事情。</string>
   <string name="SentCallCode">正在打精靈耳到尼ㄉ魔法器 **%1$s** ，並利用語音播報精靈密語。</string>
+  
+  
+  
   <string name="DidNotGetTheCode">仍未收到精靈密語？</string>
   <string name="SuccessfullyChangedNumber">已成功將號碼變更為 %1$s。</string>
   <string name="YourPhone">尼ㄉ精靈耳</string>
@@ -1327,7 +1339,7 @@
   <string name="RequestFollowChannelX">請求大聲公祭司讓尼加入 %1$s？</string>
   <string name="RequestJoinGroupBtn">申請加入</string>
   
-  
+  <string name="RequestJoinGroupSent">加入 %1$s ㄉ申請已煉成</string>
   
   <string name="XChangedGroupTitle">%1$s 變更ㄌ圈圈名稱</string>
   <string name="XJoinedByLink">%1$s 已透過傳送器加入</string>
@@ -1338,6 +1350,10 @@
   <string name="XAcceptedToChannel">%1$s 已獲准加入大聲公</string>
   <string name="YouAcceptedToGroup">尼已獲准加入圈圈</string>
   <string name="YouAcceptedToChannel">尼已獲准加入大聲公</string>
+  
+  
+  
+  
   <string name="LinkJoinOther">%1$s 已加入，藉由 %2$s ㄉ臨時傳送器 %3$s</string>
   <string name="LinkJoinOtherYou">尼透過ㄌ %1$s ㄉ傳送器 %2$s 加入</string>
   <string name="LinkJoinTemp">%1$s 已加入，藉由 %2$s ㄉ臨時傳送器 %3$s</string>
@@ -1363,7 +1379,7 @@
   
   
   
-  
+
   <string name="LinkRevokePrimary">%1$s 撤銷ㄌ主要傳送器 %2$s</string>
   <string name="LinkRevokePrimaryYou">尼撤銷ㄌ主要傳送器 %1$s</string>
   <string name="LinkRevokeOther">%1$s 撤銷ㄌ %2$s ㄉ傳送器 %3$s</string>
@@ -1417,7 +1433,7 @@
   <string name="TextSize">水晶玉文字大小</string>
   <string name="TextSizeScaleEnable">啟用文字大小縮放</string>
   <string name="TextSizeScaleDisable">停用文字大小縮放</string>
-  <string name="TextSizeReset">回復為預設值</string>
+  <string name="TextSizeReset">恢復為預設值</string>
   <string name="NoCalls">這裡還沒有精靈耳記錄…</string>
   <string name="VoipOfflineAirplaneTitle">飛航模式</string>
   <string name="VoipOfflineAirplane">尼目前啟用ㄌ飛航模式，請關閉或連線到 Wi-Fi 魔力以撥打精靈耳。</string>
@@ -1525,6 +1541,7 @@
   <string name="AttachRound">視訊水晶玉</string>
   <string name="MicrophoneMissing">需要麥克風才能撥打精靈耳。它似乎沒有出現在尼ㄉ魔法器上。</string>
   <string name="People">人們</string>
+  <string name="Groups">圈圈</string>
   <string name="ChatHintsDelete">從推薦中炸毀 %1$s ？</string>
   <string name="DeleteXFromRecents">要炸毀從最近ㄉ聊天中找到ㄉ%1$s嗎？</string>
   <string name="SendTo">煉成至</string>
@@ -1657,6 +1674,29 @@
   <string name="OnlyAdminsSpecific">僅具有權限ㄉ祭司</string>
   <string name="EditAdmin">祭司權限</string>
   <string name="AdminRights">祭司權限</string>
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
   <string name="UserRestrictions">魔法師權限</string>
   <string name="GroupRestrictions">圈圈權限</string>
   <string name="ChannelRestrictions">大聲公權限</string>
@@ -1907,6 +1947,13 @@
   <string name="EventLogLocationRemoved">%1$s 炸毀ㄌ圈圈位置</string>
   <string name="EventLogTransferredOwnership">轉讓ㄌ擁有權給 %1$s</string>
   <string name="EventLogNoLongerCreator">不再是擁有者</string>
+
+  
+  
+  
+  
+  
+
   <string name="UntilX">直到 %1$s</string>
   <string name="NetworkUsage">魔力用量</string>
   <string name="RecentStickers">最近使用過</string>
@@ -1963,7 +2010,7 @@
   <string name="EditMarkdown">竄改 Markdown</string>
   <string name="ForceBuiltinDecoding">強制內建媒體解碼</string>
   <string name="CompressAudio">壓縮影片中ㄉ音訊</string>
-  <string name="EditMarkdownHint">使用老方法竄改水晶玉中ㄉ文字：`**`**粗體**`**`, `__`__斜體__`__`, `~~`~~炸毀線~~`~~`, ``` `等寬字體`,```[文字](傳送器)</string>
+  
   <string name="MessageNotFound">找不到水晶玉</string>
   <string name="SyncHintTitle">尋找同伴</string>
   <string name="SyncHint">為ㄌ幫助尼與朋友和家人傳送器，請允許 %1$s 存取尼ㄉ同伴魔法書。</string>
@@ -1992,6 +2039,10 @@
   <string name="PaintModeArrow">箭頭</string>
   <string name="PaintModeRect">矩形</string>
   <string name="PaintModeFill">填色</string>
+  
+  
+  
+  <string name="EditMessageCaptionTooLong_other">說明文字超出上限 %1$s 個字元。</string>
   <string name="ChatAccessFailed">無法存取此聊天</string>
   <string name="ChatAccessRestrictedGroup">尼已被此圈圈魔障屏蔽ㄌ</string>
   <string name="ChatAccessRestrictedChannel">尼在這個大聲公被魔障屏蔽ㄌ</string>
@@ -2194,6 +2245,7 @@
   <string name="AutoInstantViewTelegram">telegram.org + telegra.ph</string>
   <string name="AutoInstantViewAll">所有傳送器</string>
   <string name="DeepLinkUnsupported">未知或損壞ㄉ傳送器格式</string>
+  
   <string name="AppUpdateRequiredTitle">需要更新</string>
   <string name="AppUpdateOk">更新</string>
   <string name="ProxySponsor">Proxy 贊助商</string>
@@ -2278,8 +2330,8 @@
   <string name="SuggestContacts">推薦常用同伴</string>
   <string name="SuggestContactsAlert">這將炸毀尼常傳水晶玉對象ㄉ所有資料，以及尼可能有在使用ㄉ內聯使魔。</string>
   <string name="SuggestContactsDone">炸毀並停用</string>
-  <string name="MarkAsRead">標記為已讀</string>
-  <string name="MarkAsUnread">標記為未讀</string>
+  <string name="MarkAsRead">標示為已讀</string>
+  <string name="MarkAsUnread">標示為未讀</string>
   <string name="CreateLink">建立傳送器</string>
   <string name="URL">網址</string>
   <string name="CreateLinkDone">儲存</string>
@@ -2288,7 +2340,7 @@
   <string name="SecretLinkPreviewDisable">停用</string>
   <string name="Sessions">魔法器</string>
   <string name="Websites">網站</string>
-  <string name="ActionRead">標記為已讀</string>
+  <string name="ActionRead">標示為已讀</string>
   
   <string name="XFoundMessagesFromUser_other">%1$s 則水晶玉來自 %2$s</string>
   
@@ -2309,6 +2361,7 @@
   <string name="TextFormatBold">粗體</string>
   <string name="TextFormatItalic">斜體</string>
   <string name="TextFormatMonospace">等寬字體</string>
+  <string name="TextFormatSpoiler">防劇透</string>
   <string name="TextFormatStrikethrough">炸毀線</string>
   <string name="TextFormatUnderline">底線</string>
   <string name="TextFormatLink">建立傳送器</string>
@@ -2339,6 +2392,7 @@
   <string name="DeleteSecretChatClosedConfirm">尼確定要炸毀與「%1$s」ㄉ隱形聊天？此操作無法復原。</string>
   <string name="DeleteSecretChatConfirm">尼確定要炸毀與「%1$s」ㄉ隱形聊天？所有聊天紀錄將被永久炸毀。此操作無法復原。</string>
   <string name="DeleteSecretChatHistoryForOtherParty">也清空 %1$s 那一端ㄉ聊天紀錄</string>
+  <string name="DeleteChatHistoryForAllUsers">為所有魔法師清除</string>
   <string name="ChatWithUser">與 %1$s 聊天</string>
   <string name="SecretChatWithUser">與「%1$s」ㄉ隱形聊天</string>
   <string name="LeaveDoneGroup">退出</string>
@@ -2440,6 +2494,7 @@
   <string name="url_faq">https://telegram.org/faq#general-questions</string>
   
   <string name="url_translationsPrefix">https://translations.telegram.org/zh-hant/android_x/unsorted/</string>
+  
   
   
   <string name="xSecondsShort_other">%1$s 剎那</string>
@@ -2550,7 +2605,7 @@
   <string name="email_metadata">App 版本：%1$s\n語言：%2$s\n魔法器語言：%3$s\n魔法器版本：%4$s</string>
 
   <string name="SignOutHint2">尼確定要登出 %1$s 這個靈魂？\n\n尼可以無縫地在所有魔法器上同時使用 Telegram。\n\n但是，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。已下載ㄉ媒體將從此魔法器中炸毀。</string>
-  <string name="RemoveAccountHint2">登出 %1$s？此靈魂上ㄉ所有隱形聊天都將流失。已下載ㄉ媒體將從此魔法器中炸毀。</string>
+  <string name="RemoveAccountHint2">登出 %1$s？此靈魂上ㄉ所有隱形聊天都將會丟失。已下載ㄉ媒體將從此魔法器中炸毀。</string>
 
   <string name="SignOutAlt">替代選項</string>
   <string name="SignOutAltAddAccount">新增其他靈魂</string>
@@ -2564,6 +2619,8 @@
   <string name="SignOutAltHelp">聯絡支援</string>
   <string name="SignOutAltHelpHint">告訴窩們任何問題；登出通常沒有幫助。</string>
   <string name="SignOutAltHint2">提醒尼，登出會炸毀尼在本客戶端ㄉ所有隱形聊天。已下載ㄉ媒體將從此魔法器中炸毀。</string>
+
+  
 
   <string name="TdlibLogs">TDLib 日誌</string>
   <string name="TdlibLogsWarning">**警告：** TDLib 日誌可能含有**私人資料**。\n\n請勿將它們分享給任何人，除非尼知道尼正在做什麼。</string>
@@ -2815,8 +2872,8 @@
   <string name="NotificationMutedPerson">禁言 %1$s  1小時</string>
   
   <string name="NotificationMutedPersons_other">禁言 %1$s 人 1 小時</string>
-  <string name="NotificationRead">標記為已讀</string>
-  <string name="NotificationReadMentions">標記提及為已讀</string>
+  <string name="NotificationRead">標示水晶玉為已讀</string>
+  <string name="NotificationReadMentions">標示提及為已讀</string>
 
   <!--<string name="ActionMuteHours_one">Mute for %1$sh</string>
   <string name="ActionMuteHours_other">Mute for %1$sh</string>
@@ -2849,7 +2906,7 @@
   <string name="IncludeDismissed">包括先前不予理會ㄉ水晶玉</string>
   <string name="IncludeDismissedHintOn">當從聊天室中收到新啄木鳥時，開啟以包括先前不予理會ㄉ未讀水晶玉。</string>
   <string name="IncludeDismissedHintOff">當從聊天室中收到新啄木鳥時，關閉以排除先前不予理會ㄉ未讀水晶玉。</string>
-  <string name="Groups">圈圈</string>
+
   <string name="Channels">大聲公</string>
 
   <string name="Mentions">提及和回覆</string>
@@ -2901,6 +2958,7 @@
   <string name="error_CHANNELS_TOO_MUCH">抱歉，尼已經加入太多圈圈或大聲公ㄌ。請先退出一些，然後才可以加入新ㄉ。</string>
   <string name="error_PHONE_NUMBER_BANNED">抱歉，此魔法器號碼被魔障屏蔽ㄌ。如果需要幫助，請透過 login@stel.com 與窩們聯繫。</string>
   <string name="error_CHANNELS_ADMIN_LOCATED_TOO_MUCH">抱歉，尼已經有太多基於位置ㄉ圈圈ㄌ。請先炸毀一個現有ㄉ。</string>
+  
   <string name="errorPrivacyAddMember">抱歉，魔法師在其隱私設定中限制ㄌ誰可以將其加入到聊天中。</string>
   <string name="UserPrivacyRestricted">抱歉，魔法師在其隱私設定中限制ㄌ此操作。</string>
   <string name="NobodyLikesSpam2">抱歉，尼現在只能與互為同伴ㄉ魔法師進行互動。</string> <!--PEER_FLOOD-->
@@ -2945,12 +3003,16 @@
   <string name="NotificationsGuideSyncGlobalOff">尼在魔法器設定中關閉ㄌ資料同步。魔法器關閉時，啄木鳥可能無法傳達。\n\n尼魔法器上ㄉ電池最佳化模式可能會暗中地關閉資料同步。</string>
   <string name="NotificationsGuideSyncAppOff">尼已關閉 Telegram X ㄉ數據同步。程式關閉時，啄木鳥可能無法收到。\n\n尼魔法器上ㄉ電池電力節省模式可能會間接關閉數據同步。</string>
   <string name="NotificationsGuideFirebaseUnavailable">Google Play 服務無法使用。請檢查尼是否安裝ㄌ它們並且是最新ㄉ。\n\n沒有它們，啄木鳥可能會延遲到達，或者完全收不到。</string>
+  
   <string name="NotificationsGuideError">由於未知ㄉ魔法器錯誤，**Telegram X** 無法顯示此靈魂ㄉ某些啄木鳥。\n\n請確保：\n⚡️已安裝所有魔法器更新\n⚡️Telegram X 是最新ㄉ\n⚡️魔法器設定中沒有啄木鳥限制。\n\n如果上述步驟無濟於事，則可能要與 @tgandroidtests 分享詳細ㄉ錯誤報告，或查詢魔法器ㄉ故障排除提示。</string>
   <string name="NotificationsGuideErrorChat">由於未知ㄉ魔法器錯誤，**Telegram X** 無法顯示靈魂 %1$s ㄉ某些啄木鳥。\n\n請確保：\n⚡️已安裝所有魔法器更新\n⚡️Telegram X 是最新ㄉ\n⚡️魔法器設定中沒有啄木鳥限制。\n\n如果上述步驟無濟於事，則可能要與 @tgandroidtests 分享詳細ㄉ錯誤報告，或查詢魔法器ㄉ故障排除提示。</string>
   <string name="TurnSyncOnApp">開啟數據同步</string>
   <string name="TurnSyncOnSystem">開啟數據同步</string>
   <string name="InstallGooglePlayServices">獲取 Google Play 服務</string>
   <string name="ShareNotificationError">分享錯誤報告</string>
+  
+  
+  
 
   <string name="LanguageSame">尼已經在使用此 (**%1$s**) 語言包。尼可以隨時在「設定」中變更語言。</string>
   <string name="LanguageAlert">尼即將套用語言包 (**%1$s**)，其中翻譯已好惹 %2$d%%。\n\n這將改變整個程式介面ㄉ顯示語言。尼可以透過[翻譯平台](%3$s)對翻譯提出修正建議。\n\n尼也可以隨時在「設定」中恢復尼原本ㄉ語言。</string>
@@ -2973,6 +3035,7 @@
   <string name="TestModeWarn">**警告**：測試工具**只能**用於**測試**和**除錯**目ㄉ。但不保證可以正常運作。\n\n除非尼知道自己在做什麼，否則鼻要使用它們。</string>
   <string name="CopyVersion">複製版本</string>
   <string name="CopyReportData">複製報告細節</string>
+  
 
   <string name="LogFiles">紀錄檔</string>
   <string name="AppLogs">魔法器日誌</string>
@@ -3058,6 +3121,9 @@
   <string name="LaunchSubtitleTdlibIssue">TDLib 致命錯誤。版本：%1$s</string>
   <string name="LaunchAppGuideTdlibIssue">由於 TDLib ㄉ致命錯誤，Telegram X 之前未能啟動。\n\n按**啟動魔法器**再試一次。如果魔法器仍然無法開啟，請執行以下步驟：\n\n⚡️[驗證](%2$s)尼已安裝ㄌ最新ㄉ Telegram X 版本。\n⚡️重啟魔法器。\n\n**如果上述步驟無效**\n\n1.使用以下方法之一與 TDLib 開發人員分享錯誤詳細魔法書：\n - 私人透過 [@tdlib_bot](https://t.me/tdlib_bot)，藉由使用其他魔法器或 [Telegram Web](https://web.telegram.org/)。\n - 公開透過 [GitHub 頁面](https://github.com/tdlib/td/issues)。**鼻要**公開分享 **tdlib_log.txt**。\n2.請等待回覆。\n3.根據 TDLib 開發人員ㄉ要求，在下面更改日誌設定。\n4.按**啟動魔法器**以使魔法器強制再次停止。\n5.與 TDLib 開發人員分享 **tdlib_log.txt** 並等待問題被解決。\n6.更新後，尼將能夠正常啟動魔法器。\n\n**替代方案**\n\n⚡️在 [GitHub](https://github.com/tdlib/td/issues) 上找找類似問題，以找看看是否存在共同ㄉ解決方案。\n⚡️重新安裝魔法器。隱形聊天將流失。如果尼使用ㄉ是同一個魔法器號碼，就會從 Telegram 雲端中恢復所有其他聊天和數據。</string>
 
+  
+  
+
   <string name="SelfDestructPhoto">閱後即焚照片</string>
   <string name="SelfDestructVideo">閱後即焚影片</string>
 
@@ -3090,17 +3156,17 @@
   <string name="EraseDatabaseDone">所有數據都已成功炸毀。</string>
   <string name="EraseDatabaseError">無法炸毀玉石。</string>
   <string name="EraseDatabaseProgress">炸毀所有資料中…請稍候，此操作可能需要花費一些時間。請鼻要關閉魔法器。</string>
-  <string name="EraseDatabaseWarn">**警告！**\n\n隱形聊天將流失。所有媒體都需要重新下載。</string>
+  <string name="EraseDatabaseWarn">**警告！**\n\n隱形聊天將會丟失。所有媒體都需要重新下載。</string>
   <string name="EraseDatabaseWarn2">**不，認真想一想。**\n\n尼確定要清除本機資料庫，並炸毀所有下載ㄉ媒體檔及所有隱形聊天紀錄嗎？</string>
   <string name="EraseDatabaseMultiUser">此操作不會影響其他靈魂。</string>
   <string name="EraseDatabaseWait">請等到上一個操作好惹。</string>
 
-  <string name="ReadAllChats">標記所有聊天為已讀</string>
+  <string name="ReadAllChats">標示所有聊天為已讀</string>
   <string name="ReadAllChatsInfo">尼確定要將所有聊天和提及標記為已讀？</string>
   
-  <string name="ReadAllChatsDone_other">標記ㄌ %1$s 個聊天為已讀</string>
+  <string name="ReadAllChatsDone_other">標示ㄌ %1$s 個聊天為已讀</string>
   
-  <string name="MarkedXChats_other">標記ㄌ %1$s 個聊天為未讀</string>
+  <string name="MarkedXChats_other">標示ㄌ %1$s 個聊天為未讀</string>
 
   <string name="PhoneNumberUnknown">未知</string>
 
@@ -3111,6 +3177,7 @@
 
   <string name="InstantViewUnsupported">目前尚不支援此頁面ㄉ即時瀏覽。</string>
   <string name="InstantViewError">由於出現錯誤，無法顯示即時瀏覽頁面。</string>
+  
   <string name="LanguageDatabase">魔法化玉石</string>
   <string name="SettingsAndThemes">設定和主題玉石</string>
 
@@ -3134,17 +3201,18 @@
   <string name="EmojiLoaded">已下載</string>
   <string name="EmojiUpdate">需要更新</string>
   <string name="EmojiInstalling">安裝中…</string>
-  <string name="Emoji">表情符號包</string>
+  <string name="Emoji">表情包</string>
   <string name="EmojiCurrent">目前ㄉ表情符號包</string>
   <string name="EmojiBuiltIn">預設</string>
   <string name="EmojiPreview">&#128512;&#128521;\n&#128532;&#128552;</string>
   <string name="EmojiInfo">這只會影響尼看到ㄉ表情符號外觀。其他人看到ㄉ則是根據他們ㄉ喜好。</string>
-  <string name="EmojiSets">表情符號包</string>
+  <string name="EmojiSets">表情包</string>
   <string name="EmojiSetsInfo">尼確定要清除未使用ㄉ表情符號包嗎？</string>
   <string name="BigEmoji">大表情符號</string>
 
   <string name="error_CHAT_ADMIN_REQUIRED">尼沒有足夠ㄉ權限來執行此操作。</string>
   <string name="ChatPermissions">圈圈魔法師權限</string>
+  
   <string name="ChatPermissionsRestrictHint">沒有祭司權限ㄉ所有魔法師都禁用此權限。</string>
   <string name="WhatMembersCanDo">這個圈圈ㄉ魔法師可以做什麼？</string>
   <string name="MemberSince">加入ㄉ時間：%1$s %2$s</string>
@@ -3152,9 +3220,13 @@
   <string name="format_nameAndDate">%1$s\n%2$s</string>
   <string name="format_nameAndStatus">%1$s\n%2$s</string>
   <string name="format_nameStatusDate">%1$s\n%2$s\n%3$s</string>
+  
+  
 
   
   <string name="xPermissions_other">%1$s / %2$s</string>
+  
+  
 
   <string name="UserDisabledMessages">尼無法煉成水晶玉給此魔法師</string>
 
@@ -3228,6 +3300,21 @@
   <string name="PrivacyPhotoEverybodyExcept">每個人 (%1$s) 都能看到尼ㄉ大頭貼</string>
   <string name="PrivacyPhotoTitle">大頭貼</string>
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
   <string name="WhoCanForwardLink">誰可以在轉傳窩ㄉ水晶玉時附加窩ㄉ靈魂傳送器？</string>
   <string name="WhoCanForwardLinkInfo">尼可以限制誰在轉傳尼ㄉ水晶玉給其他聊天時，可以包含指向尼靈魂ㄉ傳送器。</string>
 
@@ -3263,7 +3350,7 @@
   <!--<string name="format_notificationSilentChannelTitle">%1$s &#128277;</string>
   <string name="format_notificationSilentChannelText">&#128277; %1$s</string>-->
 
-  <string name="ChatListStyle">聊天列表樣式</string>
+  <string name="ChatListStyle">聊天室列表樣式</string>
   <!--<string name="ChatListStyleOptIcons">Media Icons</string>
   <string name="ChatListStyleOptFormatting">Text Formatting</string>-->
   <string name="ChatListStyle1">兩行</string>
@@ -3283,7 +3370,7 @@
   <string name="IconsInstalling">安裝中…</string>
   <string name="IconsCurrent">目前使用ㄉ</string>
 
-  <string name="EmojiSetUpdated">表情符號包 %1$s 已經更新。尼是否想要下載新版本來使用？</string>
+  <string name="EmojiSetUpdated">表情包 %1$s 已更新。尼想下載新版本來使用嗎？</string>
   <string name="EmojiSetUpdate">下載並更新</string>
 
   <string name="Resend">重傳</string>
@@ -3717,7 +3804,7 @@
   <string name="HoldToSendAsCopy">按住可提供尼更多ㄉ選項。</string>
   <string name="HoldToSendAsFile">按住以作為玉石煉成和其他選項。</string>
   <string name="CameraButtonHint">點擊以拍照，按住可錄影</string>
-  
+
 
   <string name="EditPrivacyGlobal">開啟一般隱私設定</string>
   <string name="EditPrivacy">隱私例外</string>
@@ -3789,7 +3876,7 @@
   <string name="DebugAppLogsInfo">App日誌包含一般魔法書，這對於解決某些類型ㄉ問題很有用。\n\n日誌詳細程度ㄉ提高可能會**降低**Appㄉ**性能**。</string>
   <string name="DebugLogSize">最大日誌大小</string>
   <string name="DebugLogcatOnly">重定向到 logcat</string>
-  <string name="DebugReset">回復為預設值</string>
+  <string name="DebugReset">恢復為預設值</string>
   <string name="DebugModules">模組</string>
   <string name="DebugModulesInfo">這會調整特定模組將以什麼日誌級別記錄。\n\n例子：當 **td_init** 設定為 **WARNING** 時，尼將找到相應ㄉ輸出，如果**日誌詳細程度**設定為 **WARNING** 或更高值時。</string>
   <string name="DebugShareError">設定**詳細程度**為 **ASSERT** 以分享 TDLib 日誌。</string>
@@ -3894,6 +3981,7 @@
   <string name="LatestInstalled">已安裝最新版本</string>
   <string name="DownloadUpdateSize">下載更新 (%1$s)</string>
   <string name="DownloadUpdate">下載更新</string>
+  
   <string name="AppUpdateAvailablePrompt">有新ㄉ **Telegram X** 更新。尼要下載嗎？(%1$s)</string>
   <string name="AppUpdateAvailableVersionPrompt">新ㄉ **Telegram X** `%2$s` 更新可用。尼想要下載嗎？(%1$s)</string>
   <string name="AppUpdateAvailablePromptConfirm">下載並安裝</string>
@@ -3984,15 +4072,35 @@
   <string name="InviteLinkOtherAdminHint">**%1$s** 可以看到此傳送器，並用它來邀請新魔法師加入 **%2$s**。</string>
   <string name="InviteLinkViewMembers">查看已加入ㄉ魔法師</string>
   <string name="InviteLinkViewMembersTitle">已加入ㄉ魔法師</string>
+  
+  <string name="InviteLinkAdminApprovalHint">如果尼希望魔法師僅在獲得祭司批准後加入，請開啟此選項。</string>
+  
+  
+  
   <string name="CreatedByXOnDate">由 %1$s 建立(%2$s)</string>
   <string name="Infinity">∞</string>
   <string name="InviteLinkManage">管理傳送器</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   
   <string name="xActiveLinks_other">%1$s 個有效ㄉ傳送器</string>
   
   <string name="xRevokedLinks_other">%1$s 個已撤銷ㄉ傳送器</string>
   <string name="format_activeAndRevokedLinks">%1$s, %2$s</string>
+  
+  
+  
+  
 
   <string name="ChatTtl">以小精靈選擇炸毀水晶玉</string>
   <string name="ChatTtlOff">關閉</string>
@@ -4132,6 +4240,12 @@
   <string name="session_App">程式：%1$s</string>
   <string name="session_System">魔法器：%1$s</string>
 
+  
+  
+  
+  
+  
+
   <string name="NoFilePicker">未找到瀏覽玉石ㄉ魔法器</string>
   <string name="OpenEmbed">預覽外部傳送器</string>
   <string name="OpenEmbedDesc">開啟支援ㄉ外部傳送器時，用程式內預覽觀看</string>
@@ -4152,12 +4266,117 @@
 
   <string name="ChannelNoCopy">抱歉，此大聲公內容已被祭司禁止複製。</string>
   <string name="ChannelNoSave">抱歉，祭司已禁止儲存此大聲公之媒體。</string>
-  <string name="OnlyOwnerChannel">此設定只能由大聲公擁有者切換。</string>
-  <string name="OnlyOwnerGroup">此設定只能由圈圈擁有者切換。</string>
+  <string name="OnlyOwnerChannel">只有大聲公擁有者可以切換此設定。</string>
+  <string name="OnlyOwnerGroup">只有圈圈擁有者可以切換此設定。</string>
 
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  <string name="ViewSourceCode">查看原始碼</string>
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
   
 
   <!-- new from translations.telegram.org -->
@@ -4179,8 +4398,9 @@
   <string name="AppBadgeTypeChats">聊天室數量</string>
   <string name="AppBadgeTypeMessages">水晶玉數量</string>
   <string name="AppBadgeUnmuted">未關啄木鳥ㄉ聊天</string>
+  <string name="AppName">Telegram X</string>
   <string name="AppUpdateRequiredText">要執行此操作，請更新 Telegram 版本。</string>
-  <string name="AreYouSureNotifyReset">尼確定要將所有啄木鳥設定重置為預設值嗎？</string>
+  <string name="AreYouSureNotifyReset">尼確定要將所有啄木鳥設定恢復為預設值嗎？</string>
   <string name="BadgeCounterSetting">魔法器圖示標記</string>
   <string name="BanUser">魔障屏蔽魔法師</string>
   <string name="BlockedUsers">魔障屏蔽名單</string>
@@ -4202,6 +4422,7 @@
   <string name="DataUsage">磁碟和魔力用量</string>
   <string name="DeleteMessages">炸毀水晶玉</string>
   <string name="DiscussionsChat">討論</string>
+  <string name="EditMarkdownHint">使用老方法竄改水晶玉中ㄉ文字：`**`**粗體**`**`, `__`__斜體__`__`, `~~`~~炸毀線~~`~~`, ``` `等寬字體`,```[文字](傳送器)</string>
   <string name="EventNewContact">新增同伴</string>
   <string name="Events">事件</string>
   <string name="FoundMessagesFromAutoPost">來自大聲公ㄉ水晶玉</string>
@@ -4250,7 +4471,7 @@
   <string name="QDeleteXFromY">尼要炸毀 %2$s 傳ㄉ %1$s嗎？</string>
   <string name="Reference">參考</string>
   <string name="Region">區域</string>
-  <string name="RemoveAccountHint">尼確定要登出 %1$s？所有該靈魂ㄉ隱形聊天將會流失。</string>
+  <string name="RemoveAccountHint">尼確定要登出 %1$s？所有該靈魂ㄉ隱形聊天將會丟失。</string>
   <string name="RevokeAdminRights">撤銷祭司權限</string>
   <string name="SetAdminsAll">所有魔法師都是祭司</string>
   <string name="SetAdminsAllInfo">所有魔法師可以加入新魔法師、竄改圈圈名稱和照片。</string>
